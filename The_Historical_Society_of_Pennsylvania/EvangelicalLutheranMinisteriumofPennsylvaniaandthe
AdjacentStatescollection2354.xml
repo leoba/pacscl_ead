@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Evangelical Lutheran Ministerium of Pennsylvania and the Adjacent
+                        States collection <date type="inclusive">1748-1962</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Lutheran Theological Seminary at Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Evangelical Lutheran Ministerium of Pennsylvania and the
+                    Adjacent States collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TLTSp.ACC2354</unitid>
+                <repository label="Repository">The Lutheran Theological Seminary at Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>551 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1748-1962</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1742, Henry [Heinrich] Melchior Muhlenberg (1711-1787) arrived in Philadelphia
+                    to assume pastoral duties at the largest German Lutheran parish in colonial
+                    America. Under the sponsorship of the Francke Foundations—an educational,
+                    missionary, and commercial institution in the Prussian city of Halle—he became
+                    the prime organizer of churched Lutheranism in America. Muhlenberg was also an
+                    influential cultural leader with contact to colonial dignitaries such as
+                    Benjamin Franklin, other religious leaders such as George Whitfield, and the
+                    Hanoverian court in London. Married in 1745 to Anna Maria Weiser, a daughter of
+                    Pennsylvania’s principal go-between with the Lenape, Muhlenberg was not only a
+                    formidable figure in his own right, but was the progenitor of what became in
+                    effect a German-American dynasty of high-level public officials. His three sons,
+                    all trained to be pastors, won fame in politics science, and academia. Peter
+                    rose to major general of the Continental Army (receiving the commendation of
+                    George Washington), was elected Vice President of Pennsylvania and for four
+                    terms, served in Congress; Friedrich, also a member of Congress, was elected
+                    first Speaker of the House; Gotthilf excelled in botany and, as president of
+                    Franklin College, vigorously promoted American higher education.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The MOP collection contains approximately 551 linear feet, with material dating
+                    from 1748 to 1962. The archives holds 28 volumes of Henry Melchior Muhlenberg’s
+                    personal journals, correspondence, financial accounts and family papers. Also in
+                    the collection are Friedrich’s diary (25 October 1770 to 8 August 1774) and
+                    miscellaneous personal papers, as well as Gotthilf’s sermon outlines,
+                    miscellaneous personal correspondence, and an 1815 copper plate portrait. In
+                    addition to Henry Muhlenberg’s personal papers, the collection holds the
+                    personal papers of several nationally know theologians: the Revs. J. H. C.
+                    Helmuth (1745-1825), William J. Mann (1819-1892), Charles Porterfield Krauth
+                    (1823-1883), Henry Eyster Jacobs (1844-1932), and Charles Michael Jacobs
+                    (1875-1938). Organizational archives in this collection include the following
+                    Philadelphia churches and Lutheran entities: St. Michael’s &amp; Zion German
+                    Lutheran Church (1730-present); St. Michael’s Lutheran Church, Germantown
+                    (1728-present); Old St. John’s English Lutheran Church (1806-2002); Lutheran
+                    Home at Germantown Foundation (1859-present); The Evangelical Lutheran
+                    Ministerium of Pennsylvania &amp; Adjacent States (1748-1962); The General
+                    Council of the Evangelical Lutheran Church in North America (1866-1918); New
+                    York and New England Conferences, Augustana Evangelical Lutheran Church
+                    (1860-1962).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

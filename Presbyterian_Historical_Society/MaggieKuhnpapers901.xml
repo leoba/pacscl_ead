@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Maggie Kuhn papers <date type="inclusive">1882-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Maggie Kuhn papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC901</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>47.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1882-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Maggie Kuhn (1905-1995) was born in Buffalo, New York. Her childhood was spent in
+                    Cleveland, Ohio, as well as Memphis, Tennessee. She was a lifelong American
+                    activist. She is most famous for founding the Gray Panthers movement in 1971
+                    after being forced into retirement by the Presbyterian Church. The Gray Panthers
+                    became known for advocating nursing home reform and fighting ageism, claiming
+                    that "old people constitute America's biggest untapped and undervalued human
+                    energy source." She also dedicated her life to fighting for human rights,
+                    social and economic justice, global peace, integration, and an understanding of
+                    mental health issues. She wrote her autobiography, No Stone Unturned, in
+                    1991.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal and professional papers of Maggie Kuhn. Personal
+                    and family papers include: Kuhn's baby book and a pair of baby shoes; an
+                    envelope of newspaper clippings from her father's files (1930s-1940s); school
+                    papers, notes, and yearbooks (1923-1924); correspondence, 1940s-1960s; wills,
+                    birth and marriage certificates; the mortgage for Kuhn's Greene Street
+                    residence; medical reports; engagement books; photographs and slides; academic
+                    regalia; and citations, awards, and honorary degrees. Gray Panthers papers
+                    include correspondence, local chapter information, publicity, subject files,
+                    financial records, and printed materials. There are also some photographs and
+                    audiocassettes; clippings; telephone logs; and records of Kuhn's speaking
+                    engagements and travel schedules. The collection includes papers related to
+                    Kuhn's work with several Presbyterian and ecumenical organizations, including
+                    the General Alliance of Unitarian and other Liberal Christian Women; the United
+                    Presbyterian Church, Office of Church and Society, Department of Social
+                    Education and Action; the Board of National Missions; and Council on Church and
+                    Society. These papers include correspondence, subject files, minutes and
+                    reports, and newsletters. Among these papers are letters and notes related to
+                    the beginnings of the Gray Panthers and records of the Corporation of 65. There
+                    are also USO program materials from the National Board of the YWCA, possibly
+                    from 1941.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Kuhn, Margaret and Estate, Kuhn, Margaret; accession 04 0511:
+                    Unknown</p>
+                <p>Accession number: 83 0813a|83 0815|83 0831a|83 0920a|84 0628|84 1003a|77 0106a|96
+                    1119d|97 0326|01 0829|04 0511</p>
+            </acqinfo>
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-475">http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-475</extref>
+            </otherfindaid>
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

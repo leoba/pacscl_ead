@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph I. Gulick papers <date type="inclusive">1911-1970</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph I. Gulick papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1143</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.17 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1970</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Isaac Gulick (1890-1972) graduated from Lafayette College in 1917 and from
+                    the Princeton Theological Seminary in 1920. Gulick earned a master's degree at
+                    George Washington University in 1933 and a doctorate in 1947. He served as
+                    pastor of the Presbyterian Church in Soda Springs, Idaho, from 1920 to 1923, and
+                    then accepted a call from the Idaho Falls Presbyterian Church. He remained
+                    pastor at Idaho Falls until retirement in 1959. He married Winifred Louise
+                    Ferebauer in 1923. He spent his retirement years ministering to the people of
+                    Swan Valley, Idaho, and writing his autobiography. He died in 1972.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is a scrapbook of Joseph Gulick's time at the Wilson Military
+                    Academy, Lafayette College, Princeton Seminary, and his ministries in Idaho
+                    Falls and Soda Springs, Idaho. It includes photographs, clippings,
+                    correspondence, programs, and diplomas. There is also a printed history of
+                    Lamington Presbyterian Church (which includes a biographical sketch of Gulick),
+                    a family tree, and a typed sermon by Henry M. Mellon.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 97 0110b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Joseph Isaac Gulick papers (RG 96).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

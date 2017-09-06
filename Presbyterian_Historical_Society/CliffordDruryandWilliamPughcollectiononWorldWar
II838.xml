@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clifford Drury and William Pugh collection on World War II <date type="inclusive">1926-1980</date>
+                        <date type="bulk"> 1940-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clifford Drury and William Pugh collection on World War
+                    II</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC838</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1980</unitdate>
+                <unitdate type="bulk"> 1940-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clifford M Drury (1897-1894) was an historian and bibliographer of Presbyterian
+                    history and history of the Protestant missions of the Pacific Northwest. He was
+                    born in Iowa and received his B.D. from San Francisco Theological Seminary in
+                    1922 and Ph.D. from the University of Edinburgh in 1932. He was pastor of
+                    churches in California, Shanghai, and Idaho, and a professor of church history
+                    at San Francisco Theological Seminary, 1938-1963. From 1944-1956 he was the
+                    official historian of the U.S. Navy, Chaplain Corps. The Rev. Dr. William Barrow
+                    Pugh (1889-1950) was a Stated Clerk of the Northern Presbyterians' General
+                    Assembly. He was awarded the U.S. Medal for Merit for his wartime services as
+                    chairman of the General Commission on Army and Navy Chaplains.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is an artificial collection compiled by Drury and Pugh which contains
+                    publications by the PCUSA on services during World War II, as well as
+                    non-Presbyterian material. Materials related to chaplains serving in World War
+                    II include: publicity photographs of chaplains in the army and navy; training
+                    manuals; and press clippings on Pugh. Materials related to social issues during
+                    wartime include: pamphlets on refugees and POWs, housing, food and rationing,
+                    and returning service personnel; pamphlets published by the Presbyterian
+                    Committee on Camp and Church Activities; newsletters, including The World Over,
+                    The Vital Speeches, Spiritual Issues and the War, and The Reporter (later called
+                    The Reporter for Conscience's Sake); speeches; press releases from Church World
+                    Service and other Presbyterian organizations; reports from the Washington
+                    Council of Churches and Christian Education; and WCC reports on wartime
+                    activities. There are also pamphlets and news clippings on relief work in the
+                    Pacific Islands; war posters; published volumes; a small collection of wartime
+                    publicity materials from Standard Oil, photographs from a celebration of the
+                    150th anniversary of the Mare Island Naval Shipyard, and several magazines.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Drury, Clifford</p>
+                <p>Accession number: 68 0177</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

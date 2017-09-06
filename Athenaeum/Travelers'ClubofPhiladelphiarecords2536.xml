@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Travelers' Club of Philadelphia records <date type="inclusive">1858-1913</date>
+                        <date type="bulk"> 1886-1894</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Travelers' Club of Philadelphia records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2536</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1858-1913</unitdate>
+                <unitdate type="bulk"> 1886-1894</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Travelers Protective Association is a fraternal organization of traveling
+                    salesmen and other traveling businessmen. The Association was founded in Chicago
+                    in 1882 to serve as a forum for members to meet and discuss the problems and
+                    challenges of their mode of business. Today, the Association conducts monthly
+                    meetings, engages in a variety of charitable activities, and provides its
+                    members with networking opportunities and experience in public speaking and
+                    conducting meetings. The Association's headquarters are in St. Louis, Missouri,
+                    and it has chapters in Pennsylvania and Indiana.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of minute books of the Travelers Club of Philadelphia
+                    (also called the Pennsylvania Division, Travelers Protective Association),
+                    1886-1894. Minutes record the club's routine business conducted at monthly
+                    meetings, including reports of committees, changes to the constitution and
+                    by-laws, and nominations and resignations of members. The collection also
+                    includes a small amount of correspondence, reports, a manuscript list, possibly
+                    of dues, written on the back of an tobacco company advertisement illustration,
+                    newspaper clippings, and a pamphlet entitled "Manual of the Active Principles
+                    of Indigenous and Foreign Medicinal Plants" from B. Keith &amp; Co., New York,
+                    1858.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

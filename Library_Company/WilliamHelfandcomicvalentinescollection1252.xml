@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Helfand comic valentines collection <date type="inclusive">undated</date>
+                        <date type="bulk"> 1840s-1880s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Helfand comic valentines collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1252</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+                <unitdate type="bulk"> 1840s-1880s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William H. Helfand is a consultant to the National Library of Medicine, the
+                    Philadelphia Museum of Art and other institutions in areas relating to art and
+                    medicine, and a member of the Board of Trustees of the Library Company of
+                    Philadelphia. He has degrees in Chemical Engineering (University of
+                    Pennsylvania, 1948), Pharmacy (Philadelphia College of Pharmacy and Science,
+                    1952). Before his retirement in 1987, he had worked for more than 33 years as an
+                    executive with Merck and Co., the multinational pharmaceutical company. He is a
+                    noted collector of ephemera, much of it related to medicine and pharmaceuticals.
+                    Exhibitions of portions of his collection have been held at the Philadelphia
+                    Museum of Art and the National Library of Medicine, among other institutions.
+                    Helfand is the author of several books and a number of articles on the history
+                    of pharmacy and medicine and on printed ephemera related to these fields.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of 19th century comic valentines, which lampoon men and
+                    women for aspects of their work and gender roles. Most of them are American, but
+                    there are a few from England as well. Several have an extra sheet of blank paper
+                    for writing a message. Several have no verses.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: not accessioned</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: LCP: McAllister
+                    collection of comic valentines.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

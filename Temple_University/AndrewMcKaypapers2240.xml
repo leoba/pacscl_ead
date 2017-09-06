@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Andrew McKay papers <date type="inclusive">1935-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Andrew McKay papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2240</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Andrew (Andy) McKay worked in radio and the early years of television, including
+                    with Ernie Kovacs.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of film and television broadcast-related materials assembled
+                    by Andrew McKay. Items in the collection include: actor files consisting of
+                    newspaper and magazine articles and images, movie advertisements, filmographies
+                    and film synopses, and programs of film series at museums and universities;
+                    correspondence with other collectors and film and broadcast publications,
+                    organizations, and distributors, as well as individuals involved in the film
+                    industry; photos of film sets, stars, and directors; programs from the MoMA and
+                    Theodore Huff Memorial Film Society; files on television personalities, in
+                    particular; clippings and stills from the Mike Douglas Show; letters to Mildred
+                    Martin, film editor at the Philadelphia Inquirer from various stars and other
+                    people in the film industry; lists and indices of McKay's film attendance; an
+                    index file of movie industry figures and collectors; film catalogues; and a
+                    small amount of information related to McKay's career in entertainment.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

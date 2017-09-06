@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William McCoy papers <date type="inclusive">1893-1986</date>
+                        <date type="bulk"> 1920s-1950s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William McCoy papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC509</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1986</unitdate>
+                <unitdate type="bulk"> 1920s-1950s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William (Bill) McCoy graduated from the Pennsylvania Nautical Schoolship Saratoga
+                    in 1895. After graduation, he and his brother and lifetime companion, Ben, moved
+                    to Holly Hill, Florida, near Daytona Beach to establish a boatbuilding and
+                    passenger service. During the Prohibition era, Bill McCoy became a national
+                    legend. He went to Nassau, Bahamas and bought a 130' schooner named Arethusa. He
+                    made frequent trips to rendezvous with rumrunners in international waters 12
+                    miles off the coast of New York. Between 1921 and 1926, Arethusa had landed
+                    170,000 cases of whiskey to rumrunners. Technically, McCoy never broke U.S. law
+                    because he sold his whiskey outside of government jurisdiction. He is credited
+                    with coining the phrase "the real McCoy," referring to his "patented"
+                    whiskey: the catchy phrase and a facsimile of his signature appeared on the
+                    bottle. According to his brother Ben, "when the country went dry, [Bill]
+                    irrigated it."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of three scrapbooks about Bill and Ben McCoy.
+                    The scrapbooks contain photographs of the McCoy brothers, their mother, father,
+                    and sister Violet; photographs of Arethusa, Blue Lagoon, and other vessels;
+                    photographs of USS Saratoga and its crew; photographs from the Bahamas and
+                    Florida; photographs of models and paintings of ships by Bill McCoy; magazine
+                    articles and newspaper clippings on rum running, on Bill McCoy, on the Stetson
+                    mansion in Florida (owned by the McCoy family), and other topics; letters to
+                    Bill McCoy, Ben McCoy, and Rosemary Clarke from various correspondents,
+                    including Gertrude "Cleo" Lythgoe; brochures and photographs from the McCoy
+                    Brothers Everglades Steamer Line; Ben McCoy's passport; cartoons; whiskey
+                    labels; sketches of ships; membership cards; and maps, postcards, and stamps.
+                    There are also several published volumes: The Real McCoy by Frederic Van de
+                    Water; The Bahama Queen by Gertrude "Cleo" Lythgoe; and Home is the Sailor, by
+                    Commodore Herbert Hartley. The volumes include photographs, letters, and
+                    clippings. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Smuggling.</subject>
+                <genreform encodinganalog="655">Cartoons (Humorous images)</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Passports.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postage stamps.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1991.23; 1989.57</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry D. Gilpin papers <date type="inclusive">1818-1843</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry D. Gilpin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2537</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1818-1843</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Dilworth Gilpin (1801-1860) was an American lawyer and statesman of Quaker
+                    extraction who served as Attorney General of the United States. After graduating
+                    from the University of Pennsylvania, he studied law with Joseph R. Ingersoll and
+                    was admitted to the bar in 1822. He served as U.S. Attorney for the Eastern
+                    District of Pennsylvania from 1831 to 1837, and then as Solicitor of the United
+                    States Treasury in 1837. During this time he joined the American Philosophical
+                    Society and from 1833 to 1835 he was on the board of the Bank of the United
+                    States. President Martin Van Buren named him 14th Attorney General of the United
+                    States in 1840. He served until 1841, during which time he presented the U.S.
+                    government's side of the Amistad case to the U.S. Supreme Court. From 1853 until
+                    1858 he was President of the Pennsylvania Academy of Fine Arts and from 1856 to
+                    1858 he was a director of Girard College. He was also a secretary and director
+                    of the Chesapeake and Delaware Canal. Gilpin died in 1860.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Henry D. Gilpin. Items include: a docket book
+                    involving Gilpin and other attorneys, 1818-1843; a scrapbook of clippings on
+                    legal cases, 1831-1833; a volume of Gilpin's notes on algebra and analytical
+                    geometry taken during his education at University of Pennsylvania, [after 1816];
+                    and a letter of introduction to Levi Woodbury, Secretary of the Navy, written by
+                    H.D. Gilpin for James M. Broom Jr., dated 1833. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: HIstorical Society of
+                    Pennsylvania: Gilpin Family papers. Collection 238. </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

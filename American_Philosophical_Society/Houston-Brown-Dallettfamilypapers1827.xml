@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Houston-Brown-Dallett family papers <date type="inclusive">1731-1996</date>
+                        <date type="bulk"> 1917-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Houston-Brown-Dallett family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1827</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1731-1996</unitdate>
+                <unitdate type="bulk"> 1917-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Howard Houston (1820-1895) was a leading Philadelphia businessman,
+                    philanthropist, and a major developer in the Chestnut Hill and Germantown
+                    sections of the city. His son, Samuel Frederic Houston (1866-1952), was a banker
+                    and a trustee at the University of Pennsylvania; Samuel's son Henry Howard
+                    Houston II (1895-1918) died in World War I. Lawrence M. C. Smith (1902-1975) was
+                    a U.S. government official and Philadelphia civic leader. He and his wife
+                    Eleanor Houston Smith (1910-1987) were conservationists and helped to establish
+                    the Schuylkill Valley Nature Center. The materials in this collection were
+                    collected by Francis J. Dallett.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of clippings, articles, invitations, photographs, and
+                    other materials related to Henry H. Houston, Samuel Frederic Houston, Henry
+                    Howard Houston II, Lawrence M. C. Smith and Eleanor Houston Smith, and the
+                    Woodward, Henry, Dallet, and Brown families. The collection also includes
+                    blueprints, photographs, and clippings related to Henry Howard Houston's estate
+                    Druim Moir and Brinkwood, Samuel F. Houston's estate, built in 1887. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American
+                    Philosophical Society: Smith-Houston-Ogden family papers; University Archives
+                    and Records Center, University of Pennsylvania: Henry Howard Houston estate
+                    papers; Pennsylvania State Archives: H.H. Houston estate papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Sunday School Association Missionary Committee records
+                            <date type="inclusive">1855-1860</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Sunday School Association Missionary Committee
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC156</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-1860</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Sunday School Association Missionary Committee was a
+                    multi-denominational group formed to encourage and support Sunday schools in
+                    churches in the city of Philadelphia and its vicinity.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of minutes of the Missionary Committee of the Philadelphia
+                    Sunday School, 1855-1860. The minutes contain reports of the Committee's agents'
+                    and Lady visitors' visits to Sunday schools of various churches (Presbyterian,
+                    Lutheran, Methodist Episcopal, and Baptist) throughout the city, and discussions
+                    about finding locations for Sunday school classes and the general health of
+                    Sunday schools in the Philadelphia area.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 05 0603g</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

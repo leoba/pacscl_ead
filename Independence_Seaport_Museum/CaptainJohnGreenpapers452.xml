@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Captain John Green papers <date type="inclusive">1781-1801</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Captain John Green papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC452</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1781-1801</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Capt. John Green (1736-1796), was commissioned in the Pennsylvania State Navy in
+                    October of 1776 and commanded the ship Nesbitt. He was later commissioned into
+                    the Continental Navy and was captured by the British and imprisoned in the Mill
+                    Prison near Plymouth, England in 1779. The last naval engagement of the American
+                    Revolution took place in place 1783 between Captains John Green of New York on
+                    the ship Duc De Lauzon and John Barry of Philadelphia on the Alliance and the
+                    British frigates Alarm and Sybil. In 1784 was the captain of the Empress of
+                    China the first American ship to sail to Canton, China for trade purposes. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of John Green. Materials include: a letterbook of
+                    John Green, 1781-1783 and letters 1782. Most of the letters were written during
+                    Green's imprisonment at Mill Prison in Plymouth, England. There are also several
+                    incoming letters; a log book of the Empress of China, 1784-1785 and ledger of
+                    the China voyage, 1784. The log book notes daily position, weather, and
+                    shipboard activities from the beginning of the voyage until the ship reached the
+                    lower end of the Malayan peninsula (last entry is January 12, 1785). The ledger
+                    records sales and purchases of merchandise in Canton, listed by merchant. Other
+                    items in the collection include: a copy of the manifest of the Empress of China;
+                    certificates of permission to depart and of safe conduct for the Empress of
+                    China, 1784; a patent granting John Green land in Luzerne County, Pennsylvania;
+                    1801 passport for John Green, signed by Rufus King; a manuscript document of
+                    Proceedings and Court Decision of April 1, 1799 in the matter of American ship,
+                    Pegou, Captain John Green, Master, with a typescript of this document in French
+                    and an English translation. The collection also has typed transcriptions of
+                    papers of John Green, including the letterbook and letters from this collection
+                    and letters and other documents held by the Historical Society of Pennsylvania,
+                    the American Philosophical Society, and other repositories. British Signal book,
+                    1782 (what was this?)</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Empress of China (Ship)</corpname>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Legal documents.</genreform>
+                <genreform encodinganalog="655">Letterbooks.</genreform>
+                <genreform encodinganalog="655">Passports.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1981.38</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

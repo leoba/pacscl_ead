@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wilhelm Bock papers and photographs <date type="inclusive">1944-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wilhelm Bock papers and photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC039</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wilhelm Bock (1897-1972) was born in Poland, and served in the German artillery
+                    and air force in World War I. In the 1930s, he emigrated to the United States,
+                    becoming a citizen sometime after 1946. He was trained in mechanical engineering
+                    and owned a small manufacturing firm in North Wales, Pennsylvania. He took up
+                    the study of Triassic fossils, and joined the Academy as a research associate in
+                    the former Department of Geology and Paleontology. In the early 1960s organized
+                    The Geological Research Foundation, apparently in his home, to provide advice to
+                    local communities about matters concerning water supply, but the organization
+                    never became active. Remnants of Bock's collection of fossils are at the
+                    Academy, though a large part of his collection is now lost.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, photographs, notes and drawings of
+                    Wilhelm Bock. Photographs are black and white images of plant and animal
+                    fossils. Correspondence relates to his research and his collection of specimens.
+                    The collection also includes a list of items in Bock's fossil collection and a
+                    map of Stafford County, Virginia.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 01:13</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

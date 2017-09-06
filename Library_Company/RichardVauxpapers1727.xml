@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Richard Vaux papers <date type="inclusive">1840-1874</date>
+                        <date type="bulk"> 1840-1842</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Richard Vaux papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1727</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1840-1874</unitdate>
+                <unitdate type="bulk"> 1840-1842</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Vaux held a number of local and federal offices, including secretary to
+                    the Legation at London, Comptroller of Public Schools, and Mayor of
+                    Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These papers are mostly from Vaux's term as Philadelphia Recorder, a judicial
+                    office in which he served from 1841 to 1847, and where he established a record
+                    in that not one of his decisions was ever reversed by the higher courts. The
+                    papers concern 21 police cases in the Recorder's office during 1840-42,
+                    including affadavits, commitments, extradition warrants, bailments, and other
+                    material. There are also five items dealing with the state constitution enacted
+                    January 1, 1874 and its relation to the city of Philadelphia.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of heirs of Richard Vaux.</p>
+                <p>Year acquired: 1900</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

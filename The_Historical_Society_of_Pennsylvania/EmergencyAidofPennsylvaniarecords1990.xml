@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Emergency Aid of Pennsylvania records <date type="inclusive">1914-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Emergency Aid of Pennsylvania records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1990</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>70 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Emergency Aid of Pennsylvania was a volunteer organization of women which began
+                    in 1914, when World War I made foreign and local relief necessary and at which
+                    time there was no Red Cross Chapter in Philadelphia. Its purpose, according to
+                    the Charter of Incorporation is "to carry on both at home and abroad, emergency
+                    and relief work for the benefit of the military forces and the civilian
+                    populations of the United States and of their Allies. In World War I the
+                    Emergency was the first organization in Philadelphia to forward relief supplies
+                    to the military and civilian forces of the Allies and throughout the War sent
+                    millions of dollars in money and supplies for overseas relief, having its own
+                    distributing centers in each country. In 1917 branches were organized throughout
+                    Pennsylvania. In World War II the Emergency Aid again forwarded relief supplies
+                    to the Allies and rendered services for the military personnel of the United
+                    States, including distribution of books and magazines to naval and military
+                    centers; knitted garments and comforts for service men, furnished and equipped
+                    recreation rooms in isolated Army posts, provided thousands of Christmas Kits
+                    and Survivor Kits for military men, operated canteens, provided housing and
+                    information services for enlisted men and women, arranged home entertainment for
+                    officers, supervised Clubs for Service Women, and cooperated with Navy League
+                    and Army Officers Club for Men. The Emergency Aid also maintained an Allied Work
+                    Room for volunteers for making garments for civilians abroad. The Emergency Aid
+                    Aides, a special service group, assigned volunteers to draft boards, O.P.A.,
+                    hospitals, and numerous other war relief agencies and sold over $68,060,678
+                    worth of war bonds. Throughout the war years and in the periods intervening and
+                    following, a concurrent local welfare program was carried on, including
+                    follow-up care for infantile paralysis victims, unemployment relief,
+                    supplemental meals for school children, emergency help and clothing for
+                    individuals and families, and providing help for the disabled, the sick, and the
+                    underprivileged.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes monthly bulletins (1928-1960), newsletters/bulletins
+                    (1918-1978), bylaws (1943, 1956), World War I printed reports, membership and
+                    dues cards (1969-1970), personnel records, financial information (1970s),
+                    fundraising (1970s), special events (1970s), and charitable outreach projects
+                    (1970s). There are also 2 boxes of published books, most of which are about
+                    Philadelphia, and at least one scrapbook from the 1940s about Emergency Aid.
+                    Framed photographs and certificates, as well as oversized framed photos, are
+                    included. Artifacts include ribbons and wood cutouts, and phonograph
+                    records/radio interviews from World War II.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

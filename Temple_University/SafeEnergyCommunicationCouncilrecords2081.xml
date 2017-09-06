@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Safe Energy Communication Council records <date type="inclusive">1980-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Safe Energy Communication Council records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2081</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>63 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1980-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Safe Energy Communication Council (SECC) was a national, non-profit council of
+                    ten environmental and public interest media groups. Founded in 1980, SECC
+                    educated the public and the media about energy efficiency and renewable energy's
+                    potential to produce a larger share of our nation's energy, as well as the
+                    economic and environmental liabilities of nuclear power. SECC provided local,
+                    state, and national organizations with technical assistance through media skills
+                    training and outreach strategies.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The records of this now defunct group include: press releases; correspondence and
+                    proposals related to fundraising; public opinion polls on nuclear power;
+                    materials related to various campaigns, including the ALMR (Advanced Light
+                    Metals Reactor) and Ohio/Sacramento Municipal Utilities Department campaigns;
+                    financial records; meeting minutes of the board of directors (on paper and on
+                    audio cassette); PSAs and [promotional/educational] video and audio recordings
+                    and slide presentations; cassette and video recordings of meetings and events;
+                    press clippings; letters to the editors of various publications; media kits; and
+                    SECC publications.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

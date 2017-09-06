@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Howard Fast collection <date type="inclusive">1936-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Howard Fast collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC382</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Howard Melvin Fast (1914-2003) was a Jewish American novelist and television
+                    writer, who wrote also under the pen names E. V. Cunningham and Walter Ericson.
+                    He was convicted of contempt of Congress in 1950 for refusing to cooperate with
+                    the House Un-American Activities Committee. He served three months in jail and
+                    was blacklisted. His most well known book was Spartacus.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes manuscripts, typescripts, correspondence and other
+                    materials related to Fast's writing and activism. The collection contains
+                    original typescripts, printer's copies, and galley proofs of many of Fast's
+                    novels and typescripts of his screenplays. Some drafts are annotated by Fast,
+                    while others have copy edits. Materials include: correspondence with publishers
+                    and royalty statements, mostly from the early 1990s; letters from Fast to Bette
+                    Cohen, 1936 (his future wife); photocopies of correspondence with a variety of
+                    notable figures, including Upton Sinclair, Eleanor Roosevelt, Paul Robeson, and
+                    Erica Jong relating to his reviews of works by fellow authors and his political
+                    activities and reporting (1937-1992); posters and handbills for Fast's 1952 run
+                    for Congress; and copies of Fast's FBI files. There are also scrapbooks of
+                    clippings of articles by and about Fast, reviews of his work, stories about his
+                    activism; book announcements and book jackets; photocopies of articles by Fast,
+                    including his articles in the Daily Worker, the New York Observer, and the New
+                    Times; photographs of Fast and his family; sketches of costume designs, in ink,
+                    marker, and gouache; a small number of miscellaneous personal papers; a draft of
+                    a dissertation on Fast by Frank Campenni, with some correspondence between
+                    Campenni and Fast; handwritten notes for Frenzy; and printed materials,
+                    including copies of the Saturday Evening Post, World Over, the New Masses, the
+                    Communist, Soviet Literature Review, and other pamphlets and journals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 152</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Union of New York records <date type="inclusive">1908-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Union of New York records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC134</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.42 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1908-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Presbyterian Union of New York was a group formed with the object of
+                    encouraging a better acquaintance among the Presbyterians of New York City and
+                    its vicinity.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of minutes of meetings of the Executive Committee and
+                    minutes of annual meetings of the Union, 1908-1949. The minutes include
+                    treasurer's reports, lists of speakers at meetings, annual reports, programs
+                    from annual meetings and special events, and copies of the Union's constitution.
+                    The collection also includes printed reports from the 1920s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Presbytery of New York City</p>
+                <p>Accession number: 05 0429</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

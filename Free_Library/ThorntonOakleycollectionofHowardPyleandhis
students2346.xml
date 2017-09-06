@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thornton Oakley collection of Howard Pyle and his students <date type="inclusive">1883-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thornton Oakley collection of Howard Pyle and his
+                    students</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2346</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1883-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thornton Oakley (1881-1953) was born in Pittsburgh. He studied at the University
+                    of Pennsylvania and received B.S. and M.S. degrees in architecture in 1901 and
+                    1902. He first studied with Howard Pyle in 1902 at Chadds Ford. Oakley became an
+                    illustrator and writer for periodicals, including Scribner's, Century,
+                    Collier's, and Harper's Monthly. In the years 1914-1919 and 1921-1936 he was in
+                    charge of the Department of Illustration at the Philadelphia Museum School of
+                    Industrial Art. In 1914-1915 he also taught drawing at the University of
+                    Pennsylvania, and gave lectures at the Art Institute of Chicago, the
+                    Metropolitan Museum of Art, and the Curtis Institute. Howard Pyle (1853-1911)
+                    was an American illustrator and writer, primarily of books for young audiences.
+                    A native of Wilmington, Delaware, he spent the last year of his life in
+                    Florence, Italy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials amassed by Thornton Oakley related to Howard
+                    Pyle and his students. Items include: books written and illustrated by Pyle;
+                    watercolors, pencil, charcoal, chalk drawings, and prints by Pyle; several
+                    sketchbooks of Pyle; tearsheets and proofs; photographs of Howard Pyle and his
+                    students; photos of Pyle and his studio; photographs and negatives of Chadd's
+                    Ford Mill; artwork by Pyle students including N. C. Wyeth, Maxfield Parrish,
+                    Frank Scoonhover, and Jesse Willcox Smith; correspondence; and Pyle ephemera.
+                    Other material related to Pyle students includes tearsheets, clippings, magazine
+                    covers, color prints, posters, and advertising ephemera. Additionally the
+                    collection includes framed paintings and prints by Pyle, Maxfield Parrish,
+                    Jessie Willcox Smith, Schoonover, Oakley, Francis Newton, N. C. Wyeth, and
+                    others. Thornton Oakley materials in the collection include: correspondence to
+                    Oakley regarding exhibitions of his work and his collecting of Pyle material;
+                    drawings by Thornton Oakley; copies of a 1951 address at the Free Library:
+                    "Howard Pyle, His Art and Personality"; photograph albums from trips to the
+                    West Indies, France, and the Pyrenees; bookplates for Thornton Oakley's
+                    Collection of Works by Howard Pyle and a printing block for a small bookplate;
+                    list of Howard Pyle originals; and lists of desiderata. The collection also
+                    contains material related to Maxfield Parrish, such as family correspondence
+                    (1920-1953), including letters between Maxfield Parrish, Lydia Austin Parrish,
+                    and Dillwyn Parrish, and photographs and negatives of figure drawings. Other
+                    individuals represented in the collection include Henry C. Pitz (author of The
+                    Brandywine Tradition and 200 Years of American Illustration) and Sydney Gross.
+                    Pitz materials include professional correspondence, related to articles, books,
+                    and exhibitions and handwritten manuscript and galley proofs of The Brandywine
+                    Tradition. Gross materials consist of correspondence related to Maxfield Parrish
+                    pictures; photographs of Maxfield Parrish, 1928; a drawing of Maxfield Parrish
+                    by Gross; and notes on painting procedures.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Thornton Oakley and Amy Oakley Collection, Thornton Oakley diaries,
+                    and Frank E. Schoonover - Thornton Oakley correspondence related to Howard Pyle;
+                    Delaware Art Museum: Thornton Oakley papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

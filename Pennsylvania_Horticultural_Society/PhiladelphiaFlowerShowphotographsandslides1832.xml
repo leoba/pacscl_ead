@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Flower Show photographs and slides <date type="inclusive">1927-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Flower Show photographs and slides</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1832</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Flower Show is the world's largest indoor flower exhibition,
+                    encompassing 33 acres and drawing over 250,000 visitors annually. The
+                    Philadelphia Flower Show was first held in 1829 in Masonic Hall on Chestnut
+                    Street. From 1927 until the mid 1960s, management of the Flower Show was under
+                    the auspices of Philadelphia Flower Show, Inc., a professional group of
+                    nurserymen and growers. In 1964, Philadelphia Flower Show, Inc., because of
+                    difficulties locating an exhibition space, decided to halt production of the
+                    show for two years. The Pennsylvania Horticultural Society, under the direction
+                    of Ernesta D. Ballard, feeling that yearly continuity of the show was necessary,
+                    hosted the show in the 23rd Street Armory. In 1966 the show moved to the Civic
+                    Center, and in 1968, the Pennsylvania Horticultural Society became the show's
+                    official producer. In 1996 the Flower Show moved to its current location in the
+                    Pennsylvania Convention Center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs, slides, and negatives from the Philadelphia
+                    Flower Show, from 1927 to 2006. Photographs include general views of the
+                    exhibition and its attendees, displays of major exhibitors, first through third
+                    place winners for each judging of competitive classes, opening ceremonies, and
+                    awards presentations. Notable figures in the photographs include Frank Rizzo,
+                    Ernesta Ballard, and Grace Kelly. Also included are slides of the construction
+                    of the exhibition in 1977.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Pennsylvania Horticultural Society.</corpname>
+                <subject encodinganalog="650">Flower shows--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: Pennsylvania Horticultural Society slide collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

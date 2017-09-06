@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Massey family papers (series 38)
+                            <date type="inclusive">1748-1986</date>
+                        <date type="bulk"> 1962-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Massey family papers
+                    (series 38)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1808</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1748-1986</unitdate>
+                <unitdate type="bulk"> 1962-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Thomas Massey House is one of the oldest English Quaker homes in the
+                    Commonwealth of Pennsylvania. It is on the National Register of Historical
+                    Places, and the Historical American Building Survey. The 1696 brick portion was
+                    built by Thomas Massey as an addition to the existing log or frame house. In
+                    1731 his son, Mordecai, replaced the log or frame house with a stone section.
+                    Thomas Massey was born in the village of Marpoole (Marple) in Cheshire, England
+                    in 1663. At the age of twenty Massey traveled to Chester as an indentured
+                    servant to Francis Stanfield. Massey fulfilled his indenture and received the
+                    promised 50 acres of ground from his master and 50 acres from William Penn. By
+                    1696 Thomas was able to buy three hundred acres of land from James Stanfield,
+                    the son of Francis, and established his “plantation” in Marple Township. At this
+                    time he started his fine brick house. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of documentation related to Thomas Massey House, which
+                    Lawrence M.C. Smith donated to Marple Township in Pennsylvania, and its
+                    restoration. Materials include meeting minutes, progress reports,
+                    correspondence, newspaper clippings, and printed materials about the house. The
+                    collection also includes printed materials form the Marple-Newtown Historical
+                    Society. There is also a 1748 death notice for Mordecai Massey and a 1749
+                    receipt to Rebecca and Thomas Massey from Mordecai Massey's estate.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

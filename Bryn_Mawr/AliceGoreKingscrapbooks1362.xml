@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alice Gore King scrapbooks <date type="inclusive">1927-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alice Gore King scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1362</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alice Gore King (b. 1914) was a 1937 graduate of Bryn Mawr. She worked at the
+                    Brearley School in New York City in the Psychology Department (1937-1940 and
+                    1945-1949), at Bryn Mawr as Warden (1940-1942) and at the Alumnae Advisory
+                    Center in New York City (1949-1979). </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of scrapbooks kept by Alice Gore King from the 1930s to
+                    the 1970s. The scrapbooks record the lives of Millicent Carey McIntosh, a
+                    Barnard dean, Katharine McBride, president of Bryn Mawr College, and many of the
+                    faculty and alumnae of Bryn Mawr. Scrapbooks contain clippings, photographs, and
+                    cards. The collection also includes bound copies of a newspaper King created as
+                    a child, a scrapbook of her wartime work at Pratt and Whitney Aircraft,
+                    scrapbooks of reviews and fan-mail for her books on careers for women, materials
+                    related to the founding and operation of the Alumnae Advisory Center, and photo
+                    albums from Bryn Mawr class reunions in the 1960s and 1970s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Katharine McBride papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

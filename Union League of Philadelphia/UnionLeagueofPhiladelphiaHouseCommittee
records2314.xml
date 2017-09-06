@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia House Committee records <date type="inclusive">1863-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia House Committee
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2314</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>44 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1863-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. The House Committee
+                    was established as a Standing Committee at least by 1871 and continues to the
+                    present. It has had a wide range of responsibilities including membership
+                    services and privileges, activities, employee relations, operations (including
+                    restaurant) and building maintenance and contents. It is at times unclear what
+                    falls within some of these different areas--membership services may include food
+                    and beverage, but food and beverage may also fall within operations.
+                    Consequently, the organization of the subseries is somewhat arbitrary. Although
+                    the House Committee once had oversight of various parties and other
+                    entertainment at the League, this was transferred to the Entertainment Committee
+                    in 1979. The Superintendent/General Manager reported to the House Committee for
+                    many years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series has been arranged into six subseries: Minutebooks, General Files,
+                    Member Services/Privileges, Employee Relations, Operations, and Building. The
+                    Minutebooks subseries contains 15 volumes. The content of the minutes describe
+                    personnel actions, purchases, work on the building and treasurer's reports to
+                    the House Committee. The General Files subseries includes includes notices and
+                    other information on dining, member services, and minutes. There are also a few
+                    reports, including a report on a study of the food and beverage operations. The
+                    Member Services/Privileges subseries is comprised mainly of member directories,
+                    1863-2008. The directories include basic information on officers and members,
+                    including name, address, and year joined. This subseries also includes receipts,
+                    forms, notices, and other recordkeeping related to member accounts; guest
+                    registers, 1952-2003 (some gaps), listing the name and city, state, and/or
+                    country of origin for League guests; and printed materials from other clubs with
+                    whom the Union League had reciprocal agreements. The Employee Relations
+                    subseries includes four volumes, dated between 1872 and 1936, of employee lists
+                    that record dates of service with occasional notes about employees; files and
+                    time cards of a random sample of employees (bulk years 1966-1982); miscellaneous
+                    announcements; and records and files related to the 25 Year Club, Blood Donor
+                    Club and Christmas Fund. The Operations subseries consists primarily of menus
+                    and wine lists for the Union League restaurant, and programs, menus, and printed
+                    materials for non-Union League-sponsored events held at the League (some items
+                    are autographed). The subseries includes a small amount of marketing material,
+                    as well as several logbooks related to routine operations such as cash on hand.
+                    The Building subseries includes reports, plans, correspondence, and other
+                    information related to renovations of the Union League building and strategic
+                    planning. The subseries includes member surveys and a focus group report related
+                    to the 2003 strategic planning effort.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

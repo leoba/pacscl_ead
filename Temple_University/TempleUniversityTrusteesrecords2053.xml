@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Temple University Trustees records <date type="inclusive">1893-1940</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Temple University Trustees records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2053</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1940</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The original charter of 1888 entrusted the management of Temple College to 13
+                    members of the Board of Trustees. An amendment to the charter in 1907 increased
+                    the number of trustees to 25 and included the Governor of Pennsylvania and the
+                    Mayor of Philadelphia as ex-officio members. Today the Board of Trustees is
+                    comprised of 36 voting members, 24 of whom are elected and 12 of whom are
+                    appointed by officials of the Commonwealth of Pennsylvania. In addition to its
+                    36 members, the Governor of the Commonwealth of Pennsylvania, the Secretary of
+                    Education of the Commonwealth of Pennsylvania, and the Mayor of the City of
+                    Philadelphia serve as non-voting Trustees.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains records related to the early history and governance of
+                    Temple University. The collection includes correspondence and early legal
+                    documents such as deeds, bonds, constitution and bylaws, and mortgage
+                    agreements. The collection also includes transcripts of hearings, memos and
+                    minutes, correspondence, and a scrapbook of newspaper clippings related to
+                    concerns about the Dean of the Medical School and the dismissal of one of the
+                    faculty members at the Medical School (and subsequent resignation of several
+                    Trustees). There is correspondence of three Board secretaries -- Edwin Hoffman
+                    (incoming only), Grant Osborne (incoming and outgoing), and George Welsh
+                    (incoming and outgoing) -- relating to faculty, academic unit, facilities, and
+                    other matters. Elmer Brown correspondence (incoming and outgoing) relates to
+                    issues addressed during his tenure as Vice President of the board. There are
+                    also various printed materials related to Samaritan Hospital, Garretson Hospital
+                    and other Temple affiliates and activities.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

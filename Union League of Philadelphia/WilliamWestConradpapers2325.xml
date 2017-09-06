@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William West Conrad papers <date type="inclusive">1893-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William West Conrad papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2325</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William West Conrad (1904-1981) resided at the Union League from 1966 to his
+                    death. He was a graduate of William Penn Charter School (1919) and Princeton
+                    University (1924). He traveled extensively and was a member of many clubs,
+                    including the Wilderness Club and the Adventurers Club.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of correspondence, clippings, memorabilia, and
+                    photographs relating to Conrad's activities as explorer, supporter of young
+                    members of his extended family and of various music organizations. There are
+                    also a number of family photographs and papers. Materials related to Conrad's
+                    travels include: travel postcards and maps from all over the world; photographs
+                    and slides of Conrad and various sights; and travel brochures and itineraries.
+                    Personal and family papers include: school papers and lecture notes from
+                    Princeton University; personal correspondence and greeting cards; appointment
+                    books and diaries; framed diplomas and certificates; dinner invitations and
+                    related programs; bank books and used checkbooks; papers concerning various
+                    properties in Florida;family photographs (some framed) and photo albums; and
+                    several travel diaries kept by his mother. The collection also includes
+                    correspondence and printed materials related to Conrad's involvement with
+                    various Philadelphia area and New York City musical organizations, including the
+                    Academy of Vocal Arts and the Metropolitan Opera. There are also framed
+                    paintings, scrapbooks and loose newspaper clippings, as well as newspapers
+                    related to significant events; newsletters and magazines related to Conrad's
+                    interests; and various books, mostly related to travel, such as phrase books and
+                    dictionaries. The collection contains some personal items and German coins and
+                    Italian currency (circa 1947).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: William West Conrad journals.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

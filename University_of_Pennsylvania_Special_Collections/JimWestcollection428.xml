@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jim West collection <date type="inclusive">1992-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jim West collection </unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC428</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1992-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James L. W. West III is Edwin Erle Sparks Professor of English at Penn State
+                    University. He holds a B.A. and Ph.D. from the University of South Carolina. He
+                    is a biographer, book historian, and scholarly editor. He has written on William
+                    Styron, F. Scott Fitzgerald, and Theodore Dreiser. He was the textual editor of
+                    Dreiser's American Diaries, 1902-1926, the editor of Dreiser’s Jennie Gerhardt:
+                    New Essays on the Restored Text, and the editor of the 1992 University of
+                    Pennsylvania Press edition of Jennie Gerhardt.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of drafts of West's historical notes and textual
+                    introduction for the University of Pennsylvania edition of Jennie Gerhardt; and
+                    photocopies of two manuscript editions of the novel: the composite manuscript
+                    held by the University of Pennsylvania and the carbon typescript in the Barrett
+                    Collection at the University of Virginia. The photocopied Dreiser manuscripts
+                    are marked with West's notes on variations between the two texts. The collection
+                    also includes a photocopy of Dreiser's "Russia Diary" of 1927.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 196</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Theodore Dreiser papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Melbourne A. Carriker field notes <date type="inclusive">1929-1938</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Melbourne A. Carriker field notes</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1874</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1938</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Melbourne Armstrong Carriker Jr. was a Philadelphian interested in becoming a
+                    collector and through the sponsorship of the Academy of Natural Sciences and
+                    financial aid of Clement B. Newbold, he went to Peru where he collected birds
+                    and mammals. Later, on his Bolivian expeditions he was accompanied by his son M.
+                    R. Carriker and the expeditions were sponsored by the American Philosophical
+                    Society through grants to aid the collections. It developed that Carriker
+                    remained in South America and periodically returned to this area to keep up his
+                    contacts with museums and individuals wanting collections of specimens made in
+                    Peru and Bolivia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of field notes and specimen lists from seven expeditions
+                    made by Melbourne A. Carriker, Jr. between 1929 and 1938. Entries in the volumes
+                    are in chronological order with specimen numbers and descriptions, as well as
+                    field notes on travel, camping arrangements, and descriptions of collections
+                    stations, geography, and fauna.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Carriker South American Expeditions papers (collection
+                    900 ) and Academy of Natural Sciences of Philadelphia Ornithology Department
+                    records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

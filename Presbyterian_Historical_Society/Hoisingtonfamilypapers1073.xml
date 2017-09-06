@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hoisington family papers <date type="inclusive">1913-1970</date>
+                        <date type="bulk"> 1930-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hoisington family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1073</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1913-1970</unitdate>
+                <unitdate type="bulk"> 1930-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herbert Alton Hoisington (1882-1943) and Eunice Julia Kingsbury Hoisington
+                    (1885-1976) served the Presbyterian Church in the U.S.A. as lay foreign
+                    missionaries in Cameroon, West Africa. Herbert Hoisington was born in Illinois
+                    in 1882 and received his B.A. from Wheaton College in 1905. He received
+                    additional training in business at the Institute and Training School for
+                    Employed Officers of the YMCA and in divinity at the McCormick Theological
+                    Seminary. In 1910 he married Eunice Kingsbury, also a native of Illinois.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Hoisingtons' service in the West
+                    Africa Mission in Cameroon, dating primarily from the 1930s to the 1960s.
+                    Materials include: missionary reports (including reports of Eunice K.
+                    Hoisington); newsletters, including The Drum Call and Mefoe Memvok, the
+                    newsletter of the West African Mission; correspondence from the Hoisingtons to
+                    family and friends; typescripts and manuscripts of talks on mission work in
+                    Africa and talks to African audiences; notes on the culture and language of
+                    Cameroon; proof copies of the gospels in Banoko, with some copyediting
+                    annotation; and printed gospels, primers, and other educational and religious
+                    texts published by Board of World Missions and Board of Foreign Mission. Some of
+                    the printed materials are in Bulu and Banoko.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Fabrick, Frances</p>
+                <p>Accession number: 93 1228</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Hoisington Family Papers (RG 221).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

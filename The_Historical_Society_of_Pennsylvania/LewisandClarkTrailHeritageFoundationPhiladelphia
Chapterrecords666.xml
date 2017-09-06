@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lewis and Clark Trail Heritage Foundation Philadelphia Chapter
+                        records <date type="inclusive">1969-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lewis and Clark Trail Heritage Foundation Philadelphia
+                    Chapter records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC666</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1969-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia chapter of the Lewis and Clark Trail Heritage Foundation was
+                    founded by Frank Muhly in 1995 in order to "raise awareness of the historical,
+                    social, and cultural significance and heritage of the Lewis and Clark Expedition
+                    within the local area."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The records include correspondence, meeting minutes, financial records, reports,
+                    notes, clippings and other printed materials, photographs (prints, negatives,
+                    and slides), teaching materials, maps, and other items. The collection contains
+                    some documentation of the national Lewis and Clark Trail Heritage Foundation,
+                    including member, officer, and committee lists, and member handbooks.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="611">Lewis and Clark Expedition (1804-1806)</corpname>
+                <corpname encodinganalog="610">Lewis and Clark Trail Heritage Foundation.
+                    Philadelphia Chapter.</corpname>
+                <subject encodinganalog="650">Heritage
+                    tourism--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Memorials--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Monuments--Pennsylvania--Philadelphia.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--History.</geogname>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2005.107</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wagner Free Institute of Science Superintendent's and Director's
+                        reports <date type="inclusive">1903-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wagner Free Institute of Science Superintendent's and
+                    Director's reports</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC003</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. William Wagner originally
+                    offered free lectures and classes in his home and at Spring Garden Hall. He
+                    later constructed an Institute building, which opened to the public in 1865. The
+                    Institute's current programs and services include adult and children's
+                    programming offered onsite and at locations around Philadelphia, the Institute's
+                    library and archival collections, and a permanent display of the museum's
+                    specimen collections. Since 1891, the specimen collections have been displayed
+                    according to Darwinian principles of evolution, the organizational scheme
+                    selected by renowned biologist Joseph Leidy during his tenure as head of the
+                    Institute's scientific and educational programs in the late 19th century. During
+                    the time period covered by these records, the Director of the Wagner Free
+                    Institute of Science oversaw the daily running of the Institute's educational,
+                    library, and museum activities. The Director reported to the Board of Trustees,
+                    and that body made decisions about the Institute's financial expenditures,
+                    policies, and programs. Administrators during the time period covered by this
+                    collection include: Thomas Lynch Montgomery, Actuary and Librarian, 1886-1903;
+                    John Rothermel, Director, 1903-1924; Carl Boyer, Curator, 1924-1928, and
+                    Director, 1928-1945; Robert Chambers, Director, 1945-1980; and John Graham,
+                    Director, 1980-1988. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is a complete run of director's reports from 1903 to 1988. In the
+                    earlier years of this period, these were submitted monthly, excluding summer
+                    months, and in later years they were submitted roughly quarterly. These reports
+                    detail the status of the real estate properties held by the Institute and the
+                    estate of William Wagner. They also report on the status of the Institute's
+                    other financial interests, lectures and programs, building maintenance, and
+                    publicity activities.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 00-01; 98-045</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

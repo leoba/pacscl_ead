@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edmund J. Dobbin, O.S.A. records <date type="inclusive">1982-2006</date>
+                        <date type="bulk"> 1988-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edmund J. Dobbin, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2475</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35.95 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1982-2006</unitdate>
+                <unitdate type="bulk"> 1988-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Raised in Staten Island, New York, Father Edmund J. Dobbin received his B.A. in
+                    Philosophy from Villanova in 1958. In 1962, he received his Master of Arts from
+                    Augustinian College as theological preparation for his ordination to the
+                    priesthood. In 1964, Father Dobbin received his Master of Science in
+                    Mathematics, with a minor in Physics, and in 1968, he received his Licentiate in
+                    Sacred Theology, both degrees from the Catholic University of America. In 1971,
+                    he received his Doctor of Sacred Theology from the University of Louvain,
+                    Belgium. A recognized scholar and administrator, Father Dobbin served as a
+                    member of the Villanova University Board of Trustees from 1979 to 1987. He was
+                    appointed associate vice president for Academic Affairs in 1987, a position he
+                    held until his inauguration as president of Villanova University in 1988. In
+                    2006, after 18 years as president, Father Dobbin stepped down to resume teaching
+                    at the University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Father Edmund J. Dobbin. The collection
+                    includes administrative files, correspondence, legal records, minutes, personal
+                    papers, printed materials, and programs and reports. Administrative records
+                    include information on the Alumni Association, Board of Trustees resolutions and
+                    membership lists, policy statements, and a list of recipients of honorary
+                    degrees (1877-1992). Correspondence makes up a large portion of the collection
+                    and dates from 1988 to 2005. The correspondence covers a wide range of
+                    University matters, including alumni affairs, athletics, faculty matters,
+                    commencements and honorary degrees, admissions, Ex Corde Ecclesiae, public
+                    relations, dissolution of the Library Science department, development, and
+                    student life. The legal documents include records on estates, zoning, leases,
+                    West Campus development, and faculty and student legal matters. Minutes,
+                    agendas, and related memoranda are present for various committees of the Board
+                    of Trustees (1988-2006); the University Senate and a number of its committees
+                    (1988-2005); the Vice President’s Council (1989-2006); and other University
+                    committees and councils. Personal papers include daily calendars (1988-2005);
+                    correspondence (1987-2005); and addresses delivered by Father Dobbin at
+                    commencements and meetings of the Faculty Council and University Senate.
+                    Finally, the collection includes a large number of printed materials, programs,
+                    and reports from a variety of University offices and committees as well as other
+                    associations. These materials cover topics ranging from athletics, academics,
+                    student life, development, strategic planning, facilities management, and
+                    self-studies and assessments. The collection also includes newspaper clippings
+                    and articles about Father Dobbin.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Dobbin, Edmund J.</persname>
+                <corpname encodinganalog="610">Villanova University. Board of Trustees.</corpname>
+                <corpname encodinganalog="610">Villanova University. Graduate Dept. of Library
+                    Science.</corpname>
+                <subject encodinganalog="650">College presidents</subject>
+                <subject encodinganalog="650">Universities and colleges--Administration.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

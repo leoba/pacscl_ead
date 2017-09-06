@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Geneva Forum records <date type="inclusive">1971-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Geneva Forum records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1146</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.0 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Geneva Forum was an organization for laity and clergy of the Presbytery of
+                    Philadelphia to provide a place for open discussion of issues facing the church
+                    within an evangelical context. Formed in 1971 during a period of "cleavage
+                    between liberals and evangelicals," the Geneva Forum was spawned from the
+                    Geneva Cleric, a group of ministers who met monthly for prayer and fellowship.
+                    Once the Geneva Forum was formed, the officers of the Geneva Cleric continued as
+                    the leaders of the Forum. The Forum was formally disbanded around 1997.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains minutes of the Geneva Forum, primarily from 1983-1994;
+                    meeting announcements and flyers; banquet programs; by-laws; notes on officer
+                    duties; lists of board members and officers; meeting agendas; list of programs
+                    and speakers; and biographical information on speakers. There are also
+                    manuscript notes and handouts from meetings and correspondence, largely of
+                    invitations to speakers and logistical matters for meetings. Many of the papers
+                    in this collection appear to come from the files of Paul E. Housworth and Robert
+                    Bruce Wills.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Housworth, Paul E.</p>
+                <p>Accession number: 97 0227a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

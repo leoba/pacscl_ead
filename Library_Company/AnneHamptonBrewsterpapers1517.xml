@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Anne Hampton Brewster papers <date type="inclusive">1777-1892</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Anne Hampton Brewster papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1517</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1777-1892</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Correspondence, diaries, commonplace books, notes and article drafts and
+                    clippings of Anne Hampton Brewster, novelist, journalist, and foreign
+                    correspondent. She lived in Rome beginning in 1868 and wrote articles about
+                    Italian art, architecture, archaeology, political events, and social gossip,
+                    until about 1888. Much of the collection consists of her notes and drafts for
+                    these articles, which appeared in such American newspapers as the Philadelphia
+                    Evening Bulletin, the Boston Advertiser, and the New York World. Other materials
+                    concern her story and novel drafts--she wrote St. Martin's Summer, Compensation,
+                    and several short stories for magazines such as Blackwood's. Her correspondents,
+                    whose letters are primarily of a personal nature, include Thomas Buchanan Read
+                    (painter, poet), Amelia B. Edwards, author, archaeologist, Grace Greenwood
+                    (pseudonym for Sara Hane Clarke Lippincot), and Benjamin Harris Brewster, her
+                    brother, a lawyer and attorney general of the United States from 1881-1885. Her
+                    detailed diaries run from 1845 to 1892. The papers also include an autograph
+                    collection with documents signed by Abraham Lincoln, W. T. Sherman, James
+                    Madison, and others.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Exhibits Department
+                        records <date type="inclusive">1852-2001</date>
+                        <date type="bulk"> 1929-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Exhibits
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC093</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>49.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1852-2001</unitdate>
+                <unitdate type="bulk"> 1929-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences of Philadelphia was founded in 1812 "for the
+                    encouragement and cultivation of the sciences, and the advancement of useful
+                    learning." Its collections, acquired through expeditions, gifts, purchases, and
+                    exchanges, contain over 17,000,000 specimens. The Academy opened its doors to
+                    the public in 1828, growing so rapidly that it outgrew its building three times
+                    in sixty years. In 1876, its present home was built at 19th and Benjamin
+                    Franklin Parkway, where its permanent exhibits include Dinosaur Hall, and more
+                    than 35 dioramas presenting wildlife from Africa, Asia and North America. The
+                    Academy also presents changing exhibits and online exhibits.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to exhibits at the Academy of Natural
+                    Sciences. The records consists primarily of the working files of members of the
+                    Exhibits department, including Sean Duran, Harold T. Green, Hollister Knowlton,
+                    and Keith Russell. Materials include: correspondence; minutes; proposals; bids
+                    and contracts; schedules and staff time sheets; floor plans; sketches of exhibit
+                    spaces, subjects, and backgrounds; panel text; specimen acquisition and loan
+                    information; photos, negatives, and slides of construction of exhibits, of
+                    finished exhibits, and of living animals in their habitats; subject files on
+                    materials, artists, other natural history exhibitions. Much the material in this
+                    collection relates to the remodeling of Dinosaur Hall and the Discovering
+                    Dinosaurs exhibit. The collection also includes: surveys and assessments of the
+                    Academy's dioramas and of natural history museums (1936 and 2001); plans and
+                    rolled blueprints for construction of Earth Sciences exhibit 1990-1991; photos
+                    from the Earth Science Hall (pre-1975); records and photos relating to the
+                    fulgerite specimen that had once been on display (now damaged); materials
+                    relating to the Deinonyclus sculpture in front of the Academy; brass wall
+                    plaques and exhibit signs and labels; field photos; and drawings of specimens
+                    and exhibits. Among the Harold T. Green papers, there is a significant amount of
+                    documentation of various expeditions, including the Carpenter African expedition
+                    of 1955, and the Carpenter Arabian expedition of 1953, the Vanderbilt Africa
+                    expedition of 1930, and others. These materials include photographs, equipment
+                    lists, bills and receipts,correspondence, and bullets retrieved from specimens.
+                    There are also several artifacts that probably belonged to Green, including a
+                    pipe and ashtray and a ceramic box. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02:18; 02:15; 99:08; 98:10; 95:11; 97:02; 02:13; 93:09; 00:11;
+                    01:14; 91:02</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Habitat Groups records (collections 717, 718, 719),
+                    ANSP. Exhibits papers (collection 256) and Robert Peck papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

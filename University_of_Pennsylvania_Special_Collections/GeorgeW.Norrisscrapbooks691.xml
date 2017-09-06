@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George W. Norris scrapbooks <date type="inclusive">1875-1963</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George W. Norris scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC691</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1963</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George William Norris (1875-1965) was a professor of clinical medicine at the
+                    University of Pennsylvania and chief of Medical Service "A" at Pennsylvania
+                    Hospital. He received his bachelor's degree from the University of Pennsylvania
+                    in 1895 and his M.D. in 1899. He served in World War I as a member of the Major
+                    Medical Corps in the Pennsylvania Hospital Unit. He was an amateur
+                    photographer.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes photographs and other materials related to Norris's work
+                    and career. There are two photograph albums that mainly feature family and
+                    friends and places associated with these people; there are also photos and
+                    printed materials related to travel in Haiti, Venezuela, and other locales. Many
+                    of the photographs were taken by Norris and include commentary from Norris.
+                    There is also an album of published(?) landscape photographs, as well as many
+                    portrait photographs by Norris. The collection includes one scrapbook of
+                    letters, photographs, certificates, awards, calling cards and other items
+                    (including a few photographs) and a narrative account of a trip to Guatemala in
+                    1963.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 208</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

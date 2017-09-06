@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David S. Richie papers regarding Friends Housing, Inc. <date type="inclusive">1966-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David S. Richie papers regarding Friends Housing,
+                    Inc.</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC670</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Friends Housing, Inc., was formed as an independent non-profit corporation in
+                    1966 in response to a petition signed by 100 residents of the Mantua
+                    neighborhood in Philadelphia and the concern of the Philadelphia Yearly Meeting,
+                    Social Concerns Committee. The Corporation was primarily involved in
+                    fund-raising for the rehabilitation of vacant and vandalized properties for low
+                    income families. David S. Richie, a Quaker who organized the Weekend Workcamp
+                    program of Philadelphia Yearly Meeting, served as president of the board of
+                    directors. The Board included representatives from the community and members of
+                    the Mantua Belmont Joint Committee of Philadelphia Yearly Meeting.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of David Richie. Materials include minutes and
+                    announcements of Friends Housing, Inc. from 1966 to 1982; financial records,
+                    including an account book, Federal Housing Administration rent subsidy
+                    applications and reports, and financial statements; and correspondence regarding
+                    donations and loans from individuals and local Meetings. The collection also
+                    includes papers from Richie's participation in the Mantua Friends
+                    Intervisitation Committee, including newsletters, correspondence, and
+                    handwritten notes on Richie's visits to various Meetings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Friends Housing, Inc.</corpname>
+                <subject encodinganalog="650">Church work--Society of Friends.</subject>
+                <subject encodinganalog="650">Housing--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Housing--Religious aspects--Society of
+                    Friends.</subject>
+                <subject encodinganalog="650">Poor--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Quakers--Charities.</subject>
+                <subject encodinganalog="650">Society of Friends--Social service.</subject>
+                <geogname encodinganalog="651">Mantua (Philadelphia, Pa.)</geogname>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                <acqinfo>
+                    <p>Provenance: Gift of Martha Richie (daughter).</p>
+                    <p>Year acquired: 2006-2007</p>
+                    <p>Accession number: 2006-013; 2007-001</p>
+                </acqinfo>
+            </admininfo>
+
+            <add>
+
+
+
+
+
+
+                <relatedmaterial>
+                    <p>Related material may be found in the following collections: Friends
+                        Historical Library, Swarthmore College: Friends Housing records (RG4/030)
+                        and David S. Richie correspondence (SC/198); Haverford College: David S.
+                        Richie personal papers.</p>
+                </relatedmaterial>
+
+            </add>
+
+        </archdesc>
+    </ead>

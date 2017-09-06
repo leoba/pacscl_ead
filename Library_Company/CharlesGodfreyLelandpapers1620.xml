@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Godfrey Leland papers <date type="inclusive">1857-1882</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Godfrey Leland papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1620</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1857-1882</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Manuscripts, published and unpublished, of Philadelphia writer Charles Godfrey
+                    Leland's popular "Hans Breitmann" ballads, a satirical series of
+                    German-American dialect verses. There are also manuscripts of two unpublished
+                    works: "Anecdotes of Abraham Lincoln," 1866, and "Hans Breitmann in Italy,"
+                    in prose and verse. Also included is an Oliver Wendell Holmes poem, "The Dutch
+                    have taken Holland," written June 29, 1881.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of heirs of Charles Godfrey Leland</p>
+                <p>Year acquired: 1906, 1908, 1909</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

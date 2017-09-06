@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Evening college records <date type="inclusive">1935-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Evening college records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC682</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>30 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Evening School was one of the original departments established at the Drexel
+                    Institute during the first year of classes in 1892. It offered purely technical,
+                    non-degree courses of study until 1950, when the Evening College earned
+                    accreditation to grant the B.S. degree. The Evening College's name was changed
+                    to University College in 1993, and it was briefly discontinued in 1993, when its
+                    programs were transferred to the College of Arts and Sciences. The Evening
+                    College was re-established in 1997 as the College of Evening and Professional
+                    Studies. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The evening college collection is currently increasing, as a large volume of
+                    records are being transferred to the archives from the college offices.
+                    Currently, meeting minutes of the faculty heads, student and faculty guides, and
+                    annual reports of the college comprise the majority of the collection. There is
+                    also an assortment of unprocessed information relating to the Drexel Student's
+                    Wives club and fraternal organizations. There is also extensive information on
+                    academic programs and curricula. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Collection donated by Kathy Woodford</p>
+                <p>Year acquired: 2008</p>
+                <p>Accession number: 2008.026</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

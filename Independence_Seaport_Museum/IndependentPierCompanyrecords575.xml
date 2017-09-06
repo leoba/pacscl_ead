@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Independent Pier Company records <date type="inclusive">1909-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Independent Pier Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC575</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1909-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Independent Pier Company (IPC) was founded by Emil Meyle about 1895. It was
+                    operated originally under the name of E. Meyle. The services included wharfage,
+                    towing, lighterage, and stevedoring. In 1909 the business was incorporated as
+                    Independent Pier Company. In 1931, the Pennsylvania charter was surrendered and
+                    the company was incorporated under Delaware law in order to obtain authority for
+                    a broader scope of operations. In 1915 IPC acquired control of the business of
+                    Chas. Killam &amp; Co., which owned five lighters. Independent Towing Company, a
+                    subsidiary of IPC, was incorporated in 1926. The Tug Triton Company, Tug Neptune
+                    Company, and Tug Spartan Company were also incorporated in 1926; the Tug Jupiter
+                    Company was incorporated in 1939. The Tug Mercury Company was incorporated in
+                    1942. These companies were all owned by IPC.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Independent Pier Company. There are a
+                    number of logs of tugs, including: Jupiter (1962-1974); Mercury (1965-1978);
+                    Saturn (1971); Silver Comet (1979); Venus (1955-1977); Triton (1950-1977);
+                    Trojan (1971); unidentified (1949-1975) [note, these dates are not
+                    comprehensive]; maintenance logs for various tugs, 1967-1980; and
+                    towing/lighterage logs (1942-1946, 1949-1951, 1961). Records for the tug Neptune
+                    include certificates of inspection, capital stock reports, receipts and bills of
+                    sale for shares. The collection contains manuscript specifications for a tug
+                    boat, undated, and plans for various engine components and other ship's
+                    equipment, mostly dating from 1955. Other records include: account books of
+                    Independent Pier Co., 1932-1939 and 1944-1951; cash books, 1932-1934 and 1950s;
+                    financial statements, 1948-1954; a time book, 1957-1959; tug assistance
+                    contracts, 1969; stock share certificates for Spartan, Neptune, Mercury; a list
+                    of employees, with name, birth date, and social security number; and bills and
+                    receipts for orders of seafood and meat. Independent Towing Company records
+                    include letterhead, an agreement form for stevedoring services, bumper stickers,
+                    and business cards. The collection also contains records related to the
+                    Independent Pier Co.'s involvement with the War Shipping Administration
+                    (1941-1947), including contracts, correspondence and memoranda, financial
+                    statements, records related to contractors, stevedores, and overtime expense
+                    recovery following the war.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Tugboats. </subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1996.5</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

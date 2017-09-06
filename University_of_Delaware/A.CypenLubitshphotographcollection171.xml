@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>A. Cypen Lubitsh photograph collection <date type="inclusive">1940-1980</date>
+                        <date type="bulk"> 1940-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">A. Cypen Lubitsh photograph collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC171</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1940-1980</unitdate>
+                <unitdate type="bulk"> 1940-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Aron Cypen "Cy" Lubitsh was born in the Soviet Union, immigrated to Canada and
+                    subsequently immigrated to the United States in 1937. Lubitsh worked as a
+                    commercial artist and photographer in New York City. He earned a Master's in art
+                    at Columbia University. He worked and studied under the Russian-born sculptor
+                    Alexander Archipenko. In 1943 Lubitsh was drafted into the Army, and was
+                    assigned to the 166th Signal Photographic Company, Camp Crowder, Missouri. His
+                    unit was sent to France in 1944, landing at Normandy while the D-Day invasion
+                    was still underway. The unit was assigned to Third Army throughout the campaigns
+                    in France and Germany. Lubitsh received the Bronze Star, and was honorably
+                    discharged in the fall of 1945. In 1964, Lubitsh's photos of the war were
+                    exhibited at the Delaware Art Center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of over 1,000 personal and professional photo negatives and
+                    photographs from the 1940s to 1960s from the studio of A. Cypen Lubitsh, Bronx,
+                    New York, and later Wilmington, Delaware. Subjects include: portraits of
+                    children, theatrical and dance portraits, weddings, marina and waterfront
+                    scenes, racetracks, airplanes, animals and rural scenes, beach scenes, and
+                    travel photography from Europe to Arizona to Gloucester, Massachusetts. The
+                    collection also includes images of still lifes, and photographs of Lubitsh's own
+                    artwork in paintings and sculpture.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: William H. Duncan</p>
+                <p>Year acquired: 10/29/2004</p>
+                <p>Accession number: 05-53</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Military History
+                    Institute at Carlisle Barracks: A. Cypen Lubitsh military photos</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

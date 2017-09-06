@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dutilh &amp; Wachsmuth business papers <date type="inclusive">1783-1809</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dutilh &amp; Wachsmuth business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC952</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1783-1809</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Etienne Dutilh, a French merchant, emigrated to Philadelphia in 1783 and
+                    established several commercial firms including E. Dutilh &amp; Company,
+                    1783-1789; Dutilh &amp; Wachsmuth, with John Godfried Wachsmuth, 1790-1797; and
+                    Dutilh, Soullier &amp; Company, with John Soullier, 1793-circa 1797. These firms
+                    were largely engaged in the West Indies and northern European trade, with sugar,
+                    coffee, cocoa, and logwood being the major commodities mentioned. Dutilh died in
+                    1810, Wachsmuth died c. 1826.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is split into two subgroups: the business paper of Stephen Dutilh
+                    and the business papers of the firm Dutilh &amp; Wachsmuth. The business papers
+                    of Stephen Dutilh include: bills and receipts; account statements; the account
+                    book of the brig Hetty; an insurance claim by the owners of the brig Betsy, and
+                    an index of Dutilh's accounts. This subgroup also includes four bound volumes:
+                    Dutilh's address book (written in French and alphabetized by city) entitled
+                    "Livre de la Correspondence Generale," and account books for the years
+                    1783-1788 (in French), 1792-1795, and 1795-1809. The papers of Dutilh &amp;
+                    Wachsmuth consist of correspondence, bills of lading, invoices, orders, and
+                    account statements. This subgroup also includes a blank power-of-attorney, a map
+                    [c. 1764] entitled "A New Map or Chart in Mercators Projection of the Western
+                    or Atlantic Ocean with part of Europe Africa and America," a promissory note,
+                    and a check on the Bank of the United States. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Maps.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 87.67; 69.120; 77.49; 68.62; 68.63; 1969.120.6</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

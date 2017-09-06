@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Tom Purdom papers <date type="inclusive">1965-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Tom Purdom papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2079</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1965-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Edward Purdom (b. 1936) is a science fiction writer. His first science
+                    fiction story appeared in the August, 1957 Fantastic Universe. Over the years,
+                    he has published stories in all of the leading science fiction magazines and in
+                    various anthologies, and his works have been translated into French, German,
+                    Spanish, and Chinese. His titles include: I Want the Stars (1964), The Tree Lord
+                    of Imeten (1966), Five Against Arlane (1967), The Barons of Behavior (1972), and
+                    Reduction in Arms (1971). He lives in Philadelphia, Pennsylvania. Purdom was a
+                    charter member of Science Fiction Writers of America and has served as that
+                    organization's vice president and on its public relations and grievance
+                    committees. In addition to writing science fiction, he also worked as a science
+                    writer for the University of Pennsylvania News Bureau, and as an editor for
+                    Doing It Right publications, which published safety and instructional manuals
+                    which were distributed to high school vocational arts students around the
+                    U.S.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts, correspondence, and papers of Tom Purdom.
+                    Papers include typed manuscripts of a number of short stories, novels,
+                    instructional guides, and nonfiction articles; galley proofs and typed drafts of
+                    stories by various authors published in the anthology Adventures in Discovery;
+                    professional correspondence with editors and fellow authors and some personal
+                    correspondence; reference materials for his nonfiction writing projects;
+                    clippings about various science-related topics; newspapers and magazine articles
+                    on the 1969 moon walk. The collection also includes correspondence and other
+                    materials related to the Science Fiction Writers of America, particularly
+                    Purdom's work on the Public Relations and Grievance Committees and planning of
+                    SWFA events, correspondence regarding a proposed non-fiction anthology on
+                    science and science fiction, and a folder of material on bicycling as a form of
+                    urban transportation.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

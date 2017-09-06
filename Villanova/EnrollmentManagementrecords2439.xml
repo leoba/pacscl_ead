@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Enrollment Management records <date type="inclusive">1856-2008</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Enrollment Management records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2439</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.57 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1856-2008</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University traces its origins to old Saint Augustine's Church in
+                    Philadelphia, which the Augustinians founded in 1796, and to its parish school,
+                    Saint Augustine's Academy, established in 1811. Villanova University has been
+                    sponsored by the Augustinian Order since its founding in 1842. Today, the
+                    University is comprised of five colleges: Liberal Arts and Sciences (Villanova
+                    College), Engineering, School of Business (formerly known as the College of
+                    Commerce and Finance), Nursing and the School of Law. Enrollment Management is
+                    the administrative area of the University that includes the Offices of
+                    University Admission, Financial Assistance and Registrar.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Admissions department, the Registrar, and
+                    the Part Time Studies program. Admissions department files include a list of
+                    students and teachers (1843-1895); lists of students (1895-1896 and 1902-1912);
+                    student grades (1882-1895); freshman bulletins (1971-1987); annual reports of
+                    the Admissions department from the 1990s; and a manual of procedures for the
+                    department. Registrar's files include registration forms; class schedules
+                    (1800s, 1920); examination schedules (1950-1954); lists of religious affiliation
+                    of students (1962-1964); statistical reports on degrees awarded (1922-2007);
+                    enrollment reports; and annual reports of the Registrar (1937-1941). Records of
+                    the Part Time Studies program include course and exam schedules; policies and
+                    procedures; news clippings about the program; and reports of enrollment
+                    statistics. The collection also includes a nearly complete run of commencement
+                    programs (1850-2008) and commencement programs for Summer Sessions (1937-1962)
+                    and the Law School (1978-1995).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Universities and colleges--Admission</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Membership lists.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+                <genreform encodinganalog="655">School records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

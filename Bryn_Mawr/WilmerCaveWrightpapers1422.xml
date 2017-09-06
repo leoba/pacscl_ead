@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wilmer Cave Wright papers <date type="inclusive">1896-1980</date>
+                        <date type="bulk"> 1896-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wilmer Cave Wright papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1422</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1896-1980</unitdate>
+                <unitdate type="bulk"> 1896-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wilmer Cave Wright (1865–1951) was a reader, lecturer, and professor of Greek at
+                    Bryn Mawr College from 1897 to her retirement in 1933. Her doctoral
+                    dissertation, entitled The Emperor Julian's relation to the new sophistic and
+                    neo-Platonism, was published in 1896. She was also the translator of Bernardino
+                    Ramazzini's De morbis artificum (Diseases of workers).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of miscellaneous notes and papers of Wilmer Cave Wright.
+                    Included are research materials gathered for her translation of Ramazzini, a
+                    partial manuscript of "Recent Theories Concerning the Phoenicians,"
+                    correspondence, reprints, newspaper clippings on various topics, and a list of
+                    volumes in Wright's library. Also included are two volumes on Plato with
+                    Wright's annotations.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ted Benfey papers <date type="inclusive">1944-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ted Benfey papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC092</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>O. Theodor (Ted) Benfey (b. 1925) is Emeritus Professor of Chemistry and History
+                    of Science, Guilford College, and Editor-at-Large of Chemical Heritage
+                    newsmagazine. In 1966, he was chair of the American Chemical Society Division of
+                    the History of Chemistry. From 1963-1988 he was Editor of the ACS chemical
+                    education journal Chemistry. Benfey is the author of many publications,
+                    including Classics in the Theory of Chemical Combination (Dover, 1963), Kekulé
+                    Centennial (ACS, 1966), and Introduction to Organic Reaction Mechanisms
+                    (McGraw-Hill, 1970). </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a selection of Benfey's academic and professional
+                    papers. Materials include: notes from lectures that Benfey attended while on
+                    sabbatical at Harvard from 1955-1956 (Frank Westheimer on Physical Organic
+                    Chemistry and Peter Debye on Chemical Physics, among others); photostats of
+                    French, German, and English articles on chemistry used by Benfey for his book
+                    Classics in the Theory of Chemical Combination; information on mercury poisoning
+                    and antidotes; background information for biographies on Lothar Meyer, Johannes
+                    Thiele, and Edward W. Washburn; and notebooks from chemistry courses Benfey took
+                    at University College London and Columbia University.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: O.T.B.</p>
+                <p>Accession number: 02:15; 02:16</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: Chemical Heritage Foundation staff files (Ted Benfey).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

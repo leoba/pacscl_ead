@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Patrick Center for Environmental Research records <date type="inclusive">1903-1991</date>
+                        <date type="bulk"> 1952-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Patrick Center for Environmental Research
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1215</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>66.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1991</unitdate>
+                <unitdate type="bulk"> 1952-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Named in honor of Dr. Ruth Patrick, the Patrick Center for Environmental Research
+                    at the Academy of Natural Sciences consists of a multidisciplinary group of
+                    environmental scientists and engineers devoted to understanding aquatic and
+                    terrestrial ecosystems, including the effects of natural processes and human
+                    activities on environmental quality. The Center works with a number of diverse
+                    stakeholders, including government, community groups, industry and environmental
+                    organizations to improve environmental stewardship. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records from the Patrick Center for Environmental
+                    Research. Materials include: general files and surveys kept by Robert G. Grant,
+                    Jr. (1988-1999); project data sheets; correspondence and memos; reports; and
+                    project schedules and budgets. Projects include studies of environmental impacts
+                    of the Savannah River Plant, Washington Suburban Sanitary Commission, Potomac
+                    Electric Power Company, and various DuPont facilities. The collection also
+                    includes files kept by Tran Noc Loi in the 1980s on Marine polychaetes (annelid
+                    worms), including data sheets and reprints and a CD containing the notebooks and
+                    papers of Danielle Kreeger.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:22; 07:18</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Limnology
+                    Department records, Academy of Natural Sciences of Philadelphia Division of
+                    Environmental Research records, and Ruth Patrick papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

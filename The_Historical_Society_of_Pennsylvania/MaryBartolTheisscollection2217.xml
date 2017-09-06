@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary Bartol Theiss collection <date type="inclusive">1909-1925</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary Bartol Theiss collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2217</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1909-1925</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mary Bartol Theiss was the daughter of William Cyrus Bartol, a professor at
+                    Bucknell University, and his wife, who was active in the Shikelimo Chapter of
+                    the Pennsylvania Daughters of the American Revolution and curator of the Union
+                    County Historical Society. She was married to Lewis Edwin Theiss, also a
+                    Bucknell faculty member. Theiss and her husband were active in documenting local
+                    and Bucknell history.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of documentation related to genealogical and historical
+                    research and activities, primarily of Theiss's mother, Mrs. W. C. Bartol. The
+                    collection includes correspondence and datasheets related to the Shikelimo
+                    Chapter of the Pennsylvania Daughters of the American Revolution. Most notable
+                    among these are War Service Records related to World War I service of individual
+                    soldiers. There is also DAR correspondence related to historical markers and
+                    historical and genealogical topics. The collection also includes: correspondence
+                    with the Union County Historical Society on creation of a historical marker for
+                    Revolutionary War soldiers killed at that spot in 1780; miscellaneous
+                    correspondence on personal and historical topics; notes and correspondence
+                    related to various families, including descendents of Elizabeth More Clark;
+                    photocopies of information on Lewisburg Cemetery in Williamsport, Pennsylvania,
+                    and miscellaneous historical topics; information on marriages and records
+                    (including records at Prothonotary's Office in Union County); and correspondence
+                    and reports of the Luzerne County War History Committee (related to World War
+                    I).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

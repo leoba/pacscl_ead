@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Carrie Chapman Catt papers <date type="inclusive">1890-1963</date>
+                        <date type="bulk"> 1905-1945</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Carrie Chapman Catt papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1455</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1890-1963</unitdate>
+                <unitdate type="bulk"> 1905-1945</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Carrie Lane Chapman Catt (1859-1947) was an internationally recognized
+                    suffragist, feminist, and political activist. She served two terms as President
+                    of the National American Woman Suffrage Association, and is credited with
+                    revitalizing the NAWSA during the struggle for passage of the nineteenth federal
+                    amendment granting suffrage to women. Catt founded the International Woman
+                    Suffrage Alliance in 1902 (later the International Alliance of Women) and served
+                    as its president for many years. She formed the League of Women Voters in 1920
+                    and was its honorary president until her death in 1947. In 1925, Catt founded
+                    the National Committee on the Cause and Cure of War. During the 1930s and 1940s,
+                    Catt was active in working against the Nazis, particularly their persecution of
+                    Jews. Although she was a champion of world peace, Catt was a vocal supporter of
+                    the Allied Forces during World War II.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of papers of Carrie Chapman Catt. Materials include:
+                    correspondence; speeches and lectures; scrapbooks; suffrage cartoons (c.
+                    1915-1920); newspaper clippings (1909-1943); articles by notable suffragists,
+                    such as the British playwright Laurence Housman; and suffrage ephemera.
+                    Correspondents include Susan B. Anthony's niece, Lucy Anthony, and Woodrow
+                    Wilson. Speeches include an address entitled "A League of Nations," an address
+                    at the Democratic National Convention in Philadelphia in 1912, and talks given
+                    at the Brooklyn Institute of Arts and Sciences (1905) and Bryn Mawr College
+                    (1921). </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Manuscript Division,
+                    Library of Congress: Papers of Carrie Chapman Catt; New York Public Library:
+                    Carrie Chapman Catt papers; Sophia Smith Collection, Smith College: Carrie
+                    Chapman Catt papers; Special Collections Department, Iowa State University:
+                    Carrie Chapman Catt papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

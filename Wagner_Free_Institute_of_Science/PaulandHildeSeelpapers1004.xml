@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Paul and Hilde Seel papers <date type="inclusive">1933-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Paul and Hilde Seel papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1004</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Paul Seel (1904-1982) was a prominent mineralogist and micromounter in
+                    Pennsylvania, with training in crystallography and optical mineralogy. He was a
+                    member of the Leidy Microscopical Society and the Philadelphia Mineralogical
+                    Society, also serving as that group's president. In 1936, he married Hildegard
+                    Marie Adelheid (1901-1987), who shared his interest in minerals. The Seels were
+                    avid collectors, and upon Paul Seel's death a portion of the couple's collection
+                    was donated to the Wagner Free Institute of Science. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Paul and Hilde Seel papers are comprised of multiple accessions. The first
+                    part (collection 90-025) includes naturalization papers and marriage certificate
+                    for Paul and Hilde Seel, photographs, correspondence with Harry Trudell and
+                    Edgar Wherry, Trudell/Clifford Frondel correspondence, pamphlets and articles
+                    including "New and little-known corals of the Florida Formation" (1973) by
+                    Norman E. Weisbord and a "Re-examination of Legrandite" (1963) by Paul E.
+                    Desautels and Roy E. Clark, Jr. Other materials include a scrapbook (collection
+                    92-012), which consists chiefly of photographs and memorabilia compiled by Paul
+                    and Hilde Seel relating to the 21st Annual Convention of the Eastern Federation
+                    of Mineralogical &amp; Lapidary Societies held in Lake Placid, NY, June 1971.
+                    Accompanying materials include convention programs, stamps, one album sheet, and
+                    a paper given by Paul Seel titled "Observations on Diamond Crystals" at the
+                    20th Annual Convention of the International Diamond Association of America,
+                    March 5, 1965. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Eastern Federation of Mineralogical and Lapidary
+                    Societies.</corpname>
+                <persname encodinganalog="600">Seel, Paul, 1904-1982.</persname>
+                <persname encodinganalog="600">Trudell, Harry W.</persname>
+                <subject encodinganalog="650">Crystallography.</subject>
+                <subject encodinganalog="650">Mineralogy.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Marriage certificates</genreform>
+                <genreform encodinganalog="655">Notebooks</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 90-025; 92-012; 92-016; 92-019</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: Harry W. Trudell papers (92-017) includes a small amount of
+                    Trudell's correspondence, plus reprints he collected.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

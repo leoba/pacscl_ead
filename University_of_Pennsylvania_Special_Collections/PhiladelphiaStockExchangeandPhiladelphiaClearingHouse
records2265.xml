@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Stock Exchange and Philadelphia Clearing House records
+                            <date type="inclusive">1836-1950</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Stock Exchange and Philadelphia Clearing House
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC2265</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>58.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1836-1950</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Stock Exchange was established in 1790 and is the oldest stock
+                    exchange in the United States. The Philadelphia Clearing House was organized in
+                    1858, with seventeen banks as members. It was the second association of its kind
+                    in the United States, New York having established one in 1853. Robert L.
+                    Montgomery, William J. Clothier and George F. Tyler were the original members of
+                    the firm of Montgomery, Clothier &amp; Tyler. The firm was admitted to the New
+                    York and Philadelphia stock exchanges in 1907.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes records of a number of Philadelphia financial and
+                    business concerns. The collection includes bound and unbound volumes of printed
+                    daily stock quotations and sales from the Philadelphia Stock Exchange, dating
+                    approximately from 1877 to the 1920s and from 1945 to 1950. Records of the
+                    Philadelphia Clearing House include: bound and unbound business volumes of
+                    runner's statements; daily records; daily statements; weekly statements
+                    (1864-1941); consolidated bank ledgers; and balance and receipts. Most series
+                    date approximately from 1858 to 1887. Other documentation related to financial
+                    concerns includes records of the National Bank of the Republic, including
+                    dividends book, representative accounts, bad debts accounts, and minutes
+                    (1865-1898); and records from the General Securities Company, dating from 1916
+                    to 1927, which contain minutes (including articles of incorporation) and
+                    correspondence, including several letters to Theodore Roosevelt, Jr.
+                    Documentation of individual businesses includes a number of bound business
+                    volumes of Montgomery, Clothier &amp; Tyler, dating approximately from 1907 to
+                    1920. These comprise firm accounts, customer accounts, ledgers, deposit ledgers,
+                    and blotters. Additional records include: minutes of the Lehigh Valley Coal and
+                    Oil Co. (1889-1902); a Beech Valley Coal and Iron Co. stock ledger; minutes of
+                    the Radnor Development Company (1912-1923); Mary Binney Montgomery estate
+                    account book, 1917; and scrip, check, and credit books from the [N.B. &amp; L.]
+                    Railroad Co (all blank except for several scrips from 1836). The collection also
+                    includes several volumes in German, labeled "Politischen comites der deutschen
+                    gewerkschaften": minutes and receipts and expenditures (1866-1944).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Philadelphia Stock Exchange papers (coll. 3070).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

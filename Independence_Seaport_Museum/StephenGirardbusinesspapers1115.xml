@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Stephen Girard business papers <date type="inclusive">1792-1800</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Stephen Girard business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC1115</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1792-1800</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philadelphia businessman, shipbuilder, banker, humanitarian, Stephen Girard
+                    (1750–1831), played a major role in the early trade with China. Girard was
+                    French-born, but after nine years as a sailor, he found his way to America. He
+                    then found his way to the city of Philadelphia at the beginning of the
+                    Revolutionary War. Philadelphia’s shipbuilding industry was expanding and
+                    Girard, a former sea captain who understood sailing and ships, was placing
+                    orders for the construction of an advanced fleet of ships. His ships sailed
+                    regularly to China. As a tribute to his homeland’s philosophers he named his
+                    ships Rousseau, Voltaire, Montesquieu, and Helvetius. By 1793 Girard’s business
+                    was international and his China trade business was of major importance in making
+                    him one of the few millionaires in America. He helped establish the First Bank
+                    of America in Philadelphia. Girard was so wealthy that he was able to loan the
+                    U.S. government $1.5 million during the War of 1812. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Freight books and disbursements for the ship Good Friends, the brig Sally, the
+                    brig Liberty, the Voltaire, and other vessels, 1795-1800. Also included are
+                    miscellaneous invoices and a customs permit (1792-1794). </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Business records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 95.63, 78.58, 82.21</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

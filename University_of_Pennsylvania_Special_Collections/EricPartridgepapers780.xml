@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Eric Partridge papers <date type="inclusive">1957-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Eric Partridge papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC780</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1957-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Eric Partridge (1894-1979) was a noted New Zealand-born lexicographer of the
+                    English language, particularly of its slang. He published a number of reference
+                    works, including A Dictionary of Slang and Unconventional English and A
+                    Dictionary of Catch Phrases.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The correspondence consists of correspondence, manuscripts and other materials
+                    related to Eric Partridge and his work. Incoming and outgoing correspondence
+                    with Eileen M. Wrigglesworth discusses their meetings, goings-on in each of
+                    their households, and Partridge's work. Correspondence with Neda M. Westlake (of
+                    the University of Pennsylvania Library) relates to the University's purchase of
+                    books and manuscripts from Partridge. Other materials include manuscripts and
+                    typescripts of reviews, articles, and Christmas greetings written by Partridge;
+                    newspaper clippings of reviews; a memorial to Julian Franklyn and a privately
+                    published volume of poems by Franklyn; and a heavily annotated copy of A First
+                    Dictionary by Walter D. Wright.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 36, 37, 38</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Indiana: A. Brown manuscripts (include letters of Partridge, including some from
+                    Wrigglesworth to Partridge); University of Exeter: Papers of Eric Partridge and
+                    Paul Beale relating to English slang (MS 138).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

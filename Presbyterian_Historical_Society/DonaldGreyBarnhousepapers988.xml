@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Donald Grey Barnhouse papers <date type="inclusive">1850-2000</date>
+                        <date type="bulk"> 1850-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Donald Grey Barnhouse papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC988</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1850-2000</unitdate>
+                <unitdate type="bulk"> 1850-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Donald G. Barnhouse (1895-1960) was a Presbyterian minister and one of the
+                    pioneers of radio preaching. He was pastor of the Tenth Presbyterian Church in
+                    Philadelphia, president of the Evangelical Foundation in Philadelphia, and
+                    editor in chief of Eternity Magazine. He began broadcasting radio sermons in the
+                    1920s, eventually launching his own network program, "The Bible Study Hour."
+                    In 1949 he began his famous study of Romans which continued each week for nearly
+                    12 years until his death. This radio program continues to air as "Dr. Barnhouse
+                    &amp; the Bible."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of papers of Donald Barnhouse, including:
+                    correspondence; magazine and newspaper clippings; publications, including copies
+                    of "Broadcast Notes of the Bible Study Hour"; photographs; minutes, financial
+                    and other reports of the Evangelical Foundation; scrapbooks; school notes; reel
+                    to reel audio tapes of Barnhouse's addresses and sermons (1960); papers related
+                    to several court cases; passports; biographical materials on Barnhouse collected
+                    by Paul A. Hopkins; radio sermons; manuscripts for addresses, articles, and
+                    books; sympathy letters sent to the "Bible Study Hour" and to Ruth Barnhouse;
+                    diaries from Barnhouse's visits to foreign missions; appointment books; and an
+                    herbarium. Also included is Barnhouse's personal correspondence, 1913-1927,
+                    mainly with relatives, and several publications and other papers relating to his
+                    military service during World War I. Images include daguerreotypes and prints of
+                    Barnhouse family members; portraits of Barnhouse from 1899 into the 1950s; and
+                    other prints documenting Barnhouse's activities and family during the 1920s
+                    through 1950s. Post-1960 papers are biographical materials and references to
+                    Barnhouse collected by the donor, Paul A. Hopkins. Also within this collection
+                    is a bound run of Christian Alliance and Foreign Missionary Advance,
+                    1890-1896.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 90 0605, 02 0221a: Hopkins, Paul A.; accession 85 1022a, 02
+                    0610a: Barnhouse, Mrs. Donald</p>
+                <p>Accession number: 90 0605|85 1022a|02 0221a|02 0610a</p>
+            </acqinfo>
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-480">http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-480</extref>
+            </otherfindaid>
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

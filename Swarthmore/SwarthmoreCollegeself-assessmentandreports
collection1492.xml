@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Swarthmore College self-assessment and reports collection <date type="inclusive">1958-1993</date>
+                        <date type="bulk"> 1983-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Swarthmore College self-assessment and reports
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1492</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1993</unitdate>
+                <unitdate type="bulk"> 1983-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Swarthmore College was founded in 1864 as a co-educational liberal arts
+                    institution by members of the Religious Society of Friends (Quakers).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of miscellaneous reports, studies, and self-assessments
+                    undertaken by Swarthmore College. Topics include: recruitment and retention of
+                    minority students; statistical information on admissions and alumni; the
+                    President's Ad Hoc Advisory Committee on Ethical Investment Principles; a 1958
+                    Middle States Association of Colleges assessment of Swarthmore; a report from
+                    the Commission for Independent Colleges and Universities; and departmental
+                    assessments.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Swarthmore College.</corpname>
+                <subject encodinganalog="650">Investments--Moral and ethical aspects.</subject>
+                <subject encodinganalog="650">Minority college students--Recruiting.</subject>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                
+            </admininfo>
+
+            <add> </add>
+
+        </archdesc>
+    </ead>

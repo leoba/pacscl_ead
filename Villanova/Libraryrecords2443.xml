@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library records <date type="inclusive">1838-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2443</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1838-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University traces its origins to old Saint Augustine's Church in
+                    Philadelphia, which the Augustinians founded in 1796, and to its parish school,
+                    Saint Augustine's Academy, established in 1811. Villanova University has been
+                    sponsored by the Augustinian Order since its founding in 1842. Today, the
+                    University is comprised of five colleges: Liberal Arts and Sciences (Villanova
+                    College), Engineering, School of Business (formerly known as the College of
+                    Commerce and Finance), Nursing and the School of Law. Over the course of
+                    Villanova's history, the University's library had been housed in several
+                    buildings. A new library building was erected after World War II, and in 1963 it
+                    was named and rededicated in honor of Father Daniel P. Falvey, who was
+                    instrumental in the development of the Library and its collections.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Falvey Memorial Library of Villanova
+                    University. Administrative records include library policies, receipts for book
+                    purchases (1877-1937), forms, and lists of Library staff (1985-1990).
+                    Correspondence dates from 1888 to 2000. Topics addressed in the Correspondence
+                    files include professional associations, automation, exhibitions, expansion and
+                    building issues, installation of a circulation system, and correspondence of
+                    Rev. Daniel P. Falvey (1950-1984), James A. Farley (1943-1959), Joseph
+                    McGarrrity (1940-1948), Rev. Thomas C. Middleton (1888-1923), Rev. Francis E.
+                    Tourscher (1902-1941), and others. Legal records include information regarding
+                    appraisals and a 1968 federal loan for the Library. Minutes are present for
+                    meetings of the Faculty Library Committee (1954-2000), Library Department Heads
+                    (1969-1985), staff meetings, and several other committees and councils. The News
+                    Media series includes newspaper clippings and articles on the library, its
+                    collections, and several notable members of the Library staff. The Personal
+                    Papers series includes articles by and about several Library staff members
+                    (including Daniel P. Falvey, Francis Tourscher, Thomas C. Middleton, and Louis
+                    A. Rongione), awards, bibliographies, and ephemera. Printed materials and
+                    programs include exhibition brochures, invitations, and articles on the Library
+                    and its directors. Reports in the collection include building and facilities
+                    studies and proposals, annual reports (1962-2000), library manuals, circulation
+                    system proposals and agreements, acquisitions, and a 1949 history of the
+                    Library. The collection also includes records of the Friends of the Library.
+                    These materials consist of correspondence; minutes of the Friends of the Library
+                    Executive Committee (1947-1960); newsletters (1954); news clippings and press
+                    releases; programs and ephemera; and addresses. Volumes in the collection
+                    include: book catalog, 1894; circulation ledger, 1902-1923; library accession
+                    books 1898-1908; 1903-1907, 1934-1938; and a printed volume of Augustinus:
+                    Civitate Dei, 1838.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

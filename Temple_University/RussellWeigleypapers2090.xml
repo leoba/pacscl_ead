@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Russell Weigley papers <date type="inclusive">1962-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Russell Weigley papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2090</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>31 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Russell F. Weigley (1930-2004) was a noted military historian. His research and
+                    teaching interests centered on American and world military history, World War
+                    II, and the American Civil War. Weigley taught at Penn from 1956 to 1958, and
+                    from 1958 to 1962 at Drexel University. He then joined the faculty at Temple
+                    University as an associate professor and remained until his retirement in 1999
+                    as Distinguished University Professor. He was also a visiting professor at
+                    Dartmouth College and the U.S. Army War College at Carlisle, Pennsylvania.
+                    Weigley's graduate teaching emphasized military history defined in a broadly
+                    comprehensive way, including operational, combat history but also extending to
+                    the larger issues of war and its significance; to the history of ideas about
+                    war, peace, and the armed forces; and to the place of the soldier in the state
+                    and in society. His books included The American Way of War: A History of United
+                    States Military Strategy and Policy (1973), Towards an American Army: Military
+                    Thought from Washington to Marshall (1962), and Eisenhower's Lieutenants: The
+                    Campaign of France and Germany, 1944-1945 (1981).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of papers related to Weigley's academic and professional
+                    career. Materials include: incoming and outgoing correspondence with students,
+                    colleagues, editors of publications, and members of historical/military history
+                    organizations; typescripts, lightly annotated; lecture notes, programs and
+                    announcements for lectures; reader/reviewer reports; papers, articles,
+                    dissertations by others, and research materials; course materials such as exams
+                    and syllabi; letters of recommendation; departmental reports, class lists,
+                    minutes of committees (tenure, university policy), and records of his
+                    involvement with the Middle States Accreditation Committee at Temple; videos on
+                    historical subjects; and documentation related to various topics, such as a
+                    medal of honor for Theodore Roosevelt, a "History of Philadelphia Project",
+                    and World War II memorials.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

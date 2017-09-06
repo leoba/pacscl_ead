@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Undergraduate Nursing Program records <date type="inclusive">1965-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Undergraduate Nursing Program records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2482</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1965-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University first offered a program of study leading to a Bachelor of
+                    Sciences in Nursing Education in 1932. This commitment was expanded in 1953 to
+                    created a College of Nursing that now offers a generic BSN program, a BSN
+                    completion program for registered nurses, an accelerated BSN program for second
+                    degree students, and a MSN program, a Ph.D. program and a Continuing Education
+                    program. The College of Nursing is approved by the State Board of Nursing of the
+                    Commonwealth of Pennsylvania. Upon completion of the undergraduate program,
+                    graduates are eligible to take the licensing examination (NCLEX) for
+                    professional registered nurses. This license is transferable within the United
+                    States nationally by state. The undergraduate and graduate programs are both
+                    fully accredited by the Commission on Collegiate Nursing Education. The Nurse
+                    Anesthesia concentration in the graduate program is accredited by the Council on
+                    Accreditation of Nurse Anesthesia Educational Programs. The Continuing Education
+                    Program is accredited as a provider of Continuing Education in Nursing by the
+                    American Nurses Credentialing Center, Commission on Accreditation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Undergraduate Nursing Program Records contain syllabi (faculty and student),
+                    examinations, student materials, study guides, course evaluation forms, rotation
+                    schedules, and manuals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

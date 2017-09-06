@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Albert H. Gerberich papers <date type="inclusive">1929-1952</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Albert H. Gerberich papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2141</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.38 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1952</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Albert Horwell Gerberich (1898-1965) was a genealogist, academic, and diplomat.
+                    He received degrees from Dickinson College, the University of Pennsylvania, and
+                    Johns Hopkins University. He served in the Navy during World War I and in the
+                    Foreign Service from 1919 to 1925. He taught Latin at Coatsville High School
+                    from 1926-1928, then joined the faculty of Dickinson College. He rejoined the
+                    Foreign Service in 1943 and later held a number of positions in the Department
+                    of State, until his retirement in 1960. He published a number of genealogical
+                    writings, and was a member of several societies, including the Genealogical
+                    Society of Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of genealogical research on various German
+                    family names. These files include notes, family charts, printed materials, and
+                    correspondence. The collection also includes an extensive collection of
+                    notebooks featuring etymologies for various languages, lists of Spanish names,
+                    family charts and other research on Spanish families, information from Church
+                    records and about churches, and English family charts. Other materials include:
+                    some correspondence related to genealogical research, including research on
+                    German immigration before 1727; loose notes related to the topics above;
+                    professional correspondence, including some related to activities at Dickinson
+                    College; historical sketches related to Dickinson College; a scrapbook related
+                    to the sesquicentennial of the Sullivan Expedition of 1779 (articles from Geneva
+                    Daily Times) (may not be Gerberich's); a scrapbook of newspaper articles and
+                    ephemera related to "Scenic America" - sights and landmarks in Pennsylvania,
+                    organized by county (may not be Geberich's - possibly Heber Gearhart); a record
+                    of tombstone inscriptions in the Old Mennonite Cemetery of the Hereford
+                    Congregation of Mennonites in the Borough of Bally, Berks County; clippings
+                    (many in German, apparently humorous) and ephemera on various topics, including
+                    Cuba; photocopies of original documents (court records relating to
+                    naturalization of Germans in 18th century); and indexes to names in various
+                    genealogical records, including the German Reformed Church in Philadelphia
+                    records in the State Archives and other church records. The materials are in
+                    English, German, and Spanish.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

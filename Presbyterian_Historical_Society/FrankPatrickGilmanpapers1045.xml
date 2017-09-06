@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frank Patrick Gilman papers <date type="inclusive">1874-1921</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frank Patrick Gilman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1045</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1921</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frank Patrick Gilman (1853-1918) was educated at Princeton University (1879) and
+                    Princeton Theological Seminary (1885). He was ordained from the Presbytery of
+                    Rochester and appointed to the Hainan Mission in China by the Board of Foreign
+                    Missions in 1885. He died there in service in 1918.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes material related to Gilman's work in China and some
+                    family records of Mabel Gordon White and Wellington White, who may have been
+                    Gilman's wife's parents. There is also correspondence to family members; reports
+                    by Gilman from the mission in Hainan; a handwritten manuscript of "Hainan and
+                    its Mission Work," written by Gilman in 1890; photographs of the mission,
+                    missionaries, and Chinese people; postcards; newsletters; diplomas; some
+                    financial information; miscellaneous travel brochures from European cities;
+                    missionary newsletters; a manuscript of a newsletter article from 1885; and
+                    newspaper clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Ray, Frances and Daniel</p>
+                <p>Accession number: 92 1109|93 0823a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Frank Patrick Gilman papers (RG 56).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

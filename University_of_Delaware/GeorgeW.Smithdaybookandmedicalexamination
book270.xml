@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George W. Smith daybook and medical examination book <date type="inclusive">1875-1910</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George W. Smith daybook and medical examination
+                    book</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC270</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.19 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1910</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George W. Smith was the son of Judge Bartine Smith of Haverford, Pennsylvania. He
+                    was a medical doctor and a member of Crescent Lodge, No. 493. He practiced at
+                    1809 N. 12th Street and 1302 Spruce Street in Philadelphia, Pennsylvania. At the
+                    time of his death in 1910 he lived at 806 North Broad Street.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two volumes. The daybook of patient accounts,
+                    1875-1876, has entries which list the date, the patient's name, the prescription
+                    given, what the illness or symptoms were, and the charges made. It also includes
+                    a poem by Smith titled, "Our College Flag." The medical examination book
+                    includes materials from the late 1880s to 1910 and is indexed by name. The bulk
+                    of the volume lists the date, patient name, patient address, patient symptoms,
+                    and sometimes the medicine or treatment given. The back of the medical
+                    examination book includes various writings by Smith such as toasts, songs and
+                    club histories for the Oxford Club and Crescent Lodge #493 (some printed) and a
+                    valedictory address for the Hahnemanian Institute, as well as some poems written
+                    by J.G. Bryant.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of the Moyerman family.</p>
+                <p>Year acquired: 1970-1972</p>
+                <p>Accession number: 07-196</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

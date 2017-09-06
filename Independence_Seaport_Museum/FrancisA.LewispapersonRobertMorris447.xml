@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Francis A. Lewis papers on Robert Morris <date type="inclusive">1790-1932</date>
+                        <date type="bulk"> 1790-1830</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Francis A. Lewis papers on Robert Morris</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC447</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1790-1932</unitdate>
+                <unitdate type="bulk"> 1790-1830</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Morris, Jr. (1734-1806) was an American merchant and a signer to the
+                    United States Declaration of Independence, the Articles of Confederation, and
+                    the United States Constitution. Morris was known as the Financier of the
+                    Revolution, because of his role in personally financing the American side in the
+                    Revolutionary War from 1781 to 1784. Morris was ruined by land speculation and
+                    in 1798 was taken to debtor's prison where he spent three and a half years. For
+                    the benefit of his creditors he assigned certain real estate that he owned in
+                    New York to trustees. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Records related to the repayment of the creditors of Robert Morris and to the
+                    administration and gradual liquidation of his lands that placed in trust by
+                    Morris to protect his equity. Correspondence, indentures, deeds, receipts, and
+                    other records document the sale and sub-division of lands and taxation on lands.
+                    Items of note include a copy of a deed for land conveyed to Mary Jemison by the
+                    Seneca Indian Nation and a certified true copy of bill from the New York
+                    legislature guaranteeing Jemison's title to the land. Papers of Lawrence Lewis
+                    (Sr.), including correspondence and receipts. Correspondence from John Young to
+                    Lawrence Lewis regarding the sale of coal lands in Schuylkill County, PA and to
+                    the coal and barge operations connected to the mining of coal; There are also
+                    some papers related to Robert Lewis (brother of Lawrence Lewis Sr.), Lawrence
+                    Lewis Jr. (d. 1915), and Frederick A. Lewis. Letters, receipts, deeds of Joseph
+                    Higbee. Correspondence related to the sale and subdivision of lands in Ohio; and
+                    letters from Higbee to his father, mother, and sister. Papers of John Phillips,
+                    captain of the William Savery and of the Superior, both of which were engaged in
+                    trade with China. Includes invoices, bills of lading, and accounts for goods
+                    shipped. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Deeds.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1979.83; 1979.83.5</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Col. Richard Thomas papers <date type="inclusive">1741-1919</date>
+                        <date type="bulk"> 1741-1857</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Col. Richard Thomas papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2390</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1741-1919</unitdate>
+                <unitdate type="bulk"> 1741-1857</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Thomas was born in West Whiteland Township, Chester County, on October
+                    30, 1744, a descendant of Richard Ap Thomas of Whitford Garden, Flintshire,
+                    North Wales. A Quaker, Thomas was appointed a colonel of the 5th Battalion of
+                    Association in Chester County by John Morton on April 19, 1776. He was disowned
+                    from Uwchlan’s Friends Meeting for his military service on August 10, 1775 . His
+                    brother George remained in the Society of Friends, but according to a letter in
+                    the collection, seems to have aided the Revolutionary cause in other ways. After
+                    the war, George was a member of the Commission that planned the
+                    “Philadelphia-Lancaster Turnpike.” George died after contracting yellow fever in
+                    1793. During the Revolutionary War, Col. Thomas participated in a campaign into
+                    New Jersey (as far as Amboy) as part of the military’s efforts to protect
+                    Philadelphia. Thomas was appointed Brigadier General of Chester County on April
+                    19, 1793, (see Box 2, Folder 4), but declined the promotion. He began his
+                    political career in 1786, serving as an assemblyman until his election as a
+                    State Senator in 1790. In 1794 he became a member of Congress for the fourth,
+                    fifth and sixth sessions (1794, 1796, 1798). Thomas was married to Thomazine
+                    Downing on October 20, 1774, at Uwchlan Meeting. They had eight children:
+                    Richard, Mary, George, Jacob, Phebe, Thomazine, Samuel and William. Richard
+                    married Rebecca Malin. Thomazine married William Ashbridge and Phebe married
+                    Samuel Hains. Col. Richard Thomas died January 19, 1832 in his eighty-eighth
+                    year. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Documents in the collection give not only a detailed account of Chester County
+                    and U.S. history, but also the personal side of the Thomas family. Military
+                    records include “Accounts of a Revolutionary War Soldier, Richard Thomas
+                    1776-1777,” and “A Size Book of Firelocks 1776/Field Book 1775, Richard Thomas.”
+                    These record the activity of the Chester County Militia during Thomas’ service
+                    in the Revolutionary War and are a record of supplies. Thomas also wrote
+                    numerous letters to friends and loved ones back in Pennsylvania during 1800-1801
+                    when he was with the first session of Congress to serve in Washington City.
+                    Collection also includes his mill account book along with related receipts and
+                    letters. Includes many family letters and poetry. Topics include his trip across
+                    New York State in 1819. A report of this trip was later published in the Village
+                    Record newspaper. Also includes a 1796 travel journal of a trip to Madeira by
+                    Samuel Hains. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Donated by Francis D. Brinton and George Ashbridge, III.</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

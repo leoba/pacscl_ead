@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Maurine La Barre papers <date type="inclusive">1863-1989</date>
+                        <date type="bulk"> 1930s-1970s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Maurine La Barre papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1331</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1863-1989</unitdate>
+                <unitdate type="bulk"> 1930s-1970s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Maurine Boie (1907-1991) received her master's degree in social work from Bryn
+                    Mawr in 1934, and taught and practiced social work in New York, Pennsylvania,
+                    and North Carolina. During the late 1930s and early 1940s, she was
+                    editor-in-chief of the The Family, the journal of the Family Welfare Association
+                    of America in New York City, and in 1943 she wrote New York City's Baby Book,
+                    which was given to every new mother in the city. In 1939, Boie married
+                    anthropologist Weston La Barre. They moved to Durham, North Carolina, in 1946 in
+                    order for Weston to accept a faculty position at Duke University. There Maurine
+                    helped start the Durham Child Guidance Clinic and founded the Durham School for
+                    Pregnant School Girls. In 1960, Maurine was appointed assistant professor of
+                    Psychiatric Social Work at Duke University, and in 1971 she returned to
+                    psychiatric social work at the Duke University Medical Center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the personal and professional papers of Maurine Boie
+                    La Barre. Included are publications, personal journals, family photographs,
+                    notes on the development of her children, correspondence, a scrapbook of family
+                    history, and clippings. Correspondence includes letters home from Bryn Mawr,
+                    letters to Weston La Barre, and letters to her twin sister, Mildred.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Sophia Smith
+                    Collection, Smith College: Mildred Louise Boie Saunders papers (MS 247); Duke
+                    University: Weston La Barre papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

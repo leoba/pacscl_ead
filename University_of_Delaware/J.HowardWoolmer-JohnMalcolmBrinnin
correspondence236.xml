@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. Howard Woolmer - John Malcolm Brinnin correspondence <date type="inclusive">1975-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. Howard Woolmer - John Malcolm Brinnin
+                    correspondence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC236</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. Howard Woolmer was born in Montreal in 1929. He moved to New York City in
+                    1958, where he began a career as a professional bookseller in the early 1960's.
+                    In addition to working at his business J. Howard Woolmer has compiled a number
+                    of published bibliographies and collections of note, including A Checklist of
+                    the Hogarth Press 1917-1946, and a catalogue as well as a bibliography of
+                    Malcolm Lowry's writings. In recent years Mr. Woolmer has built collections
+                    relating to American poets, Irish poets, American Jewish writers and Irish
+                    theater for the Firestone Library at Princeton University. John Malcolm Brinnin,
+                    American poet and literary critic, was born in Halifax Nova Scotia in 1929.
+                    Brinnin went to the University of Michigan for his undergraduate studies where
+                    he won three Hopwood Awards in 1938, 1939 and 1940. Graduating from Michigan in
+                    1942, Brinnin went to Harvard University for graduate work. From 1949-1956,
+                    Brinnin was Director of the Young Men's and Young Women's Hebrew Association
+                    Poetry Center (the 92nd Street Y) . While there, he raised the 92nd Street Y to
+                    national attention as a focal point of poetry in the United States. Brinnin, for
+                    example, was the first person to bring Dylan Thomas to the United States.
+                    Brinnin's Dylan Thomas in America (1955) describes much of his attempt to
+                    befriend help the troubled Welsh poet. In addition to his work on Thomas,
+                    Brinnin published six volumes of his own poetry. Brinnin also wrote scholarly
+                    works on T.S. Eliot, Gertrude Stein, Truman Capote, and William Carlos Williams.
+                    Brinnin taught in a number of universities including Vassar, Boston University,
+                    the University of Connecticut, and Harvard University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence between J. Howard Woolmer and poet and
+                    educator, John Malcolm Brinnin. Much of the correspondence regards the sale of
+                    Brinnin's papers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J. Howard Woolmer</p>
+                <p>Year acquired: 2/19/2007</p>
+                <p>Accession number: 07-14</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

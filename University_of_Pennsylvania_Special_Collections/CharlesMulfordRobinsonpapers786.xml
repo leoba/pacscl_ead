@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Mulford Robinson papers <date type="inclusive">1781-1924</date>
+                        <date type="bulk"> 1886-1924</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Mulford Robinson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC786</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1781-1924</unitdate>
+                <unitdate type="bulk"> 1886-1924</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Mulford Robinson (1869-1917) was a journalist and specialist in town
+                    planning. He was the first Professor for Civic Design at the University of
+                    Illinois at Urbana-Champaign, which was only one of two universities offering
+                    courses in Urban Planning at the time. Robinson was a proponent of the City
+                    Beautiful movement and wrote The Fair of Spectacle, an illustrated description
+                    of Chicago's World Columbian Exposition in 1893. He went on to write The
+                    Improvement of Towns and Cities (1901), the first guide to city planning, among
+                    many other publications. He contributed to the planning of a number of American
+                    cities, including Denver, Omaha, Columbus, and Honolulu.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional and personal papers of Charles Mulford
+                    Robinson. Materials include correspondence; scrapbooks of clippings and notes;
+                    pamphlets; college class notes; and books. Professional materials include:
+                    reports to civic and business clubs and to planning commissions in a number of
+                    American cities, including Syracuse, New York, Hannibal, Missouri, St. Joseph,
+                    Missouri, Freeport, Illinois, Honolulu, Hawaii, and Greensboro, North Carolina;
+                    letters from civic and business clubs and planning commissions regarding his
+                    reports and proposals; and scrapbooks of newspaper clippings. Personal papers
+                    include manuscript orations, essays, and stories from Robinson's college years;
+                    a scrapbook of invitations and newspaper items about his marriage to Miss Eliza
+                    Ten Eyck Pruyn; a bible and books of poetry; a copper photograph plate of Mr.
+                    Robinson; a small batch of family papers related to Robinson's forbears; and
+                    correspondence with Mrs. Robinson, much of it related to the dedication of a
+                    memorial to Robinson at the University of Illinois.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 4</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

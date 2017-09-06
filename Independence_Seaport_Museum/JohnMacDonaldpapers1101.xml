@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John MacDonald papers <date type="inclusive">1936-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John MacDonald papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC1101</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Luckenbach Steamship Co. (1850-1974), New York, was one of the longest-lived and
+                    most successful of US shipping companies. Lewis Luckenbach started with a single
+                    tugboat in New York and initially built his fortune by pioneering tug-and-barge
+                    transport of coal from Norfolk, Virginia (the outlet for the coal fields in what
+                    is now West Virginia), to New England. Luckenbach was later a major force in the
+                    intercoastal trade. John Hugh MacDonald (b. 1915) was master of the SS J.L.
+                    Luckenbach.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business records of the Luckenbach Steamship Co.
+                    Materials include: order books of SS J.L. Luckenbach, 1951-1954, including
+                    standing orders for Deck Officers and Night Orders; pilot's licenses, 1987-1990;
+                    copies of US Customs Department regulations related to repairs in foreign ports
+                    and lading; charts for determining ballast requirements; blank inspection report
+                    forms; a blank checklist for official ship documents; a blank fire investigation
+                    report; and a sheet of Luckenbach letterhead. Materials related to John Hugh
+                    MacDonald include: discharge papers from the USCG-Merchant Marine; two discharge
+                    books with records of MacDonald's service aboard ships, 1937-1955; certificate
+                    for service in the US Merchant Marine; a diploma from the Sperry Gyroscope
+                    Company, 1936; and a record of MacDonald's employment with the Luckenbach
+                    Steamship Co. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Military records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 94.31</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

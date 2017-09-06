@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Doyle papers on Carlos Montenegro and Bolivian politics <date type="inclusive">1942-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Doyle papers on Carlos Montenegro and Bolivian
+                    politics</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2058</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="spa"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1942-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James J. Doyle was a student at Temple University in the 1970s. He studied with
+                    Dr. William Sharp, focusing on South American history and politics. One figure
+                    Doyle researched was Carlos Montenegro, who was a Bolivian nationalist and
+                    diplomat, director of the Sintesis Economica Americana, and one of the founders
+                    of the Movimiento Nacionalista Revolcinario (MNR).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of James Doyle's academic research on Bolivian statesmen
+                    and politics, with a particular focus on Carlos Montenegro. Materials include
+                    original correspondence to and from Montenegro and other figures; typescripts by
+                    Montenegro; photographs; newspaper clippings; Doyle's manuscript notes and
+                    drafts; Doyle's correspondence with academic advisors; photocopies of articles
+                    and book chapters; audio cassette recordings of interviews; published volumes on
+                    Bolivian politics and history by Carlos Montenegro, Augusto Cespedes, and
+                    others; and a small number of pamphlets and posters.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

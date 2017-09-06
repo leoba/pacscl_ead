@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Swarthmore College Faculty Committee on the Pre-Medical Program
+                        records <date type="inclusive">1943-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Swarthmore College Faculty Committee on the Pre-Medical
+                    Program records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1489</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1943-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Swarthmore College's Faculty Committee on the Pre-Medical Program was established
+                    in 1949 by President John Nason to provide guidance to pre-medical undergraduate
+                    students at Swarthmore and to prepare comprehensive letters of recommendation
+                    for those students. The committee also compiled academic statistics on the
+                    pre-medical students and tracked their progress in medical school. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Faculty Committee on the Pre-Medical
+                    Program from 1943-1959. Materials include: committee reports; letters of
+                    recommendation; faculty evaluations of students; statistical summaries of
+                    Swarthmore students' grades and their progress in medical schools; surveys of
+                    medical students; correspondence with students and faculty of various medical
+                    schools; and multiple copies of a 1959 guide for pre-medical students at
+                    Swarthmore.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Swarthmore College--Faculty.</corpname>
+                <subject encodinganalog="650">Medicine--Study and teaching.</subject>
+                <subject encodinganalog="650">Medicine--Vocational guidance.</subject>
+                <subject encodinganalog="650">Premedical education.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+                <genreform encodinganalog="655">School records</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                
+            </admininfo>
+
+            <add> </add>
+
+        </archdesc>
+    </ead>

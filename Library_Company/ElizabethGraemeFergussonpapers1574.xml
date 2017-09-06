@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elizabeth Graeme Fergusson papers <date type="inclusive">1752-1799</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elizabeth Graeme Fergusson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1574</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1752-1799</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Six volumes of poems, translations, interpretations, letters, etc. of Elizabeth
+                    Graeme Fergusson of Philadelphia. "Fergusson (1737-1801) was an important
+                    literary figure whose work was largely obscured by the fact that she was a woman
+                    writing in the 18th century" (Phila. Inquirer, 3/26/85). "Telemachus," a
+                    poetic translation of Fenelon's "Telemaque," completed in 1769, with
+                    "translator's notes" added in subsequent years, by Elizabeth Graeme Fergusson,
+                    Philadelphia litterateur. Poetic interpretation of the Book of Psalms, with
+                    Graeme's notations and introductory letter addressed to the Rev. Richard Peters.
+                    Poetry, prose, letters, memoranda, covering a wide range of political, social,
+                    moral, religious, and economic subjects composed or extracted by Ferguson.
+                    Although the material dates from 1768, apparently it was recorded from 1790 to
+                    1795, and it is often signed "Laura." The work, which Mrs. Fergusson referred
+                    to as her "Poemata Juvenilia," was written between 1752 and 1772. Nearly all
+                    her poems are signed "Laura," her most common pseudonym. In the volume she
+                    also copied poems to her from others, including Benjamin Franklin's son William,
+                    to whom she was engaged from 1752 until 1762 when he married Miss Elizabeth
+                    Downes in London. She traveled to Europe to restore her spirits, and dazzled the
+                    social and intellectual circles there. Upon her return in 1766 she established
+                    at Graeme Park a celebrated literary salon. Her friendships with Philadelphia's
+                    best and brightest in the world of letters--Francis Hopkinson, Provost William
+                    Smith (first President of the University of Pennsylvania), Jacob Duche, and
+                    others--are chronicled in "Poemata Juvenilia." The volume ends shortly before
+                    her ill-fated marriage to Henry Hugh Fergusson in 1772. Most volumes are indexed
+                    by Fergusson.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Purchased; By exchange with the Osborn Collection at Yale; Gift of
+                    Mrs. Howard Aley</p>
+                <p>Year acquired: 1962; 1978; 1985</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

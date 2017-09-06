@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>New England Nuclear Corporation annual reports and product catalogs
+                            <date type="inclusive">1959-2003</date>
+                        <date type="bulk"> 1959-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">New England Nuclear Corporation annual reports and product
+                    catalogs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC124</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-2003</unitdate>
+                <unitdate type="bulk"> 1959-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Paul McNulty was the Vice President of Marketing at New England Nuclear
+                    Corporation (NEN). Boston-based New England Nuclear Corporation, incorporated in
+                    1956, produced radioactive chemicals and supplies for use in scientific research
+                    and for application in the medical, biological, and physical sciences. In a bid
+                    to expand its business into medical research, DuPont purchased New England
+                    Nuclear in 1981. DuPont sold NEN's medical diagnostic business in 1996 and the
+                    remainder of the company (then called NEN Life Sciences Products) in 1997.
+                    PerkinElmer, a drug research and development company, bought NEN in 2000. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of marketing materials and company business reports from
+                    New England Nuclear Corporation. The marketing materials include all of the
+                    sales and product brochures in use by the company in 1981, with publication
+                    dates ranging from 1976 to 1981. Reports include annual reports from 1963 to
+                    1981, and interim reports from 1977 to 1980, notices of annual stockholder
+                    meetings, and stock prospectuses. The collection also includes a 2003 memorial
+                    booklet for Edward Shapiro, co-founder of NEN, an annual report from Tracerlab
+                    (where NEN's cofounders worked prior to launching the company), and
+                    miscellaneous brochures, advertisements, and clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: P.A.M.</p>
+                <p>Accession number: 04:040</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

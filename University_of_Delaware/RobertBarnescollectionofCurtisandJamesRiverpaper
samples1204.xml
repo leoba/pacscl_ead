@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Barnes collection of Curtis and James River paper samples
+                            <date type="inclusive">1974-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Barnes collection of Curtis and James River paper
+                    samples</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1204</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1974-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert C. Barnes is a retired police officer and a local historian. He is the
+                    co-author of Press, Politics &amp; Perseverance: Everett C. Johnson and The
+                    Press of Kells. The Curtis Paper Mill (also known as the Nonantum Mill) is a
+                    factory located near White Clay Creek in Newark, Delaware. Although a mill has
+                    existed on the site since the late eighteenth century, the present structure was
+                    built in 1870. The Curtis brothers bought the plant in 1848. Although the plant
+                    is usually referred to in Newark as the Curtis Paper Mill, the actual name is
+                    Nonantum Mill, referring to an Indian name for the area of Newton,
+                    Massachusetts, the Curtis' hometown. The plant had the distinction of
+                    manufacturing the paper on which several of the peace treaties ending World War
+                    II were signed. The James River Corporation eventually purchased the plant, but
+                    closed it in 1997 as they consolidated their operations.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Robert Barnes collection of Curtis and James River paper samples consists of
+                    material dating from the 1980s and 1990s. The collection contains paper sample
+                    books and albums, promotional posters, envelopes, and brochures. The samples
+                    were collected from the Curtis Paper Mill in Newark, Delaware.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99-32</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/barnes.htm">http://www.lib.udel.edu/ud/spec/findaids/barnes.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

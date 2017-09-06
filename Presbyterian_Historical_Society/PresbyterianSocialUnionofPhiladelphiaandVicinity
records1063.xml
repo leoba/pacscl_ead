@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Social Union of Philadelphia and Vicinity records
+                            <date type="inclusive">1888-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Social Union of Philadelphia and Vicinity
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1063</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.67 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1888-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The object of the Presbyterian Social Union of Philadelphia and Vicinity was "to
+                    encourage among the members of the Presbyterian Churches a more friendly and
+                    intimate acquaintance, to secure concert action, and to promote the general
+                    interests of Presbyterianism in this vicinity." John Wanamaker was the first
+                    president. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Presbyterian Social Union of Philadelphia
+                    and Vicinity. Materials include: manuscript page from 1888 describing the first
+                    meeting of the Presbyterian Social Union, presided over by John Wanamaker; a
+                    volume of minutes, 1890-1915 with treasurer's reports, resolutions, lists of
+                    addresses given, nominations, and programs; copies of the constitution and
+                    by-laws and a history of the Presbyterian Social Union; lists of members;
+                    programs and menus from annual banquets (1901-1944, with gaps); and reports of
+                    the Outlook Committee, 1924-1967. The reports present in narrative form the
+                    committee's positions on a variety of themes, including evangelism, foreign
+                    missions, atheism, Presbyterian projects and programs, problems of the inner
+                    city, senior citizens, and the function of the layman in the church.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 93 0210b: Transferred from the library; accession 02 0614c:
+                    Presbyterian Social Union (8/5/71)</p>
+                <p>Accession number: 93 0210b|02 0614c</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

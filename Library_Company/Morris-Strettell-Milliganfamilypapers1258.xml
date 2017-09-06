@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Morris-Strettell-Milligan family papers <date type="inclusive">1681-1870</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Morris-Strettell-Milligan family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1258</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1681-1870</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Milligans, Morrises, and Strettells were prominent Pennsylvania and New
+                    Jersey families. James Milligan was appointed Auditor General of the United
+                    States in 1779. Cadwalader Morris was a Pennsylvania delegate to the Continental
+                    Congress, 1783-1784. Robert and Amos Strettell were shippers and landowners in
+                    Philadelphia and New Jersey. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, deeds, and estate papers of the Milligan,
+                    Morris, and Strettell families. The correspondence covers a wide range of
+                    topics, including politics, trade, travel, and family matters. Correspondents
+                    include members of the Morris, Milligan, and Strettell families, as well as
+                    Samuel Powel, Benjamin Chew, and Daniel Roberdeau. Estate papers include wills,
+                    receipts, mortgages, and inventories.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: unaccessioned</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Strettell Family papers (0640).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

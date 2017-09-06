@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sue Frank Klingon archive <date type="inclusive">1969-2002</date>
+                        <date type="bulk"> 1990-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sue Frank Klingon archive</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2234</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1969-2002</unitdate>
+                <unitdate type="bulk"> 1990-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sue Frank, also known as Admiral Kishin, is the publisher of several Star
+                    Trek-related fan zines, including "Agonizer," "Klin-fire," and
+                    "KomereXXX." </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Star Trek fan newsletters, zines, concordances, and other
+                    printed matter assembled by Sue Frank. Many of the materials were created by
+                    Klingon fan groups. The collection includes newsletters from many groups in the
+                    United States, and also international clubs (Italy, Great Britain, New Zealand,
+                    and other locations). The titles include: "Galactic Engineers Concordance
+                    Logbook"; "Mindscanners" and "Force Recon," newsletters of the Klingon
+                    Assault Group; "Ho1QeD," the journal of the Klingon Language Institute; and
+                    "Engage!" The collection also includes a copy of the Trekker Cookbook, a small
+                    amount of ephemera from Star Trek conventions, issues of zines on non-Star Trek
+                    topics, and correspondence between Frank and members of various fan groups.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

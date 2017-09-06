@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dana Carleton Munro notes <date type="inclusive">1889-1948</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dana Carleton Munro notes</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC360</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1889-1948</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dana Carleton Munro (1866-1933) was a historian and influential scholar of the
+                    Crusades. He taught at the University of Pennsylvania from 1893-1902 and at the
+                    University of Wisconsin from 1902-1915. He then joined the faculty of Princeton
+                    University, where he was the chair of the history department from 1916-1928 and
+                    the first Dodge Professor of History. He published a number of texts on the
+                    Middle Ages and medieval civilization, including A History of the Middle Ages
+                    (1902).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of notes and course materials by or related to Dana
+                    Carleton Munro. Materials include: notes of Dana Carleton Munro, chiefly student
+                    notes from the University of Strasbourg, 1889-1890; George L. Burr's reader's
+                    notes on Munro's textbook A History of the Middle Ages, 1913-1921 (manuscript
+                    notes and typed transcript); and syllabi and lecture lists for courses on the
+                    Crusades taught by J. L. LaMonte (the courses used Munro's works) from 1948.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Formerly in the Lea Collection</p>
+                <p>Accession number: 137</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

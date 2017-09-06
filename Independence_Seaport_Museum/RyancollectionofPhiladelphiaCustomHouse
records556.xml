@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ryan collection of Philadelphia Custom House records <date type="inclusive">1821-1925</date>
+                        <date type="bulk"> 1830-1899</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ryan collection of Philadelphia Custom House
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC556</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1821-1925</unitdate>
+                <unitdate type="bulk"> 1830-1899</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The United States Customs Service (1789-1927) processed paperwork for the import
+                    and export of goods into and out of the country. Customs officials also assessed
+                    and collected customs fees and penalties. Past functions of the Customs Service
+                    included administration of navigation aids and lighthouses, and functions
+                    relating to the protection of seamen, and to revenue cutters. In 1927 the
+                    Customs Service became the Bureau of Customs.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the United States Customs Service of the Port
+                    of Philadelphia, from 1821 to 1926, with the major concentration of materials
+                    falling between the 1830s and the 1890s. The records illustrate commercial and
+                    shipping interests, as well as foreign trade relations, of the United States.
+                    Materials include: consular invoices; bills of lading; customs declarations and
+                    affadavits of consignees, importers, and agents; surveyor's office reports of
+                    arrivals; inspection records; invoices for goods; receipts for port fees; and
+                    miscellaneous correspondence related to customs. The records document shipments
+                    of a wide variety of goods and merchandise: wool and textiles, coal, iron, ash,
+                    wood, sugar, coffee, salt, fruit, gin, whiskey, wine, and many other items.
+                    Ships arrived from Liverpool and other ports in Great Britain, Germany, France,
+                    and Holland, as well as various Caribbean ports.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">United States Custom House (Philadelphia,
+                    Pa.)</corpname>
+                <subject encodinganalog="650">Customs
+                    administration--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Shipping--Pennsylvania--Philadelphia.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Commerce.</geogname>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: collector: Ryan Cooper</p>
+                <p>Accession number: 1995.6</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

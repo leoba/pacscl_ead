@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frank C. P. McGlinn political collection <date type="inclusive">1812-1998</date>
+                        <date type="bulk"> 1928-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frank C. P. McGlinn political collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2072</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>86.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1812-1998</unitdate>
+                <unitdate type="bulk"> 1928-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Born in 1914, Francis C. P. McGlinn graduated from William Penn Charter School in
+                    1933, the University of North Carolina in 1937, and the University of
+                    Pennsylvania Law School in 1940. He served in the military during World War II,
+                    receiving a Purple Heart when he was injured in 1944. After the war, he worked
+                    at the law firm of Pepper, Bodine, Stokes and Hamilton and Sheetz. He left the
+                    practice of law to work as an executive for the Al Paul Lefton Co., an
+                    advertising firm, from 1953-1957. Following his tenure at the Lefton Company,
+                    McGlinn worked as an officer at The Fidelity Bank where he eventually became
+                    executive vice president (1971-1978). McGlinn left The Fidelity Bank for the
+                    Western Savings Bank where he served as vice president (1978-1980) and senior
+                    vice president (1980-1982). McGlinn also served on the board of trustees of
+                    Temple University (1954-1971), the board of trustees of the Free Library of
+                    Philadelphia as well as a host of other civic and philanthropic organizations. A
+                    Republican since 1932, McGlinn excelled as a fund-raiser and a financial adviser
+                    for the state and national Republican Party. In various capacities, he served on
+                    the executive boards of the Republican National Finance Committee (1964-1979)
+                    and the Republican Finance Committee of Pennsylvania. In addition to those
+                    roles, McGlinn worked on the executive committee of the Republican State
+                    Committee of Pennsylvania, served as a delegate-at-large to the Republican
+                    National Conventions from 1964-1976.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of McGlinn's political ephemera collection and personal
+                    political documents and correspondence as an active Pennsylvanian Republican.
+                    Materials include: minutes, memos, agendas, and financial summaries from
+                    meetings of the various finance committees on which McGlinn served; delegate
+                    packets from the Republican National Convention; invitations to presidential
+                    inaugurations; fundraising flyers and brochures; political pamphlets;
+                    newsletters, and magazines; clippings of news stories, editorials, and political
+                    advertisements; correspondence; campaign literature for various candidates for
+                    state and national offices; photographs; ephemera such as buttons, bumper
+                    stickers, hats, and ribbons; autographs from political notables (presidents,
+                    presidential candidates, senators, cabinet members, and others); commemorative
+                    glassware and plates; and recordings of addresses by Roosevelt, Eisenhower,
+                    Wilkie, and other political addresses. Also includes collected political
+                    ephemera from the 19th and early 20th century, including pamphlets, broadsides,
+                    and cabinet cards; framed photographs and posters; buttons and ribbons; and
+                    printed materials and ephemera related to the centennial (1876) and
+                    sesquicentennial (1926) celebrations.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

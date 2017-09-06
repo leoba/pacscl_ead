@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Penn family papers <date type="inclusive">1629-1834</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Penn family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2410</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1629-1834</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Sir William Penn, 1621-1670. Papers, 1644-1710: journal of Sir William Penn,
+                    1644-1647; letters, 1650-1660; Forbes collection, 1653-1710; "The Duty of the
+                    Principal Officers of his Majesties Navy Joyntly Considered," 1646; "The
+                    Office of the Admiralty of England," n.d. William Penn, 1644-1718. Papers,
+                    1654-1735: correspondence, 1654-1855, includes family letters, official
+                    correspondence with Admiral William Penn, Hannah Penn, James Logan, Harbert
+                    Springett, Thomas Bishop Vickris, John Barclay, J. Freame, and others; letters
+                    to and from John, Thomas, and Richard Penn, on Irish immigration, books,
+                    education, epidemics; printing account with Benjamin Franklin; drafts, naval
+                    accounts, household accounts, land records. William Penn letter books,
+                    1667-1675, 1699-1701, contain conciliatory letter to his father; diary of a
+                    journey through Kent, Sussex, and Surrey, 1672; narratives of his trial and
+                    committal to the Tower; letters to the King, Friends, governors, Lords of the
+                    Admiralty, Lords of Trade and Plantations. Domestic and miscellaneous letters,
+                    1682-1794, contains letters of William Penn to Hannah Callowhill, and members of
+                    Pennsylvania Council, 1684-1694; letters of James Logan, to William Aubrey,
+                    1703-1735. Penn manuscripts, 1680-1715, contains last will and testament of
+                    William Penn, with codicil in his hand, 1705, 1706; original draft of grant of
+                    Province of Pennsylvania, with corrections in his hand, 1680; William Penn to
+                    Archbishop Tillotson, 1691; to Robert Turner, 1693; to Lord Romney, 1701; to
+                    Samuel Pepys, 1670; commission to William Markham, 1697; "The Case of William
+                    Penn," "State of efforts of Crown to regain control of Pennsylvania in Queen
+                    Anne's reign," "Act of Pennsylvania vesting proprietary estates in
+                    Commonwealth," and other items. Penn's letter to the Free Society of Traders,
+                    1683; Irish journal, 1669-1670; "An account of My Journey into Holland and
+                    Germany," 1677, includes letters to the King of Poland, Anna Maria de Horn
+                    (Countess of Horn), essay; William Penn receipt book, interest on loans,
+                    1710-1728; William and Hannah Penn journal, 1710-1726; Hannah Penn cash book,
+                    1712-1720. Records of the proprietary government, 1629-1828: papers on the three
+                    lower counties, 1629-1774; Penn's deeds, 1639-1759, 1760-1801; leases and
+                    mortgages, 1670-1771; governor's proclamations, 1670-1775; county court records,
+                    town and county of Deale, 1681-1709; autograph petitions, 1681-1716; receipts
+                    for beaver skins for tenure, 1752-1780; addresses to William Penn by Trade
+                    Society; petition to Lord Baltimore; petitions from Berks, Bucks, and Chester
+                    counties in favor of proprietary government; Pennsylvania land grants,
+                    1681-1806; Assembly of Provincial Council of Pennsylvania, 1682-1874; the laws
+                    of Pennsylvania, 1682-1688; Pennsylvania charters, Frame of Government, with
+                    revised forms, 1683-1696, and marriage settlement and will of Thomas Penn,
+                    1751-1774. Official correspondence, 1683-1817: letters from James Logan to John
+                    Penn and Hannah Penn, Lord Baltimore, William Penn, Governor Andrew Hamilton,
+                    Isaac Norris, W. Popple, Colonel Benjamin Fletcher, on Pennsylvania boundaries,
+                    acts for regulating trade, efforts to make Pennsylvania a crown colony, piracy
+                    and smuggling, decline in public morals, copper mine beyond Susquehanna,
+                    Keith-Logan controversy, Indian treaties, Conrad Weiser's address to the
+                    Germans, factions in politics, paper money, yellow fever, Ohio Company, Nicholas
+                    Scull, Edward Shippen, George Croghan, Connecticut intrusion, battle of
+                    Lexington. Philadelphia land grants, Episcopal church, Society of Friends,
+                    University Island in Delaware, 1684-1772; warrants and surveys, 1684-1776;
+                    Connecticut claims, 1684-1799; Planter's Speech to his Neighbors and Countrymen
+                    of Pennsylvania, East and West Jersey; Indian affairs, 1687-1801, contain
+                    information to Thomas Dongan, governor and vice admiral of New York, on invasion
+                    of Indians of the Five Nations, 1787; Governor Logan's speech to Sassoonan,
+                    1731; negotiations with Six Nations; data on German Palatines, Conrad Weiser,
+                    Richard Peters, Sir William Johnson, Albany Congress, Connecticut purchase,
+                    Delaware controversy; George Croghan's account of Indian affairs, 1748-1749, to
+                    Braddock's defeat; maps and documents on Indian Walk; Governor John Blackwell
+                    manuscripts, 1689-1690; and acts of assembly, 1700-1763. Pennsylvania cash
+                    accounts, 1701-1778: Pennsylvania journals, 1701-1779, contain accounts of
+                    lands, quitrents; James Logan receipt book, 1702-1709, papers relating to iron,
+                    peltries, trade, 1712-1817; bonds and powers of attorney, 1714-1828;
+                    "Supplementary Saunders Coates," 1720-1766, chiefly Thomas Penn letters to
+                    Richard Peters, on administrative affairs; Pennsylvania Assembly messages,
+                    1727-1771; Wyoming controversy papers, 1731-1775, and William Smith and William
+                    Moore v. Assembly, 1758-1759; account of quitrents, 1742; accounts of land in
+                    Chester County called "William Penn's Manor," 1747-1750; warrants to affix the
+                    great seal, 1749-1775; accounts, provincial tax for Philadelphia, 1759-1768;
+                    William Baker letter book, 1769-1789; John Mifflin letter book, 1788-1802;
+                    receipt book (of Philip Syng), provincial tax, 1759-1770; proprietary manors and
+                    lands in Pennsylvania, n.d. Penn family. Papers, 1606-1834: Pennsylvania
+                    miscellaneous papers, Penn v. Baltimore, Penn family, 1606-1834; wills of
+                    Harbert Springett and Anthony Springett, 1682-1721; letters of the Penn family
+                    to James Logan, 1701-1730; additional miscellaneous letters and
+                    Penn-Engert-Lewis papers, 1683-1872; letters of the Penn family, 1654-1775;
+                    papers relating to Penn family title, 1712-1726; "Family Deeds," 1718-1787,
+                    contain items relating to Hannah Penn, agreements of Thomas and Richard Penn;
+                    Thomas Penn private letters, 1738-1741; Penn-Hamilton correspondence, 1748-1770;
+                    letters from Thomas and Richard Penn to James Hamilton; marriage settlement of
+                    Thomas Penn, 1751; account book of money due Thomas Penn from T. Asheton, Joseph
+                    Yeates, W. Peters, Sir William Johnson, et al., 1758-1769; Penn-Justice
+                    manuscripts, 1769-1804, relate to land warrants, surveys, financial accounts
+                    with the Penns, political and domestic affairs; John Penn's commonplace book,
+                    ca. 1785-1787; Penn letter books, 1789-1834, proprietaries' correspondence
+                    relating to Pennsylvania political and domestic affairs; litigation papers,
+                    1672-1764; Penn-Physick papers, 1676-1804; Sir William Penn papers, 1644-1710;
+                    and records of the proprietary government. Penn-Baltimore boundary dispute
+                    papers, 1606-1775: Penn vs. Baltimore, 1606-1774; New York records, 1664-1679;
+                    Kent County records, 1675-1683. "Boundaries Pennsylvania and Maryland,
+                    1680-1768, Boundaries Virginia and Pennsylvania," 1773-1775, contains the
+                    answer of William Penn to Lord Baltimore, 1683; George Talbot to all persons on
+                    West of Delaware between Schuylkill and Whorekill; petition of Lord Baltimore to
+                    George II, 1753; letters to Charles Mason and Jeremiah Dixon, 1765; petition of
+                    all proprietors concerning southern and western boundaries, 1775; "Lands on
+                    Delaware Bay," 1683; controversy between Lord Baltimore and Penn, 1683; address
+                    to the King from Penn about Charter, 1693; accounts miscellaneous, 1723-1760;
+                    boundaries of Delaware and Maryland, 1732-1733; report of commissioners,
+                    1733-1734; "Drafting the new bill," 1735; petition, 1735; decree, 1735, 1750;
+                    Lord Baltimore's answer, 1737, 1740; drafts of interrogatories, 1739;
+                    depositions, Philadelphia, 1740; "Relating to particular points in case,"
+                    1743; brief for the plaintiff, 1747; brief for the amended bill, 1749; brief of
+                    the original bill against Frederick, Lord Baltimore, 1754; bill of revivor,
+                    brief for plaintiff, 1754; draft of bill of revivor, 1754; acts of assembly,
+                    1756, 1759, 1760; drafts of the agreement with Lord Baltimore, 1757-1760; bill
+                    of reviver and supplemental bill, 1764. Penn-Physick papers, 1676-1804: land
+                    grants and surveys, 1676-1801; extracts from patent books and list of land
+                    warrants; bonds, surveys, powers of attorney, 1681-1806; correspondence,
+                    1682-1803; Penn accounts, 1683-1770; accounts of quitrents, 1701; accounts,
+                    1701-1804; extracts from ledgers and journals, 1701, 1763; returns of warrants
+                    and surveys, 1732-1804; journal, 1742-1772; warrants to affix the great seal,
+                    1767-1776; account books, 1769-1800; letter book, 1769-1804; journal, 1779-1801;
+                    and additional warrants to affix the great seal to certificates of land patents,
+                    sheriff's commission, pardons. Miscellaneous litigations and papers, 1672-1764:
+                    miscellaneous litigations: Ford vs. Penn accounts, 1672-1694, plea of the
+                    defendants, 1682-1727; Ford vs. Penn, Penn vs. Beranger, 1674-1716; Ford vs.
+                    Penn, 1705-1707; law suits, 1713-1869; Penn vs. Penn, 1722-1727, contains bill
+                    of complaint of Hannah Penn, et al., against Aubrey Thomas and Gulielma Maria,
+                    his wife, answer of Springett Penn, interrogations, depositions. Other items:
+                    letters of William Penn, 1681-1692; records of Sussex County, 1681-1710; an act
+                    of Parliament, 1697; maps and surveys, Mason and Dixon Line, 1701-1705; Eastburn
+                    map of Indian Walk, 1757; original warrant signed by William Penn ordering Isaac
+                    Taylor and Thomas Pierson to survey line between County of Chester and County of
+                    New Castle, 1701; certificate signed by Isaac Taylor and Thomas Pierson, with
+                    map, "The Figure of the Circular Line Dividing between the County of New Castle
+                    and County of Chester, 1701;" merchants account books (Bristol, Eng.), 1717;
+                    map of part of the estate of William Penn in the Barony of Imokilly, 1764;
+                    proprietary manors and lands in Pennsylvania of John Penn, Jr., and John Penn,
+                    including maps; and other material. Letters of William Penn, 1681-1692
+                    manuscript copies by J. Francis Fisher, 1840.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

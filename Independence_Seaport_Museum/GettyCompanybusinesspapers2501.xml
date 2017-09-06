@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Getty Company business papers <date type="inclusive">1867-1870</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Getty Company business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2501</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1867-1870</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Archibald Getty &amp; Co. were general commission merchants and cotton factors in
+                    Charleston, South Carolina. Thomas, Theodore, John, and Archibald Getty The SS
+                    Moneka was built by William Cramp and Sons. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business volumes of the Getty Company, Charleston, South
+                    Carolina, 1867-1870. Volumes include a receipt book for payments related to
+                    shipboard and domestic expenses; a cash book, which documents shipping, freight,
+                    and merchandise transactions; an account book for commercial and private
+                    customers; and a ledger listing all costs related to ships' voyages, including
+                    advertising, storage, and commissioning. Ships include the SS Moneka, the SS
+                    Prometheus, the SS E.B. Souder, the SS J.W. Everman, and the SS Zodiac. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

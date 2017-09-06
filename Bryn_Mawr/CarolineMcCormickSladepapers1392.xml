@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Caroline McCormick Slade papers <date type="inclusive">1917-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Caroline McCormick Slade papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1392</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Caroline McCormick Slade (1874-1951) attended Bryn Mawr College as a graduate
+                    student in history and political science from 1892-1894. She was active in the
+                    women's suffrage movement, politics, and philanthropy. She was chairman of the
+                    Women's Division of the War Personnel Board of the YMCA (1917-1919), one of the
+                    founders of the League of Women Voters, Campaign Chairman of the National
+                    Woman's Committee for the Election of Herbert Hoover in 1928, and Vice-Chairman
+                    of the United Service Organizations during World War II. She was National
+                    Chairman of the Bryn Mawr Endowment Fund Campaign and served on the college's
+                    Board of Directors for more than 30 years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of scrapbooks of Caroline McCormick Slade. Scrapbooks
+                    contain newspaper clippings, letters, telegrams, announcements, and programs
+                    related to her political work and her philanthropic endeavors. Notable
+                    correspondents include Herbert Hoover and Carrie Chapman Catt. The collection
+                    also includes a small batch of congratulatory letters for her work on the
+                    Endowment Fund Campaign.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

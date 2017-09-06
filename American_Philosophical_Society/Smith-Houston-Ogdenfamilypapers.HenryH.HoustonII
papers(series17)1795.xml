@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Henry H. Houston II papers
+                        (series 17) <date type="inclusive">1910-1981</date>
+                        <date type="bulk"> 1910-1930s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Henry H. Houston II
+                    papers (series 17)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1795</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1981</unitdate>
+                <unitdate type="bulk"> 1910-1930s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Born in 1895 to Samuel Frederic and Edith Altee Corlies Houston, Henry Howard
+                    Houston II (1895-1918), nicknamed "Hennie," was the last of the couple's three
+                    children, and their only son. Henry graduated from the University of
+                    Pennsylvania in 1916, and in June of that year enlisted in Battery "C" of the
+                    1st Pennsylvania Artillery. He went with his unit to the Mexican border when
+                    President Wilson called for troops to respond to Pancho Villa's raids into the
+                    United States. Along with his cousin, Henry Howard Houston Woodward, Hennie
+                    served in France with the American Ambulance Service (later, American Field
+                    Service). When the United States entered the hostilities in Europe, Hennie
+                    rejoined his fellow Pennsylvanians in the 53rd Field Artillery Brigade of the
+                    American Expeditionary Force, and served as aide-de-camp for Brigadier General
+                    William G. Price, Jr. Both Henry Houston II and Henry H. H. Woodward were killed
+                    in France in 1918. Hennie died in the village of Arcis-le-Ponsart (Department of
+                    the Marne) on 18 August, a short time after being struck by fragments from an
+                    exploding artillery shell. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains correspondence, diaries, newspaper and magazine
+                    clippings, and photographs and prints of Henry H. Houston II. Most of this
+                    material has to do with Houston’s time at the University of Pennsylvania, his
+                    military service, and death in France during World War I.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American
+                    Philosophical Society: Houston-Brown-Dallett family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

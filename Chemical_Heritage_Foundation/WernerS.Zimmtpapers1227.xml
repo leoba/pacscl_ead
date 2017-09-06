@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Werner S. Zimmt papers <date type="inclusive">1941-1947</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Werner S. Zimmt papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1227</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1947</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. Werner S. Zimmt is a Research Fellow in the Fabrics and Finishes Department
+                    of E. I. du Pont de Nemours and Co. A graduate of the University of Chicago, he
+                    joined DuPont as a Research Chemist in 1951 and later served as a Staff Chemist
+                    and Research Associate before assuming his present position in 1969. Dr. Zimmt
+                    is a member of the American Chemical Society, the National Paint, Varnish and
+                    Lacquer Association, and is the Mission Manager of the Air Quality Task Force.
+                    He is the author of publications in the field of free radical and polymer
+                    chemistry and was the 1973 Recipient of the George B. Heckel Award of the
+                    NPCA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Zimmt's course notes from an introductory Organic
+                    Chemistry course in 1947, and a copy of "A Non-H2S Scheme of Qualitative
+                    Analysis" by Paul J. Hartsuch, Chicago, 1941.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: W.S.Z.</p>
+                <p>Accession number: GB93:36</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Fiske Kimball papers <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Fiske Kimball papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC779</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Fiske Kimball (1888-1955) was a distinguished architectural historian and
+                    director of the Philadelphia Museum of Art. From his appointment in 1925 until
+                    his retirement in 1955, he steered the institution, transforming it from what he
+                    described as "a minor provincial position to become one of the leading museums
+                    of America." Before coming to the Museum, Kimball was professor of architecture
+                    and fine arts at the University of Michigan (1912-1919), professor of art and
+                    architecture at the University of Virginia (1919-1923), and was in charge of the
+                    fine arts department at New York University (1923-1925). He was the author of
+                    Domestic Architecture of the American Colonies (1922), American Architecture
+                    (1928), and The Creation of the Rococo (1943).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is an accrual to the Fiske Kimball papers. It consists of glass
+                    negatives and lantern slides depicting American and European painting,
+                    sculpture, architecture, and furniture from the Renaissance to the modern
+                    period. The collection also includes film negatives. Kimball used these images
+                    in lectures on architecture and fine arts.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Art--Study and teaching.</subject>
+                <genreform encodinganalog="655">Glass plate negatives.</genreform>
+                <genreform encodinganalog="655">Lantern slides.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 36</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Fiske Kimball Papers, 1874-1957 (Series IV, Teaching positions, includes
+                    slide lists for lectures)</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

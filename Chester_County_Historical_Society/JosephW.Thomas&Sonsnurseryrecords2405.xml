@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph W. Thomas &amp; Sons nursery records <date type="inclusive">1884-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph W. Thomas &amp; Sons nursery records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2405</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1884-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph W. Thomas &amp; Sons nursery in Tredyffrin Township, Chester County, PA,
+                    was established in 1853 and closed in about 1990. Also known as the Chester
+                    Valley Nursery, they business supplied trees and shrubs to the surrounding area.
+                </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Records include account books, nursery plate books and several folders of related
+                    papers. Account books include about 36 volumes that record plants sold from
+                    about 1893 to 1990. Other account books include cash books, records of
+                    salesmen's clients, list of nursery stock for spring 1890. Plate books (3
+                    volumes) include "The Nurseryman's Specimen Book of American Hortufulture and
+                    Floriculture, Fruits, Flowers, Ornamental Treets, Shrubs, Rose, &amp;c." (not
+                    dated) Also in box are two volumes seemingly unrelated to the above: minute book
+                    of the Detective Association Union, 1899-1943 and account book of the Nottingham
+                    Detective Association, 1915-1941.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

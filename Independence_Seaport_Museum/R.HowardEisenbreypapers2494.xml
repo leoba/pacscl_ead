@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>R. Howard Eisenbrey papers <date type="inclusive">1900-1917</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">R. Howard Eisenbrey papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2494</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1900-1917</unitdate>
+            </did>
+
+            <bioghist>
+                <p>R. Howard Eisenbrey (Class of 1903), was a member of the rowing team at
+                    University of Pennsylvania. He was later the Chairman of the Rowing Committee of
+                    the University of Pennsylvania (ca. 1916-1917).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>A collection of scrapbooks of R. Howard Eisenbrey (1900-1901 and 1914-1916). One
+                    scrapbook documents Eisenbrey's time on the Penn crew and on Penn's Henley eight
+                    (1900-1901); the other scrapbook contains clippings about Penn's rowing program,
+                    1914-1917. The collection also includes loose newspaper clippings on Penn
+                    oarsmen (1913-1917).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Rowing--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

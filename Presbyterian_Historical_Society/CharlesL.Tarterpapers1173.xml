@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles L. Tarter papers <date type="inclusive">1925-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles L. Tarter papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1173</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Lewis Tarter (1907-1997) was an African-American Presbyterian minister.
+                    Tarter served at Saint Augustine Presbyterian Church, Paterson, New Jersey, from
+                    1939 to 1961. From 1961 he served as supply pastor and visiting minister to
+                    churches in New Jersey. During World War II Tarter served in Asia as a Captain
+                    in the Chaplain Corps. After retirement in 1964 he worked as a Probation Officer
+                    in Passaic County, New Jersey.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Charles L. Tarter. Materials include: notes for
+                    sermons; personal notes; church bulletins from the St. Augustine Presbyterian
+                    Church and other churches; newspaper clippings about Rev. Tarter and the St.
+                    Augustine Church; memorial booklets for Tarter and his wife, Mauretta Veronica
+                    Tarter (both from 1997); and Bureau of Vital Statistics forms recording
+                    marriages performed by Tarter. The collection also includes a few personal
+                    papers, including membership cards and photostatic copies of diplomas and
+                    military certificates.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Dr. Ronald H. Watts (via McCloud, J. Oscar)</p>
+                <p>Accession number: 98 0204</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

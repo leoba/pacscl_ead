@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Uriel G. Foa personal papers <date type="inclusive">1953-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Uriel G. Foa personal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2063</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Uriel G. Foa, a social psychologist and professor emeritus at Temple University,
+                    was born in Parma, Italy, and received doctoral degrees from the University of
+                    Parma and Hebrew University in Jerusalem. He was a co-founder and executive
+                    director of the Institute of Applied Social Research in Jersualem and chairman
+                    of the department of psychology at Bar-Ilan University before coming to the
+                    United States in 1965. Dr. Foa, a specialist in interpersonal relations, joined
+                    the Temple faculty in 1971. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Uriel G. Foa. Materials include
+                    correspondence, reprints, manuscript notes and drafts of articles, copies of
+                    articles by students and colleagues, grade books, research proposals, course
+                    syllabi, curricula vitae, bibliographies, and teaching assessments. The
+                    correspondence includes letters about publications (reprint requests,
+                    correspondence with publishers, editors, and reviewers), arrangements for
+                    conferences, letters of recommendation for Foa, letters from students. There is
+                    a small batch of receipts and business cards from Foa's time in Israel. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

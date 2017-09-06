@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rice, Unruh, Reynolds Co. records <date type="inclusive">1909-1935</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rice, Unruh, Reynolds Co. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC433</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1909-1935</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philadelphia-based ship agency Rice, Unruh, Reynolds Co. For each ship under its
+                    management, the company sets the arrival time based on tidal currents, obtains
+                    the necessary permission to come into port and arranges for the pilots, tugboats
+                    and line handlers. During the 24 hours that a ship is in port, the agents work
+                    closely with the Coast Guard and deal with officials at the Customs Border
+                    Patrol. They get the ship stored with provisions and spare parts, arrange any
+                    repairs that are needed and deal with the medical or dental needs of the seamen
+                    on board. If crew members are being repatriated to their homeland, they even
+                    arrange for flights home and transportation to the airport.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Collection of records of Rice, Unruh, Reynolds Company. Materials include: index
+                    of vessels with information on dates of arrival, where from, broker, master,
+                    remarks, tugs, and carrying capacity, 1910-1917; booklet with index of vessel
+                    names; card file of employees with name, address, nationality, occupation, and
+                    age, many of the cards paired with a Water Front Pass which includes a
+                    photograph, 1918; and envelopes from Vincent-Mitchell Studios, with
+                    identification photographs of employees. Other files include: an index of
+                    barges, alphabetically arranged, and include date, master, carrying capacity,
+                    and remarks. (1909-1913); cards listing companies and supplies delivered; lists
+                    of ships with arrival date, where from, and cargo, 1920-1926; and list of
+                    shipping companies, mostly European addresses, 1934-1935.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Shipping--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1967.193</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

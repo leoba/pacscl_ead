@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Paul Eldridge collection <date type="inclusive">1910-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Paul Eldridge collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC388</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Paul Eldridge (1888-1982) was a novelist, poet and writer of short stories. He
+                    also taught in New York City high schools from 1914-1946. His books included My
+                    First Two Thousand Years, Salome, and The Homecoming.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes correspondence, manuscripts and other materials related
+                    to Eldridge's writing and career. Materials include: manuscripts, typescripts
+                    and carbons of poems, stories and essays; scrapbooks of clippings related to
+                    Eldridge's writing and other activities; correspondence with other authors,
+                    publishers, critics, and admirers including George Sylvester Viereck (Eldridge's
+                    co-author), John Thomas Head, Tom Kennedy, and E. Haldeman-Julius; book jackets;
+                    photographs; issues of newspapers and periodicals in which his columns appeared,
+                    including the Answer, the American Freedman, the Jewish Review, Progress
+                    Monthly, Progressive World, Critic and Guide, and Jewish Forum; typescripts of
+                    "Sparks in the Wind," Eldridge's column for the Answer; correspondence to
+                    Sylvia Eldridge from others; and a typescript of Eldridge's 1913 thesis for the
+                    University of Paris on William Cullen Bryant, in French.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 157</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

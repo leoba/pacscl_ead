@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Peter Owen records <date type="inclusive">1950-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Peter Owen records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1203</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>34 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Peter Owen is a publisher and the founder of Peter Owen Publishing, a British
+                    company in existence since 1951. The company has published seven Nobel Prize
+                    winners and boasts a backlist that includes Paul Bowles, Herman Hesse, Shusaku
+                    Endo, and Jean Cocteau.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Peter Owen records consist of material dating from 1950 to 1994, including
+                    some undated material. The collection consists largely of material pertaining to
+                    the publishing of various works, including correspondence, drafts, manuscripts,
+                    typescripts, proofs, production files, editorial files, publisher files,
+                    business files, books, and postcards.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99-16, 95-66c, 95-50c, 93-14, 92-154c, 92-149c, 92-71, 92-66,
+                    92-65, 92-64, 92-63, 92-62, 92-61, 92-57, 92-46, 92-45, 92-44, 92-43, 92-42,
+                    92-41, 92-40, 92-24c, 92-15c, 91-195, 91-194, 91-193, 91-192, 91-191, 91-190,
+                    91-189, 91-188, 91-185, 91-184, 91-165</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0571.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0571.xml</extref>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

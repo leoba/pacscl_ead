@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel R. Delany papers <date type="inclusive">1967-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel R. Delany papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC194</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Delany, also known as "Chip", was born to a prominent black family in
+                    1942 and raised in Harlem. Delany attended the Dalton School and the Bronx High
+                    School of Science. Delany was a published science fiction author by the age of
+                    20. He published nine well-regarded science fiction novels between 1962 and
+                    1968, as well as several prize-winning short stories. His most popular novel,
+                    Dhalgren, was published in 1975. His main literary project through the late
+                    1970s and 1980s was the Return to Nevèrÿon series, the overall title of the four
+                    volumes and also the title of the fourth and final book. Delany has published
+                    several autobiographical/semi-autobiographical accounts of his life as a black
+                    and gay writer, including his Hugo award winning autobiography, The Motion of
+                    Light in Water. Since 1988, Delany has been a professor at several universities
+                    including the University of Massachusetts at Amherst, the University at Buffalo,
+                    and Temple University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to Samuel R. Delany. Materials include:
+                    typescripts and proofs for several of Delany's books and stories, including
+                    "The Tale of Gorgik" and "The Tale of Norema"; books edited by Delany; and
+                    articles and interviews by Delany. The collection also includes Delany's
+                    correspondence with small press publisher William Bamberger.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Waiting for Godot Books</p>
+                <p>Year acquired: 8/5/2006</p>
+                <p>Accession number: 06-86</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0618.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0618.xml</extref>
+            </otherfindaid>
+            
+        </archdesc>
+    </ead>

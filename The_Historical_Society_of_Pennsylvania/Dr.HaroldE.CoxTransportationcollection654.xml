@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dr. Harold E. Cox Transportation collection <date type="inclusive">1843-1966</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dr. Harold E. Cox Transportation collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC654</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>220.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1843-1966</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Prior to 1913 the City of Philadelphia's relations with public transit companies
+                    were administered through the offices of the City Surveyor and the Bureau of
+                    Highways under the general supervision of Councils' Committee on Street
+                    Railroads. In that year, under an Act approved on 9 May 1913, the Department of
+                    City Transit was established to coordinate the control of all transit facilities
+                    located within the City with especial regard to the contract of 1907 between the
+                    City and the Philadelphia Rapid Transit Company formed in that year as an
+                    amalgamation of the many transit companies that had existed independently until
+                    that time. Dr. Harold E. Cox is professor and chair of the department of history
+                    at Wilkes University, Pennsylvania. He is the former editor of Pennsylvania
+                    History and has written extensively on the history of urban transportation and
+                    the development of inner cities in the nineteenth century. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Philadelphia Rapid Transit and subsidiary
+                    and predecessor companies. Bound volumes include: passenger statistics; accident
+                    reports; minutes; financial volumes; stock ledgers; annual reports; and
+                    letterbooks. Correspondence files (1896-1912) in the collection include:
+                    incoming and outgoing correspondence; telegrams; internal memoranda; copies of
+                    legal documents and leases; and clippings. Correspondence relates to financial
+                    matters, rate changes, labor relations and disputes, and rate inquiries from
+                    passengers. Other correspondence is with suppliers and companies with which PRT
+                    did business. A small amount of correspondence is related to the purchasing of
+                    rolling stock. Legal files in the collection include: reports, filings,
+                    hearings, and other materials related to rate increases, equipment leases,
+                    ordnances, charters, and reorganization. Cases involve PRT's interactions with
+                    Philadelphia Public Utilities Commission and the City of Philadelphia. Reports
+                    and memoranda from the 1920s-1950s, include: information on war-time
+                    preparations and activities (1941-1945); notices to employees, 1911-1939; a
+                    small amount of materials related to the Engineering Department, including
+                    contract plans, specifications, maps, and general internal and external
+                    correspondence; Plant Accounting annual reports on the company's assets; and
+                    stockholder lists for PRT and subsidiary and predecessor companies. Other
+                    materials in the collection include: bound volumes of "Off-Peak", employee
+                    newsletter, 1942-1948; 16 reels of microfilm of electrical diagrams, car
+                    details, conduit plans, bridges and other structures; large format published
+                    maps of Philadelphia; PRT route map (1925); plan for transit development (1926),
+                    and Philadelphia ward atlases published by G. W. Bromley &amp; Co. and Elvino V.
+                    Smith. Bound volumes of PRT and PTC publications (1919-1934) include schedules,
+                    brochures, maps, telephone directories, notices to stockholders, annual reports,
+                    letters and notices to employees, procedure manuals, event programs, stockholder
+                    resolutions, route guides, and safety first publications. Scrapbooks in the
+                    collection include: 33 scrapbooks of newspaper clippings, in chronological order
+                    (some volumes are numbered and there are some gaps), 1902-1912; 23 scrapbooks
+                    meticulously kept by Edmund Stirling, an index, and 5 volumes of bound
+                    pamphlets, 1917-1929, also arranged by Stirling; and a J. G. Brill Company
+                    photograph album of "Specialties". Materials in the collection related to the
+                    Willow Grove Amusement Park include: journals (1897-1906) and cashbooks
+                    (1896-1897 and 1904-1911); Willow Grove scrapbook, 1907; and a plan of Willow
+                    Grove. There is also a small mount of correspondence related to entertainment
+                    and concessions at Willow Grove Park. Additional published materials in the
+                    collection include: Public Ledger almanacs (1874-1899); Geography of the State
+                    of Pennsylvania, (1843); The Law Adopting Certain Township Roads as State
+                    Highways Passed at the session of 1931; The Chronicles of Middletown (1906);
+                    Washington's Farewell Address (1856); and The Family Almanac (1884). There are
+                    also nineteen 19th century pamphlets related to rail roads, the Philadelphia
+                    Rapid Transit Company, prisons, and the Philadelphia school district, among
+                    other things. Most of these are annual reports or agreements.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Rapid Transit Company.</corpname>
+                <corpname encodinganalog="610">Philadelphia Transportation Company.</corpname>
+                <subject encodinganalog="650">Local transit--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Transportation.</subject>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Annual reports.</genreform>
+                <genreform encodinganalog="655">Cashbooks.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Directories.</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Legal documents.</genreform>
+                <genreform encodinganalog="655">Maps.</genreform>
+                <genreform encodinganalog="655">Microforms.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+                <genreform encodinganalog="655">Schematic drawings.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2004.106; 2005.100</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

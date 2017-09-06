@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Aero Service Corporation photographs and negatives <date type="inclusive">1925-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Aero Service Corporation photographs and
+                    negatives</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2496</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Aero Service Corporation began in 1919 in Philadelphia and was a pioneer and
+                    world leader in aerial photography and photogrammetry. Directed by Virgil I.
+                    Kauffman, a World War I veteran pilot who joined the company in 1924, the firm
+                    obtained lucrative government and private contracts including those with the
+                    United States Geological Survey and the Tennessee Valley Authority that involved
+                    some of the first aerial surveys of the country. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Aerial photographs of Philadelphia, Camden, Atlantic City and the surrounding
+                    area. Includes many images of the Delaware and Schuylkill Rivers, and images of
+                    area infrastructure, such as bridges, rail lines, marine and rail terminals, and
+                    highways. There are a number of industrial sites documented here, including Sun
+                    Shipbuilding, New York Shipbuilding, Federal Shipbuilding, Pennsylvania Railroad
+                    facilities, Allied Chemical, Armstrong Cork Co, and the Gulf Refining Company.
+                    Other images include ships, flooded areas, the Atlantic Fleet, boat races on the
+                    Schuylkill, and area beaches. negatives and positives transparencies on film and
+                    glass plate negatives black and white negatives, aerial views -- mostly oblique
+                    angles, some directly overhead 8 x 10, 4 x 5, 9 x 9 3 x 4, 4 x 5, and 8 x 10
+                    glass plate negatives, oversize glass plate negatives bulk taken between 1925
+                    and 1941, small number taken between 1951 and 1953 five rolls of film -- one in
+                    color, taken in the 1950s, oblique angle aerial images of Philadelphia, Trenton,
+                    New Hope, and other locations A small number of prints</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Glass plate negatives.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

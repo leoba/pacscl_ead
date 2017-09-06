@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John H. Wotiz papers <date type="inclusive">1943-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John H. Wotiz papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC673</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1943-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Wotiz (1919-2001) was born in Czechoslovakia, and emigrated to the United
+                    States in 1939. He received his BS in chemistry from Furman University in 1941,
+                    his master's degree (on polyhydroxy amines) from the University of Richmond in
+                    1943, and his Ph.D. (on rearrangements of acetylene compounds) from Ohio State
+                    University in 1948. Wotiz worked as a chemistry professor at the University of
+                    Pittsburgh, and then, after a period working in private industry, he went to
+                    Marshall University and finally to Southern Illinois University, where he
+                    remained until the end of his career. Wotiz had a long standing interest in the
+                    history of chemistry. He wrote a directory of international chemistry museums,
+                    and conducted chemical history tours throughout Europe (beginning in 1971).
+                    Wotiz was a long-time member of the Division of the History of Chemistry (HIST)
+                    of the American Chemical Society (ACS) and served as its chairman in 1980. He
+                    was an expert on the work and life of F. August August Kekulé, and edited The
+                    Kekulé Riddle: A Challenge for Chemists and Psychologists (1993). This work
+                    occasioned much controversy, and prior to and following its publication, Wotiz
+                    participated in several debates and panel discussions on the topic.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Wotiz's papers relating to his work on Kekule, his
+                    European chemical history tours and museum directory, his involvement in the
+                    Center for the History of Chemistry (CHOC), and other personal and professional
+                    papers. Kekule materials include: research files, lecture notes and slides,
+                    drafts of chapters, correspondence with authors and publishers, documents from a
+                    1990 ACS Symposium on Kekule, and records of the professional disagreements on
+                    the thesis of his Kekule work. European chemical history tour materials include
+                    museum catalogs, brochures, itineraries, narrative reports of tour participants,
+                    and photographs. CHOC materials include correspondence, memoranda, clippings,
+                    and meeting minutes. Other papers include his master's and doctoral theses,
+                    school notes, dissertations written by his students, lecture notes for chemical
+                    history courses, and reprints of his articles.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Herbert T. Pratt</p>
+                <p>Accession number: 2006:085</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

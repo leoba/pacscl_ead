@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Club of Advertising Women records <date type="inclusive">1916-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Club of Advertising Women records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1448</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Club of Advertising Women was founded in 1916 to foster the
+                    careers of women in the advertising business. The group held regular meetings,
+                    sponsored courses for its members, raised funds for various philanthropic and
+                    patriotic organizations, and funded scholarships, including one at the Charles
+                    Morse Price School of Advertising and Journalism.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the records of the Philadelphia Club of Advertising
+                    Women. Materials include minutes of the Board of Directors, Nominating
+                    Committee, and dinner meetings; the bylaws and charter; membership records;
+                    financial reports; copies of Adland News; programs for annual dinner dances;
+                    programs and records related to the Eastern Conference of Women's Advertising
+                    Clubs; scrapbooks, photographs, and ephemera. Also included are records related
+                    to the association's various civic and philanthropic activities.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

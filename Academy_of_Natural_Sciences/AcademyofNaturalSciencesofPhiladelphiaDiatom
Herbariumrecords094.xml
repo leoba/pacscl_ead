@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Diatom Herbarium
+                        records <date type="inclusive">1987-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Diatom
+                    Herbarium records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC094</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1987-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy's Diatom Herbarium, one of the two largest in the world, is a primary
+                    source of taxonomic and ecological information. It includes approximately
+                    220,000 slides (curated and non-curated), of which about 5,000 are types.
+                    Materials include both fossil and recent diatoms collected from fresh, brackish,
+                    and marine habitats. The herbarium has a long history, with many specimens
+                    dating from the 19th century or even earlier.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection relates to the Academy's original Diatom Herbarium database
+                    created by consultant Hayden Rochester, and includes printouts of the keys to
+                    the codes, abbreviations, geographic headings, collection name headings, and
+                    other "database dictionaries" used in the database; printouts of duplicate
+                    records and other data irregularities; a copy of a proposal for renewal of the
+                    grant to fund the project; and tape backups of the database and SEM images
+                    relating to NSF-funded research of curator Edward C. Theriot.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02:20</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

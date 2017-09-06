@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas Richardson American Bank Note Company scrapbook <date type="inclusive">1865-1865</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas Richardson American Bank Note Company
+                    scrapbook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1745</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1865</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Bank Note Company was co-founded in 1810 by Robert Scot, who had
+                    been appointed by Thomas Jefferson to be the first chief engraver for the United
+                    States Mint in 1793. Originally known as Murray, Draper, Fairham &amp; Company
+                    (after Scot's three partners), it merged in 1858 with six other engraving
+                    companies to form the American Bank Note Company. In addition to producing
+                    millions of U.S. Government bank notes annually, as well as postage stamps and
+                    public and private securities certificates, the company also printed currencies,
+                    bonds and stamps for various foreign countries including Argentina, Colombia,
+                    Brazil, Ecuador, Italy, Peru and Uruguay. It remains a major international
+                    producer today.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a scrapbook collection of etchings, many of which carry the imprint of
+                    the American Bank Note Company. The engravings include portraits of prominent
+                    Americans, vignettes, and book illustrations. The volume also includes an
+                    engraving of the American Bank Note Company's building in New York. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

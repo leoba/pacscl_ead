@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Williams family papers <date type="inclusive">1778-1877</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Williams family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1865</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1778-1877</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jonathan Williams (1750-1815) was a merchant and soldier. He was the grandnephew
+                    of Benjamin Franklin, and served as the first Superintendent of West Point. He
+                    married Marianne Alexander of Edinburgh, Scotland. The couple lived at Mount
+                    Pleasant. Their daughter, Christine, married Thomas Biddle. Jonathan and
+                    Marianne Williams's son, Henry Jonathan (1791-1879), married Julia Rush
+                    (1792-1860), the daughter of Dr. Benjamin Rush. The Williams' daughter,
+                    Christine, married Thomas Biddle. Their son was Alexander Biddle.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal and business papers of the Williams family.
+                    Jonathan Williams papers (1778-1811) consist of personal and business
+                    correspondence, including McFarlan &amp; Reilly's 1811 "Estimate of a Coachee
+                    for Col. Williams." Correspondents include Robert Alexander, William Alexander,
+                    and John Wheelock. Marianne Williams papers consist of personal letters dating
+                    from 1785 to 1813. Julia Rush Williams papers include her personal
+                    correspondence to her husband, and a commonplace book of religious extracts. The
+                    bulk of the collection consists of the papers of Henry Jonathan Williams, dating
+                    from 1815 to 1875. These include Williams's professional correspondence:
+                    documents related to the estates of Miss Bothia Alexander, Miss Elizabeth Stott,
+                    and Mrs. Maria Nixon; papers (taxes, rents, improvements) as agent and part
+                    owner of the Morrisville Estate; accounts of Jonathan Williams Biddle, also an
+                    agent of the Morrisville Estate; estate papers for members of the of the Rush
+                    family, including Dr. James Rush and Mrs. P.A. Rush; printed court transcripts,
+                    indentures, and deeds; articles of agreement; bills and receipts; household
+                    account books; and verses written to Williams by George Wilson. Williams's
+                    correspondents include: Horace Binney, John C. Bullitt, T. P. Carpenter,
+                    Frederick Graff, Hyman Gratz, Henry Harrison, Jared R. Ingersoll, William
+                    Jeffrey, Joseph S. Lewis, D. H. Nevins, Mrs. Maria Nixon, Ralph Peters, Richard
+                    Peters, John M. Read, George Sharswood, and Francis Gurney Smith. There is also
+                    one receipt book related to the Fame Insurance Company and an inventory of stock
+                    for the Crescent Factory.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of the Moyerman family.</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: Library Company of Philadelphia financial and legal records. (Rush
+                    estate papers and related legal papers.); University of Delaware: Philadelphia
+                    insurance companies collection (Fame Insurance Company receipt book); Crescent
+                    Factory (two daybooks). </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

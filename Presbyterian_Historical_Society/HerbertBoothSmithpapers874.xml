@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herbert Booth Smith papers <date type="inclusive">1864-1975</date>
+                        <date type="bulk"> 1937-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herbert Booth Smith papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC874</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1864-1975</unitdate>
+                <unitdate type="bulk"> 1937-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herbert Booth Smith (1883-1967) was the son of Rev. Joseph Addison Smith. Smith
+                    received his arts degree in 1905 from Washington University and his A.M. degree
+                    from Princeton in 1908. He graduated from the Princeton Theological Seminary the
+                    following year. Smith was ordained as a Presbyterian minister in 1909 and took a
+                    pastorate in Rochester, New York, and later Knoxville, Tennessee. In 1916 he
+                    moved to Los Angeles to take the pulpit of Immanuel Presbyterian Church. Smith
+                    was a past president of the Los Angeles ministerial association and a director
+                    of the Los Angeles Board of Church Extension. He was moderator of the Presbytery
+                    of Union in 1915 and of the Presbytery of Los Angeles in 1928. In 1913 he was a
+                    delegate to the Waldensian Synod which met in Italy. He was also a commissioner
+                    to the meetings of the General Assembly of the Presbyterian Church held in St.
+                    Louis (1919), Columbus, Ohio, (1925), San Francisco (1927), and Pittsburgh
+                    (1931).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Herbert Booth Smith. Materials include: sermons
+                    by Smith and others; printed materials and text of speeches given by Smith on
+                    alcoholism; and printed materials related to the annual congregational meetings
+                    of the Ventura Community Church, 1961-1969. The collection also includes papers
+                    related to Smith's coursework at San Francisco Theological Seminary and a
+                    chapter of Smith's thesis on Thomas Fraser. The collection also includes
+                    originals and transcripts of letters by Thomas Fraser written to his wife in
+                    1864. Fraser was the subject of Smith's thesis. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Smith, Mrs. H.B.</p>
+                <p>Accession number: 77 1011</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

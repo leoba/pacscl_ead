@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterians for Democracy and Religious Freedom records <date type="inclusive">1986-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterians for Democracy and Religious Freedom
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC990</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.01 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1986-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Presbyterians for Democracy and Religious Freedom is a caucus for reform in the
+                    Presbyterian Church (U.S.A.). Their goal is to encourage open debate within the
+                    denomination about political affairs. They believe that the church, as stated in
+                    the barmen declaration, must never, "appropriate the characteristics, the task,
+                    and the dignity of the state," nor "Place the word and work of the Lord in the
+                    service of any arbitrarily chosen desires, purposes, and plans." PDRF's
+                    objectives are educational -- to make available to members of the PC(USA)
+                    "additional and alternative views" and its guiding principle is that
+                    "democracy, while falling far short of our vision of the kingdom of God,
+                    permits the greatest possibility of and freedom for carrying out the Christian
+                    calling to proclaim as well as to live out the gospel."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of reports of the Presbyterians for Democracy and Religious
+                    Freedom. "Central America Focus," by K. L. Billingsley is a 1988 response to a
+                    report of the 199th General Assembly entitled "Central America Update." There
+                    is also a series of essays entitled "Peacemaking? Or Resistance?: Presbyterian
+                    Perspectives" edited by Ted M. Dorman. The essays are a response to the
+                    Advisory Council on Church and Society's booklet entitled "Presbyterians and
+                    Peacemaking: Are We Now Called to Resistance?"</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 90 0817</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

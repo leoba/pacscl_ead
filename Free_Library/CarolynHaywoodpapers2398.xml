@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Carolyn Haywood papers <date type="inclusive">1940-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Carolyn Haywood papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2398</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1940-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Carolyn Haywood (1898-1990) was an author and illustrator of children's books.
+                    She attended the Pennsylvania Academy of Fine Arts, where she studied with
+                    Elizabeth Shippen Green and Jessie Willcox Smith, and where she served as studio
+                    assistant for Violet Oakley, the renowned artist and muralist. Haywood herself
+                    painted murals in banks and schools throughout Philadelphia, where they can
+                    still be viewed today. Her first children's book, When I Grow Up, was published
+                    in 1931, and in 1939 she hit her stride with the first of the Betsy and Eddie
+                    books, B Is for Betsy. She wrote about the childhood adventures of these two
+                    characters for more than fifty years. In her later years, her books were
+                    illustrated by other artists. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts and illustrations by Haywood. Materials
+                    include typescript manuscripts, galley proofs, original and finished art and
+                    jacket art. Titles include Away Went the Balloons, B Is for Betsy, Besty and Mr.
+                    Kilpatrick, C is for Cupcake, Eddie the Dog Holder, Here Comes the Bus, Merry
+                    Christmas from Betsy, Robert Rows the River, A Sundae with Judy, Taffy and
+                    Melissa Molasses, and A Valentine Fantasy. The collection also includes
+                    illustrations for an edition of Pinocchio which was never published; and a
+                    miniature portrait of Haywood by Malthe Hasselriis.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Carolyn Haywood
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

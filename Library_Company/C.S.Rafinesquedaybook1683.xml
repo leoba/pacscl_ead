@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>C.S. Rafinesque daybook <date type="inclusive">1832-1834</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">C.S. Rafinesque daybook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1683</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1832-1834</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Constantine Samuel Rafinesque, naturalist and ichthyologist, made the United
+                    States his home in 1815, and became one of the outstanding American natural
+                    scientists. He numbered among his friends the scientific elite of his day, a
+                    circle which included Zaccheus Collins, the great Quaker naturalist, with whom
+                    Rafinesque entered into a law suit in 1832. In 1818, Rafinesque became a
+                    professor of botany, natural history, and modern languages at Transylvania
+                    College, Lexington, KY. Here he continued the extensive field trips which
+                    carried him over a large portion of the eastern and trans-Appalachian states.
+                    From 1826 to his death, Rafinesque lived in Philadelphia where he devoted much
+                    time to writing and publishing. Although most of his literary efforts were of a
+                    scientific nature, he wrote also on banking, economy, and the Bible, and
+                    published a great amount of periodical material and some verse. Rafinesque was a
+                    man of imagination and great ability, but for all this, like so many pioneers in
+                    the field of learning, he died inconspicuously and unrewarded.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The daybook of Rafinesque, kept for the years 1832-1834, might more accurately be
+                    called an account book. It is a daily record of expenses and business
+                    transactions which cast brief but considerable light on the activities of the
+                    author during this period. The volume opens with a statement of Rafinesque's
+                    properties as of January first, 1832. This statement includes entries of claims
+                    and debts, medicines in the hands of agents, books sent abroad for sale, and an
+                    evaluation of his library, manuscripts, maps and engravings, herbarium, shells
+                    and fossils, drugs and minerals. Accounts with the United States Bank, expenses
+                    for paper, specimens, publications, notes on the sales of Pulmel (his remedy for
+                    consumption), an account of his books sold at auction in 1834, entries of
+                    expenses for rent, clothing, furniture, and milk are all to be found. Notations
+                    on his suit against Zaccheus Collins and the expenses incurred in the course of
+                    it are also itemized.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

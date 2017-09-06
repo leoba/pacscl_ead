@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>"Maritime Documents" group <date type="inclusive">1766-1951</date>
+                        <date type="bulk"> 1800-1900</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">"Maritime Documents" group</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC429</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1766-1951</unitdate>
+                <unitdate type="bulk"> 1800-1900</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>A collection of records related to the maritime commerce. Records include:
+                    correspondence; invoices; bills of lading; ship manifests; freight lists;
+                    payroll sheets; bills of sale (for vessels); and customs declarations. Includes
+                    a small quantity of business correspondence addressed to Alfred Cope, Henry
+                    Cope, and Thomas P. Cope. The collection also includes ship passes, powers of
+                    attorney, shipping articles, insurance papers. ship surveys, charter party
+                    agreements, bunkering contracts, bills and receipts, bills of exchange,
+                    broadsides, and land deeds. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Broadsides.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Deeds.</genreform>
+                <genreform encodinganalog="655">Powers of attorney.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: This aggregate collection contains some materials (1969.120) that
+                    perhaps should be processed with the J. Welles Henderson Collection (formerly
+                    known as French Spoliation, L94.64).</p>
+                <p>Accession number: 1962.54, 1969.120, 1977.42, 1977.36, 1978.14, 1978.55, 1978.58,
+                    1978.66, 1979.57, 1980.35, 1981.8, 1981.14, 1981.54, 1982.70, 1982.135, 1983.24,
+                    1983.36, 1986.48, 1986.80, 1991.12, 1991.64, 1993.7, 1993.57 </p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

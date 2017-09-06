@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harrison T. Loeser <date type="inclusive">1963-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harrison T. Loeser </unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC655</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Submarine Test and Research Vehicle (STAR I) was a mini-submarine developed
+                    by General Dynamics/Electric Boat in the mid 1960s. STAR I was a test vehicle
+                    designed to prove out the control system which allowed for complete
+                    maneuverability of a deep-diving vessel. Electric Boat's deep submergence
+                    program was formed after the loss of the submarine Thresher in 1963 for the
+                    purpose of developing deep-diving vessels with salvage and rescue capabilities.
+                    Harrison T. Loeser was an engineer with Electric Boat who headed the team
+                    developing the STAR I.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These papers relate to the STAR I mini-submarine, which is in the collection of
+                    the Independence Seaport Museum. Matereials include General Dynamics/Electric
+                    Boat publications and promotional materials; papers and reports on the research
+                    and development of deep diving submarines; a mimeograph of Loeser's development
+                    plan, 1963; a journal kept by Loeser during a trip to Bermuda to test the
+                    vehicle; drafts and photographs for the paper "STAR I Design and Operation"
+                    presented at the meeting of the American Institute of Aeronautics and
+                    Astronautics (AIAA) in 1965; correspondence related to the AIAA conference;
+                    photographs of STAR I operations; newspaper clippings about STAR I; and a
+                    history of the project by Loeser entitled "The Little Submarine Story." The
+                    collection also includes a chronology of the project with a bibliography created
+                    by the staff of the Independence Seaport Museum.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2004.15</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

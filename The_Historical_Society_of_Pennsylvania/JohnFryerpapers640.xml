@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Fryer papers <date type="inclusive">1950-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Fryer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC640</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>103.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Fryer (1938-2003) was a groundbreaking gay psychiatrist who is best-known
+                    for appearing in full disguise at the 1972 meeting of the American Psychiatric
+                    Association as "Dr. H. Anonymous." This performance is credited with
+                    convincing the APA's Board to remove homosexuality from the Diagnostic and
+                    Statistical Manual of Mental Disorders in 1973. Dr. Fryer, who was born in
+                    Kentucky, moved to Germantown in 1972. He was initially active in the community
+                    and continued to play the organ at his Episcopal Church. He loved to travel,
+                    especially to London, Switzerland, and St. Lucia. In his professional life,
+                    Fryer worked largely with gays, lesbians, people who abused alcohol and drugs,
+                    and those who were coping with death and dying.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This large collection is comprised of the personal and professional papers of
+                    John Fryer. The papers span from Fryer's teens to the last months of his life.
+                    There are personal and professional correspondence files; subject files; patient
+                    files; student papers from Transylvania and Vanderbilt Universities, notebooks,
+                    and exam books; appointment books; diplomas and certificates; and personal and
+                    travel diaries. There are materials related to courses taught by Fryer at Temple
+                    University Medical School, including syllabi, student records, and reference
+                    materials. Reference materials and manuscripts related to Fryer's research on
+                    the connections between religion and health, on death and dying, community
+                    mental health, cancer care, and on persons living with AIDS/HIV, including a
+                    manuscript of a book co-edited by Fryer on care of persons living with AIDS/HIV.
+                    Materials related to Fryer's role as member of and organist for St. Peters,
+                    including music, church bulletins and programs, notes for meditations,
+                    periodicals, and a collection of old bulletins from St. Peter's (1897-1915).
+                    There are many photographs and slides, some ephemera, organ music, and several
+                    videos and cassettes featuring Dr. Fryer and other psychiatrists and medical
+                    professionals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003.081</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

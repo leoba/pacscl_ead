@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>June D. MacArtor papers <date type="inclusive">1966-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">June D. MacArtor papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1263</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>42 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>June D. MacArtor is a lawyer who has been very active in the area of
+                    environmental law. She received her law degree from Villanova University in 1974
+                    after raising four children. She headed the Delaware Department of Justice
+                    Environmental Group for ten years, after which she became the head of the
+                    investigative group at the Division of Consumer Affairs. Later she was Deputy
+                    Director of the Division of Air and Waste Management in the Department of
+                    Natural Resources and Environmental Control. She retired in 1990. MacArtor
+                    serves on the board of directors of the Delaware Nature Society and has also
+                    held positions at a number of other conservation, planning, and advisory
+                    committees and councils. She has taught courses in environmental law and policy
+                    at the University of Delaware and at Widener University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of June D. MacArtor papers related to Ms. MacArtor's work on
+                    environmental issues for the State of Delaware and other citizens' watch groups.
+                    The collection includes reports and studies, minutes, handbooks, correspondence,
+                    legal forms, programs, notebooks, calendars, and memos.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of June D. MacArtor</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: various</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/macartor.htm">http://www.lib.udel.edu/ud/spec/findaids/macartor.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

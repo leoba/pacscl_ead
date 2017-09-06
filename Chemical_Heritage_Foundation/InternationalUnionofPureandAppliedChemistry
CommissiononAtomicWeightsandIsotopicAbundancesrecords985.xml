@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>International Union of Pure and Applied Chemistry Commission on
+                        Atomic Weights and Isotopic Abundances records <date type="inclusive">1920-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">International Union of Pure and Applied Chemistry
+                    Commission on Atomic Weights and Isotopic Abundances records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC985</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1920-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The International Union of Pure and Applied Chemistry (IUPAC) was formed in 1919
+                    by chemists from industry and academia. Over nearly eight decades, the Union has
+                    succeeded in fostering worldwide communications in the chemical sciences and in
+                    uniting academic, industrial and public sector chemistry in a common language.
+                    IUPAC has long been recognized as the world authority on chemical nomenclature,
+                    terminology, standardized methods for measurement, atomic weights and many other
+                    critically evaluated data. An International Commission on Atomic Weights (under
+                    varying names) has been a central feature of IUPAC since its inception.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the records of the Commission on Atomic Weights and
+                    Isotopic Abundances (CAWIA), donated by several members of the commission and
+                    its various subcommittees. Materials include: correspondence (1920-1993);
+                    membership lists and bibliographical data; agendas, minutes, and reports of
+                    meetings; published and unpublished papers; isotopic abundances tables and
+                    reference materials; and atomic weight reports (1820-1992).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Dr. H. Steffan Peiser for IUPAC</p>
+                <p>Accession number: 89:21</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: International Union of Pure and Applied Chemistry (IUPAC) Records
+                    (2003.600.001).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry Joel Cadbury papers related to the American Friends Service
+                        Committee <date type="inclusive">1964-1970</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry Joel Cadbury papers related to the American Friends
+                    Service Committee</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1413</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-1970</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Joel Cadbury (1883-1974) was one of the founders of the American Friends
+                    Service Committee and served as its chair from 1921 to 1934 and from 1944 to
+                    1960. He was professor of Biblical Literature at Bryn Mawr College from 1926 to
+                    1934, and served as a trustee and director for many years. He was Chairman of
+                    the Board of Directors from 1956 to 1969. He also served on the faculties of
+                    Haverford and Harvard during his academic career.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes records related to the American Friends Service
+                    Committee's Committee on Family Planning and Population Education. The records
+                    are primarily related to a special report entitled "Who Shall Live? Man's
+                    Control over Birth and Death," which was published in 1970. There are also
+                    memoranda, reports, and correspondence from various family planning clinics and
+                    administrators in Asia, Latin America, and Africa.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American Friends
+                    Service Committee: American Friends Service Committee archives; Haverford
+                    College: Henry Joel Cadbury papers and Jones-Cadbury family papers; Friends
+                    Historical Library, Swarthmore College: Henry Joel Cadbury papers; Peace
+                    Collection, Swarthmore College: Henry J. Cadbury papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

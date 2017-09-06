@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William J. Campbell Bookstore records <date type="inclusive">1833-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William J. Campbell Bookstore records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2091</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>60 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1833-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The William J. Campbell Bookstore, founded in 1850 in Philadelphia by John
+                    Campbell, an English bookseller, also specialized in publishing local history
+                    and legal tracts. In 1874 William J. Campbell assumed direction over operations
+                    with the death of his father. In 1931 William's son John J. replaced his father
+                    and served at the helm until the store closed in 1951. The firm was instrumental
+                    in assembling the Franklin imprints collection at Yale and the Curtis Collection
+                    at University of Pennsylvania. John J. Campbell's son is William M. Campbell.
+                    William A.K. Martin (1817-1867) was a Philadelphia-born landscape, marine, and
+                    historical painter, whose work, Palermo, was shown at the Pennsylvania Academy
+                    in 1853. Henry A. Martin was a Philadelphia legal/naval print dealer. He was the
+                    uncle of John J. Campbell, and the Campbell firm was one of his principal
+                    clients. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The archives of the oldest family-operated bookstore in Philadelphia including
+                    personal and business correspondence, clippings, financial records, day books,
+                    legal documents, book catalogs, drawings, portrait engravings, maps,
+                    photographs, pamphlets, advertisements, sheet music, glass negatives, notebooks,
+                    postcards, newsletters, scrapbooks, brochures, and posters. The collection
+                    reflects the family's interest in Americana, local history, and legal
+                    literature. The collection contains the business papers of the founder, John
+                    Campbell; the personal letters of William M. Campbell; the business
+                    correspondence of William J. Campbell, 1895-1951, and his letterbooks,
+                    1903-1925. As a noted publisher of Americana, Philadelphia/Pennsylvania history,
+                    and legal literature, the collection also contains manuscripts, photographs,
+                    brochures, and Campbell catalogs, 1866-1951. William J. Campbell was an officer
+                    of the City History Society of Philadelphia and the collection includes four
+                    boxes of materials such as organizational correspondence, newsletters,
+                    postcards, clippings, and scrapbooks, primarily for the 1920s. The collection
+                    also contains documents and photographs associated with Fairmount Park and
+                    Germantown. Correspondents also include Frances Campbell. The collection also
+                    contains two separate collections; the first, the correspondence of a
+                    Philadelphia legal/naval print dealer, Henry A. Martin; and the second, the
+                    correspondence of 19th century Philadelphia artist, William A.K. Martin and
+                    various members of his family, including his father, Captain John Martin, and
+                    his brother James F. Martin. The Henry A. Martin materials date from 1900 to
+                    1927. The papers include a series of letters between Martin and the William J.
+                    Campbell Bookstore. Much of the correspondence is from Martin to John J.
+                    Campbell, and to William J. Campbell, from Chicago, Pittsburgh, Buffalo,
+                    Detroit, Cleveland, and Washington, D.C., as Martin traveled on collecting
+                    tours. Also included in the collection is family correspondence of William A.K.
+                    Martin. There are letters from Martin, as well as from the painter's father,
+                    Capt. John Martin; his brother, James F. Martin, a Philadelphia merchant dealing
+                    in wheat, oil, sugar, mackerel, and iron; the painter's son, Wm. A.K. Martin,
+                    Jr.; and a number of other relatives including Frances Martin and Eleanor
+                    Furlong. W.A.K. Martin's interests in European painting and his relationship
+                    with other artists in Nicaragua and Cuba are reflected in his letters. The
+                    letters of W.A.K. Martin, the artist, span the years 1833-1866.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, University Archives: William James Campbell papers; Historical
+                    Society of Pennsylvania: City History Society of Philadelphia papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

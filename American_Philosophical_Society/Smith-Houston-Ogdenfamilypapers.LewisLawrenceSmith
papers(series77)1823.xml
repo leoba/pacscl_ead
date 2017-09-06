@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Lewis Lawrence Smith papers
+                        (series 77) <date type="inclusive">1724-1936</date>
+                        <date type="bulk"> 1886-1936</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Lewis Lawrence Smith
+                    papers (series 77)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1823</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1724-1936</unitdate>
+                <unitdate type="bulk"> 1886-1936</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lewis Lawrence Smith (1864-1931), the son of A. Lewis and Rebecca Levis Wood
+                    Smith, was a prominent Philadelphia attorney. Smith graduated from the
+                    University of Pennsylvania with an A.B. degree in 1884. In 1888 he was awarded a
+                    Master of Arts degree. Smith served as general counsel for the Lansdowne Bank
+                    &amp; Trust Co., First National Bank of Darby, and the Drexel Hill Title &amp;
+                    Trust Co. He also held memberships in the University Club, Historical Society of
+                    Pennsylvania, Delaware County Historical Society, Delaware County Institute of
+                    Science, and the State Bar Association. In 1892 Smith married Gertrude
+                    Gouverneur Clemson (1867-1947), the daughter of the Rev. Thomas Green Clemson
+                    (1833-1888) and Sarah Frances Ogden (1833-1910?). The couple had three sons:
+                    Lewis Gouverneur (1893-1919), Ludlow Ogden (b. 1899), and Lawrence Meredith
+                    Clemson (1902-1975). </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Lewis Lawrence Smith. Materials include:
+                    correspondence; legal case file documents; stock certificates; receipts and
+                    bills; photographs; scrapbooks and newspaper clippings; and invitations and
+                    programs. The collection also includes materials related to Gertrude Gouverneur
+                    Clemson Smith, A. Lewis Smith, and Lawarence M.C. Smith. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

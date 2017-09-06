@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Funds for Pious Uses records <date type="inclusive">1718-1747</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Funds for Pious Uses records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1091</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1718-1747</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1717 the Synod of Philadelphia created what was known as "The Fund for Pious
+                    Uses." This fund was used for various purposes, including the relief of needy
+                    ministers and their families. Later, a Widow's Fund was created, providing for
+                    the payment of certain fixed annuities to widows and children of subscribers.
+                    This fund was eventually incorporated as The Corporation for Relief of Poor and
+                    Distressed Presbyterian Ministers and of the Poor and Distressed Widows and
+                    Children of Presbyterian Ministers or, more familiarly, the Presbyterian
+                    Ministers' Fund. The Presbyterian Ministers' Fund is recognized as the first
+                    life insurance company in America. In 1990 the Presbyterian Ministers' Fund
+                    changed its name to the Covenant Life Insurance Company.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a typed transcription of "The Book for the Fund,
+                    1718-1747." The volume documents expenses, including interest on bonds,
+                    payments to employees, printing costs (some payments were made to Mr. Franklin
+                    for printing), rental of meeting facilities, and payments to various
+                    congregations. The volume also includes records of moneys received by the fund.
+                    The transcription (undated) was made by Martha Faires Grant.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 94 0715</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Presbyterian Ministers Fund records (includes the original of the
+                    "Book for the Fund, 1718-1747").</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

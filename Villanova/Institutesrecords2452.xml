@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Institutes records <date type="inclusive">1959-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Institutes records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2452</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.32 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University's College of Liberal Arts and Sciences is home to a number
+                    of academic centers and institutes dedicated to promoting the mission of the
+                    College within their area of concentration. In addition to offering courses,
+                    centers and institutes in the College host lectures and other special events and
+                    may publish a journal. The Augustinian Institute serves the University as an
+                    agent and resource to support its efforts to give Augustine's thought a vibrant
+                    and integral place within Villanova's academic and community life, and allows
+                    that voice of Augustine to continue to speak effectively to today’s world.
+                    Between the late 1950s and the mid 1970s, Villanova, supported by grants from
+                    the National Science Foundation, conducted an institute offering courses in
+                    mathematics and science for secondary school teachers. These courses were
+                    conducted in the summer and fall on the University's campus.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of Villanova University's Institutes. Currently,
+                    the collection contains materials from two Institutes: the National Science
+                    Foundation Institute and the Augustinian Institute. Records of the National
+                    Science Foundation Institute include correspondence related to the NSF Summer
+                    Institute (1964); brochures for the In-Service Institute (1959-1973) and the
+                    Summer Institute (1959, 1962-1966); and reports and participant lists of the NSF
+                    In-Service Institute (1959-1973). Records of the Augustinian Institute include
+                    correspondence, announcements, and news clippings on the Institute (1962-1971);
+                    and brochures for the Patristic, Mediaeval, and Renaissance Studies conference
+                    (1997-2000).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Augustinian Institute.</corpname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

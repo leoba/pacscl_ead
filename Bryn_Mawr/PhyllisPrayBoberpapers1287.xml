@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Phyllis Pray Bober papers <date type="inclusive">1941-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Phyllis Pray Bober papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1287</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Phyllis Pray Bober (1920-2002) was a scholar of Renaissance art. She graduated
+                    from Wellesley College in 1941 and received her master's and doctoral degrees
+                    from the Institute of Fine Arts of New York University. She was a Dean of the
+                    Graduate School of Arts and Sciences at Bryn Mawr College from 1973 to 1980 and
+                    was a professor in the History of Art and the Classical and Near Eastern
+                    Archaeology departments until 1991. After her retirement she continued to write
+                    and lecture. She had a lifelong interest in culinary history and much of her
+                    later work focuses on this subject. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the professional papers of Phyllis Pray Bober. The
+                    materials include lecture notes and drafts, typescript articles, course notes,
+                    correspondence, notebooks and other records from Bober's undergraduate and
+                    graduate courses, and audio cassettes of a series of lectures delivered in 1986.
+                </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

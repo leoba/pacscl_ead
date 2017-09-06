@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pierre Eugène Du Simitière collection <date type="inclusive">1492-1783</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pierre Eugène Du Simitière collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1562</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1492-1783</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is the manuscript section of that portion of Du Simitiere's collection
+                    purchased at auction March 10, 1785. The books and pamphlets bought at the same
+                    auction have been dispersed through the Library Company's collections. These
+                    manuscripts were gathered or copied by Du Simitiere during his travels in the
+                    West Indies, Boston, New York, and during the years he lived in Philadelphia,
+                    where he was a member of and one of the curators of the APS. After purchase by
+                    the LCP, the manuscripts were bound together and they remain in that order
+                    today. Those volumes were described by the Historical Records Survey of the WPA
+                    in "Descriptive Catalogue of the Du Simitiere Papers in the Library Company of
+                    Philadelphia" (1940), from which the following descriptions have been
+                    abstracted. Papers relating to Natural History written between 1763-1773 in Du
+                    Simitiere's hand: catalogues, descriptions, and bibliographical references to
+                    plants, animals, and some archaeological specimens in North and South America,
+                    but particularly Santo Domingo. [In French.] Papers relating to New York consist
+                    of copies made by Du Simitiere of documents concerning Leisler's Rebellion and
+                    the subsequent controversy over Lord Bellomont's administration, 1689-1712.
+                    There are also some copies of early New Netherland records, and a list of coach
+                    owners in New York, 1770. [In Dutch and English.] Leisler papers published in
+                    Collections of The New York Historical Society. Papers relating to Pennsylvania,
+                    the Carolinas, etc. contains 38 manuscripts, probably written 1753-1778,
+                    concerning Indian life and history, and travel, including a copy of Lewis Evans'
+                    description of Pennsylvania, 1753 and George Croghan's Ohio journal, 1749 [In
+                    2001 LCP alerted survey staff that this journal, along with two other documents
+                    -- Statement of John Patten, and "A Brief Account of Pennsylvania, in a letter
+                    to Richard Peters, Esqr…" is missing]. Indian Treaties, 1721-1756: originals
+                    and contemporary copies in several hands of minutes of councils held in
+                    Philadelphia, New York, and elsewhere between the English and the Six Nations,
+                    together with relevant correspondence from Conrad Weiser, William Shirley, James
+                    DeLancey, Robert Hunter Morris and others. Original letters, 1660-1781. A
+                    miscellaneous volume which includes some material not collected by DuSimitiere:
+                    2 letters from Pope Alexander VIII to King James II, 1689, 6 letters of Tobias
+                    Smolett, 1761-1770, and others once part of the Henry Cox gift. The remainder of
+                    the volume appears to have been gathered by Du Simitiere: letters of colonial
+                    committees of correspondence, and documents relating to the revolt of the
+                    Pennsylvania line, 1781. Papers relating to the West Indies. Notes and sketches
+                    done by Du Simitiere including a description, in French, of Java and of Batavia,
+                    with map; descriptions of Jamaica, St. Eustatius, Cuba, Santo Domingo;
+                    compilations of Creole dialects; and three watercolors of Kingston, c. 1760.
+                    Original journals and extracts. Miscellaneous compendium of travel journals:
+                    Susquehanna (1769) and Ottowa (1775); notes and accounts of the Sullivan
+                    expedition, 1779; extracts from travel accounts of Captain Cook in the Pacific
+                    and Thurberg's account of Japan; and Du Simitiere's copies of verses by John
+                    Moylem. Includes several wash drawings of Indian dwellings and writings. Papers
+                    relating to New England, New York, etc. Materials gathered and copied by Du
+                    Simitiere for a history of New York, with some notes on Pennsylvania, New Jersey
+                    and New England. Papers relating to Pennsylvania and New England. Additional
+                    materials gathered or copied Du Simitiere relating to Pennsylvania and other
+                    parts of British North America. Of special interest are the several
+                    bibliographies of the books available to Du Simitiere. Scraps (3 boxes) of
+                    highly miscellaneous materials, about one-third of which were copied by Du
+                    Simitiere from other sources. Drawings, journals, poems, and particularly,
+                    vocabularies and notes on North American Indians.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Purchased by Library Company of Philadelphia.</p>
+                <p>Year acquired: 1785</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

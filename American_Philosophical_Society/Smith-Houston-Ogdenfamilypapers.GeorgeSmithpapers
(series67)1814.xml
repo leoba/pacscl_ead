@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. George Smith papers (series 67)
+                            <date type="inclusive">1693-1952</date>
+                        <date type="bulk"> 1820s-1910s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. George Smith papers
+                    (series 67)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1814</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>20 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1693-1952</unitdate>
+                <unitdate type="bulk"> 1820s-1910s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. George Smith (1804-1882) was the son of Benjamin H. Smith and the husband of
+                    Mary Lewis Smith (1808-1892). Margaretta Smith, George Smith, Jr., and Clement
+                    L. Smith were their children. Mary and George Smith were the grandparents of
+                    Lawrence M.C. Smith, husband of Eleanor Houston Smith. Although educated at the
+                    University of Pennsylvania as a doctor, George Smith gained most fame as a
+                    politician and naturalist. In 1831 Smith was elected to the Pennsylvania State
+                    Senate representing both Delaware and Chester Counties. In 1833 he, along with
+                    John Cassin, George Miller, John Miller and Minshall Painter, founded the
+                    Delaware County Institute of Science. Smith used his farm "Collenbrook" as a
+                    base of operations for his study of nature and his political career. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of papers pertains to the life of George Smith as well as some
+                    members of his family including his wife Mary and his daughter Rebecca.
+                    Materials in the collection include: letters to and from George Smith; diaries;
+                    account and receipt books; wills, bonds, leases and mortgages; school notebooks;
+                    commonplace books; notes and transcripts used in writing Smith's history of
+                    Delaware County; newspapers and clippings; and photographs. Additionally the
+                    collection contains material relating to the establishment of the Delaware
+                    County Institute of Science. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

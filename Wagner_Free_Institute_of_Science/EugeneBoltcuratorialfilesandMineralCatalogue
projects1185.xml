@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Eugene Bolt curatorial files and Mineral Catalogue projects <date type="inclusive">1989-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Eugene Bolt curatorial files and Mineral Catalogue
+                    projects</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1185</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1989-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. Eugene A. Bolt was Curator at
+                    the Wagner Free Institute of Science from 1989 to 1994. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of materials Bolt's office. Included are records that
+                    document the research and implementation of the Mineral Collections Cataloging
+                    project undertaken at the Wagner in 1989-1990. There are data collection
+                    worksheets for 11 cases of mineral specimens, and a printout of an inventory for
+                    one of the cases. Also included are correspondence and other documents from
+                    1990-1994 concerning the transfer of the Academy of Natural Science's mineral
+                    collection to the Wagner. Finally, there are newsletters and correspondence from
+                    various local area mineralogical societies, and reprints and photocopies of
+                    articles on mineralogy.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 98-053 and 98-055</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

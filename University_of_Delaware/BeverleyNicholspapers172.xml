@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Beverley Nichols papers <date type="inclusive">1912-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Beverley Nichols papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC172</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1912-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Beverley Nichols (1898-1983), was an English writer, playwright, actor,
+                    novelist and composer. He went to school at Marlborough College, and went to
+                    Balliol College, Oxford University, and was President of the Oxford Union and
+                    editor of Isis. Between his first novel, Prelude, published in 1920, and
+                    Twilight in 1982, he wrote more than 60 works, including six novels, five
+                    detective mysteries, four children's stories, six plays, and no fewer than six
+                    autobiographies. Nichols's long-term partner was Cyril Butcher.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Beverley Nichols. Materials include:
+                    correspondence; scrapbooks; diaries; drafts of books; published volumes;
+                    illustrations for the book Merry Hall; manuscript and photostatic musical
+                    scores; appointment books; and drawings and photographs, including images of
+                    Nichols's house in Glatton, Cambridgeshire. Of note is a scrapbook kept by a fan
+                    of Nichols, which documents the writer's career through photographs, letters,
+                    and newspaper clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bertram Rota</p>
+                <p>Year acquired: 4/20/2005</p>
+                <p>Accession number: 05-61</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0620.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0620.xml</extref>
+            </otherfindaid>
+
+        </archdesc>
+    </ead>

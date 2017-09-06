@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia publications <date type="inclusive">1818-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia
+                    publications</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1165</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1818-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy's scientific publications represent America's longest-running serial
+                    publishing program devoted to natural history. Since 1817, much of the research
+                    by this institution's scientists, as well as the work of researchers around the
+                    world, has been published in its five serial publications: the Journal of the
+                    Academy of Natural Sciences, Monographs, Notulae Naturae, Proceedings of the
+                    Academy of Natural Sciences, and Special Publications.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of copies of publications of the Academy of Natural
+                    Sciences of Philadelphia and of records of the Scientific Publications
+                    Department. Scientific publications include: Proceedings of the Academy of
+                    Natural Sciences; Notulae Naturae; Journal of the Academy of Natural Sciences;
+                    Academy News; Frontiers; and selected monographs and special publications. Other
+                    Academy publications included in the collection are: annual reports and
+                    president's reports; by-laws and articles of incorporation of the Academy; lists
+                    of members and correspondents; FYI Newsletters; museum guides and library
+                    brochures; membership brochures; children's brochures; and fundraising
+                    brochures. Records of the Scientific Publications Department consist of working
+                    files from the 1970s and 1980s of Jan Schmitz, Nancy Katz Colman, and other
+                    staff members. These files include correspondence, copies of newspaper and
+                    magazine articles, press releases and press kits, drafts of articles and
+                    reports, invoices for printing and photo reproduction, reference material for
+                    various Academy activities and programs, and monthly activity reports for all
+                    Academy departments (1983-1990). The collection also includes printing plates
+                    for articles published in the ANSP Journal, octavo and quarto; CD-ROMS
+                    containing working and final versions of a 2002 special publication on the Lewis
+                    and Clark Herbarium (2002); and photos of Academy events and visitors.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 97:21; 02:07; 97:22; 93:05; 99:15</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: ANS Frontiers Magazine papers (collection 597).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

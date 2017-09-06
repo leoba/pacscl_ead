@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jacob Koch account book <date type="inclusive">1801-1805</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jacob Koch account book</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2504</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1801-1805</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jacob Gerard Koch (1784?-1830), originally from Holland, was an affluent
+                    Philadelphia merchant who imported German linens to the United States from
+                    approximately 1796 to 1816. He resided at the northeast corner of Ninth and
+                    Market Street and operated his business from a store on the corner of Lombard
+                    Alley and Little Water Street. During the War of 1812, Koch reportedly
+                    subscribed $5000 for the construction of a frigate to support the American
+                    government in its defense. In 1819 Koch moved to Paris, France, with his wife,
+                    Jane Griffith Koch. According to the Reminiscences of Charles N. Buck, also a
+                    merchant in Philadelphia at the turn of the nineteenth century, controversy
+                    ensued concerning the marriage of Koch to Jane Griffith. Before their marriage,
+                    she apparently served as his laundry maid. When he fell ill during the Yellow
+                    Fever Epidemic of 1798, she allegedly promised to nurse him back to health if
+                    he, in return, would marry her. Buck stated that society regarded Jane Griffith
+                    as a "poor, ignorant, ill -tempered, and very homely Irish girl," and frowned
+                    upon Koch's marriage to her. Koch died on July 2, 1830, in Paris at age
+                    seventy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Account book of Jacob Koch, 1801-1805. The volume includes records of insurance,
+                    purchases, sales, and receipts. Koch insured ships traveling to Canton,
+                    Calcutta, Liverpool, Amsterdam, and other ports around the world. Goods the firm
+                    traded include spices, tea, coffee, wine, muslin and silk.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

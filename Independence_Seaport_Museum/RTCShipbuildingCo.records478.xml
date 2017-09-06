@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>RTC Shipbuilding Co. records <date type="inclusive">1934-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">RTC Shipbuilding Co. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC478</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1934-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1940, Leroy M. Robinson (president), George R. Taylor (Vice-president), and
+                    John P. Carson (secretary and treasurer) formed RTC Shipbuilding Company in
+                    Camden, New Jersey. All three men were former executives at J. H. Mathis
+                    Company. Subsequent to the death of Robinson and the retirement of Taylor in
+                    1946, Carson became the firm's president and assumed sole ownership. Prior to
+                    World War II, the yard produced two oil barges, one tugboat, and six oil
+                    tankers. During World War II, 28 self-propelled oil tankers were built for the
+                    U.S. Navy. For excellence in workmanship and its high rate of production, the
+                    company received two Army-Navy "E" awards, each with four stars. After the
+                    war, the yard returned to commercial work and developed the largest trade in
+                    repair of medium size work boats and naval vessels in the Delaware Valley
+                    Area.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the RTC Shipbuilding Company. Materials
+                    include: plans and specifications for vessels built, repaired, and repowered by
+                    RTC (#134-243, not complete); a variety of calculations including hold and tank
+                    capacities, displacement, rudder torque, and power and weight; cost estimates
+                    for materials and labor; proposals; a small amount of correspondence with parts
+                    and equipment suppliers, customers, and the American Bureau of Shipping;
+                    materials orders and receipts; product brochures for RTC vessels; trial trip
+                    notes; newspaper clippings; and a listing of hulls built by RTC (#131-211).
+                    Vessels represented include tugs, barges, yachts, fishing vessels, cruisers,
+                    tankers, seine boats, and fire boats. The collection also includes photographs
+                    and negatives, 1930s and 1940s, for hulls 131-237 (not complete). Photos
+                    document launchings, vessels during construction, vessels on the river, the
+                    shipyard, group portraits of staff, launching party guests, and the awarding of
+                    the "Army/Navy 'E'" banner to RTC. Subject files in the collection include
+                    shipbuilder product brochures, plans, magazine articles, and general design
+                    information on yachting, yacht machinery, design, hull data, spar sails,
+                    rigging, and ice skimming boats (mid-1930s to mid-1940s). The collection also
+                    includes glass plate negatives of ship prints (Jean-Jerome Baugean engravings,
+                    and others).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Glass plate negatives.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1988.5</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

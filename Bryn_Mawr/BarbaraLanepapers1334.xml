@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Barbara Lane papers <date type="inclusive">1963-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Barbara Lane papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1334</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Barbara Miller Lane, a graduate of the University of Chicago and Barnard College,
+                    and a Ph.D. in history from Harvard University, came to Bryn Mawr in the fall of
+                    1962 to teach history. In 1971, she helped to found the Growth and Structure of
+                    Cities Program, and served as its director from 1971-1989, and again in 1996-97.
+                    Within the Cities Program, she introduced courses in the history of urban form
+                    and the history of modern architecture Since her retirement from full-time
+                    teaching in 1999, she has returned to Bryn Mawr College to teach advanced
+                    undergraduate and graduate seminars on such subjects as "Medievalism and Modern
+                    Architecture," "The Bauhaus and Weimar Culture," and "Housing and Dwelling:
+                    Perspectives on Modern Domestic Architecture."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Barbara Miller Lane's professional papers. Materials in
+                    the collection include course syllabi, lecture notes and bibliographies
+                    (1963-1998); records of Bryn Mawr's Growth and Structure of Cities program,
+                    including grant documents, receipts and correspondence regarding a National
+                    Endowment for the Humanities grant (1971-1976); and Lane's professional
+                    correspondence from 1973 to 1990, including letters to colleagues, students, and
+                    professional associations.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

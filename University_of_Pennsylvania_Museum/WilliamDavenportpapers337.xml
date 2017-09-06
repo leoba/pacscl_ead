@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Davenport papers <date type="inclusive">1938-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania Museum of Archaeology and
+                        Anthropology</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Davenport papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC337</unitid>
+                <repository label="Repository">University of Pennsylvania Museum of Archaeology and Anthropology<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Hunt Davenport (1922-2004) was a lifelong seaman. Born on May 26, 1922 in
+                    Upland, California, USA, and raised in Cucamonga, Calif., Davenport stowed away
+                    on a boat bound for Singapore at the age of 14. He reportedly spent time in jail
+                    for this stunt, and graduated from Chaffey Union High School (Ontario, Calif.)
+                    in 1939. He then studied art and photography at the Art Center School (Los
+                    Angeles, Calif.) for one year before joining the military. Davenport served
+                    throughout the Pacific during World War II, as a Deck Officer and Master with
+                    the U.S. Army Transport Service (1941-46) and as an Ensign, Lt. in the U.S.
+                    Naval Reserve (1942-45). Following his military service, Davenport ran a
+                    shipping company, a photography business and advised the Chinese merchant
+                    marines. He eventually returned to higher education, graduating with honors in
+                    1952 from the University of Hawaii (Honolulu) with a degree in anthropology. He
+                    pursued interdisciplinary graduate studies in anthropology and behavioral
+                    sciences at Yale University, where he received his PhD in 1956 under the
+                    direction of Sidney Mintz. His dissertation focused on Jamaican fishing
+                    communities (1954-55). Davenport continued to teach at Yale until 1963, when he
+                    accepted a dual-position at the University of Pennsylvania’s Anthropology
+                    Department and Museum of Anthropology and Archaeology. He would spend nearly his
+                    entire career at Penn, with the exception of three years at the University of
+                    California Santa Cruz as professor and director of the Center for South Pacific
+                    Studies (1969-72), and visiting professorships at Bryn Mawr, University of
+                    Hawaii and Wesleyan. As curator of the Oceanian section of the Penn Museum,
+                    Davenport helped mount the exhibition “Sculpture and Artifacts from the Eastern
+                    Solomon Islands” (Dec. 1967-May 31, 1968), which featured numerous art objects
+                    collected by him during his 1964 summer and 1965-66 field trips to Santa Ana and
+                    Santa Catalina Islands. Davenport also designed the museum’s permanent Polynesia
+                    Hall exhibit in 1983, and mounted seven other major exhibits as curator or
+                    co-curator. He served briefly as Associate Director of the Museum, from 1979 to
+                    1980. He retired from Penn in 1992, and was inducted into Penn’s Twenty-Five
+                    Year Club in 1996. During his long career, he was also a fellow at the Center
+                    for Advanced Study in the Behavioral Sciences (Palo Alto, Calif.) in 1971-72, a
+                    member of the Council of the Smithsonian Institution (Washington, D.C.) from
+                    1976-84, and an associate at the Bishop Museum (Honolulu, Hawaii) from 1953-60
+                    and 1980-2004. Davenport’s field research took him to the Santa Cruz Islands,
+                    Guadalcanal and San Cristobal Islands, and other Solomon Islands; the Moluccas
+                    and Sulawesi in Indonesia; and Sarawak in Malaysia; among other locations. He
+                    authored four books and more than 60 articles and reviews on subjects including
+                    social organization, art, economics, archaeology, religion and ritual, and more.
+                    His final book on figure sculpture of the Santa Cruz Islands was published
+                    posthumously in 2004. He died of leukemia on March 12, 2004, at the age of 81.
+                    He was survived by his sister, Mary Yohalem (New York City, N.Y.), two nieces
+                    Jennifer and Deborah Salt (both California) and great-nephew Jonah Greenberg
+                    (then residing in Beijing, China). He and his wife Pearl (Yim) Davenport
+                    divorced in the 1960s, and she preceded him in death. He married his second wife
+                    Nancy (Ingersoll) Davenport in 1968. They eventually separated, but Nancy helped
+                    to shepherd his final book to publication after his death. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The William H. Davenport Collection spans the period from 1952-2002 and contains
+                    materials primarily related to his field research, professional activities,
+                    student mentoring, and articles and publications. The collection is divided into
+                    seven series: Correspondence; Field Notes; Manuscripts &amp; Publications;
+                    Teaching; Personal; Maps &amp; Drawings; and Audiovisual Materials. Series I.
+                    Correspondence (1952-2005) – This series is arranged alphabetically by
+                    correspondent, and thereunder chronologically, and includes mostly professional
+                    correspondence with students, former students and colleagues. In some cases,
+                    Davenport saved and attached copies of his own replies. Correspondence relating
+                    to field research is generally filed by person, not expedition, with additional
+                    subject folders for “Santa Cruz Islands, General” and “Solomon Islands,
+                    General.” Very little of his correspondence is solely personal in nature, but
+                    his graduate students sent him long missives during their time in the field. A
+                    letter to Mac Marshall (in folder “M Correspondence #1”) details Davenport’s own
+                    graduate studies at Yale, and how funding and mentoring issues resulted in a
+                    dissertation about Jamaica, not the Pacific. Series II. Field Notes (1950-1991)
+                    – This series is arranged chronologically by expedition (see chronology above
+                    for overview of his research expeditions). Davenport saved small card-files of
+                    research notes for his expeditions in Jamaica and the Solomon Islands, using
+                    Human Resources Area Files (HRAF) categories to organize his notes. The HRAF
+                    publications he used during 1958-60, 1965-66 and 1974-76 research are included
+                    in this series. Davenport also kept small notebooks of genealogical data and
+                    other field notes, as listed. Series III. Manuscripts &amp; Publications
+                    (1959-2001) – This series is arranged chronologically, and contains a small
+                    number of published works that are rare or difficult to obtain. Among his
+                    unpublished works are two monographs for which he couldn’t find a market: “The
+                    Inventor from Tahiti” about Henri Rey, and an untitled and unfinished work about
+                    the Santa Cruz Islands. (Expedition published a shorter Davenport article about
+                    Henri Rey posthumously in 2004, and Davenport published a number of shorter
+                    articles about Santa Cruz.) Series IV. Teaching (1968-1992) – This small series
+                    is arranged by Penn course number. Some handwritten notes for class are
+                    included, as well as syllabi. Series V. Personal (1938-1999) – This small series
+                    is arranged in rough chronological order by topic. Though the collection has
+                    relatively few personal papers, this series includes documents related to his
+                    career as a seaman, his studies at U of Hawaii and Yale, miscellaneous
+                    professional awards, his art collection and his estate. Series VI. Maps &amp;
+                    Drawings (1965-1974) – This series includes all nonphotographic visual
+                    materials, and is arranged by subject. It includes informants’ pencil, crayon
+                    and ink drawings of fish, birds, people and myths, often with labels in another
+                    language. There are also drawings of tattoos, canoe motifs and woodcarving
+                    motifs. Oversized materials include sketch maps of Santa Ana, San Cristoval and
+                    Santa Cruz Islands; other maps of the Solomon Islands and Sulawesi; and kinship
+                    diagrams of the Pala, Vaenga, Noole, Malo and Banua groups. Series VII.
+                    Audiovisual Materials [(1946-1982)] – This series includes photographic prints,
+                    slides and negatives, as well as film and audio cassettes. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1133</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Milton Speer correspondence <date type="inclusive">1861-1872</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Milton Speer correspondence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC794</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1861-1872</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Milton Speer (1838-1890) was a Democratic member of the U.S. House of
+                    Representatives from Pennsylvania. He attended Cassville Academy, taught school,
+                    studied law, and was admitted to the bar in 1859. He was elected assistant clerk
+                    of the Pennsylvania State House of Representatives in 1863. Speer served in the
+                    U.S. House of Representatives from 1871-1875. He was not a candidate for
+                    renomination in 1874. He resumed the practice of law and in 1876 became one of
+                    the proprietors of the Huntingdon Monitor. He was an unsuccessful candidate for
+                    election in 1880 to the Forty-seventh Congress. His wife was Martha Ellen
+                    McMurtrie.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of letters to Robert Milton Speer. The letters are from
+                    clients and those seeking legal assistance, supporters of his political career,
+                    and family members. Subjects include legal matters and the war; the 1868
+                    presidential election; Speer's election to Congress and party politics; and
+                    requests for legal aid or favors. The collection includes letters of E. S.
+                    McMurtrie, D. E. McMurtrie, J. North, and C. C. North (E. S. McMurtrie was in
+                    partnership with Speer; the McMurtries and Norths were Speer's in-laws). Letters
+                    from family members regard family estate matters that Speer handled for them and
+                    his political career and party politics.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 47</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Speer family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

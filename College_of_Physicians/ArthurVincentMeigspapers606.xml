@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Arthur Vincent Meigs papers <date type="inclusive">1874-1911</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Arthur Vincent Meigs papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC606</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1911</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Arthur Vincent Meigs (1850-1912) was the son and grandson of the physicians, J.
+                    Forsyth Meigs and Charles D. Meigs. After studying at the University of
+                    Pennsylvania for two years, he entered its medical school, receiving the M.D.
+                    degree in 1871. He spent the next two years in Vienna. Upon his return to
+                    Philadelphia, he established a medical practice which he continued until his
+                    death. He was attending physician at the Children’s Hospital, Pennsylvania
+                    Hospital, and the Sheltering Arms (a home for foundlings) and consulting
+                    physician at the Eastern State Penitentiary and the Pennsylvania Institute for
+                    the Instruction of the Blind. He was a fellow of the College of Physicians and
+                    its president from 1904 to 1907. He was president of the Philadelphia
+                    Pathological Society, a trustee of the University of Pennsylvania and of the
+                    Wistar Institute, and a member of the American Philosophical Society. His
+                    scientific work on the comparative chemistry of the milk of humans and cows was
+                    begun in the 1880s, when he published a treatise, Milk Analysis and Infant
+                    Feeding, and was continued until about 1908, when he worked in the Hare
+                    Laboratory of the University of Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Arthur Vincent Meigs, including
+                    correspondence, case notes and articles, and reprints. Correspondence related to
+                    the College of Physicians includes letters about the move of the College to the
+                    building on 22nd Street, an ethics charge brought against W.W. Keen, and other
+                    topics. Correspondents in this section include W.W. Keen, S. Weir Mitchell,
+                    William Osler, and Alfred Stengel. Correspondence related to the University of
+                    Pennsylvania relates to hospital policies for patient care and accommodations,
+                    specific cases, and various other medical and administrative issues.
+                    Correspondents in this section include William Pepper, James Tyson, Richard
+                    Wood, and John Herr Musser. There is also correspondence relating to Penn
+                    Hospital and Sheltering Arms and Meigs' own medical practice. The collection
+                    also includes notes for articles and addresses, case notes, recipes for
+                    prescriptions, reprints of articles by Meigs and others, and a daybook listing
+                    patients seen by Dr. Meigs in 1880 (incomplete for year). </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2000-005</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

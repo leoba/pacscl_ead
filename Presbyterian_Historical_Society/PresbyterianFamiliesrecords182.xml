@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Families records <date type="inclusive">1938-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Families records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC182</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>53.17 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>National Presbyterian Mariners originated in the Calvary Presbyterian Church of
+                    Wilmington, California, in 1927 under the leadership of the Reverend and Mrs.
+                    Louis H. Evans. The purpose was to bring couples into a closer relationship with
+                    their Christian faith and the church, provide meaningful social activities, and
+                    form an organized group (ship) that could be called upon to provide service
+                    and/or leadership to the church in a number of ways. Originally, Mariners was
+                    designed to be a couples' organization, but later opened membership to adult
+                    singles as well. One of the objectives of Mariners was to "interest those
+                    outside the church in uniting with the church." Individuals not formally
+                    related to the church were welcome to participate in a Mariner ship. The
+                    Mariners use a nautical theme for officers: Skippers (Presidents), First Mates
+                    (Vice Presidents), Log Keepers (Secretaries), Pursers (Treasurers), Chaplain,
+                    Cargo Masters (Work Party Chairs), and Lookouts (New Member Chairs). In 2002,
+                    the group changed its name to Presbyterian Families.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the National Mariners. Materials include:
+                    Family Ministries Commission correspondence and minutes, 1983-1985; Family
+                    Conference Commission minutes, manual, reports, and correspondence, 1983-2000;
+                    correspondence, reports, and related records documenting Marriage
+                    Enrichment/Family Nurture events, 1991-2000; Standing Committee on Nominations
+                    (SCON) manual, minutes, and correspondence, 1991-1999; National Executive Board
+                    minutes and correspondence, 1981-1999; National Advisory Council correspondence
+                    and minutes, 1960-1993; Annual Cruise/National Conference material, 1948,
+                    1953-2003; individual membership book, 1993-1994; National Cruise registrations,
+                    1954-1986; task force reports and minutes, 1969-1994; District files, 1983-1995;
+                    Ship files (correspondence), 1954-2001; Theme rationales, 1988-2002; Bylaws;
+                    Constitutions, 1963-1988; Charter records, 1941-2001; Incorporation paperwork,
+                    1994-1998; annual reports, 1983-2002; IRS records, 1970; Audited financials,
+                    1948-2002; Permanent Fund records, 1960-2005; Finance Committee minutes,
+                    1981-1993; Dry Dock Books, 1948-1992; and manuals and handbooks, 1949-2001.
+                    Publications in the collection include: National Presbyterian Mariners Bulletin,
+                    1943-1972; National Advisory Council (NAC) newsletter, 1960-1972; Family
+                    Ministry Advocate, 1985-1994; The National Mariner/Presbyterian Mariner/Family
+                    Patterns, 1972-2003; Windjammer, 1950-2001; Compass, 1984-2002; Presbyterian
+                    Mariner, 1980-1991; and devotional booklets and general publication, 1993-2003.
+                    The collection also includes a number of scrapbooks and Mariners-related
+                    ephemera. These materials include: Cruises scrapbook, 1939-1986 (no original
+                    records from early cruises); scrapbook (by district), circa 1975-2002; general
+                    scrapbooks containing clippings, photographs, programs and agendas, 1977-2002 (5
+                    volumes); National Executive Secretaries' "Memory Log Book" containing
+                    biographies of NPM leaders, 1940-2004; photo albums titled "The First 25
+                    Years" and "The Second 25 Years"; photographs, 1953; videotapes from the Los
+                    Cruses conference, 1996; audio-visual materials, 1985-1991; advertisements;
+                    pins; seals; gavel; logo masters; and a tote bag.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 06 1013: Presbyterian Families (via Craig and Susan
+                    Holstedt); accession 87 0207: Vandiver, Erma Jean; accession 84 0709, 91 0419,
+                    81 1003, 94 0706, 94 1110a: National Presbyterian Mariners; accession 81 1110:
+                    Program Agency; accession 96 1021: Transferred from library; accession 07 1004b:
+                    not indicated</p>
+                <p>Accession number: 06 1013|87 0207|84 0709|91 0419|81 1110|81 1003|94 0706|94
+                    1110a|96 1021|07 1004b</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

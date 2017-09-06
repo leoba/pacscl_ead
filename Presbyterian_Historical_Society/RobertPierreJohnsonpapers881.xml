@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Pierre Johnson papers <date type="inclusive">1916-1974</date>
+                        <date type="bulk"> 1940-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Pierre Johnson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC881</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1974</unitdate>
+                <unitdate type="bulk"> 1940-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Pierre Johnson (1914-1974) was a Presbyterian minister who in 1967 was
+                    elected Executive Presbyter of New York City. He received his B.D. from Union
+                    Theological Seminary in 1940 and was ordained in the same year. He served
+                    pastorates in Pennsylvania and Washington D.C. and served as a field
+                    representative of Negro Work in the North and West for the Interboard Commission
+                    of New York and as Assistant Secretary in the Department of City and Industrial
+                    Work. In 1971, the United Presbyterian Church's Council on Church and Race
+                    (COCAR) authorized the dispersal of $10,000 to the Marin County Black Defense
+                    Fund in support of Angela Davis, who was charged with murder and kidnapping in
+                    connection a Black Panther prison escape. COCAR's action was criticized by some
+                    members of the church, and as a result, 20 black Presbyterians, Robert Pierre
+                    Johnson among them, joined together to reimburse the Emergency Legal Aid
+                    Fund.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Robert Pierre Johnson. Materials include:
+                    correspondence (1954-1967) with fellow ministers, parishioners, and members of
+                    various church-related organizations; sermons and notes for sermons; a travel
+                    diary from a trip Johnson took to Europe in 1963; a small amount of material
+                    relating to the Black Presbyterians United; a copy of Johnson's thesis The
+                    Economic Doctrines of John Calvin (1940); and Johnson's files on the
+                    Presbyterian Church's donation to Angela Davis's defense, the Church's response
+                    to the Black Manifesto, the Black Panthers, and black involvement in the Church.
+                    These files include articles, correspondence, press releases, and policy
+                    statements. The collection also includes a 1916 bulletin from the Fifteenth
+                    Street Presbyterian Church in Washington D.C.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Johnson-Hyman, Elayne</p>
+                <p>Accession number: 78 0725</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-471">http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-471</extref>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

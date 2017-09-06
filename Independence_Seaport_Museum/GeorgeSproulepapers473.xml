@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Sproule papers <date type="inclusive">1884-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Sproule papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC473</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1884-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George F. Sproule was born in Ireland in 1867. In 1884, Sproule entered the
+                    office of Board of Port Wardens of Philadelphia as a Vessel Clerk. 1888, he was
+                    elected secretary of the Board of Port Wardens and served in this role until the
+                    Board was abolished in 190. Sproule served for 12 years as secretary of the
+                    Commissioners of Navigation, which replaced the Board of Port Wardens. In 1920,
+                    he was appointed by Mayor J. Hampton Moore to serve as Director of Wharves,
+                    Docks and Ferries. Sproule married Nora Louise Gerrish in 1896 and lived in
+                    Overbrook. He died in 1928. Sproule was responsible for much of the development
+                    of the Port of Philadelphia, improvements to Delaware Avenue and construction of
+                    municipal piers. George F. Sproule, compiler of The port of Philadelphia: its
+                    facilities and advantages, published by the Board of Commissioners of Navigation
+                    for the River Delaware and its Navigable Tributaries, 1914 (HSP has this)</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Collection of scrapbooks, photo albums, and papers of George F. Spoule.
+                    Scrapbooks contain period newspaper clippings and related ephemera, relating to
+                    George F. Sproule's professional career with the Port of Philadelphia. Also
+                    scrapbooks of Philadelphia Shipping News clippings. The scrapbooks date from the
+                    end of 1884 to 1928. Photo albums include: images from a trip taken by the
+                    Committee on Interstate and Foreign Commerce, US Congress,aboard the pilot-boat
+                    Philadelphia in 1911; and photos of the Raritan Canal taken during an inspection
+                    by the Rivers and Harbors Committee of the US Congress, 1911. Other photographs
+                    in the collection include: portraits of Sproule; pictures of Sproule and other
+                    members of several committees; images the Municipal Piers constructed by the
+                    Department of Docks Wharves and Ferries, ca. 1920s; images of Delaware Ave,
+                    1890s; images of various ships on the Delaware River, including the John
+                    Wanamaker. Papers in the collection include cards, passes, programs, legal
+                    briefs, speeches, invitations, letters, manuscripts, and typescripts, related to
+                    the career of George F. Sproule, dated 1887 to 1927. A number of these items
+                    also document the history of the city and the Port of Philadelphia. Additional
+                    materials include: two appointment books of George F. Sproul, 1926-1927; and
+                    letters and documents and photographs and newspaper clippings related to the
+                    career of S. Jackson Sproule as Port of Philadelphia representative during WWII.
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Harbors--Delaware River.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Harbor.</geogname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1987.16</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

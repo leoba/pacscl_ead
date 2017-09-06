@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wagner Free Institute of Science pictorial material <date type="inclusive">1896-1954</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wagner Free Institute of Science pictorial
+                    material</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1191</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1896-1954</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. William Wagner originally
+                    offered free lectures and classes in his home and at Spring Garden Hall. He
+                    later constructed an Institute building, which opened to the public in 1865. The
+                    Institute's current programs and services include adult and children's
+                    programming offered onsite and at locations around Philadelphia, the Institute's
+                    library and archival collections, and a permanent display of the museum's
+                    specimen collections. Since 1891, the specimen collections have been displayed
+                    according to Darwinian principles of evolution, the organizational scheme
+                    selected by renowned biologist Joseph Leidy during his tenure as head of the
+                    Institute's scientific and educational programs in the late 19th century.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of pictorial materials from the Wagner Free Institute of Science
+                    contains color and black and white photographs, color and black and white
+                    negatives, glass plate negatives, postcards, engravings, a hand-colored
+                    photograph, Xerox copies, framed articles, and matted and framed photographs and
+                    engravings. Subjects represented in this collection include the faculty and
+                    staff of the Wagner Free Institute of Science, famous men (and one woman) of
+                    science, pictures of specimens including shell, rocks, minerals, and insects,
+                    agriculture, geology, and children's education events. The collection includes 2
+                    certificates; 11 engravings; 1 museum directory; 138 negatives; 1 oil; 67
+                    photographic postcards; 64 photographs; 1 printer's film proof, 6 prints; 11
+                    reprints, 2 watercolors.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 98-062</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: there is another collection of pictorial material (93-001).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philip Sheeder Landes papers <date type="inclusive">1897-1967</date>
+                        <date type="bulk"> 1920s-1960s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philip Sheeder Landes papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1065</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1897-1967</unitdate>
+                <unitdate type="bulk"> 1920s-1960s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philip Sheeder Landes (1883-1967) was born in Brazil. He studied at the American
+                    School in Curitiba and then at Mackenzie College in Sao Paolo. He graduated from
+                    the College of Wooster and Princeton Theological Seminary. In 1915 he returned
+                    to Brazil with his wife, Margaret Bookwalter Landes (d. 1969), as a missionary
+                    of the Presbyterian Church, USA. Landes made an extensive journey of missionary
+                    exploration with the Rev. Franklin Graham, across the states of Baia, Goias, and
+                    Mato Grosso. With his wife, he worked in Cuiaba for 15 years, establishing
+                    churches in Cuiaba and several other locations. After his years in Mato Grosso,
+                    he became the evangelist-at-large for the Central Brazil Mission from 1930 to
+                    1935. He then served as a professor of Church History and other courses at the
+                    Theological Seminary in Campinas, Brazil, until his retirement in 1954.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains diaries (1913-1965, incomplete); minutes of the Central
+                    and Southern Brazil Missions (1921-1940 and 1952); reports; correspondence (much
+                    of it copies of Landes' outgoing letters, 1941-1959, in English and Portuguese);
+                    newsletters and account books (1943-1965); publications, including published
+                    volumes on missionary work and a range of theological topics (many in
+                    Portuguese); sermons; and newspapers. There are also journals of the Seminario
+                    Teologico Presbiteriano de Campinas and the faculty of the Igraja Crista
+                    Presbiteriana da Brazil; copies of "Brazil Notes," from 1973-1975; a typed
+                    history of the Presbyterian Church in Brazil (in Portuguese); notes for
+                    lectures, talks and sermons (some sermon notes are in Portuguese); and
+                    manuscripts, including a manuscript for "The Case for Medical Missions and
+                    Evangelism in Brazil" and "A New Evaluation of Infant Baptism" by Landes,
+                    1939. The collection also includes architectural plans.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Landes, Philip H.</p>
+                <p>Accession number: 93 0302c|94 0328|99-1213a, 94 0420|90 0607|91 0408</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-478">http://www.history.pcusa.org/collections/research-tools/guides-archival-collections/rg-478</extref>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

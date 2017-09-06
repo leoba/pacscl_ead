@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel M. Beale papers <date type="inclusive">1927-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel M. Beale papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC497</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Marsden Beale, Jr. (1876-1965) practiced medicine for 60 years on Cape
+                    Cod. Beale received his bachelor's degree from Brown University and his M.D.
+                    from Jefferson Medical College in Philadelphia in 1902. In 1919 Beale became a
+                    member of the original staff of the Cape Cod Hospital in Hyannis and a trustee
+                    of the Barnstable County Hospital at Pocasset. His clinical interests included
+                    metabolic diseases and cancer. Beale published multiple articles on insulin and
+                    cancer. In 1933 he became a member of a correspondence club organized by De
+                    Forest Clinton Jarvis, who later published the best-selling Folk Medicine
+                    (1958); after the group ended, Beale sent out a series of communication letters
+                    on health matters titled "Letters to My People."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Dr. Beale's patient records, 1927-1965, in rough
+                    alphabetical order by patient name. These files include patient medical
+                    histories, correspondence with patients and other physicians, test results,
+                    photographs, and x-rays. The collection also includes several reprints by Beale,
+                    a copy of The Doctor Beale Book, and photographic illustrations for an article
+                    by Beale. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Elizabeth S. Beale</p>
+                <p>Year acquired: 1990, 1996</p>
+                <p>Accession number: 1990-136 and 1996-035</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>McAllister family papers <date type="inclusive">1683-1881</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">McAllister family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1638</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>45 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1683-1881</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection was begun by John McAllister Jr., 1786-1877, and continued by son
+                    John A. McAllister, b. 1822. The McAllisters were well known Philadelphia
+                    opticians and manufacturers of scientific instruments. The collection consists
+                    of approximately 15,000 items of a miscellaneous nature (1683-1881). There are
+                    many letters from John F. Watson, Benson J. Lossing, George Bancroft, Henry B.
+                    Dawson, William J. Buck, Francis Lieber, Samuel Austin Allibone, George Henry
+                    Preble, and Brantz Mayer. There is a considerable amount of business materials
+                    from the firms of Watson &amp; Paul, Binney and Ronaldson, Charles Bird &amp;
+                    Co., and others. In addition, there are about 500 items relating to the Civil
+                    War which have been segregated from the rest of the collection. One third of
+                    this Civil War material consists of letters concerning optical instruments,
+                    photographs, war relics, and autographs. Other records concern surgeon James
+                    McClelland, orders of the day, general orders, discharges, etc. There are also
+                    letters from General Sherman, Pellow Rosecrans, and others, concerning
+                    appointments, dispositions of forces, and location of the guards and sharp
+                    shooters. There is also one volume in the collection, which is a "Principles of
+                    Perspective" possibly from 1839 with illustrations. The oversized box contains
+                    pages entitled "Extracts from the Customs House books of Exports of Merchandise
+                    from Philadelphia and other areas of Pennsylvania," 1759-1763.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John M. Driscoll, O.S.A. records <date type="inclusive">1964-1988</date>
+                        <date type="bulk"> 1975-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John M. Driscoll, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2466</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>23.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-1988</unitdate>
+                <unitdate type="bulk"> 1975-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John M. Driscoll graduated Villanova in 1948. He earned both his master’s degree
+                    and his doctorate in philosophy from Catholic University. He was ordained in
+                    1951, and began a teaching career at Archbishop Carroll High School in
+                    Washington, D.C. In 1956 Father Driscoll was transferred to Merrimack College,
+                    where he served as a philosophy teacher and later as vice president and dean. He
+                    remained at Merrimack until his assignment to Villanova in the mid-1960s. As
+                    vice president, Father Driscoll played a major role in student-university
+                    relations. His work eventually resulted in the creation of the University Senate
+                    at Villanova. He became the University’s 30th president in 1975, serving in that
+                    role until 1988. In 1978 he was elected president of the Pennsylvania
+                    Association of Colleges and Universities and became a recognized educational
+                    leader in the state. During the 12 years of his presidency, the Connelly Center
+                    and the Pavilion were completed, and numerous buildings were renovated. Father
+                    Driscoll also instituted the university’s first national fund-raising campaign,
+                    the Covenant Campaign, raising more than $34 million over a 10-year period.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The John M. Driscoll papers consist of administrative files, correspondence,
+                    legal files, minutes, news media, printed material, personal papers, and
+                    reports. Administrative records include information on investment policies and
+                    endowment funds, Board of Trustees resolutions and membership information,
+                    policy statements, financial and salary information, and insurance information.
+                    Correspondence makes up the largest portion of the collection and dates from
+                    1974 to 1988. Copies of outgoing correspondence are arranged chronologically,
+                    but the bulk of the correspondence is arranged by topic. The subjects cover a
+                    wide range of University matters, including academic policies, athletics, Board
+                    of Trustees matters, commencements and honorary degrees, public relations,
+                    development and capital campaigns, student matters, and faculty matters,
+                    including collective bargaining with faculty. The legal series includes records
+                    on estates, academic appeals, faculty and student legal matters, and information
+                    regarding St. Mary’s Hall and the separate incorporation of St. Thomas
+                    Monastery. Minutes, agendas, and related memoranda are present for the Board of
+                    Trustees meetings (1975-1988), Vice President’s meetings (1977-1988), as well as
+                    for several faculty and administrative committees. News media includes newspaper
+                    clippings about Father Driscoll and Villanova activities (1978-1988) and
+                    clippings and programs related to the Contemporary Shakespeare Company
+                    (1979-1982). Personal papers include addresses given by Father Driscoll
+                    (1971-1988); an agenda log (1975-1988); daily calendars (1964-1988); and various
+                    invitations and programs. Finally, the collection includes reports from a
+                    variety of University offices and committees as well as other associations, on
+                    topics such as athletics, academics, student life, development, strategic
+                    planning, accreditation, and self-studies and assessments.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Villanova University. Board of Trustees.</corpname>
+                <subject encodinganalog="650">College presidents</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Speeches.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

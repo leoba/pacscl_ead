@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Society collection--miscellaneous <date type="inclusive">1676-1937</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Society collection--miscellaneous</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2019</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1676-1937</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is an artificial collection created by HSP staff, containing manuscript
+                    materials from many sources.The collection contains a range of papers, organized
+                    by topic, that document a variety of aspects of American life--from finance to
+                    slavery, from music to war. Subjects documented include colonial and early
+                    republic Philadelphia government, business, and associations, churches, schools
+                    and colleges, libraries, watermarks, sanitation, the Whiskey Rebellion, the
+                    Mexican War, the War of 1812 and the Civil War, American Indians, slavery and
+                    manumission. Documents include correspondence, military papers such as muster
+                    rolls, petitions, transportation-related articles such as tickets and passports,
+                    leases and deeds, bonds, stock certificates, receipt books, legal papers,
+                    broadsides, and musical scores. Also included are several envelopes of 18th and
+                    19th century currency. A few documents are in French and Dutch and there are
+                    some photostats, photocopies, and facsimiles in lieu of original documents.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

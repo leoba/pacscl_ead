@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William, Lord Nelson papers <date type="inclusive">1739-1904</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William, Lord Nelson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1766</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.85 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1739-1904</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William, Lord Nelson (1757-1835), was the elder brother and heir of Horatio of
+                    Nelson. He was ordained in 1781 and served very briefly under his brother as
+                    chaplain to his command, the frigate Boreas (1784-1786). The seagoing life did
+                    not suit him, and he returned to Norfolk where he married and eventually settled
+                    in Hilborough in Norfolk. In 1802 Nelson was awarded a doctorate of divinity
+                    from the University of Cambridge, and in 1803 he received the same degree from
+                    Oxford. Later the same year, he was appointed a prebendary of Canterbury. Upon
+                    Horatio Nelson's death in 1805, William inherited the Duchy of Bronte (which had
+                    been awarded to Horatio by the King of the Two Sicilies in 1799), along with the
+                    title of Baron Nelson of the Nile, and an annual pension of £5000. Nelson died
+                    in London on 28 February 1835. His daughter, who had married Baron Bridport in
+                    1810, now succeeded to the Sicilian title of Duchess of Bronte. Lady Bridport's
+                    inheritance was compromised by Horatio’s will endorsing the rival claims of his
+                    sisters, Susannah Bolton and Catherine Matcham, who both had sons. Litigation
+                    between the two sides of the family continued for roughly ten years after the
+                    death of William Nelson. J. Hutchinson was one of William Nelson's solicitors;
+                    W. Bryant Barrett was agent for the Duchy of Bronte. After Barrett's death, his
+                    widow Martha Barrett took over supervision of the estate for a period of time.
+                    After this, A. Nelson Hood acted as agent for the Duchy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of papers mainly relating to estates of Nelson's Dukedom
+                    of Bronte in Sicily. Materials include: manuscript letters and copies of
+                    letters, legal papers, drafts and final versions of wills, and codicils (1806 to
+                    1904). The collection also includes several other documents relating to the Lord
+                    Nelson trust, and a 1739 indenture between Thomas Fergison and his wife Mary,
+                    who was the heir of both Samuel Pitt and William Pitt.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

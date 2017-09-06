@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David M. Adams collection of Adams Family Research Center holdings
+                            <date type="inclusive">1999-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David M. Adams collection of Adams Family Research Center
+                    holdings</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2096</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.96 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1999-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Adams Family Research Center was located on 742 Centre Avenue in Reading,
+                    Pennsylvania, in a 28-room mansion built in 1882 by Frank Furness. David M.
+                    Adams was the director. Adams was a former president of the California
+                    Genealogical Society and a director of the Genealogical Society of Pennsylvania.
+                    Adams moved to Asheville, North Carolina, in 2006.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of photocopies of catalog cards for books and
+                    records related to Schuylkill, Berks and Northampton counties held by the Adams
+                    Family Research Center. Notes on the binder covers indicate that these are
+                    "cataloged holdings" as of 1999-2001. Some cards contain information on
+                    marriages, births or deaths, or index newspapers or other sources. There are
+                    also several copies of newspaper articles about the center and correspondence
+                    from Adams. The collection also contains photocopies of an S. K. Loy record
+                    book, which contains genealogical research related to the Loy family, including
+                    indexes to deeds and other primary sources, and extracts from primary sources.
+                    This record book also contains some research by Loy on non-family topics.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

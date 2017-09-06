@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Culver family papers <date type="inclusive">1845-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Culver family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1046</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1845-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Culver family included Rev. Theodore B. Culver, Annie W. Culver (possibly
+                    Mrs. Theodore B. Culver), Rev. Andrew Culver (possibly Theodore's father), and
+                    Annie Culver Boyd, wife of Rev. William Boyd and daughter of Andrew Culver and
+                    Sarah White.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains correspondence and reports from the 1920s to 1940s. The
+                    correspondence to the Culvers, most of which is addressed to Mrs. Culver
+                    (Annie), is from various Chinese missions and missionaries, most notably from
+                    the North China Presbyterian Mission in Peking. Correspondents include Florence
+                    Logan, Mrs. J. P. Leynse, Ruth E. Dean and Helen P. Scott. Also included are
+                    photographs and negatives of churches and mission schools, students,
+                    missionaries, some general scenes of villages, towns, and people, and family
+                    photographs of Culvers and Boyds as well as postcards. There are also notes for
+                    sermons; a volume of marriage records (1848-1864); funeral records; letters from
+                    Chinese church members; materials related to Culver's time at Grace Presbyterian
+                    Church (Philadelphia), including newsletters (1907-1911) and parishioner lists;
+                    and a small amount of material related to Ashbourne Church. The collection
+                    contains oversize maps and broadsides and one oversize photograph.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 92 1119b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

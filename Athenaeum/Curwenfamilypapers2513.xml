@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Curwen family papers <date type="inclusive">1763-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Curwen family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2513</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1763-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Curwen (1749-1825) was born in England and immigrated to Pennsylvania in
+                    1784. His wife was Mary Fisher Curwen (1750-1818). In 1785 Curwen purchased
+                    lands in Lower Merion in Montgomery County, calling his new estate Walnut Hill.
+                    His son, Joseph Curwen (1778-1848), was an agent for Stephen Girard and was in
+                    partnership with William Shippen Willing, selling tea, dry goods, and Madeira
+                    wine. Another son, George Fisher Curwen I (1790-1847), spent a year in Stephen
+                    Girard's Philadelphia counting house and briefly represented a Baltimore
+                    mercantile house. In 1816 he traveled to Port au Prince overseeing cargo sales.
+                    Upon his return in 1817 Curwen assumed management of Walnut Hill. He married
+                    Elinor Hunter Ewing (1789-1879) in 1819. Their children were John Curwen, MD
+                    (1821-1901), Mary Curwen (1823-1903), Maskell Ewing Curwen (1825-1868), and
+                    George F. Curwen II (1828-1901). George F Curwen II was an oil tycoon and built
+                    the current Walnut Hill house in 1864 near the site of John Curwen's 18th
+                    century farmhouse. Edwin Forrest Durang designed the house and the builder was
+                    William Danley. The wife of George Curwen II was Emily Moore Beatty Curwen
+                    (1829-1907). Their children were: Samuel Moore Curwen (1859-1932), who worked
+                    for the Brill Company, and also spent time in the west purchasing land, working
+                    as a "cow puncher"; George Fisher Curwen III (1861-1945), John Curwen
+                    (1863-1949); Maskell Ewing Curwen (1867-1918); and Christine Curwen (1871-1901).
+                    George Fisher Curwen III married Helen Stoddard Osborne (1868-1959) in 1894.
+                    Their children were Elinor E. Curwen (b. 1896) and Alice Osborne Curwen McKeen
+                    (Mrs. Edward F. McKeen) (b. 1902). Elinor lived at Eltham on the family estate.
+                    From 1926 to 1931 she ran the New York office of Masquelier &amp; Fils. From
+                    1933 to 1937 she worked at Irving Trust Co., after which she returned home to
+                    stay with her parents in Villanova. Other families represented in the collection
+                    include Ewing, Beatty, Patterson, Moore, Tanner, Osborne, Stoddard, Leaming,
+                    Hunter, and Wynkoop.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Curwen family of Villanova, Pennsylvania.
+                    Materials include: correspondence; family financial records; diaries,
+                    commonplace books, poems, and other writings; notes on family history and family
+                    trees; recollections and personal narratives; wills and estate papers; a small
+                    number of photographs and cartes de visites; sketches; school papers and report
+                    cards; miscellaneous certificates; printed materials, such as newspaper
+                    clippings and family and parish histories; family bibles; wedding invitations;
+                    and obituaries. Materials related to Walnut Hill, the Curwen family estate,
+                    include: farm and house accounts; deeds, mortgages, and legal papers; blueprints
+                    of the subdivision of the estate; several sketches of estate buildings and
+                    ground plans; interior and exterior photographs; clippings of an Architectural
+                    Age article on the estate; and correspondence about subdivision of the property
+                    and ownership. There are also inventories made in 1946 of the furnishings of
+                    Spring iIll, the home of Mr. and Mrs. George Curwen. Materials related to lands
+                    in Western Pennsylvania owned by the Curwen family include: deeds and letters
+                    relating to the purchase of lands; a patent for 355 acres in Lycoming County,
+                    1789; and additional patents from the 1790s for several parcels of land. The
+                    collection also includes letters to Joseph Curwen from Stephen Girard,
+                    1810-1811, and business correspondence of Samuel Curwen (1859-1932) with
+                    miscellaneous bills related to his work for Brill Co.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Elinor Ewing Curwen and Alice Curwen McKeen, 1970-1972</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

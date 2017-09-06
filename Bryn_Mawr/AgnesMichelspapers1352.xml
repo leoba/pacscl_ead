@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Agnes Michels papers <date type="inclusive">1916-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Agnes Michels papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1352</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Agnes Kirsopp Lake Michels (1909-1993) was a leading twentieth century scholar of
+                    Roman religion and daily life and a daughter of the Biblical scholar Kirsopp
+                    Lake (1872-1946). Michels earned her bachelor's, master's, and doctoral degrees
+                    in Latin from Bryn Mawr College, where she was also a member of the faculty from
+                    1934 until 1975. After her retirement she frequently taught courses at Duke
+                    University as well as at the University of North Carolina. Michels Calendar of
+                    the Roman Republic is still consulted by scholars as a work of authority.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the professional and personal papers of Agnes
+                    Michels. Materials include: research notes; drafts and manuscripts of books and
+                    other publications; correspondence and minutes from the American Philological
+                    Association; minutes from Bryn Mawr's Admissions and Curriculum Committees;
+                    teaching and lecture notes for courses in the history of religion and Latin;
+                    correspondence with students, colleagues, and family; and offprints. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

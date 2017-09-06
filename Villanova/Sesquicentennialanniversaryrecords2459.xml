@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sesquicentennial anniversary records <date type="inclusive">1989-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sesquicentennial anniversary records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2459</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1989-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University President Edmund J. Dobbin announced in March 1990 the
+                    formation of a Steering Committee to begin the planning for Villanova’s
+                    Sesquicentennial observance. The 150th anniversary celebration was held during
+                    the school year 1992-1993. The committee was charged by Father Dobbin “with the
+                    responsibility for providing creative direction and leadership to several
+                    committees working on specific aspects of the celebration.” Father Dobbin
+                    appointed a Chair and 17-member committee. Subsequently the Sesquicentennial
+                    Committee formed 10 subcommittees to oversee events, activities and programs
+                    related to Villanova’s 150th anniversary in 1992-1993.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Sesquicentennial collection includes correspondence related to planning,
+                    exhibitions, histories, and the Sesquicentennial Pictorial, as well as minutes
+                    of the Sesquicentennial Committee, Sesquicentennial Historical dates and
+                    Sesquicentennial Historical Minutes. Printed materials consist of publications
+                    generated during the Sesquicentennial and include a Belle Air Yearbook, Blue
+                    Book Sesquicentennial Exhibit Catalog, University Bulletins, and Villanova
+                    Magazine. The Programs series includes brochures and other materials related to
+                    various events during the sesquicentennial. Reports are varied and include
+                    Sesquicentennial Committee, Sesquicentennial History (Proposal),
+                    Sesquicentennial Steering Committee, Sesquicentennial History and others.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Villanova University:
+                    College/University Functions records (RG-22)</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Wister slide collection <date type="inclusive">1930-1940</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Wister slide collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1853</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.29 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1940</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John C. Wister (1887-1982) was a landscape architect. He graduated from Harvard
+                    University and studied at the Harvard School of Landscape Architecture and the
+                    New Jersey Agricultural College. He served in Europe during World War I, and in
+                    his spare time visited gardens and leading horticulturists. He was one of the
+                    founders and the first president of the American Iris Society, and served as
+                    secretary of the American Rose Society for many years. He belonged to many other
+                    horticultural, scientific, and conservation organizations. He was the first
+                    director of the Arthur Hoyt Horticultural Foundation, and designed and created
+                    the 240-acre public garden at Swarthmore College. He was the author of four
+                    books: The Iris, Lilac Culture, Bulbs for American Gardens, and Four Seasons in
+                    Your Garden.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The John Wister slide collection comprises two series of color lantern slides:
+                    The Gardeners, photographs of suburban Philadelphia gardens, identified by name
+                    of property owners; and a general collection that includes views of gardens,
+                    sights, and specific plants from Europe and the U.S. There are 35mm slide
+                    reproductions of many of the lantern slides in the collection.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Gardens--Europe.</subject>
+                <subject encodinganalog="650">Gardens--Pennsylvania--Philadelphia Region.</subject>
+                <genreform encodinganalog="655">Lantern slides.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: Philadelphia gardens collection, Anne Wertsner Wood slide
+                    collection, and Pennsylvania Horticultural Society glass plate slides and
+                    negatives collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

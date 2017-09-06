@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harold Chance papers <date type="inclusive">1938-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harold Chance papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC778</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Harold J. Chance (1898-1975) was the Director of Friends Peace Service of the
+                    American Friends Service Committee from 1943 to 1962. The son of John and Mabel
+                    Wood Chance of Hardin County, Iowa, Harold married Wannitta Allee in Oskaloosa
+                    in 1924. Howard Haines Brinton (1884-1973), a 1904 graduate of Haverford
+                    College, was a professor of religion who taught at at Mills, Earlham, Guilford,
+                    Bryn Mawr, and Haverford Colleges. He worked for the American Friends Service
+                    Committee in Europe and Japan. He and his wife Anna were Directors of Pendle
+                    Hill from 1936 to 1950. He was the author of many books and pamphlets on
+                    Quakerism, and was the first editor of the Friends Bulletin.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Harold J. Chance. Materials include:
+                    minutes, mailings, correspondence, and other materials related to Chance's work
+                    with the Friends Peace Service; journals kept by Chance (1938-1949); and
+                    writings and speeches. Also included are course and lecture notes of Howard H.
+                    Brinton. Topics of these lecture notes include history and religion, mysticism
+                    in various religions, religion and social change, and the philosophy of
+                    pacifism.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Friends Service Committee.</corpname>
+                <persname encodinganalog="600">Brinton, Howard Haines, 1884-1973.</persname>
+                <corpname encodinganalog="610">Friends Peace Service.</corpname>
+                <subject encodinganalog="650">Pacifists--United States.</subject>
+                <subject encodinganalog="650">Peace--Religious aspects--Society of
+                    Friends.</subject>
+                <subject encodinganalog="650">Quakers--United States.</subject>
+                <genreform encodinganalog="655">Diaries</genreform>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 3527</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Friends Historical
+                    Library, Swarthmore College: Harold Chance journals, reports and evaluations of
+                    Friends Peace Service work; Peace Collection, Swarthmore College: Harold Chance
+                    collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

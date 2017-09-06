@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Liberation News Service records <date type="inclusive">1968-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Liberation News Service records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2070</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>39.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Liberation News Service, an alternative news agency, began in 1967 as The New
+                    Media Project staffed by a cooperative of a dozen political activists in
+                    Washington, D.C. In 1968 a schism within the group resulted in the core staff
+                    moving operations to New York, led by founders Raymond Mungo and Allen Bloom.
+                    The organization originally published a packet of news information twice weekly
+                    which was sent to subscribers throughout the United States and world up until
+                    the organization's demise in 1980. The goal of the organization was to provide
+                    an alternative to the mainstream news services, UPI and AP, by documenting
+                    social and political change and activism.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This archives of a 1960s-1970s alternative news organization includes corporate
+                    bylaws and financial records, correspondence, press releases, audio tapes,
+                    photographs, pamphlets, news articles, microfilm, mailing lists, and clippings.
+                    This collection documents a wide range of subjects of interest to the
+                    cooperative media group such a Third World politics and the American social and
+                    poltical protest movement associated with issues such as civil rights, energy
+                    policy, public health, sexism, senior citizens, the Vietnam War, women's rights,
+                    racism, prisoners' rights, peace and nuclear energy. Collection correspondence
+                    documents an ongoing investigation of the organization by the F.B.I., the
+                    Department of Justice, and the Internal Revenue Service. The collection also
+                    contains extensive documentation of the organization's revenues, expenditures,
+                    and fundraising activities. Some of these corporate records for the period
+                    1976-1980 are missing. There are extensive files on the subjects of interest and
+                    articles submitted by correspondents around the world, particularly from the
+                    emerging socialist movements in Latin America and Africa. The extensive
+                    collection of audio tapes are from two alternative news radio programs, The Rest
+                    of the News and Radio Free People, emanating from Cornell University. There is a
+                    small amount of administrative documentation for the Rest of the News and Radio
+                    Free People, including catalogs of programs, mailing lists, and fundraising
+                    information. The collection contains numerous examples of the news packets
+                    distributed to over 500 subscribers nationwide including stories, photographs,
+                    and graphics. The primary correspondents are Liberation News Service staffers;
+                    Laura Miller, Raymond Mungo, Sandy Shea, and Allen Young. The first several
+                    years of the organization archives can be found in the Marshall Bloom Collection
+                    at Amherst University. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: New York University:
+                    Tamiment Library/Robert F. Wagner Labor Archives, Liberation News Service
+                    Photographs, 1965-1981; University of Massachusetts at Amherst, Special
+                    Collections and University Archives: Liberation News Service records; Cornell
+                    University, Division of Rare and Manuscript Collections: Rest of the News
+                    records and tape recordings.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

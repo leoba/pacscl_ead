@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Chemical Society Division of Small Chemical Businesses
+                        records <date type="inclusive">1979-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Chemical Society Division of Small Chemical
+                    Businesses records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1275</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1979-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Chemical Society (ACS), founded in 1876, is a self-governed
+                    individual membership organization that consists of more than 158,000 members at
+                    all degree levels and in all fields of chemistry. The Division of Small Chemical
+                    Businesses is one of the 33 technical divisions within the ACS. Founded in 1978,
+                    it seeks to aid in the formation, development and growth of small chemical
+                    businesses by helping self-employed chemists and chemists working in small
+                    enterprises with the legal, social, educational, legislative, regulatory, and
+                    economic aspects of their work.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the ACS Division of Small Chemical
+                    Businesses. Materials include: Executive Committee agendas and minutes
+                    (1981-1989); history and by-laws of the division; financial records; copies of
+                    the Small Chem Biz Newsletter (1979-1993); programs and audiocassettes of
+                    symposia (1980-1990); and membership directories.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

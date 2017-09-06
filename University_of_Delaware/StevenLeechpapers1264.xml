@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Steven Leech papers <date type="inclusive">1966-2007</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Steven Leech papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1264</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-2007</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Steven Leech is a native Delawarean, an alumnus of the University of Delaware,
+                    publisher and editor of Dreamstreets, a freelance writer, and a local radio disk
+                    jockey for WVUD. He has a particular interest in Delaware history and African
+                    American culture. He is the author of Raw Suck and Untime, and has republished
+                    several nineteenth century Delaware authors, including John Lofland and Tux
+                    Munce.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Steven Leech collection consists of material dating from 1960-2003. The bulk
+                    of the collection consists of material related to Delaware area publications,
+                    Dreamstreets, Out and About, the Wilmington Spectator, and others. The
+                    collection includes: books, periodicals, and magazines; newspapers; manuscript
+                    drafts; articles; audio cassette tapes; reel to reel tapes; VHS tapes; cartoons;
+                    mockups; photographs; correspondence; and posters, programs, and leaflets.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Steven Leech</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: various</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/leech.htm">http://www.lib.udel.edu/ud/spec/findaids/leech.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

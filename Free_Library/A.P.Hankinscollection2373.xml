@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>A. P. Hankins collection <date type="inclusive">1945-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">A. P. Hankins collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2373</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.14 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1945-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Abraham Peter Hankins (1904-1963) was born in Gomel, Russia. He was sent to the
+                    United States in 1914 to live with his cousins and study at the Pennsylvania
+                    Academy of the Fine Arts and the Philadelphia Museum College of Art. Hankins
+                    served in the U.S. Army during World War I. After the war, he studied at the
+                    Academy Julien and worked privately with M. de Montholon. Returning to
+                    Philadelphia, he attended the Philadelphia Museum School of Art, the Barnes
+                    Foundation, and the Pennsylvania Academy of Fine Arts. His work is in the
+                    collections of the Philadelphia Museum of Art, the Pennsylvania Academy of Fine
+                    Arts, the Free Library of Philadelphia and the Barnes Foundation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of etchings, aquatints, serigraphs, monotypes, woodcuts, and
+                    pastels by Abraham P. Hankins. The collection also includes a sketchbook kept by
+                    Hankins, several watercolors and a few sketches.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia, Print and Picture Collections: WPA collection and Fine print
+                    collection (both include Hankins); Smithsonian Institution, Archives of American
+                    Art: Abraham P. Hankins papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Walter M. Benner field notebooks <date type="inclusive">1882-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Walter M. Benner field notebooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1868</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.38 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1882-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Walter M. Benner (b. 1888) was a botanist at the Academy of Natural Sciences of
+                    Philadelphia. He received his master's degree and Ph.D. from the University of
+                    Pennsylvania and began as a research associate at the Academy in 1928. He was
+                    appointed acting chairman of the Botany Department in 1958. He conducted many
+                    field trips in Pennsylvania, New Jersey, Maryland, and Delaware, and in 1932 he
+                    published The Flora of Bucks County, Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the field notebooks and collection records of Walter
+                    Benner. The volumes include a collection record which lists specimen number,
+                    name, date, and location; lists of plants collected or recorded from trips to
+                    Pennsylvania, New Jersey, and elsewhere, between 1913 and 1951; a notebook with
+                    descriptions of plants, possibly transcribed from a number of botanical
+                    reference works; a botany journal possibly transcribed from journals kept by the
+                    Ruth brothers (John A. and Harvey F. Ruth, d. 1904?) between 1882 and 1914; and
+                    an annotated copy of The Flora of Bucks County, Pennsylvania, 1932.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

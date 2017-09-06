@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Blanche Shaffer papers <date type="inclusive">1958-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Blanche Shaffer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC764</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Blanche Weber Shaffer (1908-1974) was active in the founding of Friends World
+                    Committee for Consultation (FWCC). She married Leslie D. Shaffer, the Secretary
+                    of the American section of the Friends World Conference, in 1940. With Irene and
+                    Bertram Pickard she helped to write the FWCC publication "Quakerism in
+                    Switzerland." She was the deputy director of the Quaker International Centre
+                    and the Secretary General of FWCC from 1961 to 1970.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of notes and daily planners of Blanche Shaffer. Materials
+                    include: a draft of an article on world-wide Quakerism; notes of meetings of the
+                    FWCC and other related activities; notes and reports to the FWCC from visits to
+                    India, Japan, Beirut, Latin American, and East Germany; and a set of daily
+                    planners from 1958 to 1974.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Friends World Committee for Consultation.</corpname>
+                <subject encodinganalog="650">Society of Friends--History.</subject>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 3119</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Edwin B. Bronner papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

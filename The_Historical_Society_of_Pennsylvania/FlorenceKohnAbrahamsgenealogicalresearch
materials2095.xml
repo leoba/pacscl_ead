@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Florence Kohn Abrahams genealogical research materials <date type="inclusive">1898-1975</date>
+                        <date type="bulk"> 1950-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Florence Kohn Abrahams genealogical research
+                    materials</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2095</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-1975</unitdate>
+                <unitdate type="bulk"> 1950-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Florence Kohn Abrahams (1909-1975) was married to Robert D. Abrahams. They had
+                    three children, Richard, Roger, and Marjorie. She lived in Elkins Park,
+                    Pennsylvania, for most of her life. She served as an American correspondent for
+                    The Jewish Chronicle in London in the 1960s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of genealogical research conducted and compiled by
+                    Florence Kohn Abrahams, with a particular focus on genealogies of Jewish
+                    families. Families of note include Abrahams, Benjamin, Cohen, Moss, and Davis.
+                    Correspondence and compiled research comes from family members in Australia,
+                    Montreal and the United States. There are extensive pedigrees and family charts;
+                    some pedigrees and related materials have been grouped by country of origin,
+                    with binders pertaining to English-Jewish and Spanish-Jewish, and a folder
+                    relating to Mexican Jews. There are articles about, correspondence, charts,
+                    ephemera and photographs for the Abrahams family, and a pedigree of the
+                    Kohn-Abrahams family. Two card files list hundreds of names, and possibly serve
+                    as indexes to other materials. The collection also includes photostats and
+                    photocopies from books, newspapers, and family charts, as well as pedigrees for
+                    English (aristocracy) and Danish families.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

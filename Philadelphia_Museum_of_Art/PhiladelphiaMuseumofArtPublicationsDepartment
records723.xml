@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Publications Department records <date type="inclusive">1966-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Publications Department
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC723</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George H. Marcus headed the Publications department beginning in 1968. During the
+                    1970s and 1980s, Christine K. Ivusic and Janet Watkins served consecutively as
+                    his Assistant/Senior Editors. Sherry Babbitt joined the department in 1978 as
+                    secretary. Promoted over the next two decades, Babbitt succeeded Marcus in 2001
+                    as Director of the department, which by then operated under its current
+                    designation of "Publishing."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This record group pertains to publications produced by the Museum during the
+                    1970s and early 1980s. These published works include catalogs and handbooks of
+                    specific collections owned by the Museum or in its custody, exhibition
+                    catalogues and checklists, Bulletin articles, engagement calendars, and
+                    miscellaneous booklets. Documentation consists primarily of draft writings,
+                    notes, edited typescripts, proofs, and mockups, as well as correspondence,
+                    photographs, reviews and other clippings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Marcus, George H.</persname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Publications Department. </corpname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Manuscripts.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 24</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=PUB">http://www.philamuseum.org/pma_archives/search.php?c=PUB</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

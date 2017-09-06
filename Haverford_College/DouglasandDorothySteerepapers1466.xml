@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Douglas and Dorothy Steere papers <date type="inclusive">1896-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Douglas and Dorothy Steere papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC1466</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>60 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1896-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Douglas V. Steere (1901-1995) taught philosophy at Haverford College from 1928 to
+                    1964, serving as chair of the department for a number of years. He later served
+                    as a senior advisor for the Margaret Gest Center for Cross-Cultural Study of
+                    Religion. After his retirement in 1964, he represented the Society of Friends as
+                    one of the 17 Protestant churchmen from the United States observing Vatican
+                    Council II. He also helped organize the Ecumenical Institute of Spirituality. He
+                    served as Chairman of the Friends World Committee for Consultation from 1964 to
+                    1970. He and his wife Dorothy helped to found Pendle Hill, a Quaker study center
+                    in Wallingford, Pennsylvania, in 1930, and served on the Board of Managers. He
+                    was the author of numerous books, pamphlets, and articles on religious and
+                    spiritual topics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the personal and professional papers of Douglas Steere.
+                    Materials include: correspondence; lectures and notes; sermons and addresses;
+                    drafts of books, articles, and reviews; calendars, resumes, and honors;
+                    notebooks, diaries and journals; subject files; and photographs. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Friends World Committee for Consultation. American
+                    Section.</corpname>
+                <corpname encodinganalog="610">Pendle Hill (School : Wallingford, Pa.)</corpname>
+                <persname encodinganalog="600">Steere, Dorothy.</persname>
+                <subject encodinganalog="650">Quakers--Pennsylvania.</subject>
+                <genreform encodinganalog="655">Autobiographies</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Diaries</genreform>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+                <genreform encodinganalog="655">Sermons</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

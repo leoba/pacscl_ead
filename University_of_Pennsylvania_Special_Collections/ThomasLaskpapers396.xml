@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas Lask papers <date type="inclusive">1910-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas Lask papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC396</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Lask was the poetry editor of the New York Times.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of correspondence with poets and editors about
+                    reviews of volumes of poetry in the New York Times and submission of poems for
+                    inclusion in the paper. Notable correspondents include Delmore Schwartz, Allen
+                    Ginsberg, Henry Miller, Tambimuttu, Richard Aldridge, and I. A. Richards.
+                    Letters from contributors (or would-be contributors) are often unaccompanied by
+                    copies of the submitted poems. The collection does include copies of a
+                    manuscript by Joseph Brodsky, several printed volumes by Jonathan Williams, and
+                    manuscript and typescript poems by a number of other poets. The collection also
+                    includes a small batch of letters from Edwin Arlington Robinson to J. Edith
+                    Monahan at Macmillan, from 1929-1931, and several biographical and memorial
+                    booklets on Robinson. There are also photographs of Charles Reznikoff and his
+                    family.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 166</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

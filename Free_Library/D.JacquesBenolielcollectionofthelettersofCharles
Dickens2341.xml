@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>D. Jacques Benoliel collection of the letters of Charles Dickens
+                            <date type="inclusive">1832-1993</date>
+                        <date type="bulk"> 1832-1870</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">D. Jacques Benoliel collection of the letters of Charles
+                    Dickens</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2341</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1832-1993</unitdate>
+                <unitdate type="bulk"> 1832-1870</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Dickens (1812-1870) was one of the most popular English novelists of the
+                    Victorian era as well as a vigorous social campaigner.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, manuscript material, and other items
+                    related to Charles Dickens. The bulk of the correspondence consists of autograph
+                    letters by Dickens. Significant correspondents include William Harrison
+                    Ainsworth, George Cattermole, George Cruikshank, John Leech, Mark Lemon, Daniel
+                    Maclise, Clarkson Stanfield, Frank Stone, and Thomas Adolphus Trollope. There
+                    are also autograph letters from some of these correspondents and from other
+                    members of Dickens's circle of family, friends, and associates. Manuscripts in
+                    the collection include: The Life of Our Lord; five leaves of Pickwick Papers; a
+                    corrected copy of The Cricket on the Hearth; and fragments of several other
+                    stories, plays, and poems. Ephemera and memorabilia include: various printed
+                    notices, prospectuses, letters to the editor, and printed commentaries;
+                    invitations; announcements of readings; cartes de visites; advertisements; a
+                    silk commemorative bookmark; and photographs, cabinet card photographs, and
+                    engravings of Dickens, his family, and members of his circle. The collection
+                    also contains 20th century Dickens ephemera, 1937-1993, including: postcards;
+                    stamps, including a first day of issue; newspaper articles; brochures; a set of
+                    playing cards; and a set of cocktail napkins. Additionally the collection
+                    includes playbills (several of which are framed) from a variety of London and
+                    Philadelphia theaters (1838-1873) for plays based on Dickens's writings (Oliver
+                    Twist, Martin Chuzzlewit, Domby and Son, Cricket on the Hearth, A Christmas
+                    Carol); and playbills for performances in which Dickens appeared. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

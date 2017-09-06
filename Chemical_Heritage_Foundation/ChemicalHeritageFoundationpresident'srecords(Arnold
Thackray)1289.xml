@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chemical Heritage Foundation president's records (Arnold Thackray)
+                            <date type="inclusive">1967-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chemical Heritage Foundation president's records (Arnold
+                    Thackray)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1289</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1980, a group of scientists and industrialists concluded that the time had
+                    come to found a national history center devoted to the chemical and molecular
+                    sciences and industries. In 1982 the Center for the History of Chemistry (CHOC)
+                    was launched as a pilot project of the University of Pennsylvania and the
+                    American Chemical Society (ACS). In 1984 the American Institute of Chemical
+                    Engineers (AIChE) became the third sponsor. In 1987 the Center was incorporated
+                    as a not-for-profit organization, now named the National Foundation for the
+                    History of Chemistry, by joint action of the ACS and AIChE. The Foundation
+                    rented space in a new building at the University of Pennsylvania and
+                    restructured its activities into those of the Beckman Center for the History of
+                    Chemistry (established 1987) and the Othmer Library of Chemical History
+                    (established 1988). In 1992 the Chemical Heritage Foundation (CHF) assumed its
+                    present name to better reflect the interdisciplinary nature of the sciences and
+                    industries it serves and the widening public scope of its activities. In 1995
+                    CHF purchased its permanent home, the First National Bank building at the
+                    Independence National Historical Park in Philadelphia, and moved into its new
+                    location a year later. Arnold Thackray (b. 1939) is the founding president of
+                    the Chemical Heritage Foundation. He took both his M.A. (1965) and Ph.D. degrees
+                    at Cambridge (1966) in history of science. He was founding chairman of, and
+                    Joseph Priestley Professor in, the Department of History and Sociology of
+                    Science at the University of Pennsylvania, while serving on the faculty of the
+                    University of Pennsylvania for more than a quarter of a century. He is now
+                    Professor Emeritus. He has served as editor of Isis (1978-1985) and Osiris
+                    (1985-1994), among other publications, and has been a member and an officer of
+                    many professional associations.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Arnold Thackray's professional files from his work at
+                    the University of Maryland, University of Pennsylvania, and the Chemical
+                    Heritage Foundation, and reprints of his publications (1967-1984). Thackray's
+                    CHF working files include: development materials, such as planning documents,
+                    reports, appeals, acknowledgment letters and records of scholarships and
+                    foundation funding efforts; records of his involvement with professional
+                    organizations and societies, such agendas, reports, minutes, and notes from
+                    committee meetings; individual correspondence with colleagues; topical files on
+                    CHF programs, such as the Biomolecular Sciences Initiative project (BIMOSI) and
+                    the Chemical Instrumentation Museum Group (CIMG); plans for 1994 construction
+                    work on the CHF building; correspondence with publishers; and general
+                    administrative files on exhibits, publications and preparations for meetings of
+                    the CHF Board of Directors.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

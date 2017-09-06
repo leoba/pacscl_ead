@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry Dexter Learned personal and professional papers <date type="inclusive">1919-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry Dexter Learned personal and professional
+                    papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2069</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Dexter Learned joined the faculty of Temple University as head of the
+                    Department of French in 1930, and served as chairman of the Department of Modern
+                    Languages from 1936 to 1946 before retiring as Emeritus Professor in 1960. He
+                    wrote extensively on the phonetics of children's speech and on romance
+                    languages, was assistant editor of Webster's New International Dictionary from
+                    1929 to 1934, and served the U.S. government in military code work during World
+                    War II. In 1954, he organized the "Cruiser Olympia Association, Inc." to have
+                    the cruiser Olympia, Admiral Dewey's flagship in the Spanish-American War,
+                    declared a national monument. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of Philadelphia foreign language educator are dominated by research
+                    materials, notes, and manuscripts on phonology and for an Anglo-Norman
+                    dictionary and an Anglo-French bibliography. The collection contains other
+                    materials relating to Learned's pursuit of national monument status for Admiral
+                    Dewey's cruiser, the U.S.S. Olympia. The collection includes correspondence from
+                    the Cruiser Olympia Association, Inc. The collection includes personal and
+                    professional correspondence, reprints, clippings, articles, maps, drawings,
+                    woodcuts, telegrams, photographs, slides, negatives, poems, and a printing
+                    block.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

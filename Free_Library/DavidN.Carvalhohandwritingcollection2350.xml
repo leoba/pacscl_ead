@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David N. Carvalho handwriting collection <date type="inclusive">1349-1891</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David N. Carvalho handwriting collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2350</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1349-1891</unitdate>
+            </did>
+
+            <bioghist>
+                <p>David Nunes Carvalho (1848-1925) was a scholar of handwriting and ink and a
+                    collector of incunabula. He was well known as an expert in handwriting analysis
+                    and identification, and in that capacity appeared in many court cases throughout
+                    the country. He was the author of 40 Centuries of Ink (1904).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of 4000 items that are representative of ordinary
+                    handwriting from the 10th to the 20th centuries, written in English, French,
+                    Latin, German, and Dutch. The bulk of the items are from the 17th to the 19th
+                    centuries. Samples, on paper and vellum, include indentures, letters, receipts,
+                    and pages of accounts. There is also a small set of examples of alphabets from
+                    many countries; 19th century examples of engraved death and marriage
+                    announcements; engraved portraits of writing masters; examples of minute
+                    calligraphy; and volumes containing a catalog of Carvalho's book collection.
+                    Although the collection contains a number of unrelated documents, there are
+                    several concentrations of related papers. For example, among the French
+                    materials are papers of the D'Auxy family; among the British papers are a
+                    collection of indentures, primarily from Devon; and among the American materials
+                    is a batch of letters, deeds, receipts, and agreements from the Philadelphia
+                    area (1731-1922) and correspondence received by the Baltimore merchant house of
+                    Robert Clinton Wright. The collection also includes a set of papers related to
+                    William Darlington, M.D. (1782-1863). These include letters to and from
+                    Darlington and drafts of articles on botany.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

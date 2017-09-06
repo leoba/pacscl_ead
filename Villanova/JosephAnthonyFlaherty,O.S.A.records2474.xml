@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Anthony Flaherty, O.S.A. records <date type="inclusive">1964-1993</date>
+                        <date type="bulk"> 1964-1967</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Anthony Flaherty, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2474</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-1993</unitdate>
+                <unitdate type="bulk"> 1964-1967</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Father Joseph Anthony Flaherty (1916-1993) was born in Philadelphia,
+                    Pennsylvania. Flaherty attended the Gesu Parochial School, Saint Joseph’s
+                    Preparatory School, and in 1938 received an A.B. degree from Saint Joseph’s
+                    College in Philadelphia. In 1940 he began his theological studies at Augustinian
+                    College, Washington, D.C. During the summer months he took graduate courses at
+                    the nearby Catholic University of America. Flaherty was ordained to the
+                    priesthood in 1943. In 1946 he was granted a Master’s degree, and in 1949 a
+                    Ph.D., in English from Harvard University. In 1947 Father Flaherty was assigned
+                    to the newly opened Merrimack College in North Andover, Massachusetts, as a
+                    teacher of English. From 1951 to 1964 he held the position of director of the
+                    Part-time Division of the College. In 1964 he was transferred to Villanova
+                    University and appointed Vice President for Academic Affairs. In the following
+                    year, 1965, he was appointed president of the University, serving until 1967.
+                    During his tenure as president the entire curriculum of the university was made
+                    available to women students; the construction of the first residence hall for
+                    women was begun; and salaries for the faculty were raised. In 1967 Father
+                    Flaherty returned to Merrimack College as a professor of English and continued
+                    to teach until he retired in the mid-1980s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Father Joseph A. Flaherty. Materials include:
+                    correspondence relating to the Master Plan for Higher Education (1967),
+                    commencements (1966-1967), a University Library addition (1966-1967), and other
+                    topics; clippings on Father Flaherty's appointments as Vice President of
+                    Academic Affairs and as President; a report on the Academic Addition to the
+                    School of Law; legal materials related to several Villanova estates; and a
+                    sermon given at the Baccalaureate Mass in 1966. The collection also includes a
+                    small amount of correspondence of Rev. Robert J. Welsh, mostly relating to his
+                    inaugural service and a Pontifical Mass, both in September of 1967.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Flaherty, Joseph Anthony.</persname>
+                <subject encodinganalog="650">College presidents</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Sermons.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

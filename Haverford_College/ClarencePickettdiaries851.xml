@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clarence Pickett diaries <date type="inclusive">1933-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clarence Pickett diaries</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC851</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clarence E. Pickett (1884-1965) served as executive secretary of the American
+                    Friends Service Committee from 1929 to 1950. Educated at Penn College, Iowa,
+                    Hartford Theological Seminary, and Harvard, he served as a Quaker minister in
+                    Toronto and Oskaloosa, as national secretary of Young Friends' activities, and
+                    as professor of biblical literature at Earlham College. Deeply committed to
+                    social justice and pacifism, he provided advice and service to four U.S.
+                    presidents (Herbert Hoover, Franklin D. Roosevelt, Harry Truman, and John F.
+                    Kennedy) on a range of matters including the plight of coal-mining communities,
+                    humane immigration policies, relief for war-torn Europe and Asia, and the
+                    progress of the Peace Corps.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of typed copies of Clarence Pickett's diaries, along with
+                    highlighting and preliminary indices created by a researcher. The originals of
+                    the diaries are held by the American Friends Service Committee.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Friends Service Committee.</corpname>
+                <subject encodinganalog="650">Quakers--Diaries.</subject>
+                <subject encodinganalog="650">Society of Friends and world politics.</subject>
+                <genreform encodinganalog="655">Diaries</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 6928</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American Friends
+                    Service Committee Archives: Clarence E. Pickett papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

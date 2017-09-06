@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Katharine McBride papers <date type="inclusive">1924-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Katharine McBride papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1419</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1924-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Katharine McBride (1904-1976) was a 1925 graduate of Bryn Mawr College. She was a
+                    researcher in psychology, working with Dr. Theodore Weisenburg. She taught at
+                    Bryn Mawr from 1935 to 1940, leaving to become a dean at Radcliffe College. In
+                    1942, she was appointed President of Bryn Mawr College. She remained in this
+                    post until 1970. In 1952 she was elected the first woman Trustee of the
+                    University of Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is grouped into six sections. Personal research and
+                    correspondence materials include: school records, speeches, notes from McBride's
+                    committee activities, and bound typescripts of McBride's "A Psychological Study
+                    of Aphasia." President's Office administrative files include: Presidents'
+                    Reports, Tri-College Cooperation records, and records from departments within
+                    Bryn Mawr. President's Office outgoing correspondence consists of letters sent
+                    from McBride's office between 1951 and 1957. Trusteeships and non-Bryn Mawr
+                    committee records include: correspondence, reports, minutes, and newsletters
+                    from various committees on which McBride served, including the President's
+                    Committee on Education Beyond High School, the National Science Foundation, and
+                    the Center for Cultural and Technical Interchange Between East and West.
+                    Financial records, covering the period 1946-1955, include: budgets,
+                    scholarships, and faculty salaries. This section of the collection also includes
+                    records on student attendance, honors, and financial aid. Grant materials
+                    include documentation of awards and grants to the college and compliance with
+                    governmental regulations for the period 1956 to 1970. The McBride collection
+                    also includes materials relating to the establishment of the Graduate School of
+                    Social Work and Social Research as a separate division of College.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Alice Gore King scrapbooks and Edie McGrath office files.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

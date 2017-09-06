@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>H. Radclyffe Roberts papers <date type="inclusive">1936-1980</date>
+                        <date type="bulk"> 1936-1948</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">H. Radclyffe Roberts papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1896</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.875 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1980</unitdate>
+                <unitdate type="bulk"> 1936-1948</unitdate>
+            </did>
+
+            <bioghist>
+                <p>H. Radclyffe Roberts (1906-1982) was an entomologist at the Academy of Natural
+                    Sciences of Philadelphia. He served the Academy in various capacities from 1930
+                    through his death in 1982: trustee, managing director 1947-1972, and associate
+                    curator of the Entomology Department. Roberts held a Ph.D. in biology from the
+                    University of Pennsylvania and was an expert in Orthoptera. During World War II
+                    he wrote a study on malaria-carrying mosquitoes which was circulated to U.S.
+                    soldiers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of H. Radclyffe Roberts. Materials include:
+                    professional correspondence (incoming and outgoing) with colleagues in the
+                    United States, Mexico, and South America. Many of the letters discuss the study
+                    and exchange of specimens of orthoptera. Other correspondence is related to an
+                    atlas of mosquitoes, and other publications. There are a small number of
+                    typescript and manuscript notes on collecting and funding policies for the
+                    Academy (from circa 1946). The collection also includes one folder of notes and
+                    illustrations from 1980 related to a study of the genus propedies.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Entomology
+                    Department records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wanda Blazejewski Larsen papers <date type="inclusive">1940-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wanda Blazejewski Larsen papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC007</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1940-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wanda Catherine Blazejewski Larsen was extremely active in the Polish-American
+                    community in Delaware. She spent three summers studying at Polish universities
+                    in Krakow and Lublin to gain knowledge so she could inform the American public
+                    about Poland. To this end, she held many lectures and exhibits, and was a member
+                    of the Delaware Council of International Visitors and the Americans of Polish
+                    Descent Cultural Society. Mrs. Larsen was an active volunteer in Newark,
+                    Delaware, and Elkton, Maryland. Her autobiography is titled Dear and Not So Dear
+                    Memories.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Wanda Larsen, dating from 1940-1999. Much
+                    of the material relates to Larsen's travels to Poland and other destinations.
+                    These mainly consist of photographs and slides, but also include maps,
+                    brochures, and guidebooks. In addition, the collection includes 16 scrapbooks
+                    and photo albums which document her life, including her involvement with the
+                    Americans of Polish Descent Cultural Society and her ties with the University of
+                    Delaware. The scrapbooks contain photographs, awards, certificates, greeting
+                    cards, menus, programs, and magazine articles. The collection also includes
+                    drafts of her autobiography, Dear and Not So Dear Memories, and college papers
+                    of Larsen and of her husband, Louis.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 00-43; 00-05; 99-80; 96-50; 95-38c ; 94-71</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/larsen.htm">http://www.lib.udel.edu/ud/spec/findaids/larsen.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

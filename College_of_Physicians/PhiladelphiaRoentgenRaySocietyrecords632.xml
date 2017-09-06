@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Roentgen Ray Society records <date type="inclusive">1905-1995</date>
+                        <date type="bulk"> 1905-1942</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Roentgen Ray Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC632</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1995</unitdate>
+                <unitdate type="bulk"> 1905-1942</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Roentgen Ray Society was organized by Charles Lester Leonard as
+                    the Roentgen Society of Philadelphia on 2 Feb. 1905. Its objects were to study
+                    X-rays and promote professional contact. After Leonard's death, the society was
+                    reorganized and became the Philadelphia Roentgen Ray Society on 1 Dec. 1913. Its
+                    officers include a president, vice-president, and secretary-treasurer. The
+                    society was incorporated in 1929.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of minutes of the Philadelphia Roentgen Ray Society,
+                    1905-1942. Minutes discuss business matters and list papers delivered at
+                    scientific meetings of the Society. The collection also includes: voucher book,
+                    with checks and receipts, 1925-1927; records relating to incorporation; copies
+                    of the societies constitution, by-laws, and membership lists; and materials
+                    related to a 1995 presentation on the history of the Society. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003-003 </p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Philadelphia Roentgen Ray Society records (MSS 3/0021-01) and
+                    Roderick Tondreau collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

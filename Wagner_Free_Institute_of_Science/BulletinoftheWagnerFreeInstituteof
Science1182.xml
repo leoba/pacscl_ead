@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bulletin of the Wagner Free Institute of Science <date type="inclusive">1926-1958</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bulletin of the Wagner Free Institute of
+                    Science</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1182</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1958</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Bulletin was published from 1926 until 1958. Volumes 1-4 are bimonthly.
+                    Volumes 5-33 are quarterly. The first issue begins, "With this issue, the
+                    Wagner Free Institute of Science of Philadelphia begins the publication of a
+                    Bulletin announcing the results of scientific investigations under its auspices
+                    and reports of educational work." Volumes 1-7 contain some or all of the
+                    following sections: Announcements, Courses, Closing Exercises, Faculty and
+                    Trustee Lists, Faculty Changes, Historical Note, Facilities for Instruction, In
+                    Memoriam, Institute News and Notes, List of students receiving certificates,
+                    Museum Notes, Museum Talks, Necrology, Personal Note, Publication Lists,
+                    Research Laboratory Notes, Scientific Articles, Westbrook Lectures. These
+                    sections contain news of the happenings at the Institute, new museum specimens
+                    and exhibits, and studies in progress. Beginning with vol. 7, numbers 1, 2, and
+                    4 typically contain one scientific article per issue. Institute news is never
+                    included again. No. 2 is usually a synopsis of the Westbrook lecture series of
+                    that year. No. 3 is the annual announcement (a.k.a. course catalog.) Benjamin
+                    Franklin Howell wrote many of the articles, and they largely describe specimens
+                    at Princeton University. Most articles are illustrated by photographs, maps,
+                    graphs, or charts. The annual announcements are little changed through the
+                    years. Beginning with vol. 6, the annual announcement contains brief resumes of
+                    the faculty. Each announcement is illustrated with photographs of the building,
+                    museum, and auditorium. Beginning with vol. 24, photographs of class field trips
+                    are included. Bound copies are also available.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 98-049</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

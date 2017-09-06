@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Friends Council on Education records <date type="inclusive">1903-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Friends Council on Education records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC769</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Friends Council on Education, founded by a group of volunteer Quaker
+                    educators in 1931, promotes the theory and practice of Quaker education,
+                    supports Friends schools (pre-kindergarten through 12th grade) in maintaining
+                    their values-based learning environments, and provides a professional
+                    development network for educational issues, philosophy and practice in Friends
+                    schools.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Friends Council on Education. Materials
+                    include: minutes and financial reports (1930-1979); reports to Yearly Meetings;
+                    grant proposals and correspondence; records of various educational programs and
+                    workshops, such as the Friends School Day and the Friends Teacher Training
+                    Program; copies of the Courier (a Friends Council publication); minutes of the
+                    Quaker Headmasters Association (1929-1968); articles and pamphlets on Quaker
+                    education; and materials related to a 1968 misappropriation of funds case. The
+                    collection also includes correspondence and reports of the Independent Urban
+                    Education Corporation and annual reports of the Association for Promoting
+                    College Education of Women (1903-1928).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Independent Urban Education Corporation.</corpname>
+                <subject encodinganalog="650">Quakers--Education.</subject>
+                <subject encodinganalog="650">Society of Friends--Education.</subject>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Newsletters</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 3276, 3970, 4821, 5037, 5086, 5171</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

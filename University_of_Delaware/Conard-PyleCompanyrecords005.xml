@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Conard-Pyle Company records <date type="inclusive">1891-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Conard-Pyle Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC005</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>138 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Located in West Grove, Pennsylvania, the Conard-Pyle Company was originally
+                    organized in 1897 by Alfred S. Conard and A. Morris Jones as a mail-order
+                    nursery and seed business specializing in own-root roses grown from cuttings and
+                    sold while still small. Robert Pyle joined the company in 1898 and purchased
+                    control in it after Conard's death in 1907. Pyle rapidly developed the business
+                    with the popular sale of two-year-old field-grown plants on grafted roots, which
+                    brought higher prices and yielded plants that would bloom in the first year of
+                    purchase. Pyle became an internationally known nurseryman and authority on
+                    roses, serving in leadership positions on the American Rose Society, the
+                    National Association of Plant Patent Owners, the American Association of
+                    Botanical Gardens and Arboretums, the American Horticultural Society, and other
+                    organizations. The most famous rose introduced by Pyle is the Peace rose,
+                    patented in 1943 from the work of the French hybridizer Francis Meilland. Nearly
+                    every new rose today is descended from the Peace rose.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Conard-Pyle Company Archives consist of records from this prominent West
+                    Grove, Pennsylvania, rose nursery that span the dates 1891-2000. The extensive
+                    collection includes nursery catalogs and brochures, publications, plant patents
+                    and records of the license department, annual reports, correspondence and
+                    memoranda, photographs, and memorabilia. In addition to documenting the products
+                    and business of Conard-Pyle, the collection provides information about the
+                    history of the rose, international horticultural research, professional
+                    organizations, flower shows, and all aspects of the nursery trade.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 00-09</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0634.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0634.xml</extref>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

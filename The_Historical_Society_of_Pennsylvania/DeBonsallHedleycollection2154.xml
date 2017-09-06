@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>DeBonsall Hedley collection <date type="inclusive">1834-1977</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">DeBonsall Hedley collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2154</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1834-1977</unitdate>
+            </did>
+
+            <bioghist>
+                <p>DeBonsall Hedley (1911-1978) was married to Eva L. Hedley. He graduated from
+                    Westtown School in 1931. He lived in Wethersfield, Connecticut in the 1970s,
+                    then moved to Philadelphia. He had also previously lived in West Chester,
+                    Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains genealogical research materials and other items
+                    reflecting Hedley's interests. Genealogical materials include: annual reports,
+                    minutes, and membership lists for the Society of the Descendants of the Founders
+                    of Hartford; handwritten notes, photostats and other copies related to research
+                    on royal and biblical figure genealogies; lists, pedigree charts and other
+                    information related to the exchange of ancestral surnames; printed materials
+                    related to the Connecticut Society of Genealogists; and some information related
+                    to the holdings of the Genealogical Society of Pennsylvania. Other materials
+                    include: Hedley's Westtown School yearbook from 1931, which includes felt
+                    letters, clippings, and signatures from some classmates; research on "migrant
+                    races", including a sample chapter for a proposed book, correspondence,
+                    handwritten notes, and a telegram from Dwight D. Eisenhower; newspaper articles
+                    on World War I and World War II; issues of Spot Lite, the newsletter of the
+                    Riegel Paper Corporation, 1938-1939, which include information on recreational
+                    and community activities and drawings; Baedeker's London and Surroundings and
+                    some printed materials from the U.S. Department of State about various European
+                    countries; and miscellaneous printed materials and artifacts. There are also
+                    several albums/commonplace books with illustrations and poems copied in. One is
+                    supposedly a diary of Anna Humphreys Garrigues.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

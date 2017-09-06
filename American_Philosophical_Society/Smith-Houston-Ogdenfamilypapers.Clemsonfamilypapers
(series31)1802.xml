@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Clemson family papers (series
+                        31) <date type="inclusive">1812-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Clemson family papers
+                    (series 31)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1802</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1812-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lawrence M. C. Smith's mother, Gertrude Gouverneur Clemson (1867-1947), provides
+                    the connection between the Clemson and Smith families. The daughter of the
+                    Reverend Thomas Green Clemson (1833-1888) and Sarah Frances Ogden
+                    (1833-[1910?]), Gertrude married Lewis Lawrence Smith (1864-1931) in 1892.
+                    Thomas Green Clemson (d.1888), an Episcopal churchman and rector of churches in
+                    Waddington, NY and Radnor, PA was the son of the Reverend John B. Clemson
+                    (1803-1891) and his wife, Margaretta [Jacobs?] (1809-1838). John had a brother,
+                    Thomas Green Clemson (1807-1888), who was a prominent agriculturalist and is the
+                    namesake of Clemson University. Gertrude Gouverneur Clemson's siblings included
+                    Margaretta Helen Clemson (b.1874), and Ludlow Ogden Clemson (1870-1888).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to various members of the Clemson family.
+                    Materials include: family letters, photos and photo albums; drawing manuals of
+                    Thomas Green Clemson, copies of sermons delivered on the occasion of people's
+                    deaths, newspaper clippings (primarily death notices), and pamphlets and notes
+                    on Clemson family genealogy. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Waldo E. Nelson papers <date type="inclusive">1924-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Waldo E. Nelson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC593</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1924-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Waldo Emerson Nelson (1898-1997) was born in McClure, Ohio, and obtained his
+                    medical degree from the University of Cincinnati in 1926. He was an intern at
+                    Cincinnati General Hospital, and went on to completed his residency at
+                    Cincinnati Children's Hospital in 1929. Nelson subsequently joined the
+                    Cincinnati Children's Hospital's medical staff. In 1940, he moved to
+                    Philadelphia where he served as the chairman of the department of pediatrics at
+                    Temple University and the medical director of St. Christopher's Hospital. Nelson
+                    was the author of the Nelson Textbook of Pediatrics and was the editor of The
+                    Journal of Pediatrics from 1959 through 1978.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Waldo Emerson Nelson papers contain a variety of materials relating to
+                    Emerson's professional career. The collection includes an oral history taken by
+                    the American Academy of Pediatrics. There are transcripts of speeches from the
+                    1940s to the mid-1960s, as well as post-retirement visits and speeches. Topics
+                    covered in the speeches include pediatrics, fluid therapy, cerebral palsy and
+                    infectious diseases. Some film and glass slides that accompanied his talks are
+                    present. The collection also includes material relating to his Nelson Textbook
+                    of Pediatrics, such as correspondence with editors, clippings of notices,
+                    reviews of the textbook and a history of the textbook by Nelson. Correspondence
+                    relating to the Journal of Pediatrics, and files regarding his work at Temple
+                    and St. Christopher's hospitals are present. Other types of materials include
+                    awards; research on diabetes such as charts, photographs of patients, and
+                    research findings; a small amount of research on tuberculosis and low birth
+                    weight; reprints; and medical school notes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Jane Nelson Beatty</p>
+                <p>Year acquired: 1998</p>
+                <p>Accession number: 1998-008</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

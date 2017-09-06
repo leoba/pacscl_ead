@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>United Political Action Committee of Chester County (UPAC) records
+                            <date type="inclusive">1958-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">United Political Action Committee of Chester County (UPAC)
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2416</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Formed in 1966 by a group of local African American residents as a direct
+                    response to continuing segregation and racial discrimination in the county, UPAC
+                    worked with other local civil rights groups and activists, including activist
+                    and West Chester native Bayard Rustin, the West Chester Branch of the NAACP, and
+                    the Human Relations Council in fighting against discrimination and for fair
+                    employment. The founders of UPAC included Charles A. Melton, Charles H. Butler,
+                    Norman W. Bond, Robert L. Wright, Willie Stokes, James Ward, Alston B. Meade,
+                    Dr. W.T.M. Johnson, Ernest Spriggs and Charles V. Hamilton. Charles A. Melton
+                    was the first president and Dr. Johnson was secretary. Dr. Johnson succeeded
+                    Melton as president and it was he who maintained and later donated UPAC's
+                    records to CCHS. UPAC was a plaintiff in the racial discrimination case against
+                    Lukens Steel (Goodman vs. Lukens Steel, 1973) and participated in the successful
+                    1986 legal challenge to West Chester's use of at-large elections in determining
+                    voter representation on Borough Council. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Includes legal documents, correspondence, photographs, news releases, memos,
+                    clippings, scrapbooks, biographical information on members, etc..</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="www.chestercohistorical.org">www.chestercohistorical.org</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>R. P. Leary papers <date type="inclusive">1880-1900</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">R. P. Leary papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC453</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1880-1900</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Phillips Leary (1842-1901) was an admiral in the United States Navy who
+                    served from the American Civil War through the Spanish-American War. Leary
+                    entered the United States Naval Academy in 1860. During the Civil War, he served
+                    in screw sloop Canandaigua and monitor Sangamon assigned to the Atlantic
+                    blockade. The USS Adams was commissioned to the Pacific Station in 1885 and
+                    cruised along the west coast and in Hawaiian and Samoan waters. During tension
+                    with Germany over Samoa, Leary commanded the USS Adams at Samoa from October to
+                    December 1888. In the Spanish-American War, he commanded the San Francisco (C-5)
+                    off Havana, Cuba. From 1899 to 1900, Captain Leary served as Naval Governor of
+                    Guam. Retiring in 1901, Rear Admiral Leary died 27 December at Chelsea, Mass. In
+                    1943, the destroyer USS Richard P. Leary (DD-664) was named in his honor.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Leatherbound letterbook of Captain R.P. Leary, US Navy, 1896, 1888-1889, and
+                    1899-1900. Includes correspondence while Leary was captain of the USS Adams and
+                    during his tenure as Governor of Guam. The volume also includes Leary's printed
+                    proclamations and general orders. The correspondence from the USS Adams
+                    describes conditions in Samoa, attacks on American property, and the rebellion
+                    led by Chief Tamasese. The correspondence from Guam includes reports to the
+                    Secretary of the Navy on military and civil affairs. These reports also discuss
+                    outbreaks of typhoid fever and other medical matters and request supplies and
+                    machinery. Other letters relate to staff postings and personnel matters and
+                    orders for USS Yosemite, USS Brutus, and other vessels. Proclamations include
+                    the announcement of the US occupation and administration of Guam, the outlawing
+                    of the practice concubinage; prohibition of the sale of "any intoxicating
+                    stimulant, liquid, gelatinous, or solid"; and the abolition of slavery. There
+                    are copies of proclamations in English, Spanish, and Chomarro. Some letters
+                    relate to issues of religious liberty in Guam under Leary's governorship. Leary
+                    expelled a number of Catholic friars from Guam, arguing that they had too much
+                    influence on native officials. The collection also includes; a telegram (in
+                    code); a passenger list of the US Mail Steamer St. Paul, 1900; copies of general
+                    orders of Leary as Governor of Guam, 1899-1900; and several additional letters.
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <geogname encodinganalog="651">Guam--Politics and government.</geogname>
+                <genreform encodinganalog="655">Letterbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1982.005</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

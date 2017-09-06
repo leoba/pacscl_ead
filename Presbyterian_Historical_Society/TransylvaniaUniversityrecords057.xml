@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Transylvania University records <date type="inclusive">1783-1850</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Transylvania University records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC057</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1783-1850</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1780 the Virginia legislature set aside land for the establishment of a school
+                    in the Kentucky district. In 1783 the school was named Transylvania Seminary.
+                    The first classes were held in Danville, Kentucky in 1785. By 1789 the school
+                    had moved to Lexington, Kentucky. As a result of dissatisfaction surrounding
+                    waning Presbyterian influence at the seminary, Reverend David Rice and others
+                    broke with Transylvania and established Kentucky Academy in 1794. The academy
+                    was located in Pisgah, Woodford County where it remained until 1799 when it
+                    merged with Transylvania Seminary to form Transylvania University. In its early
+                    years, the University included a medical school, a law school, a divinity
+                    school, and a college of arts and sciences. During this early period many
+                    important figures in American history attended the school. Stephen F. Austin,
+                    the "Father of Texas", graduated in 1810. In the early 1820s, Jefferson Davis
+                    attended as a student, but chose to finish his studies at West Point. Henry Clay
+                    taught at the school's college of law from 1805-1807 before returning to
+                    politics and founding the Whig Party.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of record books of the "general heads" of the University,
+                    and includes synopses of from minutes and reports from the Board of Trustees,
+                    library, treasurer, and other departments. Synopses include lists of trustees,
+                    officers, lists of meetings, extracts from by-laws, notes on University lands,
+                    and attendance records.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown. Information in RG 196 (Box 21, folder 17) may help establish
+                    provenance for these volumes. </p>
+                <p>Accession number: 02 0626c</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: The Shane Collection (RG 196).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

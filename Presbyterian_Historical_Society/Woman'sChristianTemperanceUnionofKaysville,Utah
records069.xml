@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Woman's Christian Temperance Union of Kaysville, Utah records <date type="inclusive">1893-1899</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Woman's Christian Temperance Union of Kaysville, Utah
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC069</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1899</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The National Woman's Christian Temperance Union (WCTU) was founded in Cleveland,
+                    Ohio, in November 1874. It grew out of the "Woman's Crusade" of the winter of
+                    1873-1874. Members advanced their cause by entering saloons, singing, praying,
+                    and urging saloonkeepers to stop selling alcohol. Local chapters were called
+                    "Unions" and were largely autonomous, but closely linked to the state unions
+                    and national headquarters. The Woman's Christian Temperance Union of Kaysville,
+                    Utah, was one of these local chapters.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of minutes of the Woman's Christian Temperance Union of
+                    Kaysville, 1893-1899. The minutes record the election of officers, papers read
+                    at meetings, and planning of events and programs. The volume includes minutes of
+                    "mother's meetings," at which works on child rearing were read. The collection
+                    also includes a printed copy of the Woman's Christian Temperance Union of
+                    Kaysville's constitution, several programs, and a list of members.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Horosz, David (3/10/71)</p>
+                <p>Accession number: 02 0726g</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

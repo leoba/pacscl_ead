@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elisabeth Tooker papers <date type="inclusive">1948-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elisabeth Tooker papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1236</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>38.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>An anthropologist and student of Native American cultures, Elisabeth Tooker
+                    (1927-2005) devoted a long career, much of it as a professor at Temple
+                    University, to the study of the culture and ethnohistory of the Iroquois Indians
+                    of New York State. Tooker received her bachelor's degree from Radcliffe College
+                    and did her graduate work at the University of Arizona and Radcliffe, studying
+                    the Indians of the American Southwest. She taught at the State University of New
+                    York at Buffalo and Mount Holyoke College before joining the faculty of Temple
+                    University, where she remained for the rest of her professional career, in 1965.
+                    Her publications include An Ethnography of the Huron Indians, 1615-1649 (1964);
+                    The Indians of the Northeast: A Critical Bibliography (1978), and Lewis H.
+                    Morgan on Iroquois Material Culture (1994).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of Elisabeth Tooker. Materials
+                    include: research notes; copies of background articles and manuscripts;
+                    bibliographic card files; reprints, journals, and bulletins; lists of books,
+                    papers, and artifacts in the Lewis H. Morgan Library; photographs of people,
+                    landscapes, artifacts, and ceremonies; microfilm, slides, and sound recordings;
+                    and maps. Much of the collection is organized into files by subject, which
+                    include Tooker's notes, copies of articles, and relevant correspondence. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Iroquois Indians.</subject>
+                <subject encodinganalog="650">Women anthropologists.</subject>
+                <genreform encodinganalog="655">Microforms</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+                <genreform encodinganalog="655">Sound recordings</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Donated by Elisabeth Tooker (from MOLE for earlier accession)</p>
+                <p>Year acquired: 1994 (from MOLE for earlier accession)</p>
+                <p>Accession number: M2005-11</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

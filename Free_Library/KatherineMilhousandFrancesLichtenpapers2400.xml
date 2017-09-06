@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Katherine Milhous and Frances Lichten papers <date type="inclusive">1903-1977</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Katherine Milhous and Frances Lichten papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2400</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1977</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Katherine Milhous (1894-1977) was a artist and children's book author. She
+                    attended art school at the Pennsylvania Academy of Fine Arts and the
+                    Pennsylvania Museum of Industrial Art. During the Depression, she served as the
+                    head of a Federal Art Project for the Works Progress Administration. Milhous’s
+                    first children's book illustrations were for author Alice Dalgliesh. In 1940,
+                    her first book, Lovina, was published. Her most famous book was The Egg Tree,
+                    which won the 1951 Caldecott Award. Frances Lichten was an artist and decorator.
+                    She was a specialist on the rural folk art of Pennsylvania. From 1938 to 1941,
+                    she was supervisor of the Index for American Design for Pennsylvania. She
+                    collaborated with Katherine Milhous on illustrations for some children's books,
+                    including They Live in South America, by Alice Dalgleish. She was the author of
+                    The Folk Art of Rural Pennsylvania (1946).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts, illustrations, and papers of Katherine
+                    Milhous and papers of Frances Lichten. Katherine Milhous manuscript materials
+                    include: drafts, dummies, proofs, notes, finished art, color separations, and
+                    other production materials for Through These Arches; chalk drawings and notes
+                    related to The Egg Tree; art and separations for Appolonia's Valentine, Billy
+                    Button's Butter'd Biscuit, Once Upon a Time, and Peter Piper's Pickled Peppers;
+                    and drafts and notes on book ideas for other stories. Adult artwork by Milhous
+                    includes woodcut prints, watercolors, ink illustrations and cartoons,
+                    photographs of sculpture, a scrapbook of pencil sketches from Milhous' trip to
+                    South America, a painted placard for the WPA Federal Art Project, and works in
+                    various other media. Milhous papers include: correspondence with editors,
+                    readers, family, and friends (including Alice Dalgleish and Ruth Gagliardo);
+                    itineraries, correspondence, lecture notes, and publicity material related to
+                    visits and appearances; scrapbooks of publicity, correspondence, and other items
+                    related to the writing and publication of The Egg Tree; a scrapbook of book
+                    reviews; a scrapbook on poetry; a brief typed autobiography and other
+                    biographical material; diaries and journals kept between 1944-1977 (noting work,
+                    expenses, memoranda, lists of gifts and cards sent); several photographs of
+                    Milhous, including one from the 1951 Newbery-Caldecott Dinner; a collection of
+                    postcards; book announcements and brochures on exhibitions and other events,
+                    mostly related to friends and associates of Milhous; various subject files;
+                    original art in the form of cards, invitations, and small studies given to
+                    Milhous by several other artists; a set of Currier and Ives reproduction prints;
+                    and a photograph album from a trip to South America (probably in the early
+                    1950s). Frances Lichten materials include: correspondence with editors,
+                    publishers, friends, and family; a small amount of family history material on
+                    the Lichtens; two albums of photographs and letters written from Milhous and
+                    Lichten's 1925-1926 trip to Europe; a duplicate set of the letters written
+                    during the Europe trip (mostly written by Lichten); and copies of brochures and
+                    small volumes illustrated by Lichten.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Katherine Milhous
+                    collection and Frances Lichten papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

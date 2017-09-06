@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Englishton Park United Presbyterian Ministries Inc. records <date type="inclusive">1958-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Englishton Park United Presbyterian Ministries Inc.
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC933</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Englishton Park Presbyterian Ministries (EPPM) Incorporated is a non-profit
+                    organization, founded by the Presbyterian Church in 1952 to serve the needs of
+                    the community. Originally the summer home of several generations of the English
+                    family dating back to the mid-1800's, Englishton Park is now a multi-use campus
+                    serving the community and the needs of children by providing them academic
+                    remediation and education. EPPM is located on more than 300 acres in Lexington,
+                    Indiana, approximately thirty miles north and east of Louisville, Kentucky.
+                    Englishton Park, the large ancestral estate of William E. English was acquired
+                    by the National Missions Committee of the Synod of Indiana in 1958. It was used
+                    by the Committee for ministries with children and elderly persons. Programs
+                    included the Roe-Seal Memorial Retirement Home, an Academic Remediation Program,
+                    a Boys' Club Camp, a foster home, and workcamps and service projects.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection mostly consists of photocopies which are comprised of legal
+                    documents related to the sale of a portion of the estate's land; articles of
+                    incorporation, amended 1982; minutes of the Synod Assembly relating to
+                    Englishton Park and the Presbyterian National Missions Homes, Inc.; and a 1966
+                    report of the President of Presbyterian National Missions Homes, Inc. There are
+                    also brochures for Englishton Park.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Engliston Park United Presbyterian Ministries</p>
+                <p>Accession number: 86 0430</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

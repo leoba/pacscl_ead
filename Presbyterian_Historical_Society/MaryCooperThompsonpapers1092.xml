@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary Cooper Thompson papers <date type="inclusive">1847-1990</date>
+                        <date type="bulk"> 1968-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary Cooper Thompson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1092</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1847-1990</unitdate>
+                <unitdate type="bulk"> 1968-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Damavand College, named after the mountain which rises out of the Alborz range
+                    north of the city of Tehran, was a private institution of higher learning for
+                    women, offering a four-year intercultural program in the liberal arts. The
+                    program of studies at Damavand was accredited in 1968 and its first class of
+                    seniors was graduated in 1972. The school began as the Iran Bethel Educational
+                    Project and was transformed under the direction of Dr. Frances M. Gray into a
+                    four-year liberal arts college. Damavand moved from central Tehran to a new
+                    campus on Lashgarak Road in north Tehran in 1975. Dr. Mary C. Thompson was the
+                    academic dean of Damavand College, and was involved in the school from its
+                    inception.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to Damavand College (Tehran) compiled by
+                    Mary C. Thompson. Materials include: newspaper and magazine articles; reprints
+                    and papers of Damavand professors; promotional brochures, catalogs, and
+                    bulletins; presidents' reports; commencement programs; yearbooks (1968, 1973,
+                    1977, 1978); newsletters; correspondence from faculty and others associated with
+                    the college (1978-1988); address lists of faculty members and alumnae;
+                    photographs and slides of students; material related to commencement ceremonies;
+                    and papers related to the dissolution of Damavand College Foundation (includes
+                    financial material and minutes), 1990. The collection also includes a memoir by
+                    Ruth E. Harman about her time in Iran (1931-1936 and 1955-1971). Daguerreotype
+                    portraits of Lizzie Cooper and Mrs. R.D. Thompson are housed in with the
+                    daguerreotype collection.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 94 0815c: Thompson, Mary C.; accession 98 0107k: Jamison,
+                    Paul W.; accession 93 0219: Transferred from the museum</p>
+                <p>Accession number: 94 0815c|98 0107k|93 0219</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

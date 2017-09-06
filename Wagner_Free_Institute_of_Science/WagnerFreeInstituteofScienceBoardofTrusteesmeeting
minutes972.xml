@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wagner Free Institute of Science Board of Trustees meeting minutes
+                            <date type="inclusive">1885-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wagner Free Institute of Science Board of Trustees meeting
+                    minutes</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC972</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1885-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. The Board of Trustees of the
+                    Wagner Free Institute of Science was incorporated in 1855 with the object of
+                    overseeing the financial, educational, and operational activities of the
+                    Institute. Early board members included William Wagner, who was "President for
+                    life," Robert Cornelius, D. Rodney King, Charles J. Stille, J. Vaughan Merrick,
+                    Samuel Wagner, Jr., and Professor Henry Coppee. The Directors of the Wagner Free
+                    Institute of Science submitted reports to the Trustees on the activities of the
+                    museum, library, faculty, and real estate holdings of the Institute.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of 6 bound volumes of minutes of the Board of Trustees
+                    of the Wagner Free Institute of Science, from 1885 to 1991. The minutes follow
+                    formal rules of order, listing the date, time, attendance, motions, resolutions,
+                    and adjournment of the meetings. Reports read to the board are noted in the
+                    minutes, and some special reports are included in the volumes. The collection
+                    contains photocopies of the first volume through the middle of 1893.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89-030</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: other collections that include significant amounts of Trustee
+                    records include: Record of the Trustees (89-025 ), director's files and business
+                    records (90-010), and Communications to the Board of Trustees (91-025).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

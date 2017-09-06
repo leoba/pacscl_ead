@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sumiko Kobayashi papers <date type="inclusive">1977-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sumiko Kobayashi papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC641</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sumiko Kobayashi was born in Florida, the daughter of Japanese immigrants. Her
+                    family was relocated from San Leandro, California under Executive Order 9066 and
+                    interned in the Topaz Relocation Center in Utah. Sumiko was allowed to leave the
+                    camp in order to attend college through the help of the National Japanese
+                    American Student Relocation Council, and graduated from Brothers College, Drew
+                    University in Madison, New Jersey in 1946. She has been active in many
+                    Japanese-American and Asian-American organizations and served as Redress Chair
+                    for Pennsylvania of the Japanese American Citizens' League's National Committee
+                    on Redress.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These papers document Kobayashi's work with and interest in a large number of
+                    Japanese American and Asian American Organizations, including the Japanese
+                    American Citizens League, Japanese Christina Church, Seabrook Educational and
+                    Cultural Center, and the Asian American Legal Defense and Education Fund. The
+                    papers include material about evacuation and internment, records of the JACL's
+                    lobbying efforts for redress, speeches, correspondence, newsletters, and other
+                    mailings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Central Utah Relocation Center.</corpname>
+                <corpname encodinganalog="610">Japanese Christian Church of Philadelphia.</corpname>
+                <corpname encodinganalog="610">Seabrook Educational and Cultural Center.</corpname>
+                <subject encodinganalog="650">Asian Americans--Politics and government--20th
+                    century.</subject>
+                <subject encodinganalog="650">Asian Americans--Societies, etc.</subject>
+                <subject encodinganalog="650">Japanese Americans--Civil rights.</subject>
+                <subject encodinganalog="650">Japanese Americans--Evacuation and relocation,
+                    1942-1945.</subject>
+                <subject encodinganalog="650">Japanese
+                    Americans--Pennsylvania--Philadelphia--Religion.</subject>
+                <subject encodinganalog="650">Japanese Americans--Societies, etc.</subject>
+                <subject encodinganalog="650">World War, 1939-1945--Reparations.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Newsletters</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003.108</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

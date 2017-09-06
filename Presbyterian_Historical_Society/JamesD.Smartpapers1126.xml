@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James D. Smart papers <date type="inclusive">1930-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James D. Smart papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1126</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Dick Smart (b. 1906) was a Canadian Presbyterian minister. He served as
+                    editor-in-chief of the New Curriculum for the Presbyterian Church USA from
+                    1944-1950. He returned to Canada as minister of Rosedale Presbyterian Church in
+                    Toronto, Ontario, where he served until 1957. From 1957 to 1969 he was Jessup
+                    Professor of Biblical Interpretation at Union Theological Seminary in New York.
+                    He wrote 20 books and many sermons, lectures, and book reviews. At the time of
+                    his death, he had completed two volumes of his memoirs (unpublished).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is collection of papers of James D. Smart. Materials include: manuscript
+                    lecture notes for courses and notes for articles; 1931 thesis for Ph.D. from the
+                    University of Toronto, "The Personal Element in Isaiah 40-66"; syllabi and
+                    exam questions from Union Theological Seminary; manuscript and typed notes for
+                    sermons; typescript manuscripts and manuscript notes for articles and books by
+                    Smart, including Memoirs of a Ministry, volumes 1 and 2; reprints by Smart and
+                    others; a small number of personal financial records; and printed booklets of
+                    catechisms and confessions. The collection also includes minutes of several
+                    councils and committees of interdenominational organizations (Reformed
+                    Churches), 1970s and early 1980s; and minutes and reports of the General
+                    Assembly's Committee on a Brief Contemporary Statement of Faith (1959-1964).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Smart, Mary Eleanor</p>
+                <p>Accession number: 96 0322d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

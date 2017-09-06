@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Improved Order of Red Men collection <date type="inclusive">1855-1891</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Improved Order of Red Men collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1933</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-1891</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Improved Order of Red Men is a Fraternal Organization established in
+                    Baltimore, Maryland, in 1834. Their rituals and regalia are modeled after those
+                    used by native people of North America. The order claims direct descent from the
+                    Sons of Liberty, noting that the Sons participated in the Boston Tea Party
+                    dressed as Native Americans. Their ladies' auxiliary is the Degree of
+                    Pocahontas. They sponsor two youth organizations, the Degree of Hiawatha for
+                    boys and the Degree of Anona for girls. At its height, in 1935, the organization
+                    claimed a membership of about half a million.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of four volumes from various tribes of the order. Three
+                    volumes are member registers, which list the names, occupations, and ages of new
+                    members. Member registers are for Baltimore [?], 1855-1867; the Penobscot Tribe
+                    #70, circa 1890; and Philadelphia, 1867-1891. The other volume in the collection
+                    is a receipt book for the Relief Committee of the Wingohocking Tribe #33 of
+                    Frankford, Pennsylvania, 1867-1870. Entries in this volume record the name of
+                    the member, date of the payment, and amount paid.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of the Moyerman family.</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

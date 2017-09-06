@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Friedman-Roxby papers and slides <date type="inclusive">1895-1953</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Friedman-Roxby papers and slides</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2245</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1895-1953</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Reuben Friedman (1892-1956) was a professor of clinical dermatology at Temple
+                    University School of Medicine and the author of several volumes on scabies and A
+                    History of Dermatology in Philadelphia. John B. Roxby (1872-1957) was probably a
+                    dermatologist.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains notes, slides, and other materials that belonged to
+                    Reuben Friedman and John B. Roxby. Glass slides relate to lectures on
+                    dermatology, particularly scabies; they include images of patients, microscopic
+                    view of organisms, and text, such as quotes from Italian sources. The collection
+                    also includes college class and clinic notes of Reuben Friedman and John B.
+                    Roxby. There are several published volumes by Friedman, as well as a framed
+                    certificate, poem, and photograph.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

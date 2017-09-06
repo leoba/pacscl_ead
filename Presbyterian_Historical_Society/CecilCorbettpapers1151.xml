@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Cecil Corbett papers <date type="inclusive">1968-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Cecil Corbett papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1151</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Reverend Cecil Corbett is a Nez Perce Native American, retired pastor, and former
+                    president and chancellor at Cook College and Theological School in Tempe,
+                    Arizona. He was also a founding member of the Native American Theological
+                    Education Consortium, which later became the Native American Consulting
+                    Committee (NACC). The NACC is comprised of sixteen Native Americans who
+                    represent the synods of Alaska Northwest, Lakes and Prairies, Northeast,
+                    Pacific, Rocky Mountains, Southern California and Hawaii, Southwest and Sun. The
+                    committee provides representation for Native American members, churches and
+                    communities within the Presbyterian Church (U.S.A.).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is of Cecil Corbett's administrative papers and records relating
+                    to his work with the Native American Consulting Committee (NACC), which include
+                    NACC minutes, reports, position papers, and proposals; printed copies of the
+                    Indian Quest newsletter and records related to its publication; financial
+                    records; correspondence and memoranda; subject files, including on topics such
+                    as education, scholarships and legal issues; NACC membership lists; and Native
+                    American Ministry policy statements of the Presbyterian Church (U.S.A.).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: National Ministries Division, Racial/Ethic Ministries</p>
+                <p>Accession number: 97 1110</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

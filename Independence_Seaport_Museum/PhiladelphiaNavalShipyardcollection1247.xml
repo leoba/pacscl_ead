@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Naval Shipyard collection <date type="inclusive">1862-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Naval Shipyard collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC1247</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1862-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Naval Shipyard, formerly Navy Yard, was the first naval shipyard
+                    of the United States. The site's role as a U.S. Navy facility ended on 30
+                    September 1995. Soon after, the West end of the site became a commercial
+                    shipyard, currently called the Aker Philadelphia Shipyard. The Navy still
+                    maintains a presence at the location, especially via Naval Surface Warfare
+                    Center Ship Systems Engineering Station, and the Naval Inactive Ship Maintenance
+                    Facility (NIMSF), which continues to store decommissioned and mothballed
+                    ships.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>A collection of papers, personnel records and memorabilia related to the
+                    Philadelphia Navy Yard. Personnel materials include: employee/telephone
+                    directories; employee manuals; instruction manuals for shipriggers, shipfitters,
+                    machinists, and welders; trade skills description; glossary of shipbuilding
+                    terms; photographs of workers (portraits and candids of people at work and
+                    social gatherings); ID badges, stickers, and other ephemera; receipts and notes;
+                    and schedules of wages. Other papers and records include: roll of Sparmakers and
+                    Boatbuilders, 1873-1881; Foreman's muster book of boatbuilders, coopers, and
+                    blockmakers, 1900-1905; List of vessels ordered, 1918-1920; time study for US
+                    Navy shipbuilding, 1900-1910; plans on mylar of Naval Shipyard facilities and
+                    shops, 1974; booklet of general plans for USS Cimarron, 1939; an 1862 pamphlet
+                    "Navy Yard on the Delaware"; several Navy Day programs between 1914 and 1952;
+                    Appreciation Week program, 1983; invitations for launchings; Visitors register
+                    from the office of the Shipyard Commander, 1964-1996; and PNSY letterhead.
+                    Apprentice school materials include: timesheets and schedules; commencement
+                    programs and certificates; graduation photographs of apprentices; and yearbooks.
+                    Printed materials in the collection include: manuals and journals on equipment
+                    and trade skills, many published by the Naval Training and Training Support
+                    Command; and printed labor agreements between Philadelphia Naval Shipyard and
+                    the Metal Trades Council and the Planners, Estimators &amp; Progressmen
+                    Association. Photographs in the collection include: images of the shipyard, a
+                    number related to the construction of the USS Dobbin, ca. 1920; other
+                    photographs of ship construction from the era of the 1920s; snapshots around the
+                    Navy Yard from the 1940s; shots of the drydocks and USS Valley Forge;
+                    photographs of the USMC Depot of Supplies, ca. 1940s; a 1981 photograph of the
+                    construction of I-95; approximately 150-200 glass lantern slides, c. 1919 and
+                    1940s; and slides of "72 shop" ships, machine shops, workers. Closing Ceremony
+                    materials include: 4 copies of a video "Historical Journey of Excellence";
+                    "Philadelphia Quality Process" video; "Meritorious Commendation Award
+                    Ceremony" video; the last ship deck log kept at the PNSY, 1996; 1991 photo of
+                    shipyard employees; statements on the yard's closing by members of the "17
+                    Shop"; a program and other materials for the 1996 closing ceremony. Additional
+                    items include; strategic planning reports; a 1993 Historic Preservation planning
+                    report; and a 1989 set of microfiche card index of Navy publications and forms.
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Naval Shipyard (Philadelphia,
+                    Pa.)</corpname>
+                <genreform encodinganalog="655">Architectural drawings.</genreform>
+                <genreform encodinganalog="655">Directories.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Lantern slides.</genreform>
+                <genreform encodinganalog="655">Manuals (Instructional materials)</genreform>
+                <genreform encodinganalog="655">Microforms.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Registers (lists)</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+                <genreform encodinganalog="655">Video recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: multiple acc.</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

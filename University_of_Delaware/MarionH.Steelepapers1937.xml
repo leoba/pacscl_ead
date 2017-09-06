@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marion H. Steele papers <date type="inclusive">1916-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marion H. Steele papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1937</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marion Harlan Steele (1904-1985) was one of the pioneers of the American home
+                    economics movement, which began at the turn of the twentieth century. Ellen H.
+                    Richards founded the American Home Economics Association (AHEA) in 1909. Steele
+                    championed Richards’ philosophy about family, nutrition, and ecology, but
+                    especially devoted her efforts to the International Scholarship Program of AHEA
+                    (which became the American Association of Family and Consumer Sciences—AAFCS—in
+                    1994). Steele attended the University of Delaware’s Women’s College, graduating
+                    in 1928 with a bachelor's degree in English. In 1928 she began working as
+                    secretary to Helen W. Atwater, the editor of AHEA's Journal of Home Economics.
+                    Atwater also served as Specialist in Home Economics for the States Relations
+                    Service of the USDA. After a number of promotions, Marion Steele became the
+                    journal's managing editor in 1946. Steele held that position until she retired
+                    in 1969.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of papers related to the AHEA, the Marion H. Steele
+                    Symposium, and records of Helen W. Atwater. AHEA records include copies of the
+                    AHEA Journal of Home Economics (1953, 1959, including 50th anniversary issue);
+                    extracts regarding the AHEA International Scholarship Students (1935-1969);
+                    copies of the National Magazine of Home Economics Student Clubs (1936-1942); the
+                    resume of Marion H. Steele; a booklet from the 14th annual Marion H. Steele
+                    Symposium (1999), with biographical information; a history of the AHEA; and
+                    photos, largely from the USDA and the US Bureau of Home Economics. The Atwater
+                    papers date from 1916 to the mid 1940s and include correspondence, printed
+                    bulletins, newspaper clippings, and typescripts of articles. There are also
+                    tributes and memorials for Atwater, and for Mildred Horton, the Executive
+                    Secretary of the AHEA.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0439.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0439.xml</extref>
+            </otherfindaid>
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania NOW records <date type="inclusive">1973-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania NOW records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1335</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1973-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The National Organization for Women (NOW) was founded in 1966 in Washington D.C.
+                    to help achieve equality for women in all areas of life. The Pennsylvania
+                    Chapter of NOW (known as Pennsylvania NOW) was formed in 1971 after many local
+                    NOW chapters had already formed across the state, and in response to organizing
+                    efforts to pass an Equal Rights Amendment to the Pennsylvania Constitution. As
+                    of 2006, the organization has over 9000 members and 30 local chapters.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of Pennsylvania NOW from the mid-1970s to the
+                    mid-1990s. Materials include subject files on a number of issues, such as
+                    abortion rights, sex discrimination in insurance, the equal rights amendment,
+                    AIDS, and comparable worth. The subject files include background articles and
+                    research, letters to legislators, brochures and flyers, press kits and press
+                    releases, and clippings. There is a small amount of administrative material for
+                    Pennsylvania NOW, records of the chapter's Political Action Committee, and
+                    printed materials and policy statements from the national organization.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

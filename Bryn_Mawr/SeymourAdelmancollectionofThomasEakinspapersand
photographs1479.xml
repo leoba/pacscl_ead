@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Seymour Adelman collection of Thomas Eakins papers and photographs
+                            <date type="inclusive">1845-1971</date>
+                        <date type="bulk"> 1845-1938</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Seymour Adelman collection of Thomas Eakins papers and
+                    photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1479</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.85 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1845-1971</unitdate>
+                <unitdate type="bulk"> 1845-1938</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Eakins (1844-1916) was a Philadelphia painter, photographer, sculptor, and
+                    fine arts educator. He graduated from Central High School, studied at the
+                    Pennsylvania Academy of Fine Arts, and then in Europe 1866-1870, notably with
+                    Jean-Léon Gérôme in Paris. Susan Macdowell Eakins (1851-1938) was a painter and
+                    student of Eakins. They were married in 1884.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This a collection of Thomas Eakins and Susan Macdowell Eakins-related
+                    photographs, correspondence, postcards and cartes de visite. Photographs
+                    includes formal and informal portraits of Thomas Eakins, Susan Macdowell Eakins,
+                    and Samuel Murray, as well some prints by Thomas Eakins. The collection includes
+                    correspondence of John Sartain and his family, Susan Macdowell Eakins and
+                    family, and Seymour Adelman and Charles Bregler. There are also postcards and
+                    cartes de visites collected by Thomas Eakins during his travels in France,
+                    Italy, and Spain. There are some copy prints of photographs by Thomas Eakins
+                    that are in other repositories. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

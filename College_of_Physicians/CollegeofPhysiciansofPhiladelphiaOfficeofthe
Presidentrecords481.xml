@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Physicians of Philadelphia Office of the President
+                        records <date type="inclusive">1948-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Physicians of Philadelphia Office of the
+                    President records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC481</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The College of Physicians of Philadelphia, founded in 1787, is the oldest
+                    professional medical organization in the country. The College is home to the
+                    Mütter Museum and the Historical Medical Library. Through its program of
+                    lectures, workshops, and conferences, as well as through the C. Everett Koop
+                    Community Education Center and PhillyHealthInfo.org, an online health
+                    information resource, the College provides a place for both medical
+                    professionals and the general public to learn about medicine as both a science
+                    and as an art. The President of the College of Physicians calls and presides at
+                    meetings, appoints committees, serves as an ex-officio member of all committees,
+                    and submits a yearly report of the College's activities to the Countil. The
+                    President serves a two-year term.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials from the Office of the President of the College
+                    of Physicians of Philadelphia. The collection includes files from J.P. Hubbard,
+                    Katherine Sturgis, R.S. Pressman, Arthur Asbury, and Thomas Langfitt. Records
+                    relate to annual meetings, Practice-related Educational Programs (PREP)
+                    formation and development, Continuing Medical Education programs, the Building
+                    Fund, the Wood Institute, the Ghana Medical College project, development, and
+                    strategic planning. Materials include: correspondence, meeting minutes and
+                    agendas, memoranda, grant proposals, reports, and speeches. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1989-082; 2007-009; 2008-002</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

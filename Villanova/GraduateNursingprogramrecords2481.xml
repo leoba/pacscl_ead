@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Graduate Nursing program records <date type="inclusive">1970-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Graduate Nursing program records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2481</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1970-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University's College of Nursing Graduate Nursing Program was
+                    established in 1980. The focus of the program was the preparation of leaders in
+                    nursing education and nursing administration. In 1993, Villanova was the first
+                    in the country to offer a designated graduate track in Case Management. Between
+                    1995 and 1998 three new advanced practice tracks were established for nurse
+                    practitioners, adult, pediatric and geriatric, and in 1998, the College of
+                    Nursing established a track for the preparation of nurse anesthetists. In 1999,
+                    the College of Nursing joined forces with the College of Commerce and Finance to
+                    develop a joint Health Care Administration track, and in 2004 the College
+                    initiated its Ph.D. program.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Graduate Nursing Program records contains syllabi for courses offered to
+                    graduate students, 1985-1996; minutes of the Graduate Studies Committee,
+                    1987-1988; and reports and grant materials related to setting up the Graduate
+                    Nursing Program, 1970-1982.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Nursing--Study and teaching</subject>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

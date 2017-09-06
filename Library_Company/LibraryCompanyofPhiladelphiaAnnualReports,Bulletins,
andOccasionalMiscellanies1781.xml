@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Company of Philadelphia Annual Reports, Bulletins, and
+                        Occasional Miscellanies <date type="inclusive">1841-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Company of Philadelphia Annual Reports, Bulletins,
+                    and Occasional Miscellanies</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1781</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1841-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Library Company of Philadelphia is an independent research library
+                    concentrating on American society and culture from the 17th through 19th
+                    centuries. It was founded in 1731 by Benjamin Franklin as a subscription library
+                    supported by its shareholders, as it is to this day. Free and open to the
+                    public, the Library Company houses an extensive non-circulating collection of
+                    rare books, manuscripts, broadsides, ephemera, and works of art. The Library
+                    Company's Annual Report includes president's, director's, and treasurer's
+                    reports, and descriptions of notable acquisitions, gifts, and donations. The
+                    Bulletin consists of a list of books recently acquired by the Library Company,
+                    arranged by topic. The Bulletin also contains the rules of the Library Company.
+                    The Occasional Miscellany is a newsletter that provides information about
+                    endowments and funding, acquisition highlights, work being done in conservation
+                    lab, and other topics. Librarian's Reports are typed reports of library usage
+                    and acquisitions.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the Library Company's Annual Reports, Bulletins and
+                    Occasional Miscellanies. The Annual Reports date from 1879, 1903-1934 (some
+                    years missing), 1935-1942, 1947-1949, and 1951-2005. Additionally there are two
+                    reels of microfilm of annual reports from 1874 to 1987 (some issues missing).
+                    Bulletins date from 1841-1938, 1940-1841, 1945, 1958, 1966-1968. There are
+                    copies of the Occasional Miscellany from 1977-2005. The collection also includes
+                    Librarian's reports, 1953-1983. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

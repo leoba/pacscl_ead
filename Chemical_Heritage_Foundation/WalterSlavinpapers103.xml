@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Walter Slavin papers <date type="inclusive">1966-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Walter Slavin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC103</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>37.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Walter Slavin was Senior Scientist at Perkin-Elmer and the co-editor of
+                    Spectrochimica Acta Part B: Atomic Spectroscopy (SAB) until 2001. He was a
+                    graduate in 1949 of the University of Maryland in Physics and Mathematics. In
+                    1962 he began a technical journal, the Atomic Absorption Newsletter (now called
+                    Atomic Spectroscopy), for communicating new information in the field. Slavin
+                    worked with and corresponded extensively with Alan Walsh, who developed the
+                    technique of atomic absorption spectroscopy to replace the older method of flame
+                    emission for quantitative analysis. Walsh worked at CSIRO (Commonwealth
+                    Scientific and Industrial Research Organization), Australia's national science
+                    agency.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains records of Slavin's time as editor of SAB and of his
+                    work at Perkin-Elmer and at Bonaire Technologies. The collection includes:
+                    incoming and outgoing correspondence; general files on the history of atomic
+                    absorption spectroscopy, and other chemical instrumentation; clippings of
+                    articles on the corporate history of Perkin-Elmer; slides, papers, and handouts
+                    from various workshops and talks given by Slavin; printed reports from CSIRO,
+                    the Marine Analytical Chemistry Studies Program of the National Research Council
+                    of Canada, and other research groups; correspondence with Walsh; and records of
+                    Perkin-Elmer projects.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: W.S.</p>
+                <p>Accession number: 03:010</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

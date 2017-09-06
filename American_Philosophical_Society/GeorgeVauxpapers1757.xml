@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Vaux papers <date type="inclusive">1701-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Vaux papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1757</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>97 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1701-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Vaux family were prominent Philadelphia Quakers. The papers center on the
+                    family and business concerns of the surgeon George Vaux V (1721-1803) and his
+                    lineal descendants, George Vaux VII, and George Vaux VIII (1832-1915). Other,
+                    related families represented in the collection include the Warders, Sansoms,
+                    Heads, Graffs, Morrises, Cressons, and Mayberrys. George Vaux VIII was the
+                    Secretary and Treasurer of the Swatara Coal Company. He was interested in Quaker
+                    history and records and served as an unofficial correspondent for the
+                    Philadelphia Yearly Meeting with London Yearly Meeting. His brother, William
+                    Sansom Vaux (1811-1882) was a mineralogist and member of the Academy of Natural
+                    Sciences. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The 18th century material includes the trans-Atlantic correspondence of James,
+                    Richard, and George V, along with domestic correspondence relating to family and
+                    business affairs. Several letters discuss Philadelphia during the British
+                    occupation, and seven discuss yellow fever in 1797-1798, with a particularly
+                    fine letter by Ann Warder discussing the epidemic of 1798. The participation of
+                    George Vaux VII in a Quaker mission to the Seneca Indians in 1803 is well
+                    documented. Later correspondence, almost all personal and familial in nature,
+                    documents the interest of George Vaux VIII in mineralogy, his travels abroad,
+                    and Vaux genealogy. The collection also includes correspondence of William
+                    Sansom Vaux, much of it related to mineralogy. The collection also contains
+                    business correspondence and records of William Sansom, James Vaux, and several
+                    George Vauxes and includes receipts, vouchers, correspondence, share
+                    certificates, tax documents, legal documents (printed transcripts,
+                    verdicts/decisions, statements, and filings), receipt books, daybooks, and
+                    ledgers. (1792-1825). Records in the collection documenting the Deborah E.
+                    Emlen, William Sansom, Robert Morris, John and Sally Norris Dickinson, Michah M.
+                    Moore, John Gordon, Mary M. Johnson, and Cassady family estates include deeds,
+                    land records, inventories, correspondence, and vouchers (1700s-1870s). Swatara
+                    Coal Company records include correspondence and letter books, dividend book, and
+                    account books (1794-1870s). There are also pamphlets and reprints related to
+                    mineralogy; almanacs, some with annotations; maps and land surveys; newspapers,
+                    broadsides, and other ephemera.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Vaux family papers and Vaux collection of correspondence, documents, and
+                    graphics; Friends Historical Library, Swarthmore College: George Vaux family
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

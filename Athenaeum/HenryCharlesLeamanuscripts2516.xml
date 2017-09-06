@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry Charles Lea manuscripts <date type="inclusive">1839-1922</date>
+                        <date type="bulk"> 1865-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry Charles Lea manuscripts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2516</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1839-1922</unitdate>
+                <unitdate type="bulk"> 1865-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Charles Lea (1825-1909) was a prominent Philadelphia intellectual and
+                    historian writing books on medieval history and the Inquisition. He was involved
+                    and recognized as a preeminent historian and philanthropist by the American
+                    Philosophical Society, the Historical Society of Pennsylvania, and the
+                    University of Pennsylvania. Lea was also a businessman buying and improving
+                    stores along 7th and Sansom Streets from 1865 to 1895. The importance of these
+                    buildings is that they were built between 1800-1802 and became the stereotypical
+                    "Philadelphia row home" copied by other east coast cities. As architects Lea
+                    used the firm of Collins and Autenrieth, John Crump (1827-1892), and Rudolph
+                    Blankenburg (1843-1918), who was mayor of Philadelphia in 1911 until 1915. Lea
+                    relied on several carpenters and builders including Michael Errickson, James H.
+                    Errickson, Yarnall and Cooper, and Kister and Orem, all of Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence between H. C. Lea and family and various
+                    contractors, architects, and attorneys. Also included are agreements with
+                    contractors, fire inspection certificates, receipts for materials suppliers,
+                    payments to contractors, property taxes, and water rents for Philadelphia and
+                    Cape May properties. Legal notes are also included for sales and settlements of
+                    property. The collection also includes an undated building survey for the corner
+                    of 5th and Walnut Streets. Among the Philadelphia addresses represented in the
+                    collection are: 600 and 700 block of Sansom Street; 11 and 13 Bank Street; 16
+                    and 18 Strawberry Street; 900 block of Chestnut; and 428-432 Walnut Street (Penn
+                    Building). Cape May addresses include 9 Grant Street, S. Lafayette Street, and 6
+                    Windsor Street.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Acquired by purchase from Carmen Valentino.</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John M. Weiss papers <date type="inclusive">1918-1961</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John M. Weiss papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC913</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1918-1961</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John M. Weiss was born in Pennsylvania on March 11, 1885. After receiving his
+                    Bachelor of Science degree at the University of Pennsylvania, he became a
+                    chemical engineer. In 1905, Weiss began his career with the Barrett Company as a
+                    research chemist. By 1921, he was the Director of Development for the company.
+                    In 1923, Weiss began a 19-year stint as the president and treasurer of Weiss and
+                    Downs, Inc., a chemical engineering consulting firm. In 1943, he established
+                    John M. Weiss and Company. He was a senior partner of this company until his
+                    death in 1963. His primary interests included acids, maleic anhydride, and
+                    synthetic phenol. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Weiss Collection is divided into six series based on subject. They are as
+                    follows: Acids, (1918-46), 1958; Maleic Anhydride, (1932-47), 1958 + [n.d.];
+                    Patents, 1925-53; Phthalic Anhydride, 1936-61 + [n.d.]; Synthetic Phenol,
+                    1925-56 + [n.d.]; and Addendum - John Weiss Notebooks, [n.d.]. Information on
+                    several companies for which Weiss consulted, such as the Pittsburgh Plate Glass
+                    Company and Reichhold Chemicals, Inc. is included. The addendum of notebooks,
+                    which was donated by Francis B. White independently of the rest of the
+                    collection, contains notes compiled by Weiss on chemical subjects of interest to
+                    him. The majority of the collection consists of progress reports and case
+                    studies, which Weiss generated as a result of his consulting practice. Working
+                    notes, data, correspondence, and patents are also present. His interests in
+                    Maleic Acid, Maleic Anhydride, Phthalic Anhydride, and Synthetic Phenol are well
+                    represented.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J.M.W.</p>
+                <p>Accession number: 84-4</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

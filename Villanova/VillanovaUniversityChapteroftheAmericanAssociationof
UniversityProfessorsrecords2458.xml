@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Villanova University Chapter of the American Association of
+                        University Professors records <date type="inclusive">1941-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Villanova University Chapter of the American Association of
+                    University Professors records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2458</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Association of University Professors is a professional organization
+                    whose purpose is to advance academic freedom and shared governance, to define
+                    fundamental professional values and standards for higher education, and to
+                    ensure higher education's contribution to the common good. The Villanova Chapter
+                    of the American Association of University Professors was established in 1941
+                    during the tenure of President Edward V. Stanford.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Villanova University chapter of the
+                    American Association of University Professors (AAUP). Materials include minutes
+                    and agendas of chapter meetings (1941-1985); correspondence and memoranda of the
+                    chapter's president (1941-1984); and reports, surveys, and questionnaires on
+                    issues such as tenure, salary, collective bargaining, and benefits (1941-1990).
+                    The collection also includes information on curricula for several programs;
+                    records relating to the AAUP chapter's input on the 1982-1983 debate about
+                    reinstating Villanova's football program; and records relating to the 50th
+                    anniversary of the AAUP.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Villanova University--Faculty</corpname>
+                <subject encodinganalog="650">Universities and colleges--Faculty.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

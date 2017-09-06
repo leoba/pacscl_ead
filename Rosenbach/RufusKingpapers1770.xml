@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rufus King papers <date type="inclusive">1756-1892</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rufus King papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1770</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1756-1892</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rufus King (1755-1827) was a Continental Congressman, Senator, and Minister to
+                    Great Britain. Born in Scarboro (then a district of Massachusetts), King
+                    graduated from Harvard College in 1777. He served in the Revolutionary War, and
+                    then studied law, beginning a practice in Newburyport in 1780. He was a delegate
+                    to the Massachusetts General Court, 1783-1785, a member of the Continental
+                    Congress from Massachusetts, 1784-1787, a delegate to the Federal constitutional
+                    convention at Philadelphia in 1787 and to the State convention in 1788. That
+                    year, he moved to New York, where he served as a member of the New York
+                    assembly. He was elected to the United States Senate in 1789, reelected in 1795
+                    and served from July 16, 1789, until May 1796, when he resigned to become United
+                    States Minister to Great Britain. He returned to the United States in 1803 to
+                    run for Vice President as a Federalist candidate, but was unsuccessful. In 1813
+                    he was again elected as a Federalist to the United States Senate in 1813,
+                    retaining his seat until 1825. From 1825 to 1826 he served again as United
+                    States Minister to Great Britain. King died in New York in 1827. Charles Lennig
+                    (b.1810) was the son of Nicholas Lennig and Elise de Boulignez. In 1831 Nicholas
+                    and Charles established the Tacony Chemical Works in Port Richmond, one of the
+                    first chemical works in the United States.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of correspondence and other documents of Rufus King and
+                    several of his descendants, and family papers of the Lennig family. The
+                    correspondence of Rufus King, Charles King, Cyrus W. King, and John A. King
+                    includes letters from prominent figures such as John Quincy Adams, Daniel
+                    Webster, DeWitt Clinton, John Jacob Astor, George Washington, Dorothea Dix,
+                    Lafayette, and Alexander Hamilton. The letters consist of invitations,
+                    introductions, and diplomatic matters. Other documents related to the King
+                    family include: bonds, receipts, an agreement of sale of property, fragments
+                    containing signatures, and a document, signed by John Quincy Adams and Henry
+                    Clay, sent to King George regarding Rufus King's return to the U.S. The Lennig
+                    family papers include correspondence on financial matters between Elise de
+                    Boulignez, Elise Lennig, and Nicholas Lennig; a small number of legal documents
+                    related to financial matters, and a passport of Charles Lennig. The Lennig
+                    correspondence and papers are in French, with a few in German.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: New-York Historical
+                    Society: Rufus King papers; Huntington Library: Rufus King papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

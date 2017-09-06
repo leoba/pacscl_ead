@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles E. Gilbert papers <date type="inclusive">1959-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles E. Gilbert papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1488</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>19 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles E. Gilbert (b. 1927) was a professor of political science at Swarthmore
+                    College from 1954 to 1989, and was the College's first provost, a role he filled
+                    from 1969 to 1974. The Provost is the chief academic officer of the College,
+                    overseeing the curriculum and the faculty. Gilbert also served as the chairman
+                    of Swarthmore's Commission on Educational Policy in 1966-1967.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records from the office of Provost Charles Gilbert. The
+                    collection also includes papers of Dean Susan Cobb and Associate Development
+                    Officer Richard Schrader. Materials include: grant proposals and reports;
+                    minutes and memoranda of the Council on Educational Policy and other faculty
+                    committees; correspondence on staffing and academics in various college
+                    departments; reports, notes, and memoranda from various student organizations;
+                    information on admissions policies and funding for minority students; and
+                    topical files related to Swarthmore's interaction with other higher education
+                    institutions, including Haverford College and Bryn Mawr College. The collection
+                    also includes materials on the faculty and student responses to the Vietnam War
+                    and national politics, including discussions of a position statement among the
+                    faculty and a proposed two week recess of classes before the November
+                    elections.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Cobb, Susan.</persname>
+                <persname encodinganalog="600">Schrader, Richard M.</persname>
+                <corpname encodinganalog="610">Swarthmore College--Curricula.</corpname>
+                <corpname encodinganalog="610">Swarthmore College--Faculty.</corpname>
+                <corpname encodinganalog="610">Swarthmore College. Office of the Provost.</corpname>
+                <subject encodinganalog="650">College students--Political activity.</subject>
+                <subject encodinganalog="650">College teachers--Political activity.</subject>
+                <subject encodinganalog="650">Minority college students--Recruiting.</subject>
+                <subject encodinganalog="650">Universities and colleges--Pennsylvania--History--20th
+                    century.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                
+            </admininfo>
+
+            <add>
+
+
+
+
+
+
+                <relatedmaterial>
+                    <p>Related material may be found in the following collections: Friends
+                        Historical Library, Swarthmore College: Swarthmore College Commission on
+                        Educational Policy records.</p>
+                </relatedmaterial>
+
+            </add>
+
+        </archdesc>
+    </ead>

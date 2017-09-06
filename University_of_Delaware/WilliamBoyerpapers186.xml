@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Boyer papers <date type="inclusive">1960-2000</date>
+                        <date type="bulk"> 1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Boyer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC186</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-2000</unitdate>
+                <unitdate type="bulk"> 1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Boyer is Charles Polk Messick Professor Emeritus of Public Administration
+                    and former Chair of the Department of Political Science at the University of
+                    Delaware. He is the author of Governing Delaware and has written extensively
+                    about public policy issues in Delaware, the United States, and abroad. A
+                    graduate of the College of Wooster, Boyer received his master's and doctoral
+                    degrees from the University of Wisconsin in Madison, after which he served as an
+                    assistant to the governor of Wisconsin and in other government positions. At the
+                    University of Delaware, he was co-founder of the master of public administration
+                    degree program and helped establish study abroad programs in Geneva and Costa
+                    Rica.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of William Boyer. The bulk of the collection
+                    consists of files Boyer compiled in the process of writing a book on the state
+                    of Delaware. The files cover Delaware's politics and government, health,
+                    education, housing, economics, environment, crime, and demographics. Materials
+                    include printed technical and research reports and statistical summaries;
+                    newspaper and magazine articles; and academic theses. The collection also
+                    includes audio tapes from the 1960s of Boyer speaking on international and
+                    domestic political issues.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of William Boyer</p>
+                <p>Accession number: 06-4</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: University of Delaware Press collection related to the Cultural
+                    Studies of Delaware and the Eastern Shore series.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

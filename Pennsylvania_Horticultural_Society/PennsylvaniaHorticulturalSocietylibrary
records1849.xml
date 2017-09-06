@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Horticultural Society library records <date type="inclusive">1829-1894</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Horticultural Society library
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1849</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1829-1894</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The McLean
+                    Library, formed shortly after the founding of the Pennsylvania Horticultural
+                    Society, currently holds over 15,000 volumes on gardening and plant care,
+                    botany, and urban greening. The collection serves the needs of amateur and
+                    professional horticulturists, landscape architects, garden historians, and
+                    researchers. It is used by the public and by the society's members and
+                    volunteers. The collection supports the horticultural and urban greening
+                    activities of the staff. The McLean Library's holdings include the Mary Helen
+                    Wingate Lloyd Collection, which consists of significant European and American
+                    gardening imprints from the 16th-20th centuries, and the Society's archives.
+                </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These volumes document the holdings and accounts of the Library of the
+                    Pennsylvania Horticultural Society. Records include: an accession book, undated,
+                    listing title, author, place of publication, date, and size for the first 531
+                    volumes in the library's holdings; a library catalogue in manuscript from 1839,
+                    which lists holdings alphabetically and numerically by accession number, and
+                    which also contains some circulation records, memoranda of books donated to the
+                    library (1829-1841), and minutes of the Council of the Society from 1831 to
+                    1834; a library catalogue in manuscript from 1894, which lists holdings by
+                    topic, by author, by title, and by accession number; two librarian's account
+                    books (1839-1885 and 1839-1864), which record circulation of holdings among
+                    members, income from appropriations from the Society's funds and library fines,
+                    expenses (primarily book purchases), and memoranda relating to the establishment
+                    of the library copied from the Society's minute books; and an inventory of the
+                    Mary Helen Wingate Lloyd collection with bibliographic, provenance, and binding
+                    information for each title. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Horticultural libraries.</subject>
+                <subject encodinganalog="650">Libraries--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Library catalogs.</subject>
+                <genreform encodinganalog="655">Account books.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

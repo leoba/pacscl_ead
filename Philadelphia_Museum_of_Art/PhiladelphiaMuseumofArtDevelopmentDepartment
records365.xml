@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Development Department records <date type="inclusive">1964-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Development Department
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC365</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>50.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>When Maria Gilliotti assumed the position of Development Director in 1982, the
+                    department was categorized under the "Programs and Supporting Services"
+                    division within the Museum's organizational structure. ("Corporate" and
+                    "Curatorial" were the other divisions). Gilliotti's staff that year included
+                    Terry Hoff as annual giving coordinator, Daphne Smith as major gifts
+                    coordinator, Susan Stuchlak as grants coordinator, and Carol Maloney as planned
+                    giving administrator. In 1989, Elizabeth S. Ketcham temporarily replaced
+                    Gilliotti as Acting Development Director, overseeing a smaller staff consisting
+                    of coordinators for an Associate Member program and for grants. In 1990 the
+                    Museum made a significant change in its organizational structure, bringing
+                    Development once again under its corporate division and designating it as an
+                    administration office. Developmental activities were now administered by the
+                    Office of the Vice President for Development, with Alexandra Q. Aldridge joining
+                    the Museum as V.P. (Interestingly, the offices of Membership and Public
+                    Relations remained part of the Programs and Supporting Services division. In
+                    1995, however, the Museum did establish an Office of Vice President for
+                    Marketing and Public Relations.) Aldridge's staff coordinated programs devoted
+                    to corporate partners, Associate museum members, grants, and annual giving. Over
+                    the next three years, additional personnel were hired to broaden and refine the
+                    Museum's development strategies, such as a campaign manager, writer and
+                    researcher, a foundation relations coordinator, and a
+                    communications/publications and telemarketing manager. By June 1994, the
+                    Development office grew to a staff of 17. (As a point of comparison, the Office
+                    of President and Director had 7.) That year, in addition to having personnel in
+                    charge of corporate, associate, and annual giving programs, a Deputy Director
+                    and a Director of Foundation and Grant Relations were added. Katharine Wilson
+                    Gotwals, who began in 1991 as a part-time campaign manager in Development,
+                    assumed the former position, and Linda Jacobs, who came to the Museum in 1992 to
+                    work on government grants, was promoted to the latter. In 1996, both Gotwals and
+                    Ketcham were named Deputy Directors. Gotwals left the following year; Ketcham
+                    continued through 1999. Also in 1997, Mimi B. Stein became Director of Donor
+                    Relations. Stein's tenure at the Museum began in 1991 as the part-time campaign
+                    researcher. In 1998, the Museum once again reorganized its organizational
+                    structure. Development was once again operating as its own department, separate
+                    from Corporate offices, which now were designated as "Executive."
+                    "Curatorial" was the only other division, as the divisional title of
+                    "Programs and Supporting Services" was dropped. Aldridge continued to oversee
+                    the department as its Director, rather than Vice President. Development's
+                    necessity within the institution was now well established. The department had
+                    grown to a staff of 30, including a number of telemarketers. The following year,
+                    the Museum initiated a special development program, "Campaign 2001," naming
+                    Aldridge Executive Director of Development and the Campaign. Betty J. Marmon
+                    came on board as the department's Director. Aldridge remained at the Museum
+                    until 2002. According to the Museum's Annual Report 2006, Betty J. Marmon, who
+                    came to the Museum in 1999, continues as the Director of Development. Matthew F.
+                    Singer is Senior Communications Officer. The 25-member department conducts four
+                    on-going programs; namely, Individual Giving, Corporate Relations,
+                    Foundation/Government Grants, and Development Services. There are four
+                    additional programs within "Individual Giving," and a director leads each.
+                    Kelly M. O'Brien is Director of Individual Giving, Edward H. Mills, Jr. is
+                    Director of Planned Giving, Ann Winkowski is Director of Stewardship and Major
+                    Gifts Officer, and Mimi B. is Director of Donor Relations. Warwick (Rick) S.
+                    Wheeler is Director of Corporate Relations, and the position of Director of
+                    Development Services remains open. Since the publication of the 2006 report,
+                    Susan Fisher has replaced Kirsten Mattson as Director of Foundation
+                    Relations.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The first five series to this record group pertain to some of the department's
+                    ongoing programs. Each focuses on a specific donor group; namely corporate
+                    partners, Associate museum members, annual contributors, "Friends" and "Young
+                    Friends," and planned (estate) giving. Most of the records in each series
+                    document special events and activities conducted by the department, such as
+                    private tours to special exhibitions, lectures, receptions and galas. The
+                    "Associates" series, which is the largest, also includes documentation of
+                    committee and annual meetings and member lists. The "Planned giving" series,
+                    which like the "Corporate partners" and "Annual contributors" series has
+                    limited documentation, consists primarily of published material, such as
+                    "Estate Planning Quarterly." Files compiled by Johanna Hynes make up most of
+                    the "Miscellany" series [series 6], and include staff and donor photos,
+                    ephemera, press releases and other material. The series also includes a small
+                    amount of documentation of special projects, such as holiday mailings and the
+                    Matching Gifts program. The department's publication "Developments" is the
+                    subject of Series 7. Produced seasonally, "Developments" highlights current
+                    and upcoming exhibitions, programs and major projects, and spotlights certain
+                    special supporters and donors of the Museum. The publication is mailed to all
+                    annual and other significant donors, which currently amounts to 15,000
+                    recipients. The series consists of nearly 15-years of publishing documentation.
+                    Another extensive series is "General department records," which covers a
+                    number of subjects, such as special exhibitions, special events policy, external
+                    affairs, gifts, collections at other institutions, interdepartmental activities,
+                    such as retreats, city reports, and outside publications. Correspondence and
+                    invoice transmittals comprise a substantial amount of documentation. There is
+                    also research material, 1990-1999, regarding prospective donors. Series 9
+                    consists of the records generated by Alexandra Q. Aldridge, who served as Vice
+                    President of Development, when the office was under the aegis of Administration
+                    and as Director, when the office began operating as a separate department. Most
+                    of the material is Aldridge's correspondence with donors and with Museum staff.
+                    The last series consist of donor files, arranged alphabetically. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Development Department. </corpname>
+                <subject encodinganalog="650">Fund raising.</subject>
+                <subject encodinganalog="650">Museum finance. </subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Press releases.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 14</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=DEV">http://www.philamuseum.org/pma_archives/search.php?c=DEV</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Development and Membership Department Records, 1927, 1940-1989 (bulk
+                    1967-1981) (ADV); Philadelphia Museum of Art: Development (transitional)
+                    Department Records, ca. 1967-1996 (DM)</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

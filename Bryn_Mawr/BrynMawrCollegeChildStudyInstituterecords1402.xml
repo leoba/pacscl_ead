@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bryn Mawr College Child Study Institute records <date type="inclusive">1952-1993</date>
+                        <date type="bulk"> 1974-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bryn Mawr College Child Study Institute records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1402</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-1993</unitdate>
+                <unitdate type="bulk"> 1974-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bryn Mawr College's Child Study Institute (CSI), founded in the 1940s by
+                    Katharine E. McBride, then president of Bryn Mawr, provides psychological
+                    testing, therapy, and counseling, educational support services, and school
+                    consultation to children and families in the greater Philadelphia area. The
+                    Center is staffed by psychologists, educational specialists, and speech-language
+                    pathologists.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records from the Child Study Institute. Materials
+                    include annual reports (1974-1977), newsletters (1979-1984), programs for
+                    events, correspondence, minutes of the Planning Committee, staff lists,
+                    clippings on the Center, and papers on early childhood education and fieldwork
+                    instruction.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

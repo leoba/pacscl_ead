@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Milton Rubincam papers <date type="inclusive">1934-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Milton Rubincam papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2200</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>36.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1934-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains documentation of Rubincam's genealogical research.
+                    Materials include: an extensive, 113 volume Rubincam family genealogy, which
+                    contains correspondence, photocopies of records, photocopies of clippings, and
+                    other research; printed family histories and bibliographies (there are often
+                    photocopies of correspondence related to the research as well as the final
+                    product of the research); genealogical research on various royal families and
+                    non-royal families; manuscripts for articles and papers; articles and reprints
+                    by others; printed materials from genealogical societies, including a good deal
+                    of research related to the Sutherland family and newsletters from the Clan
+                    Sutherland Society in Scotland; and miscellaneous reels of microfilm for various
+                    individuals and families, as well as the Sussex County Court Records. Many of
+                    the genealogical projects draw on German primary sources. There is also
+                    extensive correspondence with fellow genealogists and historians - sometimes on
+                    genealogical topics, sometimes related to personal and organizational matters
+                    for organizations in which Rubincam was involved, such as the American Society
+                    for Genealogy. Some files include obituaries written by Rubincam. Correspondents
+                    include Walter Goodwin Davis, Donald Lines Jacobus, John Insley Coddington, and
+                    Calvin Kephart.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

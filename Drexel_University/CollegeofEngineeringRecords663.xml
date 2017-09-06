@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Engineering Records <date type="inclusive">1937-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Engineering Records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC663</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Three of the Drexel Institute's original eleven departments taught programs that
+                    would eventually become part of Drexel's early School of Engineering: the
+                    scientific department, the technical department, and the mechanic arts program.
+                    In 1914, President Hollis Godfrey consolidated these departments into the School
+                    of Engineering, which was the first school at Drexel permitted to grant a
+                    four-year degree (in 1915), first to implement a cooperative education program
+                    (in 1919), and, later, first to extend the cooperative course from four years to
+                    five (in 1925). In 1945, it became the College of Engineering. The college
+                    offered its first graduate degrees in 1953. It was briefly consolidated with the
+                    College of Science from 1964 to 1968, when it again became the College of
+                    Engineering.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists largely of annual reports submitted by the dean of the
+                    college to the president of Drexel, as well as manuscripts of annual reports. It
+                    also includes the outgoing correspondence of college administrators and faculty
+                    members from 1967 to 1973, faculty and department head meeting minutes from 1937
+                    to 1968, records on individual departments within the college, and other
+                    reports.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Received from the College of Engineering. </p>
+                <p>Accession number: 2005.064</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

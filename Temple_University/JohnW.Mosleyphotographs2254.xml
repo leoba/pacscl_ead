@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John W. Mosley photographs <date type="inclusive">1886-1968</date>
+                        <date type="bulk"> 1930s-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John W. Mosley photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2254</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>95 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1886-1968</unitdate>
+                <unitdate type="bulk"> 1930s-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John W. Mosley (1907-1969) was an African-American photographer. Mosley was born
+                    in Lumberton, North Carolina. His father was a Baptist minister and also worked
+                    as a barber. Mosley attended Johnson C. Smith College in Charlotte, North
+                    Carolina. His interest in photography began in the 1920s, and when he moved to
+                    Philadelphia in 1934, he was hired at the Barksdale Photography Studio. Soon
+                    after relocating to Philadelphia, Mosley's photographs began appearing in
+                    African-American newspapers throughout the eastern United States. He was witness
+                    and chronicler of many changes in politics, culture, sports, and fashion from
+                    the late 1930s to the late 1960s. Many of his photographs were taken in
+                    Philadelphia and Atlantic City, New Jersey, but Mosley also worked in New York,
+                    Baltimore, and Washington D.C. He photographed many of the prominent figures in
+                    the African-American community, including Marian Anderson, Martin Luther King,
+                    Jr., Paul Robeson, Cab Calloway, W.E.B. DuBois, and Langston Hughes.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs, negatives, and contact prints by John W.
+                    Mosley. Major subjects include social events and ceremonies, churches, sports,
+                    performing arts, clubs and organizations, political events, and accidents and
+                    fires. There are many photographs of individuals and groups. The collection also
+                    includes event programs, a few of which include names of persons photographed at
+                    the events; a wedding photo album; a small number of cabinet cards, dating back
+                    to 1886; and several copies of Charles L. Blockson's book The Journey of John W.
+                    Mosley.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">African American photographers.</subject>
+                <subject encodinganalog="650">African Americans--Pictorial works.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--History--Pictorial
+                    works.</geogname>
+                <genreform encodinganalog="655">Cabinet photographs</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

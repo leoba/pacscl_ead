@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ida Langman papers <date type="inclusive">1939-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ida Langman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1887</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1939-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ida Kaplan Langman (1904-1991) was born in the Ukraine. While she was still an
+                    infant, the Kaplan family immigrated to the United States and settled in
+                    Philadelphia. Kaplan married Oscar Langman in 1928. She received a teaching
+                    certificate from the Philadelphia Normal School and taught in the public
+                    schools, ending her teaching career as the Board of Education's first museum
+                    teacher assigned to the Academy of Natural Sciences. While working as a teacher,
+                    she pursued her graduate studies at the University of Pennsylvania, earning a
+                    master's degree in botany in 1945. She worked as a botanist, bibliographer, and
+                    author. In 1964, she published A Selected Guide to the Literature on the
+                    Flowering Plants of Mexico, her best known work. She also worked on a
+                    bibliography of worldwide botanical literature for the Hunt Botanical Library at
+                    Carnegie-Mellon.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of professional and some personal correspondence, most
+                    of it incoming, of Ida Langman. Much of the correspondence relates to Langman's
+                    compilation of bibliographies of Mexican flora and of worldwide botanical
+                    literature. Some of the correspondence is in Spanish.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Ida Kaplan Langman scrapbook (collection 3038); Carnegie Mellon
+                    University, Hunt Institute for Botanical Documentation: Ida Kaplan Langman
+                    papers (Collection #179).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

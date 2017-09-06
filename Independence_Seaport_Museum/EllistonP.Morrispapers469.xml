@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elliston P. Morris papers <date type="inclusive">1925-1938</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elliston P. Morris papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC469</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1938</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Elliston P. Morris was a Philadelphia merchant and shipper. Marriott C. Morris
+                    Janet Morris. [sister of Elliston?] Elliston P. Morris (1831-1914) his daughter,
+                    Elizabeth Canby Morris and his son, Marriott C. Morris (1863–1948) [I think this
+                    is the correct genealogy, but there may be family members with same name ie a
+                    Elliston P. Morris junior--] RMS Mauretania (also known as "Maury"), sister
+                    ship of the Lusitania, was an ocean liner built by Swan, Hunter &amp; Wigham
+                    Richardson at Wallsend, Tyne and Wear, and was launched in 1906. At the time,
+                    she was the largest and fastest ship in the world. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photograph albums documenting trips taken by the Morris
+                    family. Albums include: photograph album/scrapbook and scrapbook recording a
+                    1925 trip to England on board R.M.S. Mauretania of the Cunard line; album
+                    recording a 1934 trip to France, with an illustration of SS Bremen on the cover;
+                    and an album of a 1938 trip aboard the SS Vandyck from Miami, Fl, to Haiti,
+                    Jamaica, and Havana. The collection also includes a journal kept by Janet Morris
+                    on 1925 trip. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1985.81</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

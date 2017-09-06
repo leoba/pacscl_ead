@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Education Society records <date type="inclusive">1820-1872</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Education Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1017</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.01 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1820-1872</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Education Society of the Presbyterian Church in the United States was formed
+                    in the autumn of 1818. In 1820 the name was changed to Presbyterian Education
+                    Society. For a number of years it continued its operations as an independent
+                    Society, and had under its care about one hundred young men. In 1827, it became
+                    connected with the American Education Society, and was known as the Presbyterian
+                    Branch. In this capacity, the field of its operations was limited to the states
+                    of New York, New Jersey, and Pennsylvania. In 1831, the operations of the
+                    Presbyterian Branch were folded into the American Education Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Presbyterian Education Society. Materials
+                    include: copies of printed addresses by the Board of Directors of the
+                    Presbyterian Education Society, 1820-1831; an address given by Edward D. Griffin
+                    to the Society, 1824; subscription book listing subscribers and amount paid for
+                    annual subscriptions, undated (appears to be for one year); and an invitation to
+                    the 1872 annual meeting of the Philadelphia Education Society, signed by the
+                    secretary, Charles Brown, addressee unknown.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 91 1107e</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

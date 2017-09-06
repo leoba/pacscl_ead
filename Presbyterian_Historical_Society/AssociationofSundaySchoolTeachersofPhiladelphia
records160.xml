@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Association of Sunday School Teachers of Philadelphia records <date type="inclusive">1824-1831</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Association of Sunday School Teachers of Philadelphia
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC160</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1824-1831</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Originally called the Association of Male Sunday School Teachers of Philadelphia,
+                    the object of the Association of Sunday School Teachers of Philadelphia was to
+                    cultivate union among teachers, to devise and recommend the best methods for
+                    conducting Sunday schools, and for extending their influence and efficiency.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes minutes of monthly meetings of the Association of Male
+                    Sunday School Teachers of Philadelphia, 1824-1831. Minutes record routine
+                    business and list topics of discussion and reports from visitations. Includes
+                    constitution and by-laws, a list of member churches and superintendents of their
+                    Sunday schools, and a list of the discussion questions addressed during the
+                    Association's meetings. Questions relate to the structuring of classes,
+                    increasing attendance and interest in Sunday schools, and some general matters
+                    of curriculum.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: ASSU</p>
+                <p>Accession number: 05 0603k</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

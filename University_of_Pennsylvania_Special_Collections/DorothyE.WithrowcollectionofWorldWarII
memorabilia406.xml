@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dorothy E. Withrow collection of World War II memorabilia <date type="inclusive">1892-1950</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dorothy E. Withrow collection of World War II
+                    memorabilia</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC406</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1892-1950</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dorothy E. Withrow (d. 2000) graduated from the University of Pennsylvania with a
+                    degree in education.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of World War I and World War II ephemera collected by
+                    Dorothy Withrow and [her father?] John Alexander Withrow. World War II materials
+                    include: civil defense information bulletins and rules, registration cards,
+                    helmet, arm bands, wooden alarm rattle and signs; war bond advertisements and
+                    buttons; Office of War Information and U.S. Food Administration bulletins and
+                    magazines; German, British, and American propaganda such as flyers and
+                    pamphlets; postcards and greeting cards to Dorothy Withrow; issues of the
+                    Saturday Review of Literature, 1940-1944; Philadelphia newspapers from 1939,
+                    1942, and 1945, and the Manchester Guardian, 1939; posters; receipts for knitted
+                    garments for the British War Relief Society; and a 1945 published volume on
+                    tanks. World War I materials include: printed addresses and articles from
+                    1915-1916; German 100,000 bank note, 1923; Red Cross patches; and a series of
+                    pictorial books titled the New York Tribune Photographic History of the Great
+                    War. There is also a copy of a 1892 publication titled Historical and Commercial
+                    Philadelphia.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 175</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

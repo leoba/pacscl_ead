@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>A. B. Frost collection <date type="inclusive">1874-1994</date>
+                        <date type="bulk"> 1874-1933</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">A. B. Frost collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2343</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1994</unitdate>
+                <unitdate type="bulk"> 1874-1933</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Arthur Burdett Frost (1851-1928) was an American illustrator, graphic artist,
+                    comics writer, and painter. Born in Philadelphia, Frost's first illustrations
+                    were published in 1874. In 1876, Frost joined the art department at the
+                    publisher Harper &amp; Brothers, where he worked with such well-known
+                    illustrators as Howard Pyle, E. W. Kemble, Frederic Remington, and C. S.
+                    Reinhart. In 1877 and 1878, Frost went to London to study with some of the great
+                    cartoonists of the time. Later, he returned to Philadelphia and studied under
+                    painters Thomas Eakins and William Merritt Chase at the Pennsylvania Academy of
+                    the Fine Arts. Soon after returning, he published several stories formed of
+                    sequential drawings with captions, pioneering the form that would later develop
+                    into comic strips and comic books. In 1884, Frost published Stuff and Nonsense,
+                    an anthology of his previous works that advanced the concept of time-stop
+                    drawings and contained several other innovations. From 1906 until May of 1914,
+                    Frost and his family lived in France, attracted by the impressionist artistic
+                    movement. Upon returning to the United States, he continued work as an
+                    illustrator and comics artist, mainly for Life magazine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of drawings and published books illustrated by A. B. Frost.
+                    Volumes with illustrations by Frost include the "Uncle Remus" stories of Joel
+                    Chandler Harris and Rhyme and Reason by Lewis Carroll. A few of the volumes
+                    include additional original sketches by Frost. Drawings in the collection
+                    include; 136 originals for Bull Calf and Other Tales; published edition and set
+                    of drawings for Stuff and Nonsense, including several unpublished illustrations;
+                    drawings for Skating Series; and a collection of Frost's contributions to
+                    Scribner's and Harper's magazines, 1880-1928. The collection also includes a
+                    catalog from a 1994 exhibition at the Morris Museum entitled "The Best of A.B.
+                    Frost"; and a volume about Frost entitled A.B. Frost, the American Sportsman's
+                    Artist, by Henry W. Lanier, 1933.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia: History of the book and Illustration manuscripts (5 letters and 2
+                    sketches by Frost); Princeton University: A. B. Frost collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

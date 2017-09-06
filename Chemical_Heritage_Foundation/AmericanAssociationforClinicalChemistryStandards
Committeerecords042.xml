@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Association for Clinical Chemistry Standards Committee
+                        records <date type="inclusive">1960-1994</date>
+                        <date type="bulk"> 1960s-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Association for Clinical Chemistry Standards
+                    Committee records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC042</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1994</unitdate>
+                <unitdate type="bulk"> 1960s-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Association for Clinical Chemistry (AACC) is an international
+                    scientific/medical society of clinical laboratory professionals, physicians,
+                    research scientists and other individuals involved with clinical chemistry and
+                    clinical laboratory science disciplines. Founded in 1948, the society has 9,500
+                    members and is headquartered in Washington, DC. AACC is subdivided
+                    geographically into 22 local sections. Nathan Radin was the past editor of the
+                    American Association for Clinical Chemistry newsletter. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the Standards Committee of the AACC from
+                    1960-1981. Materials include summary reports of meetings of the Standards
+                    Committee, memoranda and proposals from various study groups and subcommittees,
+                    biographical sketches of AACC symposium speakers, meeting agendas, printed
+                    reference material from offices such as the National Bureau of Standards, and
+                    information about the structure, purpose and membership of the Standards
+                    Committee and its subcommittees.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: files from Raymond Vanderlinde</p>
+                <p>Accession number: 01:40</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: American Association for Clinical Chemistry records
+                    (97:08;01:07;02:02).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

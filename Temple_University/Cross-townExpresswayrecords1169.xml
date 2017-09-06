@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Cross-town Expressway records <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Cross-town Expressway records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC1169</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent> linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>see http://www.phillyroads.com/roads/crosstown/ Plans for the Crosstown
+                    Expressway were devised as early as 1930, when the Philadelphia City Planning
+                    Commission made references to a Center City "ring road" that would provide for
+                    smoother traffic flow. While specific mention was made in this report of a route
+                    along Vine Street, no specific mention was made of the route south of the
+                    central business district. In 1947, Robert B. Mitchell, the executive director
+                    of the Philadelphia City Planning Commission, recommended the construction of a
+                    Center City highway loop as one of the elements for a restructured city. The
+                    Crosstown Expressway was to be the southern part of the Center City loop that
+                    also comprised of the Schuylkill Expressway (I-76), the Delaware Expressway
+                    (I-95) and the Vine Street Expressway (I-676). At the time, the proposed Center
+                    City highway loop was designed to solve not only chronic congestion, but also
+                    the threatened obsolescence of the business center. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p/>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 976</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

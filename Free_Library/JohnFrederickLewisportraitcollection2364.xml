@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Frederick Lewis portrait collection <date type="inclusive">1750-1942</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Frederick Lewis portrait collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2364</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>133 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1750-1942</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Among the exemplary collections of the Free Library of Philadelphia is the Print
+                    and Picture Collection. Spanning the graphic arts from 1493 to the present time,
+                    the Free Library's Fine Art Prints and Photographs collection includes thousands
+                    of images. Initially representing only Philadelphia artists, the collection has
+                    been extended to include early masters as well as renowned modern printmakers
+                    and photographers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Established in 1928, the John Frederick Lewis Portrait Collection contains more
+                    than 200,000 portrait prints in all media. Subjects in the collection include:
+                    political, religious, military leaders; royalty and nobility; artists,
+                    composers, and writers; scientists and inventors; performers, including film and
+                    stage actors; figures from antiquity; and others. Among these prints are
+                    numerous works of art by such artists as Van Dyck, Nanteuil and Holbein.
+                    Highlights include a photograph of Eleanor and Franklin Roosevelt attending
+                    their son Elliott's wedding in Bryn Mawr in 1932, an engraving of Gilbert du
+                    Motier, marquis de La Fayette, and dozens of engraved portraits of Benjamin
+                    Franklin. Portraits are in a variety of media, including engravings, etchings,
+                    lithographs, mezzotints, ink drawings, photographs, half-tone reproductions, and
+                    magazine and newspaper clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

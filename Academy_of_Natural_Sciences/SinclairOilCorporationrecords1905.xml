@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sinclair Oil Corporation records <date type="inclusive">1929-1966</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sinclair Oil Corporation records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1905</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1966</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sinclair Oil Corporation was founded by Harry F. Sinclair in 1916. In 1930,
+                    Sinclair began using the apatosaurus (brontosaurus) in its advertising, sales
+                    promotions, and product labels. In 1933 at the Chicago Worlds Fair Sinclair
+                    sponsored a dinosaur exhibit which included a two-ton animated model of a
+                    apatosaurus. In 1964 at the New York City Worlds Fair, Sinclair displayed an
+                    exhibit featuring nine life-sized dinosaurs highlighting its unique association
+                    with the age of the dinosaur--an age representative of the beginning of the
+                    formation of crude oil.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials from the Sinclair Oil Company, related to its
+                    use of dinosaurs in company marketing and also its connection with the Teapot
+                    Dome Oil scandal. Materials in the collection include: photographs from the
+                    Chicago Century of Progress Exhibition, 1933; Dinoland at the New York World's
+                    Fair, 1964-1965; photographs from the American Museum of Natural
+                    History/Sinclair Dinosaur Expedition in 1934; and booklets, brochures, stamps,
+                    clippings, and ephemera from the Sinclair dinosaur advertising campaign. The
+                    collection also includes a series of letters to Bruce Quayle from various
+                    natural history museums in response to his queries about dinosaur exhibits
+                    (1964-1965). Documents related to the Teapot Dome case include letters to
+                    stockholders from Robert W. Stewart, John D. Rockefeller, and Winthrop W.
+                    Aldrich and photocopies of newspaper articles about the case.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

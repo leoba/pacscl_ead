@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Children’s Seashore House records <date type="inclusive">1874-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Children’s Seashore House records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2280</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Children's Seashore House was founded in 1872 near Atlantic City, New Jersey, as
+                    a place for children to receive rehabilitation treatment. Funded by donations
+                    from wealthy Philadelphians, Children’s Seashore House accepted its first 55
+                    young patients in the summer of 1873. Years ahead of its time, the hospital was
+                    the first pediatric rehabilitation hospital in the nation. In 1990 the hospital
+                    moved to its current location next to CHOP and in 1998 it was acquired by CHOP.
+                    As of 1998, the hospital had 45 beds. It currently offers provides inpatient and
+                    outpatient care for children with developmental disabilities and chronic
+                    illnesses.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records, printed matter, images and artifacts from the
+                    Children's Seashore House. Administrative records of the Seashore House include:
+                    patient registers (1874-1982, with some gaps); visitor registers (1909-1968,
+                    also with gaps); bound volumes of annual reports; charter and by-laws; strategic
+                    planning documents; brochures and postcards; newsletters; and a small amount of
+                    correspondence related to patients. Photographic materials include prints,
+                    slides, negatives, and contact sheets showing patients, staff, buildings, and
+                    events and ceremonies. The collection also includes plaques, awards, citations,
+                    architectural plans, clippings about the hospital, and the official seal of
+                    Seashore House.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Children's Hospital of Philadelphia (CHOP) records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

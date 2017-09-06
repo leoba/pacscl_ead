@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Independence Seaport Museum Becuna veterans collection <date type="inclusive">1943-2003</date>
+                        <date type="bulk"> 2000-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Independence Seaport Museum Becuna veterans
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2539</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1943-2003</unitdate>
+                <unitdate type="bulk"> 2000-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials assembled by Douglas Buchanan, Ships Program
+                    Coordinator for ISM for the 25th anniversary [of what? possibly the
+                    restoration?] and 2000 reunion of Becuna veterans. Materials include:
+                    correspondence (letters and email), photographs, color photocopies of
+                    photographs, videos, reminiscences, index to oral histories (oral history tapes
+                    are not included), snapshots from the 2000 reunion, order of events for the 2000
+                    reunion, brief biographies of Becuna veterans print-outs from Sandy MacNaught's
+                    Becuna history website (g-macnaught.com) CDs of drawings of the Becuna, and
+                    photos and reminiscences a small number of items of ephemera from 1943-1945,
+                    including menus, invitations, programs, ration cards, and photographs (recent
+                    reproductions) donated by William Ambrose (a Becuna vet) volunteer forms, gift
+                    and release forms for oral histories, interview data forms notebook of contact
+                    information for veterans correspondence from veterans to Buchanan about reunion
+                    attendance restoration done in 1976 secondary resource materials on US Navy
+                    submarines, a xerox of a Guppy class submarine manual, a history of torpedo
+                    technology, a fleet sub manual (on CD), 1961-1964 issues of Dolphin, the US
+                    Naval Submarine Base, New London, CT newsletter</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Independence Seaport
+                    Museum: Becuna collection</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Shoemaker family papers and genealogical research materials <date type="inclusive">1800-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Shoemaker family papers and genealogical research
+                    materials</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2204</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1800-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of original records and genealogical research materials
+                    related to the Shoemaker family. There are a number of records related to
+                    Benjamin H. Shoemaker's (I and II) glass business, including financial records,
+                    legal records, property records, product information and catalogs, publicity
+                    materials and letterhead. Other materials include: an 1847 notebook by Benjamin
+                    H. Shoemaker, 2nd, on Gummere's surveying; family photographs, as well as
+                    photographs of ships and other subjects; property records; some family letters
+                    and personal financial records; research materials related to the supplement to
+                    Shoemaker Pioneers, a published family history; newspaper clippings about
+                    various Shoemakers; genealogical research, including correspondence and a copy
+                    of Thomas B. Shoemaker's family history with later research notes;
+                    correspondence relating to a family history of the Shoemaker family of
+                    Germantown and Philadelphia; and maps of Bermuda, the Netherlands, Belgium and
+                    Luxembourg.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

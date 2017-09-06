@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James P. Lindsay papers <date type="inclusive">1861-1945</date>
+                        <date type="bulk"> 1861-1908</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James P. Lindsay papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC643</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1861-1945</unitdate>
+                <unitdate type="bulk"> 1861-1908</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Patrick Lindsay was born in Ireland and came to the United States at the
+                    age of 14. He worked in various capacities on merchant vessels out of Boston. At
+                    the outbreak of the Civil War, he was appointed Acting Master in the US Navy and
+                    was assigned to the USS Pawnee. He served as master and navigating officer until
+                    April of 1864, when he resigned and was honorably discharged from naval service.
+                    He returned to the merchant marine, and entered the employ of Dallett, Bolton
+                    &amp; Co. In 1865 he was named captain of the US Steamer Transport Welles. [when
+                    did he leave this post?] In 1883, he was appointed Harbor Master of the Port of
+                    Philadelphia. His service in that role expired with the term of the Governor who
+                    appointed him. He was then appointed to the US Mint at Philadelphia, where he
+                    worked for six years until his retirement. He was also a manager of the Society
+                    of Distressed Masters of Ships.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of orders, certificates, correspondence, and ship papers of
+                    James P. Lindsay covering the period 1861 to 1908. This material documents his
+                    service as a ship's captain in the Civil War and his appointment as Harbor
+                    Master of the Port of Philadelphia. Correspondence discusses the seizure of the
+                    barque Fanny Laurie in 1862. Other materials include: orders to Lindsay as
+                    captain of the Welles, 1865; a certificate of appointment as Acting Master in
+                    the Navy, papers related to Lindsay's Navy pension; a report of vessels arriving
+                    at the Port of Philadelphia for the year 1885; a printed statement from the
+                    Society for the Relief of poor and Distressed Masters of Ships; and a photograph
+                    of Lindsay. The collection also includes a small amount of correspondence and
+                    other records of James P. Lindsay (grandson of Captain James P. Lindsay) related
+                    to the family's membership in the Military Order of the Loyal Legion of the
+                    United States (1940-1943); and a notice of classification from the Selective
+                    Service for James P. Lindsay (grandson), 1945.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Harbors--Delaware River.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Harbor.</geogname>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Military records.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003.28.5</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

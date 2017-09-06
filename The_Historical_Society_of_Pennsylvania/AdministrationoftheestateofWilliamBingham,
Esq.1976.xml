@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Administration of the estate of William Bingham, Esq. <date type="inclusive">1804-1818</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Administration of the estate of William Bingham,
+                    Esq.</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1976</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1804-1818</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Bingham was a wealthy merchant, land speculator, and Federalist. [the
+                    following was pasted in from a web site:
+                    http://www.enchantedmountains.com/POTTER/Pottercoclippings.html] He was born in
+                    Philadelphia on the 8th of March, 1753. He was educated at the academy and
+                    college in that city. On the 29th of November, 1768, he received a diploma, as
+                    Bachelor of Arts, and on the 28th of June, 1771, a diploma as Master of Arts. In
+                    1778, Congress appointed him Consul of the United States for the French West
+                    India Islands, resident in Martinique. In the spring of 1780 he returned to
+                    Philadelphia, and on the 26th of October of that year he married Ann Willing,
+                    the eldest daughter of Thomas Willing, a merchant in that city. The marriage was
+                    performed by the Rev. William White, Rector of Christ Church, and afterward the
+                    venerable Bishop of the Pennsylvania diocese. Mr. Bingham was, for several
+                    years, a member of the legislature of his native state, and was Speaker of both
+                    Houses, the House of Representatives and the Senate. From the 4th of March, 1795
+                    to the 4th of March, 1801, he was a Senator in the Congress of the United
+                    States, and an ardent supporter of the administration of Washington, with whom
+                    he was on terms of great personal intimacy. While the election between Jefferson
+                    and Burr was the subject of contest, Mr. Jefferson did not take his seat in the
+                    Senate, over which body he presided, as Vice-President of the United States. In
+                    his absence, Mr. Bingham occupied the Chair as presiding officer. Mr. Bingham
+                    was an enterprising and successful merchant; but he did not confine his
+                    attention merely to mercantile pursuits. He had valuable property in the city
+                    and county of Philadelphia, and large landed estates in Maine, New York, and
+                    Pennsylvania. From the Commonwealth of Pennsylvania he purchased over a million
+                    acres. His title to those acres, lying chiefly in the northern counties, was
+                    founded upon WARRANTS, granted to him by the Commonwealth, in the years 1792 and
+                    1793, upon SURVEYS, made by the officers of the Commonwealth, and regularly
+                    returned by them into the office of the Surveyor General, and upon PATENTS,
+                    issued to him, or to the Trustees appointed in his will, and signed by the
+                    Governor or Secretary of the Land Office. The evidence of this title is in the
+                    Surveyor’s Office at Harrisburg; and any person who will write to the head of
+                    that Department for a copy of any paper in his office, will be sure to get it in
+                    a week. The cost for a copy of a warrant and survey is half a dollar each, for
+                    that of a patent, seventy five cents. No one, then, need be in ignorance of the
+                    BINGHAM TITLE, when he can satisfy himself upon it on terms so easy. Mr. Bingham
+                    died on the 6th of February, 1804, in the 51st year of his age, having survived
+                    his wife, who died in May, 1801. His will, bearing date of January 31, 1804, was
+                    duly proved and filed in the Register’s Office in Philadelphia, and copies of it
+                    are upon the records of some of the counties in which the lands lie. He
+                    delivered his Estate to five Trustees, for the benefit of his son and two
+                    daughters, his only children. The Trustees were his two sons-in-law, Alexander
+                    Baring, (afterwards Lord Ashburton) and Henry Baring, and his three friends,
+                    Robert Gilmore, of Baltimore, and Thomas Mayne Willing and Charles Willing Hare,
+                    both of Philadelphia. These Trustees are dead, and the estate is now represented
+                    by five other Trustees, appointed in the manner prescribed in the will. They are
+                    Joseph Reed Ingersoll, and John Craig Miller, and three of Mr. Bingham’s
+                    grandsons, William Bingham Baring, (Lord Ashburton,) Francis Baring, and Henry
+                    Bingham Baring. Lord Ashburton and Francis Baring were born in Philadelphia.
+                    They are both in the Parliament of Great Britain, the former in the House of
+                    Lords, the latter in the House of commons. Mr. Ingersoll was, for several years,
+                    the Representative of Philadelphia in Congress, and last summer the President of
+                    the United States appointed him Minister to England. The other gentlemen, from
+                    time to time, connected with the trust, were held in high estimation in the
+                    communities in which they lived; and no person in Philadelphia has a better
+                    reputation than Mr. Miller. Such are the persons who have represented and do
+                    represent the large interests of the Bingham estate, as well in Pennsylvania as
+                    elsewhere. The daughters of Mr. Bingham are dead. One died December 5, 1848; the
+                    other, March 9th following. The son, William Bingham, born in Philadelphia, on
+                    December 29, 1800, is living in Paris. (From People’s Journal, December 18,
+                    1853) Editorial Comment: We publish on the first page a short sketch of the life
+                    and character of the late William Bingham, which we hope will receive the
+                    attention of every reader. Most of the lands in this county were originally
+                    purchased from the State by Mr. Bingham and the title to them is plain and
+                    undoubted. We believe no man of sense in this county has ever had any doubt on
+                    this subject, and we shall not waste words in trying those who will not listen
+                    to reason. The following fact is too seldom thought of by the inhabitants, and
+                    is not appreciated even when mentioned. Look at it: For more than half a
+                    century, the Estate has paid taxes on these lands, which went to defray county
+                    expenses, to build roads and bridges, to pay interest on the State debt, and to
+                    support schools, etc.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p/>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Calling card of "Mr Baring Piccadilly" attached to inside board.
+                    Purchased by the Dreer Fund.</p>
+                <p>Year acquired: 1933</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

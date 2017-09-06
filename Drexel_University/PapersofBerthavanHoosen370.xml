@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Papers of Bertha van Hoosen <date type="inclusive">1917-1971</date>
+                        <date type="bulk"> 1917 - 1961</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Papers of Bertha van Hoosen</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC370</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-1971</unitdate>
+                <unitdate type="bulk"> 1917 - 1961</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>General correspondence, [1917-1940], reflecting Van Hoosen's work in obstetrics
+                    and gynecology, including birth control, and also her interest in women in
+                    medicine. A large part of the correspondence concerns Van Hoosen's interests in
+                    the National Medical Women's Association, later the American Medical Women's
+                    Women's Association, later the American Medical Women's Association, with
+                    letters from missionaries in China and India. Materials, [(1940-1961)-1971],
+                    reveal Van Hoosen's efforts to create, at Woman's Medical College, a Medical
+                    Women's Library on the history of women in medicine, and contain correspondence
+                    with physicians and with librarians around the world compiling bibliographies on
+                    the subject, notebooks listing some of the books presented to the Library, and
+                    related materials. Card index of women physicians and some medical institutions
+                    mentioned in Medical Woman's Journal, 1941-1948.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 145</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Drexel University:
+                    Records of the American Women's Hospitals, Records of the American Medical
+                    Women's Association, Papers of Rose V. Menendian, M.D., and Papers of Catharine
+                    Macfarlane, M.D.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Labor on the Delaware project collection <date type="inclusive">1974-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Labor on the Delaware project collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2493</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1974-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Labor on the Delaware: The Longshoremen Experience was originally a documentary
+                    film project in the early 1980s sponsored by the Philadelphia Maritime Museum
+                    with the cooperation of the International Longshoremen's Association Local 1291,
+                    Southwark House, and Temple University. The project received a grant from the
+                    Public Committee for the Humanities in Pennsylvania. The project director was Ed
+                    Kirlin. The project's aim was to document the history and experiences of
+                    Longshoremen on the Delaware over the previous 80 years. The project staff taped
+                    interviews with active and retired Longshoremen, union, and port officials.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Labor on the Delaware project.
+                    Items include: audio cassette tapes and reel to reel audio tapes of interviews
+                    recorded in 1980 and 1981; slides, negatives, and prints: longshoremen, yards,
+                    and newspaper clippings; 16 mm film reels, presumably of unedited footage and of
+                    news clippings on longshoremen; and a 16 mm sound track reel. Papers in the
+                    collection include: transcriptions of some of the interviews; shooting scripts;
+                    interview plans and lists of interviewees; correspondence; grant records;
+                    budgets; and permission release forms. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Audiocassettes.</genreform>
+                <genreform encodinganalog="655">Interviews.</genreform>
+                <genreform encodinganalog="655">Motion pictures.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+                <genreform encodinganalog="655">Transcripts.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sasan Mehrara research materials for Russell Stetler and the
+                        Anti-War Movement honors thesis <date type="inclusive">1992-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sasan Mehrara research materials for Russell Stetler and
+                    the Anti-War Movement honors thesis</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC811</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1992-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sasan S. Mehrara graduated from the University of Pennsylvania in 1994. He
+                    received his law degree from George Washington University in 1997 and is
+                    currently a partner in the real estate department of Simpson Thatcher &amp;
+                    Bartlett, LLP. Russell Stetler was a Haverford student who participated in
+                    campus anti-war activities. In 1963-1964 he circulated an anti-war petition,
+                    which resulted in complaints from a veteran's group and investigation by the
+                    college and the Philadelphia Board of Education.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of research materials for Mehrara's thesis on Stetler.
+                    Materials include: handwritten interview and research notes; and photocopies of
+                    articles, correspondence, court records, statements, and minutes. For this
+                    research, Mehrara's made use of documents held in archives at Temple University,
+                    McMaster University, Swarthmore College, and Haverford College.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Haverford College.</corpname>
+                <persname encodinganalog="600">Stetler, Russell.</persname>
+                <subject encodinganalog="650">Vietnam War, 1961-1975--Protest movements.</subject>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 5811</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Thomas M. Goldstein papers (ms # 829) (includes interviews of Russell
+                    Stetler).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

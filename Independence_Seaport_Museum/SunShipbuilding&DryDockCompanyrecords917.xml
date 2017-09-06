@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sun Shipbuilding &amp; Dry Dock Company records <date type="inclusive">1916-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sun Shipbuilding &amp; Dry Dock Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC917</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>26 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Sun Shipbuilding and Dry Dock Company was incorporated in May 23, 1916 as a
+                    tanker-building subsidiary of the Sun Oil Company. Soon after its founding it
+                    began building ships for other companies. During World War II, the National
+                    Defense Program helped make the Sun shipyard one of the world's biggest
+                    producers of oil tankers. The company launched its final ship in 1980.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of Sun Shipbuilding plans, photographs, and
+                    printed materials. Plans for vessels built by Sun Shipbuilding are arranged in
+                    hull number order from #1 to 683. Most of the plans are general arrangements,
+                    with a small number of plans for other systems, including shell plating,
+                    trusses, and propellers. The collection also includes aperture cards of plans
+                    for hulls #3-100 (not complete). Most of the photographs and negatives document
+                    vessels built by the company (hull #17 to 678), but there are also photographs
+                    of executive staff and images of the yard, including several aerial views.
+                    Business records of Sun Shipbuilding include: lists and registers of ships;
+                    rolled charts of hulls built by Sun from 1931 to 1981 (listing ship name,
+                    construction and delivery dates, measurements, owner, engine type, cargo
+                    capacity, and other information); launching brochures (1950s-1970s); records
+                    related to trial trips, including schedules and personnel lists; typescripts of
+                    articles on ship design by Merville Willis (a naval architect for Sun
+                    Shipbuilding) on naval design; a small collection of papers of George Blair (an
+                    employee of Sun), including an identification card, pay sheets, and photographs;
+                    specification books for specific hulls; an Engineer's Operating Manual for hull
+                    610/611, including system blueprints and text descriptions; course materials on
+                    engineering topics including a set of “class notes” on combustion, 1948, and
+                    diesel test questions from the 1940s; and magazine and newspaper clippings about
+                    Sun (1930s-1981). Materials printed by Sun Shipbuilding include: advertising
+                    booklets and brochures on products and services; Our Yard (1945, 1954-1956,
+                    1960-1965); Sun Ship Log, 1978-1979; miscellaneous staff newsletters; and a copy
+                    of the 1986 Centennial Celebration: The Story of Sun Company. The collection
+                    also includes brochures, booklets, and reports of the United Seaman's Service
+                    and the U.S. Maritime Service (1940s); various other printed materials on
+                    shipfitting, rigging, pumps, and engines; and brochures of other shipbuilding
+                    and transportation companies.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <subject encodinganalog="650">Shipbuilding--Pennsylvania--Chester.</subject>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Registers (lists)</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 84.76; 94.115; 93.80; 85.72; 85.62; 86.9; 93.78; non-acc.</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

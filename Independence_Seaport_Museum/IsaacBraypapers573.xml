@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Isaac Bray papers <date type="inclusive">1874-1893</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Isaac Bray papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC573</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1893</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Isaac Matthews Bray (1840-1896) was the captain of the Mary L. Cushing which was
+                    built at Newburyport by John E. Currier. The 220 foot long barque, was named
+                    after the wife of John Cushing, who had commissioned the vessel. The Mary L.
+                    Cushing was employed in general freighting from the US to Japan and India. It
+                    was sold in 1895 and was lost in the Pacific Ocean in 1905. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of log books of four ships: Mary L. Cushing (1888-1890),
+                    voyage from New York to Yokohama, Japan (a trip of 170 days) and from New York
+                    to Calcutta; SS City of Washington and SS Niagara (1893), for voyages between
+                    New York, Nassau, and Havanah; and the H.G. Johnson (1877-1880), voyages from
+                    New York to Melbourne, Hong Kong, and Shanghai, and from Philadelphia to Oregon
+                    and Queenstown. The collection also includes a 1874 letter from Isaac Bray to
+                    his sister Hannah, telling her of his appointment as captain of the Nearchus.
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1996.002</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

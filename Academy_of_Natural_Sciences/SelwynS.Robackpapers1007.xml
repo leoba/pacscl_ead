@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Selwyn S. Roback papers <date type="inclusive">1863-1981</date>
+                        <date type="bulk"> 1922-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Selwyn S. Roback papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1007</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1863-1981</unitdate>
+                <unitdate type="bulk"> 1922-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. Selwyn S. Roback (1924-1988) was an entomologist and curator of limnology at
+                    the Academy of Natural Sciences of Philadelphia. He joined the Academy in 1951
+                    as an assistant curator and became a full curator in 1963. He was a specialist
+                    in non-biting aquatic midges. In the Department of Limnology, Roback studied the
+                    taxonomy and ecology of aquatic insects, particularly in the immature stages,
+                    collected as part of the Academy's limnological studies. Roback also
+                    participated in several Academy expeditions, including those to Peru in 1955,
+                    Colombia in 1955, and Peru and Bolivia in 1977.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Selwyn S. Roback. Materials in the collection
+                    include: correspondence with H.Radclyffe Roberts and other colleagues; papers by
+                    Roback, including drafts of articles and talks; proposals, reports, and receipts
+                    for expeditions; slides and photos of expeditions in Peru, Bolivia, and
+                    Columbia; notes from professional meetings; several reprints; photocopied maps;
+                    illustrations and photographic mockups; a collection of autographs of
+                    scientists; and portraits and prints of entomologists. The collection also
+                    includes illustrations of insects, fish, shells, mollusks, and butterflies by
+                    various people, including H.A. Pilsbry, Helen Winchester, J.A.G. Rehn, and H.W.
+                    Fowler. Illustrations are black and white and handcolored prints and original
+                    ink and pencil drawings and watercolors. Additionally the collection contains 11
+                    woodcuts (1967-1973) by Roback of various subjects including birds, fish and
+                    insects. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 90:03; 99:02; 99:02A; 02:14</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

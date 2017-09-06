@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jean Martin Buche papers <date type="inclusive">1891-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jean Martin Buche papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC027</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jean Martin Buche (1929-1998) was a missionary in India, teaching at the Avalon
+                    School (UPCNA) in Pathankot in the 1950s. She was married to the Reverend Robert
+                    H. Buche (1905-1992), a Presbyterian minister who served at the Trinity
+                    Presbyterian Church in Manhattan from 1938 to 1970. He was also chaplain of the
+                    St. George Society of the Port Authority of New York and New Jersey.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes a photograph album documenting a 1972 trip made by the
+                    Buches to India mission sites including the Avalon School and Christian Medical
+                    Center; various publications documenting the UPCNA's India and Pakistan missions
+                    and non-church publications on the Sikhs; and two photo albums from India, one
+                    from 1958-1961 and one from 1972, showing church members, schoolchildren,
+                    village scenes, architecture, and animals. Also included are personal papers of
+                    Jean Martin Buche, which include photographs, slides, photograph albums,
+                    publications, and a 1967 manuscript by Buche on the languages of India.
+                    Additionally there are some photographs and printed material related to the
+                    Avalon Girls' High School in Pathankot, Punjab, India.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Martin, M. Gertrude Trudy)</p>
+                <p>Accession number: 01 0511a|96 0725d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

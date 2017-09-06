@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel Massey papers <date type="inclusive">1755-1763</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel Massey papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC436</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1755-1763</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wight Massey (1703-1761), a Philadelphia merchant, was in partnership with his
+                    son Samuel Massey (1734-1793) by 1756. Samuel Massey had begun his business
+                    career in the store of Jonathan Mifflin in Philadelphia in 1751. Benjamin
+                    Mifflin (1718-1787), also a Philadelphia merchant, and later of Sussex County,
+                    Del., formed a partnership with Samuel Massey in 1760 under the name of Mifflin
+                    &amp; Massey. Mifflin and Massey were general merchants dealing in teas, coffee,
+                    sugar, and flour. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Account and waste books of Samuel Massey. Mifflin and Massey waste book
+                    (1761-1763) and Wight and Samuel Massey waste book (1759-1760), document daily
+                    transactions in sugar, coffee, wine, tea, oranges, spirits, and other
+                    merchandise. Two notebooks of accounts (1755-1756) of Samuel Massey documenting
+                    transactions in corn, chocolate, limes, boards, rum, pork, and other
+                    merchandise; one volume includes several copies of business letters. From World
+                    Cat: Account and waste books of Samuel Massey, Philadelphia ship chandler.
+                    Collection consists of: "Book C," account book, 1755-1756, 48 p. ; "Book D,"
+                    account book, 1756, 46 p. ; "Waste Book B between Wight and Samuel Massey,"
+                    1759-1760, 40 p. ; and "Waste Book C commenc'd June 10th, 1760 per Mifflin
+                    &amp; Massey," 1760-1763, 210 p. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1969.120.7 and 1969.120.10</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

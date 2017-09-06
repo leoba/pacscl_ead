@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elisabeth Ball Collection of hornbooks <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elisabeth Ball Collection of hornbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2344</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Elisabeth Woodworth Ball (1897-1982) was the daughter of Frances and George Ball,
+                    of the Ball glass manufacturing family of Muncie, Indiana. A hornbook is a book
+                    that serves as primer for study. The hornbook originated in England in 1450. The
+                    term has been applied to a few different study materials in different fields. In
+                    children's education, in the years before modern education materials were used,
+                    it referred to a leaf or page containing the alphabet, religious materials, and
+                    other information, covered with a sheet of transparent horn and fixed in a frame
+                    with a handle.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of 17th and 18th century hornbooks, primarily in wood, with
+                    several in leather, silver, or ivory. The hornbooks vary from simple forms to
+                    more elaborate frames with carved figures or letters. Some of the hornbooks have
+                    an attached abacus. The collection also includes several 19th and 20th century
+                    examples, including one with Arabic characters.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

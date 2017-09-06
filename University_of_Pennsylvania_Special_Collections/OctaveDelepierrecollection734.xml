@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Octave Delepierre collection <date type="inclusive">1835-1879</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Octave Delepierre collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC734</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="fre"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1835-1879</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Octave Delepierre (1804-1879) was a Belgian historian and diplomat. He
+                    studied law and practiced in Brussels before joining the diplomatic service. In
+                    1849, he was appointed Consul-General of Belgium at London. He published on a
+                    range of subjects, including history, ancient literature, national bibliography,
+                    and archaeology.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts and correspondence of Octave Delepierre.
+                    Materials include: writings on literature, including his "Portefeuille d'un
+                    Bibliophile"; proverbs collected by Delepierre; translations by Delepierre,
+                    including George Varrentrapp's De l'emprisonnement individuel; a bibliography of
+                    works by and works edited by Delepierre; extracts from books and reading notes
+                    made by Delepierre; notes and essays on various subjects; and sketches on
+                    tracing paper. The collection includes a small number of letters; correspondents
+                    include: Ernest van Bruyssel, Felix-Victor Goethals, and M. L. Polain.
+                    Manuscripts are in French, English, and Latin.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 254</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

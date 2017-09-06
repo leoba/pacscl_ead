@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academic Affairs records <date type="inclusive">1938-2006</date>
+                        <date type="bulk"> 1960s-1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academic Affairs records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2431</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14.91 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-2006</unitdate>
+                <unitdate type="bulk"> 1960s-1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The educational work of Villanova University is under the direction of the Vice
+                    President for Academic Affairs. The various undergraduate colleges of the
+                    University--Liberal Arts and Sciences, Engineering, Business, and Nursing--as
+                    well as the Division of Part-Time and Continuing Studies and Falvey Memorial
+                    Library--are supervised by the deans and directors who report directly to the
+                    Vice President for Academic Affairs. The Office of Research and Sponsored
+                    Projects (ORSP) serves and assists research investigators in seeking the
+                    necessary resources and in managing their use in accordance with the objectives
+                    of the University and of external sponsors.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of Villanova's Vice President for Academic
+                    Affairs and the Office of Research and Special Projects. The records consist of
+                    administrative files, correspondence, minutes, legal records, and reports.
+                    Administrative records include Board of Trustees Academic Affairs Committee and
+                    Faculty Affairs Committee records (1975-1987); policies on salaries, rank and
+                    tenure, sabbaticals, faculty dismissal and suspension, and evaluations; grant
+                    manuals; and policy manuals for research on human subjects. Correspondence
+                    (1947-2002) covers a range of topics related to academic affairs, such as tenure
+                    and rank matters, programs and departments, appointments and hiring searches.
+                    Legal records include an Asbestos Materials Survey, information on the
+                    Cooperative Education Program, and information on a patent for a Hepatitis test
+                    (1971). Minutes are present for the Board of Trustees Academic Affairs Committee
+                    (1980-1989); the Rank and Tenure Committee (1968-1984); the University Senate
+                    (Rank and Tenure and Faculty Affairs Committees) (1976-1988); the Faculty
+                    Affairs Committee (1963-1974); the College of Commerce and Finance (1990-1995);
+                    and several other committees. Reports make up the largest portion of this
+                    collection, and include tenure and promotion reports for individual faculty
+                    members; reports of the Rank and Tenure Committee; annual reports of the ORSP
+                    (1949-1951 and 1983-1992); and reports from several other University departments
+                    and committees.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Villanova University--Faculty</corpname>
+                <corpname encodinganalog="610">Villanova University. Board of Trustees.</corpname>
+                <subject encodinganalog="650">Universities and colleges--Administration.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

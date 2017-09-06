@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Michael Mally photograph collection <date type="inclusive">1986-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Michael Mally photograph collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC558</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1986-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Michael Mally was a staff photographer at the Philadelphia Inquirer. He had
+                    previously worked at the Los Angeles Times, and his photographs have appeared in
+                    Reader's Digest, Forbes, and numerous other publications. He followed the Navy
+                    Yard story since his arrival in Philadelphia and his photographs were used to
+                    illustrate Steve Twomey's 1986 Pulitzer Prize winning account in the Inquirer of
+                    aircraft carriers at the Yard.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The photographs document the final decades of the Yard and its workers.
+                    Twenty-six photographic prints by Michael Mally of the Philadelphia Naval
+                    Shipyard, shipyard workers, vessels, foundry, and machinery at the Philadelphia
+                    Naval Shipyard (1986-1994). Vessels include USS Constellation, USS Inchon, USS
+                    Kennedy, USS Garcia, USS Independence, and USS Biddle. Also includes 20 slides
+                    of workers and foundry. The photos were used in the "Shipyard Workers Day"
+                    exhibit at the Independence Seaport Museum.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Naval Shipyard (Philadelphia,
+                    Pa.)</corpname>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1995.89</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Andrew Watson papers <date type="inclusive">1868-1898</date>
+                        <date type="bulk"> 1880-1898</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Andrew Watson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1062</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1868-1898</unitdate>
+                <unitdate type="bulk"> 1880-1898</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Andrew Watson (1834-1916) emigrated with his parents from Scotland to Waukesha,
+                    Wisconsin. He was later educated at both Princeton and Pittsburgh Theological
+                    Seminaries and also attended Jefferson Medical College, Philadelphia, for some
+                    medical courses. After his ordination in 1861, Andrew Watson applied and was
+                    appointed to the UPCNA's Egypt Mission. He served in Alexandria and later
+                    Mansurah for the first few years and then was sent to Cairo, where he spent the
+                    bulk of his career. During his years of service in Cairo Andrew Watson was
+                    professor and later head of the Mission Theological Seminary in Egypt. He also
+                    was the Moderator at the General Assembly Meeting in Baltimore in 1890 and in
+                    1897 he published "History of the American Mission in Egypt." He was involved
+                    in reorganizing the civil and political status and relations of the native
+                    Protestant communities in Egypt which led the Sultan of Turkey to officially
+                    recognize their legal rights. In 1900 he headed a committee to pioneer the
+                    establishment of an American Mission in Sudan and in 1910 he was a delegate to
+                    the World Mission Conference at Edinburgh. Andrew Watson died in the field in
+                    1916 and was survived by his wife, Margaret McVicker Watson, and his sons,
+                    Charles and Frederick.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of nineteen diaries of Andrew Watson, 1880-1898, kept during
+                    his time at the American Mission in Cairo, Egypt. Diary entries give brief
+                    accounts of daily activities; the 1882 volume provides slightly more detail of
+                    daily activities, lessons given, bible and other readings, visitors, and brief
+                    descriptions of local events, including movements of English troops. Some of the
+                    diaries also include accounts, bible class rolls, and lists of sermons preached.
+                    The collection also includes a visa document for S. C. Ewing dated 1868.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 93 0208d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Andrew Watson papers (RG 210).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

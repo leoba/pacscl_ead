@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chester G. Fuson collection <date type="inclusive">1909-1963</date>
+                        <date type="bulk"> 1909</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chester G. Fuson collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC416</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1909-1963</unitdate>
+                <unitdate type="bulk"> 1909</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Chester Garfield Fuson (1881-1965) was born in Wakeeney, Kansas. He graduated
+                    from college with a degree in education. He married Phebe Meeker in December
+                    1909. Prior to getting married, Fuson taught education and geography at the
+                    Canton Christian College in Canton, China, and assisted Don Sowers, a scientist
+                    who conducted a magnetic survey across Asia. After their marriage, the Fusons
+                    returned to China, and Chester returned to his position at Canton Christian
+                    College. The Fusons became teaching missionaries in 1917 under the Presbyterian
+                    Board of Foreign Missions, and continued their work until 1949. They had three
+                    sons, Ben, Nelson, and William.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The bulk of the collection pertains to Fuson's participation in the magnetic
+                    survey across Asia. Materials include: an original and copy of Fuson's diary of
+                    a nine month trip from Peking to Bombay in 1909 and other documentation related
+                    to the trip; several reports prepared for possible publication, including "The
+                    Old Asian Trail," "Through Chinese Turkestan," and "The Five Great Passes of
+                    the Karakorum Route"; the annual report of the Department of Terrestrial
+                    Magnetism of the Carnegie Institution of Washington from 1909 which includes a
+                    report of the trip; magazine articles from the 1940s and 1960s on Central Asia;
+                    photographs taken by Fuson on the trip; a book and reprints of articles by
+                    Chester Fuson; and an oversize map of China.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 187</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ellen Forman papers on the South Street Dance Company <date type="inclusive">1972-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ellen Forman papers on the South Street Dance
+                    Company</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2236</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>20.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1972-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ellen Forman (1945-1990) was a pioneer of modern dance in Philadelphia. Forman
+                    co-founded and directed the South Street Dance Company from 1974 until 1990. She
+                    was well known for her reconstruction and performance of the dances of Isadora
+                    Duncan, as well as her own choreography. She produced and performed in a series
+                    of five annual concerts from 1985-1990 entitled “Body/Language” which showcased
+                    innovative artists’ work which connected movement and text.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection documents the South Street Dance Company and Forman's involvement
+                    with it. Records include: business records, including board of director meeting
+                    minutes, financial and development records, payroll records, grant award
+                    letters, contracts, and mailing lists; records related to specific programs,
+                    including "Dance By the Sea," "Your Spirit at the Window, a Solo Tribute to
+                    Isadora Duncan", and records of the company's performances with young
+                    audiences; press releases, programs, flyers, posters, clippings,and reviews;
+                    correspondence, including thank you notes from school children, letters from
+                    subscribers, journalists, and staff of other arts organizations; photographs,
+                    slides, video and audio recordings, props and costumes and a mannequin.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

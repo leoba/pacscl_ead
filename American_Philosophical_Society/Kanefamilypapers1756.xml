@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kane family papers <date type="inclusive">1831-1950</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kane family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1756</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>18 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1831-1950</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Francis Fisher Kane (1866-1955) and his sister Eliza Middleton Kane Cope
+                    (1863-1952) were the children of Robert Patterson Kane (1827-1906) and Elizabeth
+                    Francis Fisher (1840-1919). Robert Kane was the brother of the well-known Arctic
+                    explorer Elisha K. Kane (1820-1857) and the son of John Kintzing Kane
+                    (1795-1858), a prominent Philadelphia lawyer and Judge of the District Court of
+                    the United States for the Eastern District of Pennsylvania. Like his
+                    grandfather, Francis F. Kane was a lawyer and served as an Attorney for the
+                    District Court of the United States for the Eastern District of Pennsylvania
+                    (1913-1920). Eliza's husband Walter Cope (1860-1902) was a principal of the
+                    architectural firm Cope and Stewardson and a founding member of the of the
+                    T-Square Club.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to several Kane family members. Eliza
+                    Middleton Kane Cope (Mrs. Walter Cope) materials include: correspondence with
+                    family and friends, including her husband and her children Elizabeth, Thomas,
+                    and Oliver; a small number of manuscript and typescript form letters related to
+                    the Women's International League for Peace and Freedom and the Committee for
+                    Total Disarmament; a herbarium; and photographs. The Walter Cope materials
+                    include correspondence, mostly personal, and receipts for travel to Europe in
+                    the 1880s. Materials related to Francis Fisher Kane include: genealogical
+                    records of the Kane, Middleton, Foulke, and Fisher families; personal letters
+                    from family and friends, including letters from Elisha K. Kane on prohibition
+                    (1918) and other political matters; incoming and outgoing business letters
+                    related to his private law practice and associations with which he was involved,
+                    including the Philadelphia Bar Association and the Pennsylvania State Negro
+                    Council; incoming and outgoing letters from his time as U.S. District Attorney
+                    for Eastern Pennsylvania (such as letters of recommendation and announcements of
+                    postings); estate documents; printed court transcripts; clippings; composition
+                    books; and photographs. Items in the collection documenting John K. Kane
+                    include: claims, affidavits, summonses and receipts; printed pamphlets,
+                    addresses, and legal opinions including "An Appeal on Behalf of Idiots" and
+                    "Passmore Williamson vs. John K. Kane"; typescript memoir by John K. Kane,
+                    entitled "Myself from 1795 to 1849" by Myself; and a small number of photos.
+                    The collection also contains a scrapbook kept by Mrs. A.K. Audi, including music
+                    programs, invitations, and clippings (1915-1922).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American
+                    Philosophical Society: Elisha Kent Kane papers, Francis Fisher Kane papers, John
+                    Kintzing Kane papers, Robert Patterson Kane papers, and Thomas Leiper Kane
+                    papers; Historical Society of Pennsylvania: John Kintzing Kane papers and
+                    Florence Bayard Kane papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

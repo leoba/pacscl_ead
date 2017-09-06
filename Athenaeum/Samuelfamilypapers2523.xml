@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel family papers <date type="inclusive">1830-1962</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2523</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.54 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1830-1962</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Samuels were a noted Jewish family in Philadelphia. David Samuel (1804-1881)
+                    and Esther (Hetty) Moss Samuel (1808-1867), were the parents of John Samuel
+                    (1829-1913) and Joseph Bunford Samuel (1853-1929). John Samuel was a prominent
+                    attorney and member of Congregation Mikveh Israel. His son, John D. Samuel (b.
+                    1869) was married to Maria Amilla Robb (b. 1869). Their daughter Lois Samuel (b.
+                    1902) donated the family's papers to the Athenaeum. Maria's parents were Maria A
+                    Burnett (1835-1903) and James M. Robb (1823-1899). William Moss (1831-1895) was
+                    a cousin of John Samuel. Members of the Levy family include Hayman Levy
+                    (1795-1865) and his wife, Almeria DeLeon Levy (1798-1882) and their children
+                    Rebecca Hendricks Levy Samuel (1832-1915), Julian Levy (c. 1834-1862), and
+                    Solomon B. Levy (1823-1865).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Samuel family of Philadelphia. There are
+                    also some papers of the Levy and Robb families. John Samuel materials include:
+                    letters; newspaper obituaries and memorials; published writings; and disbound
+                    scrapbooks assembled by Samuel. Scrapbooks include correspondence, published
+                    writings, Civil War and antebellum memorabilia, and newspaper clippings of
+                    letters to the editor from John Samuel about the inequality of the races and
+                    arguments for legal disenfranchisement of African-Americans. John D. and Millie
+                    Samuel materials include: correspondence; memorabilia; poetry; school papers;
+                    papers on Maria's family background (the Robbs); tintypes of Millie and her
+                    brother Harry; and a tintype of the Robb family. Other Millie materials include
+                    letters and newspaper clippings related to her political activities as a member
+                    of the Women's Democratic Committee and as appointee to a vacant Magistrate's
+                    seat by Governor Sproul in the early 1920s. Joseph Bunford Samuel materials
+                    include genealogical research and papers related to the publication of Records
+                    of the Samuel Family, and documentation related to his acquisition of the statue
+                    of Thorfinn Karlsefni in Fairmount Park. David and Esther Samuel materials
+                    include wills, stock certificates, cemetery records, and trust papers. Levy
+                    family materials include: wills and legal documents; family letters; letters
+                    from Julian and Solomon Levy written during their service in the Civil War; and
+                    life insurance certificates and receipts for slaves owned by the Levy family.
+                </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Donated by Lois Samuel, 1968</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

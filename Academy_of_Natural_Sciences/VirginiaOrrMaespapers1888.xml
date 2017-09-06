@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Virginia Orr Maes papers <date type="inclusive">1950-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Virginia Orr Maes papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1888</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Virginia Orr Maes (1920-1986) was a marine malacologist who worked at the Academy
+                    of Natural Sciences of Philadelphia. She attended Wellesley College from 1938 to
+                    1940. Her interest in malacology was sparked by a course in the subject given in
+                    the 1950s by John Dyas Parker, who was an assistant to Henry Pilsbry. Maes
+                    volunteered at the Academy and later became a Scientific Assistant in the
+                    Department of Mollusks (later called the Department of Malacology). She worked
+                    with Pilsbry, then with R. Tucker Abbott. Upon her marriage to Robert Maes, she
+                    gave up her salary and became a research associate. In 1970, she was appointed
+                    Research Fellow, the position she held until her death in 1986. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Virginia Orr Maes. Materials in the
+                    collection include: incoming and outgoing correspondence; species notebooks
+                    which include bibliographic references, often with photographs, illustrations
+                    and extracts from the citation pasted in; notes, sketches and photographs of
+                    specimens; notes, tables of dimensions and ratios, illustrations, and
+                    manuscripts of articles (1959-1965) often accompanied by a printed version;
+                    computer printout of Maes specimens in the collections of the Academy of Natural
+                    Sciences; figures, plates, negatives, and a reprint of Littoral Marine Mollusks
+                    of Cocos-Keeling Islands (1967) and a species location file for specimens she
+                    collected in the Cocos; and photos and journals from a 1950-1951 trip to Africa.
+                    The collection also includes obituaries of Maes, letters of condolence to her
+                    husband, correspondence related to the Virginia Orr Maes Memorial Fund; and
+                    several personal photos. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kir G. Karouna collection of paint and resin industry literature
+                            <date type="inclusive">1950-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kir G. Karouna collection of paint and resin industry
+                    literature</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1279</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Kir G. Karouna was the founder of an organization called E.A.O. New York
+                    (Electric Age of New York). He was a member of the Société de Chimie
+                    Industrielle (American Section).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a large number of handbooks and product specification
+                    brochures from chemical and chemical apparatus manufacturing companies assembled
+                    by Kir Karouna. Many of the industry documents are from companies that sell
+                    paints and resins, although some other sectors are represented as well. The
+                    collection contains a few clippings from newspapers and magazines on diverse
+                    topics related to the paint and resin industries. There are several folders of
+                    materials from meetings of the Société de Chemie Industrielle. These documents
+                    consist largely of lists of speakers and photocopies and listings of attendees
+                    of the conferences.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Kir G. Karouna</p>
+                <p>Year acquired: 2000?</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

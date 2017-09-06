@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ann Elizabeth Taylor papers <date type="inclusive">1942-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ann Elizabeth Taylor papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC961</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1942-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ann Elizabeth Taylor (1884-1972) was the Secretary of Missionary Support and
+                    Women's Work for the Board of National Missions. Taylor graduated from
+                    Macalester College in 1910 and was a trustee of the college (possibly the first
+                    woman to serve in this position). She was an active member of the Madison Avenue
+                    Church while she lived in New York City. When she retired she moved to Austin,
+                    Texas.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a scrapbook of the National Council of Women's
+                    Organizations of the Presbyterian Church (PCUSA), Inez (Mrs. Paul) Moser, Chair.
+                    The scrapbook contains photographs, printed materials, postcards, several
+                    reports, form correspondence and handouts, some ribbons and buttons, and
+                    newspaper clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Terry, Florence E.</p>
+                <p>Accession number: 89 0425a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

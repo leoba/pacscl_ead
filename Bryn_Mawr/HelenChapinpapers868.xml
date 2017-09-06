@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Helen Chapin papers <date type="inclusive">1915-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Helen Chapin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC868</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1915-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Helen Burwell Chapin (1892-1950) attended Bryn Mawr College, graduating in 1915.
+                    She was an expert in Asian art. Her interest in Chinese art began when she
+                    worked in the Oriental Department of the Boston Museum of Fine Arts from 1917 to
+                    1924 and again from 1928 to 1929. She learned Chinese and began to travel to
+                    China, working for a time for the American Consulate in Shanghai. She also
+                    studied at the Tokyo Imperial Museum and the Toyo Bunko Library and studied
+                    Buddhist relics and temples in Korea. She received her master's degree from
+                    Mills College in 1935 and her Ph.D. from the University of California in 1940.
+                    During the Second World War, she worked as a Research Analyst for the Department
+                    of Justice. From 1946 to 1948 she was the Asiatic Arts and Monument Specialist
+                    with the Department of the Army stationed in Korea.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Helen Chapin. Materials include:
+                    correspondence with Ananda K. Coomaraswamy and his wife about Asian art and
+                    Chapin's career during the 1940s; photographs of Korean and Japanese temples,
+                    artworks, street scenes, landscapes, and people; notes on the architecture of
+                    various Buddhist sites in Korea; and notes on Asian art and on Chapin's own
+                    collection of art and books.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 75-3; 76-2</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

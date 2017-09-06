@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ernest Edwin Logan papers <date type="inclusive">1927-1973</date>
+                        <date type="bulk"> 1970-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ernest Edwin Logan papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC867</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1973</unitdate>
+                <unitdate type="bulk"> 1970-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ernest Edwin Logan is a Presbyterian minister. He received his BD in theology
+                    from New College, Edinburgh, and a Master's of Education from the University of
+                    Pittsburgh. In the 1970s he was an associate pastor of First Presbyterian Church
+                    of Pittsburgh. He is the author of two histories of First Church, entitled The
+                    Church that Was Twice Born: A History of the First Presbyterian Church of
+                    Pittsburgh, Pennsylvania, 1773-1973 and The Church that Kept on Being Born
+                    Again.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of reference material for Logan's book The Church that
+                    was Twice Born. Materials are primarily photocopies of diaries, book chapters,
+                    newspaper clippings, magazine articles, and other printed materials, annotated
+                    with Logan's notes. There are a few original newspaper and magazine
+                    clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 75 0822</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William W. Lancaster papers <date type="inclusive">1942-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William W. Lancaster papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC727</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1942-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Woart Lancaster (b. 1874) was a partner in the law firm Shearman,
+                    Sterling &amp; Wright. He was Chairman of the Board of Directors of the Foreign
+                    Policy Association. He also served as Vice-Chairman of the Board of Directors of
+                    the American-Russian Institute and the Secretary of the American Society for
+                    Russian Relief, Inc.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, memos, and "day notes" of William
+                    Lancaster. "Day notes" include Lancaster's daily schedules and typed summaries
+                    of selected activities. Correspondence relates to Lancaster's business
+                    activities in international trade, as well as his interest in the political
+                    relations between the U.S.S.R. and the United States, and, more broadly, between
+                    the U.S.S.R. and the West. The collection includes reports on the efforts of the
+                    American Friends Service Committee to improve relations between the U.S. and the
+                    U.S.S.R. Many of the letters in the collection reveal Lancaster's role as a
+                    liaison between American Friends Service Committee members and various political
+                    figures. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Friends Service Committee.</corpname>
+                <subject encodinganalog="650">Society of Friends and world politics.</subject>
+                <geogname encodinganalog="651">Soviet Union--Relations.</geogname>
+                <genreform encodinganalog="655">Correspondence</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2435</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

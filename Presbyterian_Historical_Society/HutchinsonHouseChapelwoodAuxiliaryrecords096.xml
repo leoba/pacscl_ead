@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hutchinson House/Chapelwood Auxiliary records <date type="inclusive">1985-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hutchinson House/Chapelwood Auxiliary records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC096</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1985-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Hutchinson House/Chapelwood Auxiliary was organized to support the work of a
+                    nursing and rehabilitation institution in Devon, Pennsylvania, run by
+                    Presbyterian Homes, Inc. In the mid-1980s, the institution was known as the
+                    Eliza Cathcart Home. Around 1987, the name was changed to Cathcart Health
+                    Center. In 1999, the auxiliary changed its name to Hutchinson House/Chapelwood
+                    Auxiliary to reflect its work on behalf of the larger organization of which
+                    Cathcart had been a part. The auxiliary held its last meeting in April 2002.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Hutchinson House/Chapelwood Auxiliary. The
+                    collection dates from 1985 to 2002, and includes meeting agendas, minutes, and
+                    correspondence; newsletters; membership lists; the Auxiliary's constitution and
+                    by-laws; newspaper clippings about the Cathcart Home; flyers and invitations for
+                    events; materials documenting the 100th anniversary of the Cathcart Home in
+                    1992; and photographs from a 2001 bazaar.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Fulton, Lois W.</p>
+                <p>Accession number: 03 0113</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>B. Hoff Knight papers <date type="inclusive">1855-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">B. Hoff Knight papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2164</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>B. Hoff Knight was a professional genealogist. He was also a traffic expert and
+                    the former manager of the Port of Philadelphia Ocean Traffic Bureau.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists mainly of client files and research materials on various
+                    family names. Research materials include printed materials, family charts,
+                    extracts from books and records (in the New Jersey Archives, Dutch New York
+                    records and other sources), notes, clippings, and correspondence to and from
+                    Knight regarding the research. There are also transcriptions from and notes
+                    related to English parish registers for 16th through 18th centuries and a short
+                    family history titled History of the Knight Family of Byberry, PA from 1855. A
+                    small amount of material related to Knight's professional career includes two
+                    issues of The Binnacle (a publication of the Philadelphia Engineers District),
+                    copies of maps of the Delaware River and a plan of Fort Mifflin, photocopies of
+                    newspaper articles, correspondence related to the Prince Plan for railroad
+                    consolidation, 1933, and a brief in opposition to ratification of Great
+                    Lakes-St. Lawrence Deep Waterway Treaty, 1932. There are also some Singer sewing
+                    machine advertisements depicting various Philadelphia landmarks and some
+                    photographs and postcards, mostly depicting Philadelphia and New Jersey
+                    landmarks and historical figures.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

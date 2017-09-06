@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia Civil War collection <date type="inclusive">1861-1902</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia Civil War
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2324</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1861-1902</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. In 1962 the Union
+                    League decided it would form a collection of Civil War materials and published
+                    its intention. At least one acquisition was made as a result of this effort.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series has been arranged into three subseries: Union League Military, Other
+                    Military, and Ephemera. Union League Military materials include: Col. Harmanus
+                    papers related to the 196th Regiment Pennsylvania, 5th Union League, including
+                    letters, ordnance receipts, reports and muster rolls; Lt. Col. Jacob M. Davis
+                    papers related to the 213th Regiment Pennsylvania, 7th Union League, including
+                    special and general orders, correspondence relating primarily to furlough
+                    requests, Company returns and tri-monthly reports, and Court Martial case
+                    reports including charges (mostly Absent Without Leave), specifications,
+                    findings, and sentences, as well as Reports of the Guard; an Adjutant General's
+                    Office Clothing Book for the 183rd Regiment Pennsylvania, 4th Union League, Cos.
+                    A, B, C, D; and miscellaneous muster rolls and bounties for 1st, 2nd, and 3rd
+                    Union League Regiments. Other Civil War papers include: soldier's letters to
+                    Hannah Eliza Delp from cousins and friends; David S. Hall Morgan letters; John
+                    Martin Steffan letters; Robert M. Green record books, clippings, transcripts and
+                    other material relating to the history of the 124th Pennsylvania Regiment, with
+                    invitations, programs, George Gordon Meade Post GAR, 1862-1911; William Thomas
+                    Jones letters; record book of relief work for Civil War Veterans and their
+                    families; and miscellaneous discharges, letters, and a scrapbook.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

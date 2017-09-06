@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Benners family papers <date type="inclusive">1791-1815</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Benners family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC534</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1791-1815</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p> Master's logbook for the ship Dispatch (from Philadelphia to Canton)
+                    (1804-1806); logbook for the ship Dispatch (from Philadelphia to Amsterdam)
+                    (1806-1807); logbook for the Susquehanna (from Philadelphia to Liverpool)
+                    (1810-1811); Personal logbook of Jacob Benners aboard the ship Susquehanna
+                    (Philadelphia to Canton) (1809-1810) and the ship Margaret (1815) (from New York
+                    to St. Petersburg, Russia); a reminiscence and journal of a voyage as supercargo
+                    aboard the ship London Trader, 1807-1812; journals of voyages on the brig
+                    Saunders, the ship Rebecca Sims, the ship Mary, the ship Phillip; and an 1830
+                    synopsis of voyages and thoughts on cargoes. Other materials in the collection
+                    include: an account book for the schooner Young Mechanick, 1824 with personal
+                    accounts of John G. Bagge; bill of lading for the ship Dispatch, 1799; letters
+                    to Margaret Benners (his wife) from Jacob Benners, one in fragments, [1791 and
+                    n.d.]; a letter to Jacob Benners from William Barber, 1811; and a treasurer's
+                    book kept by James Benners for the Association of the Soldiers and Defenders of
+                    the War of 1812 (1858-1866), 12 pages. : </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1994.100; 82.30</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

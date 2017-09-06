@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia political activities records <date type="inclusive">1864-2008</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia political activities
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2322</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1864-2008</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. The Union League's
+                    political activities centered primarily around presidential campaigns,
+                    supporting Republican candidates, although there were occasions when the League
+                    became involved in gubernatorial and mayoral campaigns, as well as other
+                    national and local issues. During the world wars, the League raised funds in
+                    support of the war effort. From time to time committees were appointed such as
+                    the Committee on National Activities, 1918; Committees on Public Affairs, 1945;
+                    Committee for Patriotic Action, 1961; and Political Activities Committee, 1962.
+                    In 1893 an attempt to amend the By-Laws to make Republican Party affiliation a
+                    condition of membership in the League failed, but by resolution all candidate
+                    applications required Republican Party voting. In 1975 this stipulation was
+                    removed from the application.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series is arranged into four subseries: Presidential Campaigns; United States
+                    Presidents; State, Local, General Political Activity; and War Activities. The
+                    Presidential Campaigns subseries includes printed materials, solicitations,
+                    contributor records, and occasional correspondence related to the League's
+                    efforts on behalf of Republican presidential candidates. The most extensive
+                    files are for the 1960 presidential campaign. The United States Presidents
+                    subseries includes printed materials related to celebrations of presidential
+                    birthdays and occasional presidential visits. There is some correspondence to
+                    and from various Republican presidential candidates/presidents, but most is of a
+                    routine nature. The subseries also includes a resolution book related to the
+                    death of President James Garfield. The General Political Activity subseries
+                    contains general files related to political campaigns or specific candidates.
+                    Committees include the Republican Finance Committee of Pennsylvania, Committee
+                    for Patriotic Action, Political Activities Committee and The Ladies Fund Raising
+                    Committee. A great deal of the content of the files is comprised of encouraging
+                    members to vote, and fundraising letters in support of the Republican Party.
+                    There are some campaign artifacts for the Shafer/Broderick ticket. The War
+                    Activities subseries documents League activities during World War I and World
+                    War II. There also a file related to the Spanish-American War which includes
+                    bulletins documenting specific war activity.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

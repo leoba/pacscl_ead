@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. Claghorn business papers <date type="inclusive">1784-1884</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. Claghorn business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC443</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1784-1884</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John W. Claghorn was a merchant and auctioneer in Boston, Massachusetts, and
+                    Philadelphia, Pennsylvania. He was associated with the Boston firm of William
+                    Prentiss &amp; Son, circa 1814; and with the Philadelphia firms of Jennings,
+                    Thomas Grill &amp; Co.; Jennings and Thomas (all before 1835); and Myers and
+                    Claghorn, 1836-1840. His wife was Elizabeth Crumby of Boston. John Reed and
+                    Standish Forde were Philadelphia merchants. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business records, largely from the firm of Reed and
+                    Forde. Materials include: account books (1789-1808); daybooks (1793-1803); sales
+                    books (1784-1805); marine insurance policies issued to Reed and Forde; two Reed
+                    and Forde letterbooks, 1791-1793, 1795-1796: an "Outfits" volume, recording
+                    financial records of voyages financed by the firm (1786-1806); evidence book
+                    related to claims against the Spanish and French, 1790s; and an extract from the
+                    minutes of the Insurance Co. of North America regarding election of officers,
+                    1822. The collection also includes correspondence to James L. Claghorn
+                    (1817-1884), related to paintings, prints, and engravings. One letter from
+                    Thomas Crumby discusses the sale of a portrait of Washington by Stuart.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1972.45</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Independence Seaport
+                    Museum: Henry W. Peterson collection of Reed and Forde manuscripts; Independence
+                    Seaport Museum: Reed and Forde records; Historical Society of Pennsylvania: Reed
+                    and Forde papers, 1759-1823 (PHi)541</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

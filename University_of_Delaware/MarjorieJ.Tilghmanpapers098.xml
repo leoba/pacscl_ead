@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marjorie J. Tilghman papers <date type="inclusive">1928-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marjorie J. Tilghman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC098</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1928-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marjorie J. Tilghman graduated from the University of Delaware in 1928, and went
+                    on to do graduate work at the University of Pennsylvania in 1929-1930. She
+                    taught at Ridley Park and later was a member of the faculty and chairman of the
+                    history department of the Tatnall School in Wilmington, Delaware. She was
+                    married to Francis H. Squire, a University of Delaware professor of history and
+                    a dean of the College of Arts and Science. After his death in 1956, Tilghman
+                    married Cornelius A. Tilghman, a graduate of the University of Delaware and the
+                    University's first Rhodes Scholar.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Marjorie J. Tilghman papers consist of material dating from 1928 to 1994. The
+                    collection consists of a variety of materials relating to Ms. Tilghman and her
+                    late husbands, including manuscripts, notebooks, correspondence, clippings,
+                    research files, certificates, photographs, programs, speeches, lecture notes,
+                    essays, articles, books, and maps.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 03-04; 00-48; 97-33c</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/tilghman.htm">http://www.lib.udel.edu/ud/spec/findaids/tilghman.htm</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Everett C. &amp; Louise Staton Johnson papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

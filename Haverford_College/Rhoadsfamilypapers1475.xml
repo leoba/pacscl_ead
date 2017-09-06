@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rhoads family papers <date type="inclusive">1826-1963</date>
+                        <date type="bulk"> 1826-1930</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rhoads family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC1475</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1826-1963</unitdate>
+                <unitdate type="bulk"> 1826-1930</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Rhoads (1806-1868) was a publisher and editor of the Friends Review
+                    (1853-1867). His wife was Anne Gibbons. Their son, Edward Rhoads (1841-1871),
+                    was an 1859 graduate of Haverford College and received his M.D. from the
+                    University of Pennsylvania in 1863. He worked at Philadelphia Hospital. He was a
+                    conscientious objector during the Civil War. One of their other sons was William
+                    Gibbons Rhoads (1838-1880), who attended Haverford from 1854 to 1858. He was a
+                    machinist and plumber in Philadelphia. He was a Manager of Haverford College
+                    from 1871 to 1880. His wife was Sarah Wistar. Their son, Samuel Rhoads, Jr. (b.
+                    1878), received his bachelor's degree from Haverford in 1898 and his M.D. from
+                    the University of Pennsylvania in 1901. He worked as a physician in
+                    Philadelphia. Their daughter was Lydia W. Rhoads.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Rhoads family papers. Materials include: correspondence
+                    from Samuel Rhoads to his parents and friends while in England in 1834; letters
+                    between Samuel Rhoads and Anne Gibbons; letters to Anne Gibbons Rhoads; letters
+                    to Samuel Rhoads from friends concerning the Friends Review and issues related
+                    to meetings; letters from Edward Rhoads to his parents from his 1865-1866 trip
+                    to Europe and letters to him from family and friends; letters to Lydia W. Rhoads
+                    during her 1907 trip to England; correspondence between Sophia R. Wing and Jane
+                    Gibbons and letters to Sophia from Asa Wing. The collection also contains
+                    photographs, news clippings, copies of the Friends Review (including obituaries
+                    of Anne G. Rhoads, William G. Rhoads, and Jane Rhoads), diaries, receipts, a
+                    dues list of the Free Produce Association of Friends of Philadelphia Yearly
+                    Meeting, an account book belonging to Ethel Rhoads Potts, deeds and estate
+                    papers of Samuel Rhoads, and school compositions of William G. and Edward
+                    Rhoads.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Free Produce Association of
+                    Friends.</corpname>
+                <corpname encodinganalog="610">Philadelphia Yearly Meeting of the Religious Society
+                    of Friends.</corpname>
+                <famname encodinganalog="600">Pusey family.</famname>
+                <persname encodinganalog="600">Rhoads, Anne Gibbons.</persname>
+                <persname encodinganalog="600">Rhoads, Edward, 1841-1870.</persname>
+                <persname encodinganalog="600">Rhoads, S. (Samuel)</persname>
+                <famname encodinganalog="600">Rhodes family.</famname>
+                <subject encodinganalog="650">Quakers--Correspondence.</subject>
+                <subject encodinganalog="650">Society of Friends--Periodicals.</subject>
+                <geogname encodinganalog="651">Europe--Description and travel.</geogname>
+                <genreform encodinganalog="655">Cabinet photographs</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Family papers</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

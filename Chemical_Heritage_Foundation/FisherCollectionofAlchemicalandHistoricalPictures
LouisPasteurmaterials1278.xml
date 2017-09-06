@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Fisher Collection of Alchemical and Historical Pictures Louis
+                        Pasteur materials <date type="inclusive">1872-1936</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Fisher Collection of Alchemical and Historical Pictures
+                    Louis Pasteur materials</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1278</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent> linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1872-1936</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Chester Garfield Fisher founded Fisher Scientific in 1900 at the age of 20. C. G.
+                    Fisher was first drawn to alchemical artworks because they included beautifully
+                    rendered depictions of laboratory apparatuses. He began acquiring alchemical
+                    paintings in the 1920s and continued to collect alchemical artworks throughout
+                    his lifetime. In the 1920s Fisher began collecting paintings and artifacts that
+                    depict the history of chemistry. Fisher was fascinated by the work of Louis
+                    Pasteur, and he constructed a special Pasteur room, dedicated to the great
+                    French biologist that contained apparatus, instruments, and other original
+                    documents.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains 43 of the images and documents from the Fisher
+                    Collection's Pasteur room, including sketches, framed letters, photographs and
+                    prints.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

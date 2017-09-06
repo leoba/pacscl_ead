@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Burd family papers <date type="inclusive">1757-1932</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Burd family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2512</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1757-1932</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Burd family was a prominent Pennsylvania family active in the social,
+                    economic and political affairs of the state. Col. James Burd (1726-1793) was
+                    born in Scotland and immigrated to the United States, settling in Lancaster
+                    County with his wife Sarah Shippen, a member of the prominent Shippen family of
+                    Lancaster and Shippensburg. Edward Shippen Burd (1779-1848) was the grandson of
+                    James and Sarah Burd. He was a lawyer in Philadelphia, married to Eliza Howard
+                    Simms, daughter of Woodrop and Sarah Sims. Edward Shippen and Eliza Burd's
+                    children included Elizabeth (1815-1845/6), Margaret (1819-1844), and Wooddrop
+                    (1822-1837), all of whom predeceased both of their parents. Edward Shippen Burd
+                    died in 1848; Eliza Burd honored her husband by commissioning the erection of a
+                    monument to him at St. Stephen's Church, and several years later conceived the
+                    idea of establishing a school for fatherless girls. She died in 1860, but her
+                    will provided for the principles and funding of this institution. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Burd family papers. Materials include: letters from
+                    Joseph Shippen to Edward Shippen Burd, 1798-1805; a letter from James Burd to
+                    Edward Shippen, 1757; two volumes containing copies of the will of Edward
+                    Shippen Burd; several deeds, dating from 1813 to 1833. Books belonging to
+                    Margaret C. Burd, Elizabeth Shippen Burd, Eliza Howard (Sims) Burd, Woodropp
+                    Sims Burd, and Sarah Hopkins. These include commonplace books of poetry and
+                    watercolor illustrations; scrapbooks of illustrations; books with addresses of
+                    friends in Paris and Philadelphia; volumes of poetry; a copy book; and a volume
+                    of manuscript sheet music. A box of calling cards of Mme E.S. Burd, Mlle Burd,
+                    and Mlle M.C. Burd. (mother and two daughters). A 1932 newspaper clipping about
+                    Elizabeth Shippen Burd. The collection also includes interior and exterior
+                    photographs of the Burd School at 63rd and Market Street and photographs of a
+                    church. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Edward Shippen Burd papers, 1798-1858, collection # 104.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

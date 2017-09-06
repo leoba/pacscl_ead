@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Women's Committee
+                        records <date type="inclusive">1977-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Women's
+                    Committee records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC303</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Women's Committee of the Academy of Natural Sciences. The purpose of the
+                    committee is to further the aims of the Academy by undertaking projects or
+                    programs which will stimulate public interest and help the activities of the
+                    Academy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents the activities of the Women's Committee of the Academy
+                    of Natural Sciences from 1977 to 2004. Materials include: monthly meeting
+                    minutes 1977-1987 and 1990-1999; budget information and records of donations;
+                    special events planning materials, including schedules, correspondence, and
+                    mailing lists; invitations, brochures and pamphlets; newspaper clippings;
+                    Academy publications, including copies of the Academy News; and annual reports
+                    of the Academy. The collection also includes audio, film (housed with the
+                    Academy's A/V materials), photos, slides, and disks related to various special
+                    events and development initiatives coordinated by the Women's Committee.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 07:05, 07:15</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Women's Committee records (collection 786) and
+                    Development Office records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dorothy M. Spencer papers <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dorothy M. Spencer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC343</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dorothy M. Spencer did field work in India from 1939-1942, 1946-1948, and for
+                    brief periods in 1951 and 1952, supported by the American Philosophical Society,
+                    the American Council of Learned Societies, and the Guggenheim Foundation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists documentation related to Spencer's work in India.
+                    Materials include: manuscript and typed notes such as field notes, notes from
+                    interviews, results of psychological tests (Rorschach), transcriptions of police
+                    reports, and transcriptions of songs and poems; notes on various topics,
+                    including dreams, marriage ceremonies, economics, sacrifices, children's games,
+                    witchcraft, animals, and property; index cards to Spencer's Munda materials;
+                    records of the Government of India Anthropology Survey; an 8mm movie film
+                    labeled "Fiji"; reprints on tribes/Indian anthropology and articles on
+                    interpretation of Rorschach tests; and course materials such as student exams,
+                    papers, bibliographies, a grade sheet, and blank exam sheets.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 119</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

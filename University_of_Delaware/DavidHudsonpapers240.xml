@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David Hudson papers <date type="inclusive">1906-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David Hudson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC240</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1906-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>David Hudson (1917-2003) was Poet Laureate of Delaware from 1956 to 1960 and from
+                    1975 to 1978. He began writing poetry in the 1930s and found a forum for
+                    presenting it through the Wilmington Music and Poetry Society. In the late
+                    1940s, Hudson produced a weekly half hour program of local poetry on radio
+                    station WILM. Hudson published a number of poetry books with works by himself
+                    and others under the imprint of the Wilmington Poetry Society and Delaware
+                    Writers, Inc. A native of Wilmington, Hudson was a passionate advocate for the
+                    city, an was active in neighborhood preservation and beautification projects. He
+                    was a leader in the Baynard Boulevard Neighborhood Association in the city's old
+                    Ninth Ward. Hudson was vocal about expressing his opinions before Wilmington
+                    City Council, doing so with such regularity that he was named the "honorary
+                    14th member" by the group.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of the poet David Hudson. Materials include:
+                    correspondence, postcards, photographs, photocopies of articles and manuscripts,
+                    typescripts, artwork, certificates, notes, and volumes of poetry written by
+                    David Hudson, as well as printed programs and booklets which include his poetry
+                    along with the work of other Delaware poets. The collection also includes papers
+                    related to Hudson's involvement in local civic and cultural activities such as
+                    the Baynard Boulevard Neighborhood Association, the Wilmington City Council, the
+                    Delaware Poetry Center, the Wilmington Poetry Society, and Delaware Writers
+                    Inc.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: David Azartouz</p>
+                <p>Year acquired: 2/23/2007; 3/1/2007; 5/19/2003</p>
+                <p>Accession number: 07-16; 07-56; 03-61</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

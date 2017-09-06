@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John E. Willard papers <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John E. Willard papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC941</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John E. Willard (1908-1996) was a professor of chemistry at the University of
+                    Wisconsin (1937-1979) whose research included radiation chemistry,
+                    photochemistry, the chemical effects of nuclear transformations, and the nature
+                    and reactions of trapped intermediates. Early in his career (1935-1937) he was
+                    an instructor at Haverford College.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These papers illustrate Professor Willard's long association with the American
+                    Chemical Society (ACS) and other national and international scientific bodies,
+                    documenting various meetings, both national and international, in which he
+                    participated or which he helped to organize. One group is concerned with the
+                    organizational meeting of the Section on Nuclear Chemistry of the International
+                    Union of Pure and Applied Chemistry (IUPAC) in New York in 1951; Professor
+                    Willard was the secretary. Willard was also an officer for most of the post-war
+                    period of the Division of Physical and Inorganic Chemistry of the ACS; thus one
+                    group of papers represent records and correspondence of the Division. There are
+                    also summaries of the research of Professor Willard's group at the University of
+                    Wisconsin. [Photographs,] lists of attendees and programs of the Gordon Research
+                    Conference on Nuclear (later Radiation) Chemistry from 1951 constitute another
+                    group.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Chemical Society. </corpname>
+                <corpname encodinganalog="610">American Chemical Society. Division of Physical and
+                    Inorganic Chemistry.</corpname>
+                <corpname encodinganalog="610">Gordon Research Conferences.</corpname>
+                <corpname encodinganalog="610">International Union of Pure and Applied
+                    Chemistry.</corpname>
+                <subject encodinganalog="650">Chemistry--Societies, etc.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J.E.W.</p>
+                <p>Accession number: 86:10</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

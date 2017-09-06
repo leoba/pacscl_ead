@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Read family papers <date type="inclusive">1736-1896</date>
+                        <date type="bulk"> 1792-1896</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Read family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1684</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>86 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1736-1896</unitdate>
+                <unitdate type="bulk"> 1792-1896</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Papers of a family prominent in politics covering three generations. The papers,
+                    1792-1854, of John Read, a lawyer of Philadelphia, President of the Philadelphia
+                    Bank, 1819-1841, (about 5,000 items, unarranged) include incoming
+                    correspondence, legal papers, and miscellaneous items. There are a large number
+                    of papers pertaining to his legal practice; some records of the Philadelphia
+                    Bank, especially suits in which the bank was involved; family correspondence,
+                    including letters, 1804-1807, from his brother, William Read, a merchant of
+                    Philadelphia, regarding the China trade; a letter book, 1850-1854 (1 volume);
+                    bills and receipts, 1792-1845; a receipt book, 1800-1822; account books,
+                    1835-1854 (3 volumes); financial and legal memoranda (9 volumes); and a
+                    scrapbook. The papers, 1815-1874, of John Meredith Read [I], the son of John
+                    Read (about 4,000 items, arranged chronologically) include incoming
+                    correspondence, legal, and miscellaneous papers relating especially to
+                    Pennsylvania and national politics. Read was a prominent figure in the
+                    Democratic Party and, after 1854, the Republican Party. The papers pertain to
+                    his term as Attorney General for eastern Pennsylvania, 1837-1841, and Attorney
+                    General for Pennsylvania, 1846; his unsuccessful nomination to the U. S. Supreme
+                    Court, 1845-1846; his candidacy for the presidency, 1860; and his tenure on the
+                    Pennsylvania Supreme Court, 1858-1873. Political correspondents include James
+                    Buchanan, Henry D. Gilpin, Henry A. P. Muhlenberg, Andrew G. Curtin, and Senator
+                    Henry Wilson (MA). His papers also contain more than 200 detailed Civil War
+                    letters, 1862-1864, by Charles H. T. Collis, an Union officer, written from the
+                    principal theaters of war; family correspondence; Read and related family
+                    letters (2 volumes); letter books, 1846-1852, 1855, 1857-1858 (2 volumes);
+                    account books, 1837-1838, 1840-1841, 1855 (3 volumes); and miscellaneous
+                    financial records. The papers, 1859-1896, of John Meredith Read [II], the son of
+                    John Meredith Read [I], diplomat, and social lion in European capitals, make up
+                    the largest part of the collection. They consist of 77 large folio-size albums
+                    of correspondence and miscellaneous papers, about 4,500 unbound items,
+                    letterpress books, scrapbooks, and miscellaneous volumes. Incoming and outgoing
+                    correspondence relates to legal, political, diplomatic, family, and personal
+                    affairs. Read's activities represented in the collection include: the
+                    organization of the Wide Awake Clubs and other Republican political efforts in
+                    New York state in 1860; letterpress files, Jan.-Aug. 1861 (2 volumes) of
+                    official correspondence as adjutant general in New York; letterpress file,
+                    1868-1873 (12 volumes), as consul general at Paris, including his service as
+                    Prussian Consul in France during the Franco-Prussian War; letterpress file, 1874
+                    (2 volumes), as U. S. minister to Greece, a position he held from 1873 to 1878;
+                    and a letterpress file, 1879-1896, while living as an expatriate in Paris. There
+                    are also about 100 letters, 1877-1896, from King George I of Greece; notebooks,
+                    1879-1896 (15 volumes) of research materials collected for his "Historic
+                    Studies of Vaud. . ." (1897); and a small autograph collection which includes
+                    64 letters, 1736-1776, by Voltaire, 43 of which are to Charles Mancel de
+                    Vegobre. Miscellaneous items include numerous memorandum books; and scrapbooks
+                    (33 volumes) on Read's wide ranging social and research interests. The
+                    scrapbooks are largely filled with memorabilia, but they include a volume of
+                    correspondence regarding the 5,726 Robert Morris letters, 1781-1784, that Read
+                    at one time owned; and a volume of correspondence with Samuel Sartain, engraver,
+                    and the Broadbent Brothers, photographers, of Philadelphia. Read's efforts to
+                    trace the American and British branches of the Read and related families are
+                    documented by 36 volumes of correspondence and records, two of which are devoted
+                    to Thomas, a navy officer during the American Revolution. Related families
+                    represented include Cadwalader, Howell, Marshall, Meredith, Pumpelly, Ross, and
+                    Waterman. In addition, there are some Cadwalader and Meredith papers, including
+                    correspondence, a few Samuel Meredith letters and record books (5 volumes)
+                    1777-1801, and Thomas Meredith account books, 1792-1819 (2 volumes).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bequest of Marguerite de Carron Read.</p>
+                <p>Year acquired: 1940</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

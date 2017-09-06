@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John W. Harshberger papers <date type="inclusive">1894-1924</date>
+                        <date type="bulk"> 1911-1916</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John W. Harshberger papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC421</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1894-1924</unitdate>
+                <unitdate type="bulk"> 1911-1916</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John W. Harshberger (1869-1929) was a Philadelphia botanist, biographer,
+                    historian and professor of botany at the University of Pennsylvania. He received
+                    his Ph.D. from the University of Pennsylvania in 1893, after which he made an
+                    extensive scientific tour of Europe, South America, Mexico, and the United
+                    States, collecting specimens as he went. He was the author of more than a dozen
+                    books and more than 320 papers on botanical subjects. His book Botanists of
+                    Philadelphia and Their Works portrays a history of American botany along with
+                    the biographies.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a set of 12 volumes of Illustrations of North American Vegetation,
+                    companion volumes to a phytographic Survey of North America (Die Vegetation der
+                    Erde); one volume of Illustrations of Foreign Vegetation; and an
+                    extra-illustration volume of Vegetation of South Florida (Transactions, Wagner
+                    Free Institute of Science, vol VII pt.3, Oct 1914). The volumes illustrate the
+                    vegetation and geology of various regions of the United States, Mexico, and the
+                    Caribbean, with a small selection of images of vegetation from around the world.
+                    Pasted into the volumes are photographs, postcards, images clipped from
+                    journals, pamphlets, and magazines, letters, and maps. Photographers whose
+                    images are used in the volumes include Harshberger, Henry Troth, and William
+                    Rau. The collection also includes a copy of Harshberger's The Vegetation of the
+                    New Jersey Pine Barrens, 1916, inscribed by the author.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 19:80</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Harshberger correspondence (collection 444);
+                    University of Pennsylvania: John William Harshberger, papers (1886 - 1929)
+                    (collection # UPT 50 H313).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

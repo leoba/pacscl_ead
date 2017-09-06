@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Heinz Heinemann papers <date type="inclusive">1954-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Heinz Heinemann papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC199</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Heinz Heinemann (d. 2005) was a lecturer at the College of Chemistry at the
+                    University of California, Berkeley and a chemistry researcher at Lawrence
+                    Berkeley National Laboratory. Following World War II, as manager of catalysis
+                    research for the Mobil Research and Development Co., he developed the process
+                    for converting methanol into gasoline. Heinemann contributed to the invention
+                    and development of 14 commercial fossil fuel processes, received 75 patents and
+                    was the author of more than a hundred publications. He was a long-time member of
+                    the International Congress on Catalysis, and from 2001 to 2004, he served as a
+                    manager of the Washington Chemical Society (a section of the American Chemical
+                    Society) and as president of its Retired Chemists Group.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of Heinz Heinemann. Materials include:
+                    drafts and reprints of articles; conference-related documents, such as minutes,
+                    agendas, bills and receipts; a binder of Heinemann's patents; legal documents
+                    from a lawsuit between Mobil and W.R. Grace Co.; bylaws and other documents from
+                    the International Congress on Catalysis; articles relating to catalysis,
+                    houdriforming, and other petroleum refining processes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Barbara Heinemann</p>
+                <p>Accession number: 06:071</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

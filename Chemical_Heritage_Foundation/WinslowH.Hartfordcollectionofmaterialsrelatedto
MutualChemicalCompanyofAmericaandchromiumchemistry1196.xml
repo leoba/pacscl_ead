@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Winslow H. Hartford collection of materials related to Mutual
+                        Chemical Company of America and chromium chemistry <date type="inclusive">1948-1995</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Winslow H. Hartford collection of materials related to
+                    Mutual Chemical Company of America and chromium chemistry</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1196</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-1995</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Winslow H. Hartford (b. 1910) received his bachelors degree from Boston
+                    University in 1928, and his Ph.D. in inorganic chemistry from the Massachusetts
+                    Institute of Technology in 1933. He worked as a research supervisor with the
+                    Mutual Chemical Company of America from 1934-58. He later worked at Allied's
+                    Syracuse Technical Center as a senior scientist, and then took a position as
+                    associate professor of chemistry at Belmont Abbey College. From 1979 until his
+                    death in 1997, he was Professor Emeritus at Belmont. He specialized in the
+                    chemistry and technology of chromium, and in wood preservation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of documents related to the history of Mutual Chemical
+                    Company, and chromium chemistry. Mutual Chemical Company of America operated
+                    from 1845 to 1954 and was at one time the largest chrome manufacturer in the
+                    world. In 1954, Mutual was purchased by Allied Chemical. Included are a
+                    chronology of the history of the company, a brief history of the company written
+                    in 1945, a printed copy of "A Course in Chromium Chemistry" given by Hartford
+                    at Mutual in 1948, a 1984 manuscript copy of a report by Hartford entitled "A
+                    Systems Analysis of the Baltimore Chromium Chemicals Plant," a brief history of
+                    the Baltimore plant entitled "An Introduction to Baltimore Works," and
+                    correspondence regarding his work on the environmental considerations of the
+                    Mutual chromium production plants.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Mary H. Hartford</p>
+                <p>Accession number: 98:12</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

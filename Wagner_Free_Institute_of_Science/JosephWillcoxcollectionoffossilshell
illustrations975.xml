@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Willcox collection of fossil shell illustrations <date type="inclusive">1898-1898</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Willcox collection of fossil shell
+                    illustrations</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC975</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-1898</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Willcox (1829-1918) was a noted geologist and a long-term member of the
+                    Board of Trustees of the Wagner Free Institute of Science, serving as the
+                    chairman of the Committee on the Museum from 1885 until his death.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This volume contains illustrations of 38 fossil shells collected by Joseph
+                    Willcox. The original illustrations have been pasted into the volume. In his own
+                    description from the title page of the book, Willcox says: "This book contains
+                    original drawings of some of the fossil shells collected by me in North Carolina
+                    and Florida. They were made with pen and ink by Dr. J.L. McConnell of
+                    Washington, D.C. They have been reproduced in the plates of the Transactions of
+                    the Wagner Free Institute of Science. Joseph Willcox. Philadelphia, May 26th,
+                    1898." The volume contains index of all drawings, listing each shell's name and
+                    where it was found. A letter from James B. [Secord] expressing admiration of
+                    Willcox's and McConnell's work is pasted to the rear endpaper of the volume.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89-045</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: James C. McConnell drawings of fossil shells (Collection 303).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

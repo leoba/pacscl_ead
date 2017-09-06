@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Thurloe papers <date type="inclusive">1654-1659</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Thurloe papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1765</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1654-1659</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Thurloe (1616-1668) was a secretary to the council of state of the
+                    Commonwealth of Great Britain under Oliver Cromwell. He was given charge of the
+                    intelligence department in 1653, which included foreign and domestic espionage,
+                    and the post office in 1655. Through the post office Thurloe was able to
+                    intercept information of plots against the government. He entered Parliament in
+                    1654, and supported the succession of Richard Cromwell in 1658. He was deprived
+                    of office after the fall of the Protectorate, and was arrested for high treason
+                    after the Restoration in 1660. He was not tried, and was released on the
+                    condition that his services be available to the Restoration government.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of five volumes contains copies of letters received by John
+                    Thurloe and important state papers and news letters. The volumes correspond to
+                    six of Thurloe's original volumes (which appear to have numbered at least 66)
+                    and cover the years 1654 to 1659. The letters discuss some of the most important
+                    events of the period, including the plot to assassinate Cromwell, naval affairs,
+                    and Cromwell's death in 1658 and the succession of his son Richard as Lord
+                    Protector. The original volumes are in the holdings of the Bodleian Library and
+                    the British Museum.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Copies of letters and reports
+                    sent to, or prepared for, John Thurloe as head of the English Intelligence
+                    Department, November-December 1656 : manuscript, 1706.; Ms. Codex 215.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

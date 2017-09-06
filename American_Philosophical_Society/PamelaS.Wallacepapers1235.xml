@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pamela S. Wallace papers <date type="inclusive">1983-2002</date>
+                        <date type="bulk"> 1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pamela S. Wallace papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1235</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1983-2002</unitdate>
+                <unitdate type="bulk"> 1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Pamela S. Wallace (b. 1947) is an anthropologist who studies the Yuchi tribe of
+                    Native Americans. She has written on Yuchi demographic and social history. Her
+                    master's thesis was entitled "The 1898 Creek Census Cards: A Demographic/Social
+                    Structure Analysis of the Yuchi Indians" (University of Oklahoma, 1993). Her
+                    Ph.D. dissertation was titled Yuchi Social History since World War II :
+                    Political Symbolism in Ethnic Identity (University of Oklahoma, 1998).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Pamela Wallace related to her study of the
+                    Yuchi tribe. Materials include: field notes, with outlines; audio interviews of
+                    tribe members with Wallace's notes and abstracts of the interviews; genealogical
+                    information on tribe members; photograph albums; articles by Wallace and others
+                    on the Yuchi tribe; a copy of Wallace's master's thesis; minutes,
+                    correspondence, and notes from Euchee (Yuchi) Tribe of Indians meetings in the
+                    1990s (earlier meeting minutes are present as photocopies); articles and lecture
+                    notes on anthropological topics; copies of Wallace's outgoing correspondence
+                    (1990s); records of Wallace's membership in various academic and cultural
+                    organizations; and agendas and notes from professional conferences.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Women anthropologists.</subject>
+                <subject encodinganalog="650">Yuchi Indians.</subject>
+                <genreform encodinganalog="655">Exhibition catalogs</genreform>
+                <genreform encodinganalog="655">Field notes</genreform>
+                <genreform encodinganalog="655">Genealogies</genreform>
+                <genreform encodinganalog="655">Interviews</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: M2005-10</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

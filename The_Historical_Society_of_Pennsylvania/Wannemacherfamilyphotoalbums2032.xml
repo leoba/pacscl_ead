@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wannemacher family photo albums <date type="inclusive">1907-1937</date>
+                        <date type="bulk"> 1913-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wannemacher family photo albums</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2032</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1907-1937</unitdate>
+                <unitdate type="bulk"> 1913-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>These 10 photo albums document the social and political lives of the Wannemacher
+                    family and other young Philadelphians in the 1910s and 1920s. At least some of
+                    the Wannemachers were Socialists involved with the Socialist Sunday School (24th
+                    and 27th wards) and the Young People's Socialist League. Their picnics and other
+                    excursions are documented. There is a picture of Eugene V. Debs and another of
+                    the Socialist Book Store, 1326 Arch St., Philadelphia. The other major aspect of
+                    this collection is the documentation of various family trips to the Jersey
+                    Shore, New York City, Niagara, Wisconsin, and New England, where the family
+                    visited the homes and graves of Emerson, Thoreau, Alcott, and Hawthorne. They
+                    also traveled around Pennsylvania a great deal, to Harrisburg, Delaware Water
+                    Gap, Graterford, Wissahickon, Perkiomen, Media, Arden, and other places. Also of
+                    note are a handful of pictures of Philadelphia on Armistice Day. Some albums
+                    focused on the childhood of Margaret Wannemacher.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

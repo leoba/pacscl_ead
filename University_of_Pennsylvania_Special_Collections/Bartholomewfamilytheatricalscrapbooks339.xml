@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bartholomew family theatrical scrapbooks <date type="inclusive">1852-1932</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bartholomew family theatrical scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC339</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.125 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1852-1932</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ethel C. Bartholomew was an actress and daughter of William H. Bartholomew (b.
+                    1832) and Sallie Apt (d. 1934), who were also actors. W. H. Bartholomew
+                    initially appeared under the stage name W. H. Allen (until 1856 or 1858).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of scrapbooks on the acting careers of Sallie Apt
+                    Bartholomew, W. H. Bartholomew, and Ethel C. Bartholomew. The scrapbooks include
+                    newspaper announcements and reviews of plays, cabinet photographs, and
+                    playbills. The collection also includes clippings on events at the Edwin Forrest
+                    Home during W. H. Bartholomew's residence there, articles about famous actors
+                    and theatrical news.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 115</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

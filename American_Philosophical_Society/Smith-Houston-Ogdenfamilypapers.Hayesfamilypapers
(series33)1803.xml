@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Hayes family papers (series 33)
+                            <date type="inclusive">1694-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Hayes family papers
+                    (series 33)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1803</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1694-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Hayes family is allied to the Smith family through the marriage of Elizabeth
+                    Hayes to George Smith. The founders of the Hayes family were Richard Sr. (1697)
+                    and his son Richard Jr. (1738). Richard Hayes, Jr., married Elizabeth Lewis in
+                    1697. Their son Benjamin (1710-1764) married Mary Jones in 1737, and they had a
+                    daughter Elizabeth (1738-1767). Elizabeth Hayes married George Smith (1732-1787)
+                    in 1764. George and Elizabeth Smith were the great-grandparents of Lawrence M.C.
+                    Smith, husband of Eleanor Houston Smith.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to various Hayes family members. Materials
+                    include: correspondence, slides, and prints related to the Hayes family estate;
+                    wills of Mary Hayes (1825) and Richard Hayes (1697); deeds (1657, 1697); land
+                    records; and quit rent receipts (1696-1713).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

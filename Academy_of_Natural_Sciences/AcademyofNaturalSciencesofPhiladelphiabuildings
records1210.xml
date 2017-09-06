@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia buildings records <date type="inclusive">1898-1998</date>
+                        <date type="bulk"> 1960s- 1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia buildings
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1210</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-1998</unitdate>
+                <unitdate type="bulk"> 1960s- 1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences of Philadelphia was founded in 1812 "for the
+                    encouragement and cultivation of the sciences, and the advancement of useful
+                    learning." Its collections, acquired through expeditions, gifts, purchases, and
+                    exchanges, contain over 17,000,000 specimens. The Academy opened its doors to
+                    the public in 1828, growing so rapidly that it outgrew its building three times
+                    in sixty years. In 1876, its present home was built at 19th and Benjamin
+                    Franklin Parkway.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of architectural plans and papers related to the buildings
+                    occupied by the Academy of Natural Sciences. Included are blueprints of the
+                    Academy's 19th street complex and renovations, 1970s; schematic diagrams and
+                    blueprints of Academy spaces, 1979-1981; files on 19th St. garden and Quarry
+                    Street house, 1963; a framed print by Tom Jackson showing the Academy's 19th and
+                    Race façade; 1979 plans for a projection booth; study reports for renovations to
+                    Research Wing and the new 1990 wing adjacent to it; papers related to the sale
+                    of a building on Fairmount; proposals for a biochemical laboratory; evaluations
+                    of space; diagrams of the layout for some of the research collections that were
+                    moved, circa 1980, to the research facility in the historic insurance building
+                    at the other end of the Ben Franklin Parkway; plans for Academy buildings
+                    proposed for the Penn's landing site, 1963; an architectural elevation of the
+                    north side of the Race Street building showing proposed new roof, 1905; an
+                    architectural elevation in watercolor of a low-rise building, possibly one
+                    proposed for the Parkway, 1973; and a zoning notice from the City of
+                    Philadelphia for the erection of the 1990 wing to house the new library
+                    stacks.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:14; 00:07</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: ANSP Buildings and Grounds (collection 584 ).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

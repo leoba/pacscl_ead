@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Philosophical Society meetings records <date type="inclusive">1936-1997</date>
+                        <date type="bulk"> 1976-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Philosophical Society meetings records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1750</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1997</unitdate>
+                <unitdate type="bulk"> 1976-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1743 by Benjamin Franklin, the American Philosophical Society was the
+                    first learned society in the United States. Meetings of the Society are held
+                    annually in April and November, with attendance averaging several hundred
+                    members and distinguished guests. Papers presented at these meetings, and the
+                    discussions that follow, explore topics in both the sciences and humanities,
+                    from underwater archaeology to nuclear magnetic imaging, from Shakespeare's
+                    writings to race relations in modern America. In addition to these regular
+                    meetings, the Society holds a number of smaller sessions for specialists to
+                    present papers focused on topics of particular interest; biological complexity,
+                    the way we choose our Presidents, and the protein as a science laboratory are
+                    some of the recent subjects of these sessions.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents the planning and activities of annual meetings and
+                    special meetings of the American Philosophical Society. Records related to
+                    annual meetings include meeting minutes, correspondence with speakers and
+                    attendees, abstracts of talks, curricula vitae of speakers, post-meeting summary
+                    reports, drafts of programs and printed programs, attendee lists and
+                    registrations, logistical documentation of travel and schedules, and audio
+                    recordings and transcripts of the Council and Executive sessions of the 1976 and
+                    1977 meetings. Records related to meetings conducted jointly by the American
+                    Philosophical Society and the Accademia Nazionale dei Lincei (1996) and the
+                    Royal Society of London (1991) include correspondence between the Society's
+                    staff and their counterparts at the other institutions, correspondence with
+                    speakers and attendees, curricula vitae of speakers, abstracts of papers,
+                    programs and agendas, documentation of travel logistics, routine budgeting and
+                    purchasing records, and a small number of photographs. Records related to the
+                    250th anniversary meeting of the American Philosophical Society include minutes
+                    of planning committees, publicity and press releases, special invitations,
+                    information on the Philadelphia Symphony's commemorative concert series for the
+                    anniversary, programs, pamphlets, and newsletters. The collection also includes
+                    an A to Z card file of speakers from approximately 1940 to 1984, giving the name
+                    of the speaker and the title and year of the talk; printed, collated lists of
+                    speakers and talks from 1940 to 1975; and printed programs from annual meetings
+                    from 1936 to 1959.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Accademia nazionale dei Lincei.</corpname>
+                <corpname encodinganalog="610">Royal Society (Great Britain)</corpname>
+                <subject encodinganalog="650">Learned institutions and
+                    societies--Membership.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Newsletters</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lloyd Alexander papers <date type="inclusive">1948-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lloyd Alexander papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2396</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>23 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lloyd Chudley Alexander (1924-2007) was the author of more than 40 books, mostly
+                    fantasy novels for children and adolescents, as well as several adult books. His
+                    most famous contribution to the field of children's literature is the fantasy
+                    series The Chronicles of Prydain. The first two books in this series formed the
+                    basis of the Disney animated film The Black Cauldron. The concluding book of the
+                    series, The High King, was awarded the Newbery Medal in 1969. Alexander also won
+                    the National Book Award and the American Book Award for several other
+                    titles.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of drafts, proofs, research notes, correspondence, reviews,
+                    and other materials related to Alexander's published works and writing projects.
+                    The collection also includes miscellaneous agent and editorial correspondence,
+                    biographical information, and some information about Alexander's involvement
+                    with the National Book Awards. Titles represented in the collection include The
+                    Beggar Queen, The Marvelous Misadventures of Sebastian, The El Dorado Adventure,
+                    The Philadelphia Adventure, and various installments of The Chronicles of
+                    Prydain.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia, Children's Literature Research Collection: Evaline Ness
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

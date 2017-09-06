@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Stephen G. Cary papers <date type="inclusive">1928-2001</date>
+                        <date type="bulk"> 1960s-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Stephen G. Cary papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC849</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1928-2001</unitdate>
+                <unitdate type="bulk"> 1960s-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Stephen G. Cary (1915-2002) graduated from Germantown Friends School in 1933. He
+                    received a bachelor's degree in economics with a minor in chemistry from
+                    Haverford in 1937 and a master's in international administration from Columbia
+                    University in 1943. He was a conscientious objector during World War II and
+                    served in the Civilian Public Service from 1942-1946. Between 1946 and 1969,
+                    Cary was an integral part of the American Friends Service Committee (AFSC). With
+                    Willis Weatherford, he served as chief of American Quaker Relief Operations in
+                    Europe from 1946-1948, overseeing work in 10 countries dealing with the
+                    aftermath of World War II. Cary was chairman of the AFSC from 1979-1991. Cary
+                    began his service to Haverford College as a member of the Board of Managers from
+                    1955-1969. In 1969 he joined the staff as vice president of development, and
+                    became vice president of finance and development in 1974. He was named acting
+                    president of Haverford from 1977-1978. He served as senior vice president of the
+                    College from 1979-81 and was clerk of Haverford's faculty meetings during these
+                    three years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional and personal papers of Stephen G. Cary.
+                    Materials include: correspondence, memos, and reports on American Friends
+                    Service Committee's activities and programs; AFSC pamphlets and brochures;
+                    minutes, grant applications, and correspondence related to the Clarence and
+                    Lilly Pickett Endowment for Quaker Leadership; subject files on such topics as
+                    civil rights, the Germantown Friends School, and the Friends Association for
+                    Higher Education; and notebooks and appointment books. Materials related to
+                    Cary's association with Haverford include: correspondence; drafts of speeches;
+                    minutes of various committees; records related to the "Honor Code"; and
+                    clippings on Cary's tenure as acting president. The collection also includes a
+                    small batch of letters from Cary to his father, C. Reed Cary, and letters to and
+                    from his grandchildren.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Friends Service Committee.</corpname>
+                <corpname encodinganalog="610">Haverford College.</corpname>
+                <subject encodinganalog="650">Quakers--Pennsylvania.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Speeches</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 6815</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Peace Collection,
+                    Swarthmore College: Civilian Public Service personal papers and collected
+                    materials.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

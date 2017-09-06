@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hans Ris papers <date type="inclusive">1941-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hans Ris papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1742</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hans Ris (1914-2004) was born in Bern, Switzerland. He was a graduate of the
+                    University of Bern. In 1939 he was offered a teaching assistantship in Zoology
+                    at Columbia University, where he worked with the cytologist Franz Schrader and
+                    his wife, Sally Hughes-Schrader. In 1942 Ris became Instructor in Biology at
+                    Johns Hopkins University, and in 1944 he joined the lab of Alfred Mirsky at the
+                    Rockefeller Institute. In 1949 Ris joined the Zoology Department at the
+                    University of Wisconsin at Madison, where he established an electron microscope
+                    laboratory to study chromosome and nuclear structure. In 1969 he established the
+                    Madison High Voltage Electron Microscope Facility (HVEM). Ris was a founding
+                    member of the American Society for Cell Biology (ASCB) in 1960, and served as
+                    its first Treasurer and later served on its Council. Ris had an interest in
+                    Chinese society and culture, and beginning in 1985, he made several visits to
+                    Chinese laboratories; in 1990 he established a formal scientific exchange
+                    program between the ASCB and the Chinese Society for Cell Biology. Ris was a
+                    Fellow of the American Academy of Arts and Sciences and member of the National
+                    Academy of Sciences.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Hans Ris. Materials include: photographs
+                    (transmission electron micrographs and high voltage electron microscope images);
+                    drafts and galley proofs of articles; correspondence with colleagues; class
+                    notes and lab notebooks; notes from conferences and poster sessions; articles by
+                    others; correspondence with and records related to postdoctoral fellows;
+                    correspondence related to his visits to Russia and China; and illustrations.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Electron microscopy.</subject>
+                <subject encodinganalog="650">Transmission electron microscopy.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Galley proofs</genreform>
+                <genreform encodinganalog="655">Notebooks</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

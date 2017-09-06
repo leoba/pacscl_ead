@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia County Register of Wills willbooks <date type="inclusive">1763-1798</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia County Register of Wills willbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC265</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.375 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1763-1798</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Register of Wills probates wills and appoints representatives for decedents
+                    who die with or without a will.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two volumes of transcribed wills from the
+                    Philadelphia County Register of Wills, 1763-1764 and 1878-1790. The first volume
+                    was apparently transcribed in the late nineteenth century. This volume also
+                    includes a copy of the will of Robert Pigott, registered in 1798. The second
+                    volume includes several pages that appear to have been transcribed in a later
+                    period (probably also late nineteenth century), while the remainder of the
+                    volume appears to date from an earlier period. The registrar for the wills in
+                    the second volume is George Campbell.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of the Moyerman family.</p>
+                <p>Year acquired: 1970-1972</p>
+                <p>Accession number: 07-187</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

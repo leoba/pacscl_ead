@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>University of Delaware Press collection related to the Cultural
+                        Studies of Delaware and the Eastern Shore series <date type="inclusive">1972-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">University of Delaware Press collection related to the
+                    Cultural Studies of Delaware and the Eastern Shore series</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC290</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1972-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The University of Delaware Press was established in the early 1970s and published
+                    infrequently until 1975, when it joined the consortium, Associated University
+                    Presses. The Press now publishes approximately thirty-five to forty books every
+                    year under its own imprint. The Press publishes books in all fields of
+                    scholarship, including: literary studies, especially Shakespeare, Renaissance
+                    and Early Modern Literature; Eighteenth-Century Studies; French Literature; art
+                    history and history; and historical and cultural studies of Delaware and the
+                    Eastern Shore.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of publication files, including correspondence, drafts,
+                    proofs, and clippings, related to works published as part of the University of
+                    Delaware Press - Cultural Studies of Delaware and the Eastern Shore series. The
+                    collection includes files for the following titles: Honest John Williams, U. S.
+                    Senator and New Sweden in America by Carol Hoffecker; Governing Delaware: Policy
+                    Problems by William Boyer; Creek Walking: Growing Up in Delaware in the 1950s by
+                    Jacqueline Jones; Hanging the Moon: The Rollins Rise to Riches by Drury Pifer;
+                    and Rebel With a Conscience by Russell W. Peterson.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: University of Delaware Press</p>
+                <p>Year acquired: 3/5/2007; 2/26/2007; 5/21/2007; 12/19/2006</p>
+                <p>Accession number: 07-27; 07-10; 07-64; 06-134</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Carol Hoffecker papers and William Boyer papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

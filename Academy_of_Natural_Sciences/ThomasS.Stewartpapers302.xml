@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas S. Stewart papers <date type="inclusive">1868-1953</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas S. Stewart papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC302</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1868-1953</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Summerville Stewart (d. 1949) was curator of the Microscopical Department
+                    of the Academy of Natural Sciences of Philadelphia. He graduated from the
+                    University of Pennsylvania in 1895 and received his M.D. from the same
+                    institution in 1904. In the field of medicine, his main interest was in the
+                    x-ray. He was among the first to experiment with its varous uses. In the latter
+                    half of his life, he focused on microscopy and photo micrography. He was a
+                    member of the American Microscopical Society, a fellow of the Royal
+                    Microscopical Society, and vice president and treasurer of the Leidy
+                    Microscopical Society. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to microscopes and microscopy collected
+                    by Thomas S. Stewart. Microscope and lens manufacturers and supplies represented
+                    in the collection include Bausch and Lomb, Ernst Leitz, Inc., Arthur H. Thomas
+                    Company, Charles Lentz and Sons, and Williams, Brown, and Earle. Materials
+                    include: price lists and catalogs for microscopes and lenses; printed matter
+                    from the New York Microscopical Society and the Leidy Microscopical Club; a
+                    series of microscopic preparations on human anatomy (3 sets of 10); and prints
+                    of microphotographs. The collection also includes a handwritten manuscript of an
+                    article by Thomas C. Stewart entitled "Photo Micrography," and the text of a
+                    talk he gave at the Academy in 1941 on the history and use of the microscope.
+                    There is a small batch of correspondence of Thomas C. Stewart, related to the
+                    disposition of his father's microscope collection. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 07:04, 04:11</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

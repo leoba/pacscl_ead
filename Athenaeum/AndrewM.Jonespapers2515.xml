@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Andrew M. Jones papers <date type="inclusive">1776-1897</date>
+                        <date type="bulk"> 1830-1885</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Andrew M. Jones papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2515</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1776-1897</unitdate>
+                <unitdate type="bulk"> 1830-1885</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Benjamin Jones (1767-1849), born in Pennsylvania, was the son of Joseph Jones (b.
+                    1739) and Hannah Walter, and grandson of Rees Jones and Amy Cock. Benjamin Jones
+                    became a merchant, iron manufacturer, and land speculator. He married Rebecca
+                    Moore (b. 1778), and together they had William Jones (1798-1798), Walter Moore
+                    Jones (1799-1825), and Andrew Moore Jones (1801-1885). After Rebecca's early
+                    death in 1802, Benjamin married Mary Howell (1778-1836), and they had eight
+                    children: Anne Emlen (1806-1883), William Howell (1808-1819), Margaretta Howell
+                    (1809-1874), Richard (1812-1890), Mary Beveridge (1814-1887), Harriet
+                    (1816-1855), Samuel Howell (1818-1883), and Benjamin Walter (1821-1883).
+                    Following Benjamin Jones's death in 1849, the responsibilities of his estate
+                    fell to his son Andrew. In 1840 Andrew married Caroline Bonsall. The couple had
+                    no children. Margaretta Howell Jones (1809-1874), daughter of Benjamin, married
+                    John Madison Taylor and settled in Maryland. Their daughter Carrie Taylor was
+                    married to James Maynard who was marshal to the consular courts in Turkey. Other
+                    family members went on to fight in the Civil War, and still others fought in
+                    World War I. Although the Joneses were successful merchants, Benjamin and
+                    Andrew, with some help from younger son Richard (1812-1890), appear to be the
+                    only two that ran the family business. Later members of the family went into
+                    different fields of work.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Andrew M. Jones and other members of the Jones
+                    and Taylor families. Family correspondence in the collection includes letters to
+                    Andrew M. Jones and Caroline B. Jones from family members, including Samuel H.
+                    Jones, Richard Jones, Harriet Jones, Anne Emlen, Benjamin Jones Jr., Carrie
+                    Taylor (later Carrie Maynard), James Maynard, and J. M. Taylor. Letters discuss
+                    activities of family and friends and matters related to the estates of Benjamin
+                    Jones Sr. and M. J. Taylor. Business correspondence largely relates to land
+                    purchases and sales, with some letters relating to the iron business. The
+                    collection also includes; several receipts; bills for tuition; miscellaneous
+                    pamphlets; newspaper clippings of recipes, shipping news, and poetry; a list of
+                    chateaux in France; a survey of a plot of land in St. Mary's County, Maryland,
+                    drawn for Thomas W. Gough; and a printed description of lands owned by Benjamin
+                    and A. M Jones in Elk and M'Kean Counties, Pennsylvania.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Jones and Taylor family papers, collection 2037; and Jones family
+                    account books, 1810-1874, collection 718.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

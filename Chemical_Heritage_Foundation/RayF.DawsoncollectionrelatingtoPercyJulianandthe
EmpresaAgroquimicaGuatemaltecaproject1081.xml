@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ray F. Dawson collection relating to Percy Julian and the Empresa
+                        Agroquimica Guatemalteca project <date type="inclusive">1934-1990</date>
+                        <date type="bulk"> 1957-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ray F. Dawson collection relating to Percy Julian and the
+                    Empresa Agroquimica Guatemalteca project</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1081</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1934-1990</unitdate>
+                <unitdate type="bulk"> 1957-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ray F. Dawson (b. 1911) was a professor of Botany on the Graduate Faculty of
+                    Columbia University. He studied organic chemistry at DePauw University under
+                    Percy Lavon Julian (1899-1975).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of correspondence between Ray Dawson, Percy Julian, and
+                    others, in connection with Julian's Empresa Agroquimica Guatemalteca, S.A.
+                    Julian and Dawson worked together during the late 1950s and 1960s to establish a
+                    facility in Guatemala for the production of raw materials for the extraction of
+                    diosgenin, a steroid intermediate. In addition to the correspondence, the
+                    collection includes reports, budgets, and permit applications. This collection
+                    is a virtually complete record of the first years of the project up to its sale
+                    to the Fine Chemicals Division of the Upjohn Company of Kalamazoo, Michigan.
+                    Also included in this collection are a typed summary of the project with a
+                    information on the correspondents, a photocopy of an article entitled
+                    "Diosgenin Production in North America" (HortTechnology, 1991), and additional
+                    letters between Julian and Dawson written in the 1960s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: R.D.</p>
+                <p>Year acquired: 1993; additional material received in 1994</p>
+                <p>Accession number: 93:01</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

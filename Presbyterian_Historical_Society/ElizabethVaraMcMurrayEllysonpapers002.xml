@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elizabeth Vara McMurray Ellyson papers <date type="inclusive">1891-1891</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elizabeth Vara McMurray Ellyson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC002</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-1891</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Elizabeth Vara McMurray Ellyson (1868-1958) was married to John Ellyson
+                    (1862-1911). She was the daughter of Rev. John McMurray and Kisia Elizabeth
+                    (Clamp) McMurray who died in 1880. Rev. McMurray graduated from Princeton
+                    Seminary in 1860 and moved to Texas that same year as a missionary under the
+                    charge of the Board of Domestic Missions. He was stated supply at a number of
+                    churches and also worked as a schoolmaster. In 1867 he moved to Georgetown,
+                    Texas, where he became master of the Georgetown Male and Female Academy and
+                    served as stated supply of the Georgetown Presbyterian Church in Austin. He died
+                    in 1912.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a scrapbook of newspaper clippings and other memorabilia documenting the
+                    103rd General Assembly in Detroit (1891). Rev. McMurray was a delegate
+                    representing Trinity Presbytery. The articles describe the addresses given at
+                    the Assembly, reports from various boards and committees, activities and day
+                    trips taken by attendees, and some biographical information about prominent
+                    Presbyterian ministers in attendance. The scrapbook also includes a photograph
+                    of W. Henry Green. Some of the clippings appear to be from The Herald and
+                    Presbyter and the Detroit Free Press. Elizabeth Vara McMurray accompanied her
+                    father to Detroit.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Johnson, John C., Jr.</p>
+                <p>Accession number: 00 0914a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

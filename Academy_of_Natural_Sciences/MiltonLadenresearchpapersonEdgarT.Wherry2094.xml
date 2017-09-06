@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Milton Laden research papers on Edgar T. Wherry <date type="inclusive">1905-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Milton Laden research papers on Edgar T. Wherry</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC2094</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edgar T. Wherry (1885-1982) was a geologist, crystallographer, and botanist. As a
+                    young man, he attended lectures at the Wagner Free Institute of Science, where
+                    he would later also teach courses in mineralogy (his students there included
+                    Samuel George Gordon, the noted mineralogist). He received his Ph.D. in geology
+                    and mineralogy from the University of Pennsylvania in 1909. Wherry worked at the
+                    Smithsonian Institution and the U.S. Department of Agriculture in the field of
+                    geology, before becoming interested in the wild plants of North America. He
+                    became the nation's leading expert on ferns, native phlox, and native
+                    wildflowers. In 1930, Wherry returned to Philadelphia, where he joined the
+                    faculty of the University of Pennsylvania as Professor of Plant Ecology and
+                    Soils. He retired in 1955, but continued to teach courses in botany and ecology.
+                    He was the first editor of The American Mineralogist, and was editor of the
+                    Bulletin of the American Rock Garden Society and of Bartonia, the journal of the
+                    Philadelphia Botanical Club. Over his career, he published more than 420 papers,
+                    books, and monographs on geological and horticultural topics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of research materials related to Edgar T. Wherry,
+                    primarily collected by Milton Laden, including: reprints and photocopies of
+                    articles by Wherry; memorials to Wherry; copies of and some original letters
+                    between Wherry and a variety of his correspondents; photocopies of documents in
+                    museum, library, university, and business archives around the country and in
+                    Europe; tapes of Wherry giving talks on botany and mineralogy and interviews of
+                    Wherry by Laden; records of Laden's research project on Wherry, including
+                    correspondence from archival repositories and those who knew Wherry; and a card
+                    files of Laden's contacts. William and Marion Flook's Wherry materials include:
+                    approximately 1600 slides copied from Wherry's glass slides (which are held at
+                    the Morris Arboretum); an index of the slides; photoprints of 15 of the slides;
+                    and copies of Green Scene that include an article on the slide collection.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

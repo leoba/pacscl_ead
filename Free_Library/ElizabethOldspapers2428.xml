@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elizabeth Olds papers <date type="inclusive">1962-1963</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elizabeth Olds papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2428</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1963</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Elizabeth Olds (1896-1991) was an artist and a writer and illustrator of
+                    children's books. She was born in Minneapolis and studied at the Minneapolis
+                    Institute of Art from 1918 to 1921. In that year, she moved to New York, where
+                    she continued her studies at the Art Students League of New York. During the
+                    Depression, she worked for the WPA Federal Art Project's graphic division, and
+                    her work from this time focused on the lives of working people. Olds was the
+                    first woman to hold a Guggenheim Fellowship in art. During the fellowship, she
+                    studied art in Paris. Her works were exhibited in solo shows and group shows
+                    over five decades, and she is represented in several museums. Her children's
+                    books include The Big Fire, Little Una, Plop Plop Ploppie, and Feather Mountain,
+                    which received a Caldecott Honor in 1952.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to two of Elizabeth Olds' books: Little
+                    Una and Plop, Plop, Ploppie. Little Una materials include illustration and text
+                    proofs, galley proofs, author's proofs with correction notes, dummies, color
+                    proofs, and woodcut prints of final art. Plop, Plop, Ploppie materials include
+                    final art, galley proofs, a dummy, woodblock prints of Ploppie, and a
+                    preliminary wash drawing.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of Texas,
+                    Harry Ransom Center: Benjamin O. Rees collection of Elizabeth Olds and Emmett
+                    Hudspeth collection of Elizabeth Olds; National Museum of American Art in
+                    Washington: Collection of Elizabeth Olds prints; Smithsonian Institution,
+                    Archives of American Art: Elizabeth Olds papers; University of Minnesota
+                    Children's Literature Research Collection: Elizabeth Olds papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

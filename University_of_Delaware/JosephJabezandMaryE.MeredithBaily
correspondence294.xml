@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Jabez and Mary E. Meredith Baily correspondence <date type="inclusive">1849-1897</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Jabez and Mary E. Meredith Baily
+                    correspondence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC294</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1849-1897</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mary E. Meredith married Jabez Baily. They had a son, Isaac Meredith Baily. Isaac
+                    died in his freshman year at Swarthmore College of scarlet fever. Isaac had at
+                    least one brother, Joseph. Both Mary and Jabez were from large families. Mary
+                    had a sister Hannah and a brother Joseph. Jabez had two sisters, Sarah Green and
+                    Hannah Jure, and a brother Harvey. The families lived in Chester County.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Baily family letters. Most of the letters are to Mrs.
+                    Baily, of Marlboro and Newlin, Pennsylvania. These include letters from her son,
+                    Isaac Baily, written from Swarthmore College. The collection also includes a
+                    series of letters from Jabez to Mary written between 1864 and 1866.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Anna D. Moyerman.</p>
+                <p>Year acquired: 1972</p>
+                <p>Accession number: 07-93</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

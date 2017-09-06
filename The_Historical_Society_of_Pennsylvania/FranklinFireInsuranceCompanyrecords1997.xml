@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Franklin Fire Insurance Company records <date type="inclusive">1829-1901</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Franklin Fire Insurance Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1997</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1829-1901</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Franklin Fire Insurance Company was chartered in 1829 and conducted its
+                    business on Chestnut Street until 1873, when it moved to 421 Walnut Street.
+                    Richard Willing served as its first president. Franklin Fire specialized in
+                    perpetual insurance, as opposed to the earlier "seven-year" polices, and thus
+                    the duration of the policy was without limit except by cancellation. Policies
+                    were paid for only once, and these deposits were based on the face value of the
+                    policy. The interest that accrued on the initial deposits sustained the policy
+                    for the duration of the contract. The company served the Philadelphia area as
+                    well as other regions. Businesses that specialized in flammable goods were not
+                    covered by the company. The company had strong financial backing, which enabled
+                    it to meet enormous losses in the Chicago fire and other devastating fires.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the surveys made of the insured buildings, beginning
+                    with Survey No. 3 done in 1829 for J.J. Borie's tenant house located on the
+                    "west side of Schuylkill about one mile above upper ferry bridge." The series
+                    then continues with Survey No. 9, also of 1829. The information noted on the
+                    surveys includes floor plans, size and type of structure, materials used in
+                    construction, number of windows, type of heating, sizes of rooms, location of
+                    staircases, and other significant architectural features such as balconies.
+                    Outbuildings are often included in the surveys, and the surveyor usually
+                    provided rough appraisals of the building's value. The names of the surveyors
+                    are also provided.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

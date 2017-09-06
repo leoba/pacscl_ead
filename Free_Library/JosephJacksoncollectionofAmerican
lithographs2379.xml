@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Jackson collection of American lithographs <date type="inclusive">1819-1887</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Jackson collection of American
+                    lithographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2379</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1819-1887</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Jackson (1867-1946) was an art historian, writer, and lithographer. He was
+                    the author of the Encyclopedia of Philadelphia, Literary Landmarks of
+                    Philadelphia and other scholarly works. He was also a collector of lithographs
+                    and donated his collection to the Free Library.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Jackson Collection of American Lithographs includes some 275 prints. The
+                    collection documents the beginnings of lithography in the United States and
+                    includes the first lithograph printed in this country by Bass Otis and published
+                    in The Analectic Magazine in July, 1819. Other lithographers and companies whose
+                    work is represented include Thomas Doughty, Albert Newsam, C.G. Childs, Childs
+                    &amp; Inman, Bowen &amp; Co., Sarony &amp; Co, and P.S. Duval &amp; Co. Subjects
+                    of lithographs include portraits, landscapes, historical scenes, illustrations
+                    of birds and fish, and illustrations of Perry's expedition to Japan and other
+                    expeditions to Asia and South America. Some of the lithographs are hand-colored;
+                    there are several chromolithographs, as well. A small number of the prints are
+                    from British and French lithographers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Joseph Jackson manuscripts (collection 314).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

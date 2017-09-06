@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Michi Kawai Christian Fellowship records <date type="inclusive">1953-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Michi Kawai Christian Fellowship records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC168</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Esther Sinn Neuendorffer and Michi Kawai both graduated from Bryn Mawr College in
+                    1904. Kawai Michi was the founder in 1929 of Keisen Girls School (now Keisen
+                    University) in Tokyo and the first secretary-general of the YWCA in Japan. In
+                    1953 Esther Neuendorffer established the Michi Kawai Christian Fellowship to
+                    raise money for the Keisen School, to promote Christian education in Japan, and
+                    to carry on the work of Michi Kawai.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of documents relating to the Michi Kawai Christian
+                    Fellowship and the Keisen School. Materials include: biographical sketches and
+                    memorials of Kawai; solicitations for donations to the Fellowship; documents
+                    related to the Fellowship's tax exempt status and efforts to reclaim an American
+                    bequest to the school confiscated during World War II; promotional materials for
+                    the Keisen School; photos and prints of Kawai; and one signed letter from Kawai
+                    about the school. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 05-</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

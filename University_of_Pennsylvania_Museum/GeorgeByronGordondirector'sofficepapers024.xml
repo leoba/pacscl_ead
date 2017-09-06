@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Byron Gordon director's office papers <date type="inclusive">1910-1928</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania Museum of Archaeology and
+                        Anthropology</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Byron Gordon director's office papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC024</unitid>
+                <repository label="Repository">University of Pennsylvania Museum of Archaeology and Anthropology<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent> linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1928</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George Byron Gordon was born August 4, 1870, at New Perth, Prince Edward Island,
+                    Canada. He was the son of James and Jane MacLaren Gordon. He was educated at the
+                    University of South Carolina for one year (1888), and thereafter at Harvard
+                    University, where he obtained his Ph.D. in 1894. In 1892 he was assistant to
+                    John G. Owens on the Harvard excavations at Copán, Honduras. After the death of
+                    Owens in 1893, Gordon took over the leadership of the expedition for the next
+                    six seasons, until 1900. In 1903 Gordon joined the staff of the University of
+                    Pennsylvania Museum as Assistant Curator of the Section of General Ethnology.
+                    Since the position of curator of the section was honorary (held by William Henry
+                    Furness III), Gordon carried out most of the tasks of the department. He was
+                    made Curator of the Section in 1905. In 1905 and 1907, Gordon led two
+                    expeditions for the Museum to Alaska. On both trips he traveled with his
+                    brother, MacLaren Gordon. The results of these expeditions were published in In
+                    the Alaskan Wilderness (Philadelphia: John C. Winston Company, 1917). Gordon was
+                    the first to establish regular courses in Anthropology at the University of
+                    Pennsylvania. In 1886 and 1887 Daniel G. Brinton had offered selected courses in
+                    the field, and the Department of Anthropology was not officially established
+                    until 1913 by Frank G. Speck, but Gordon offered courses, both graduate and
+                    undergraduate, every semester from 1907 to 1915. In 1910, the management of the
+                    University of Pennsylvania Museum having outstripped the capacities of a
+                    volunteer Board of Managers, George Byron Gordon was appointed Director of the
+                    institution. With the help of Charles Custis Harrison (Provost of the University
+                    of Pennsylvania, 1894-1911; Vice-President of the Museum, 1911-1916; and
+                    President, 1917-1929) and Eckley B. Coxe, Jr. (President of the Museum’s Board
+                    of Managers, 1910-1916), Gordon oversaw the largest period of growth in the
+                    history of the Museum. Three wings were added to the original 1899 museum
+                    building: the Harrison Rotunda (1915), the Coxe Egyptian Wing (1926), and the
+                    Administrative Wing (1929). The collections saw a multifold increase, as well as
+                    the Museum’s involvement in the field. Some of the major expeditions carried out
+                    under Gordon’s directorship include Memphis (Mit-rahineh) and Thebes (Dra Abu
+                    el-Naga) in Egypt, Ur in modern Iraq, Beth Shean in modern Israel, and the
+                    Amazon Expedition. He also established The Museum Journal, the institution’s
+                    magazine and the forerunner of today’s Expedition magazine. Gordon had a very
+                    keen collector’s eye. When purchasing collections he always chose the best
+                    specimens and drove a hard bargain with antiquities dealers, who, however,
+                    respected his connoisseurship and sought him out when they had a rare piece to
+                    sell. He became an expert of great breadth in archaeology, history, and art.
+                    Although he was trained in Central America, he undertook ethnography in Alaska,
+                    wrote about the history of London (Rambles in Old London; Philadelphia: George
+                    W. Jacobs &amp; Co., 1924), and made perhaps his most lasting reputation putting
+                    together the Museum’s Chinese collections, which rank among the best in the
+                    world. In 1926 the University of Pennsylvania conferred upon Gordon the honorary
+                    degree of Doctor of Science. In January 1927, Gordon slipped and fell down the
+                    stairs after dinner at the Racquet Club of Philadelphia. He never regained
+                    consciousness, and died six hours later. He was buried at Laurel Hill Cemetery,
+                    Philadelphia, in the Harrison family plot. Gordon was unmarried and had no
+                    children. At the time of his death he was survived by two brothers, James Kelso
+                    Gordon of British Columbia and Charles Gordon of Australia (his brother MacLaren
+                    was killed in France during World War I); and three sisters, Margaret Gordon and
+                    Ada Gordon of Portland, Oregon, and Harriet L. Smith of British Columbia. Gordon
+                    had been a member of the American Philosophical Society, the Franklin Inn Club,
+                    the Lenape Club, the Rittenhouse Club, the Explorer’s Club of New York, the
+                    American Anthropological Association, the American Ethnological Society, the
+                    Authors Club of London, and a Fellow of the Royal Geographical Society. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p/>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 0001.03</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

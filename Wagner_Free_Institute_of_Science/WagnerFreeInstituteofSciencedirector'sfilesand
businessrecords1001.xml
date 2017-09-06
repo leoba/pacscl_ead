@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wagner Free Institute of Science director's files and business
+                        records <date type="inclusive">1858-1938</date>
+                        <date type="bulk"> 1885-1924</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wagner Free Institute of Science director's files and
+                    business records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1001</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1858-1938</unitdate>
+                <unitdate type="bulk"> 1885-1924</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. William Wagner originally
+                    offered free lectures and classes in his home and at Spring Garden Hall. He
+                    later constructed an Institute building, which opened to the public in 1865.
+                    Since 1891, the specimen collections have been displayed according to Darwinian
+                    principles of evolution, the organizational scheme selected by renowned
+                    biologist Joseph Leidy during his tenure as head of the Institute's scientific
+                    and educational programs in the late 19th century. During the period of time
+                    covered by these records, the director of the Wagner Free Institute of Science
+                    oversaw the daily running of the Institute's educational, library, and museum
+                    activities. The director reported to the Board of Trustees, and that body made
+                    decisions about the Institute's financial expenditures, policies, and programs.
+                    Administrators during this time include: Thomas Lynch Montgomery, Actuary and
+                    Librarian, 1886-1903; John Rothermel, Director, 1903-1924; and Carl Boyer,
+                    Curator, 1924-1928, and Director, 1928-1945.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These records detail the financial, administrative, and program aspects of the
+                    Wagner Free Institute of Science and the William Wagner estate from 1858 to
+                    1938, with the bulk of the records dating from 1885 to 1924. The records appear
+                    to be from three administrators: Thomas Lynch Montgomery, John Rothermel, and
+                    Samuel Wagner, President of Wagner Free Institute of Science, 1885-1921, and
+                    President Emeritus, 1921-1937. Materials in this collection include trustee
+                    minutes, correspondence, library and museum reports, records relating to the
+                    building and grounds, receipts, bank books, canceled checks, and rental
+                    documents.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 90-010</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: other collections that include significant amounts of Trustee
+                    records include: Record of the Trustees (89-025 ), Minutes of the Board of
+                    Trustees (89-030), and Communications to the Board of Trustees (91-025). Other
+                    collections that include significant amounts of director's records include:
+                    director's files and business records (90-010), Actuary and Librarian records
+                    (91-040), director's reports (98-045 and 00-01), and director's files (90-001
+                    and 89-055, 91-030, 91-035, 93-005, 99-109, and 00-02).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Nathan Trotter &amp; Co. records <date type="inclusive">1798-1925</date>
+                        <date type="bulk"> 1798-1862</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Nathan Trotter &amp; Co. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC451</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.91 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1798-1925</unitdate>
+                <unitdate type="bulk"> 1798-1862</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Trotter began his apprenticeship with the William Sansom's firm in 1789;
+                    after a 7 year apprenticeship, Trotter entered into business with Joseph Sansom,
+                    brother of his former employer. In 1803, the Sansom and Trotter partnership was
+                    dissolved and William Trotter went into business by himself. In that same year,
+                    Nathan Trotter (1787-1853) joined his older brother in business. When William
+                    Trotter died in 1815, Nathan Trotter took over as the head of the business and
+                    in 1817 the firm's name was changed to Nathan Trotter &amp; Co. Today, the firm
+                    is the oldest continuously operated metals manufacturer/distributor in the
+                    United States.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business papers of Nathan Trotter &amp; Co. The bulk of
+                    the materials are bills of lading (1803-1850) for items shipped to and by Nathan
+                    and William Trotter. There are also bills of lading for goods shipped to William
+                    Joseph Sansom, James McAlpin, and other merchants. Other materials in the
+                    collection include receipts; bills of freight; sales records; and a small amount
+                    of business correspondence. The papers largely relate to trade in hardware items
+                    such as iron wire, bundles and bars of steel, and lead sheets shipped during the
+                    first half of the nineteenth century.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1980.71, 1981.15; 1984.20; L85.005; 1996.22</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Harvard University
+                    Business School Baker Library: Nathan Trotter and Company Records, 1798-1955
+                    (inclusive); Historical Society of Pennsylvania: Trotter, Nathan and Company
+                    Correspondence, 1825-1859 (#1674). </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

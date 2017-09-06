@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Wheeler papers <date type="inclusive">1911-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Wheeler papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1238</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Archibald Wheeler (b. 1911) is a leading figure in the development of
+                    general relativity and quantum gravity. He received his doctorate from Johns
+                    Hopkins University in 1933. He was professor of physics at Princeton University
+                    from 1938 to 1976, then professor of physics at the University of Texas at
+                    Austin. Wheeler's graduate students included Richard Feynman, Kip Thorne, and
+                    Hugh Everett. He was a pioneer in the theory of nuclear fission, along with
+                    Niels Bohr and Enrico Fermi. In 1939 he collaborated with Bohr on the liquid
+                    drop model of nuclear fission. Together with other leading physicists during
+                    World War II, Wheeler participated in the development of the atomic bomb under
+                    the Manhattan Project at Hanford, Washington. He went on to work on the
+                    development of the American hydrogen bomb under Project Matterhorn B. After
+                    concluding his Project Matterhorn work, Wheeler returned to Princeton to resume
+                    his academic career. In 1957, while working on extensions to general relativity,
+                    he introduced the word "wormhole" to describe tunnels in space-time. His work
+                    in general relativity included the theory of gravitational collapse, and in 1967
+                    he coined the term "black hole." Wheeler was awarded the Wolf Prize in Physics
+                    in 1997. He maintained an office at Princeton until 2006.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional and personal papers of John Wheeler.
+                    Professional materials include: correspondence with colleagues related to
+                    articles, awards, and talks; calculations, graphs and diagrams, lecture notes
+                    and overhead transparencies; reprints and articles by Wheeler and others;
+                    dissertations and manuscripts by others, including copies of Crawford H.
+                    Greenewalt's diaries; awards and diplomas; and photographs. Personal materials
+                    include: letters to and from Wheeler's family, including a series from his
+                    mother (1935-1959); greeting cards; newspaper clippings; genealogical
+                    information on Reverend John Wheeler; a file of quotations collected by Wheeler;
+                    a memoir entitled "It from Bit"; a scrapbook kept by Wheeler; an unidentified
+                    1911 travel diary; and family photographs. The collection also includes
+                    Wheeler's FBI file, and miscellaneous artifacts, such as drafting tools, pins,
+                    and commemorative plates.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Astrophysics.</subject>
+                <genreform encodinganalog="655">Awards</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+                <genreform encodinganalog="655">Notebooks</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Deposited by Dr. James Wheeler. (from MOLE record for 24 ft.) </p>
+                <p>Year acquired: 1976 (from MOLE record for 24 ft)</p>
+                <p>Accession number: M2006-05</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

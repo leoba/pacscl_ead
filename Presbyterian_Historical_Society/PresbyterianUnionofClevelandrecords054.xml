@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Union of Cleveland records <date type="inclusive">1869-1891</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Union of Cleveland records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC054</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1869-1891</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Presbyterian Union of Cleveland, Ohio, was formed with the object of
+                    promoting Presbyterian Church extension in the city of Cleveland. The Union's
+                    members were pastors, elders, deacons, and selected church members. Churches
+                    represented included Westminster Chapel, North Church, Euclid Avenue
+                    Presbyterian, Woodland Avenue Church, First Presbyterian, Second Presbyterian,
+                    Case Avenue Church, and others.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of minutes of the Presbyterian Union of Cleveland. Minutes
+                    include reports on attendance and the size and health of congregations;
+                    discussions about donations and raising of funds; proposals for the
+                    establishment of new churches; and treasurer's reports and reports of annual
+                    meetings, and articles of association.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Presbytery of Cleveland (9/15/71)</p>
+                <p>Accession number: 02 0614d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

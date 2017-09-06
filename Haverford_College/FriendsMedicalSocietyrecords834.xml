@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Friends Medical Society records <date type="inclusive">1950-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Friends Medical Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC834</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Friends Medical Society (FMS) is an informal association established in 1950 at
+                    Pendle Hill, a Quaker study center in Wallingford, Pennsylvania, to voice Quaker
+                    concerns in the field of medicine, and to act as a medical and advisory resource
+                    for the American Friends Service Committee and other national and international
+                    medical programs.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of records of the Friends Medical Society. Materials
+                    include: membership files; topical files; annual meeting agendas,
+                    correspondence, some minutes and reports; and newsletters. Topical files include
+                    such subjects as the Friends Medical Foundation; FMS's opposition to the draft;
+                    alternative service programs for conscientious objectors; and overseas relief
+                    and refugee resettlement programs. The collection also includes founding
+                    documents of the organization, news releases, and policy statements on a variety
+                    of political and social issues.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Friends Service Committee.</corpname>
+                <subject encodinganalog="650">Medicine--Religious aspects--Society of
+                    Friends.</subject>
+                <subject encodinganalog="650">Quaker physicians.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Newsletters</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 6577 &amp; 7148</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Friends Historical
+                    Library, Swarthmore College: Friends Medical Society records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

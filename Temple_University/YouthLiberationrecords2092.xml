@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Youth Liberation records <date type="inclusive">1970-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Youth Liberation records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2092</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1970-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Youth Liberation was an organization founded in 1971 by fifteen-year-old Keith
+                    Hefner and other Ann Arbor teenagers. Its central aims included student control
+                    of education, the free development of youth culture, and an end to
+                    discrimination against youth, with related emphases on gay rights for young
+                    people, environmentalism, and an end to the Vietnam War. Youth Liberation served
+                    as a principal informational and organizational hub for a host of similar
+                    efforts around the country, and also allied with older radicals in Ann Arbor-
+                    and Detroit-area organizations such as the White Panther Party and the Human
+                    Rights Party. The group's publications arm, the Youth Liberation Press, began in
+                    1969 as a separate entity known as the High School Independent Press, based in
+                    Chicago, Illinois. After a short stint from 1970-1972 in Houston, Texas, where
+                    the press began publishing FPS, a news service for youth, the press moved to Ann
+                    Arbor and merged with Youth Liberation of Ann Arbor. In addition to FPS, the
+                    press put out several collections of essays in book and pamphlet format. Youth
+                    Liberation functioned from Spring 1970 to Fall 1979, a when a crucial member
+                    departed for New York City.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes both administrative records and published materials.
+                    Administrative records of Youth Liberation and CHIPS include letters to readers,
+                    reader and student newspaper questionnaires, mailing lists, and correspondence
+                    from creators of student newspapers. The collection contains number of issues of
+                    FPS, as well as text copy and reference materials for articles in FPS. The
+                    collection also includes issues of many high school underground newspapers and
+                    other youth publications (1970-1981). Titles include Youth Awareness Press,
+                    Weekly Reefer, School Break, and the 5% Press.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Temple University,
+                    Special Collections: CHIPS records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

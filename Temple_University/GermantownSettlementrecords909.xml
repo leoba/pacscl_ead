@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Germantown Settlement records <date type="inclusive">1955-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Germantown Settlement records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC909</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>100.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1955-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1884 an organization was formed and named Morton Street Day Nursery and Free
+                    Kindergarten with a later change to Morton Street Day Nursery and Working
+                    People's Aid, Inc. In 1920 a different organization was formed under the name of
+                    Americanization Committee of Germantown to provide language and culture
+                    instruction to immigrants. Changes in this organization's concerns lead to a
+                    name change to Germantown Community Center. In October, 1934, the Morton Street
+                    Day Nursery and Germantown Community Center merged to form the Germantown
+                    Settlement with headquarters at 324 High Street. Over the years the Settlement
+                    has provided a variety of services to constituents within its service area. This
+                    includes community organization within the Morton area and the provision of
+                    services to the elderly. A branch office in the Wister area was opened in 1957
+                    at 48 E. Penn Street. A satellite office was later opened in the Olney area.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of organizational records for Germantown Settlement. Many
+                    of the papers appear to have come from the office of Emanuel V. Freeman,
+                    Executive Director. The collection contains minutes of the Board of Directors,
+                    with agendas and committee reports (1969-1986), as well as minutes of staff
+                    meetings and various Settlement programs. Office files include: financial
+                    records such as check registers, expense reports, budgets, purchase orders, and
+                    receipts; personnel policies; personnel files; and work schedules and time
+                    sheets. Program records include planning and financial records for Late Start,
+                    Day Camp programs, Children's Learning Center, and Transit Aide, as well as
+                    records related to renovations of Settlement houses. There are a significant
+                    number of Settlement case records and referrals from the 1980s, in addition to
+                    client intake forms and assistance records for the Corporation for Aging. The
+                    collection also contains records of the Germantown Settlement's involvement in
+                    various community development programs and organizations, such as the Greater
+                    Philadelphia Federation of Settlements, the Philadelphia Corporation for Aging,
+                    the Office of Housing and Community Development, the Philadelphia Development
+                    Partnership, and the Philadelphia Civic Center. These records include minutes,
+                    correspondence and memoranda, reports, and newsletters. The collection also
+                    contains scrapbooks of clippings from the 1950s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 832</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

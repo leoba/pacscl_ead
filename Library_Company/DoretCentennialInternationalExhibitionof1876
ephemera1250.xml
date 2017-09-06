@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Doret Centennial International Exhibition of 1876 ephemera <date type="inclusive">1876-1876</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Doret Centennial International Exhibition of 1876
+                    ephemera</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1250</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1876-1876</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Centennial International Exhibition of 1876, the first official World's Fair
+                    in the United States, was held in Philadelphia to celebrate the 100th
+                    anniversary of the signing of the Declaration of Independence. It was officially
+                    called the International Exhibition of Arts, Manufactures and Products of the
+                    Soil and Mine. It was held in Fairmount Park, along the Schuylkill River, in
+                    fairgrounds designed by Hermann Schwarzmann. About 10 million visitors attended
+                    during the six month run of the exhibition.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Centennial-related ephemera. Materials in the collection
+                    include: visitor guides; admission tickets; postcards; advertising broadsides;
+                    programs; and catalogues. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: not accessioned</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: Centennial International Exhibition of 1876 scrapbook
+                    collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Liberal Arts and Sciences records <date type="inclusive">1922-1999</date>
+                        <date type="bulk"> 1960-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Liberal Arts and Sciences records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2438</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1922-1999</unitdate>
+                <unitdate type="bulk"> 1960-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University traces its origins to old Saint Augustine's Church in
+                    Philadelphia, which the Augustinians founded in 1796, and to its parish school,
+                    Saint Augustine's Academy, established in 1811. Villanova University has been
+                    sponsored by the Augustinian Order since its founding in 1842. Today, the
+                    University is comprised of five colleges: Liberal Arts and Sciences (Villanova
+                    College), Engineering, School of Business (formerly known as the College of
+                    Commerce and Finance), Nursing and the School of Law.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of files from the office of the Dean of Liberal Arts and
+                    Sciences. Administrative records include policy manuals, admissions statistics,
+                    evaluations, and job descriptions. Correspondence files date from 1972 to 1997;
+                    correspondence relates to the curriculum assessment, Campus Ministry, department
+                    and faculty matters, institutes and societies, and the Honors Program. Minutes
+                    are present for the Ad Hoc Committee on Core Curriculum (1986-1990), Dean and
+                    Chairmen's meetings (1973-1997), and for meetings of various College departments
+                    and committees. Printed materials in the collection include a grant manual,
+                    brochures, and descriptions of the Honors Program. The collection also includes
+                    reports related to programs and departments, curriculum and academic status, and
+                    various task forces and committees.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

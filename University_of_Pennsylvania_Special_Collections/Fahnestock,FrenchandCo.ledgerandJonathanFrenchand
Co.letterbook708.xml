@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Fahnestock, French and Co. ledger and Jonathan French and Co.
+                        letterbook <date type="inclusive">1864-1872</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Fahnestock, French and Co. ledger and Jonathan French and
+                    Co. letterbook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC708</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1864-1872</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Fahnestock, French and Co. was a firm of merchants operating in nineteenth
+                    century. Jonathan French and Co. was a firm of fish merchants, possibly is
+                    Eastport, Maine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two volumes: The first is a sales, advertising, and
+                    commission ledger of Fahnestock, French &amp; Co; the volume includes newspaper
+                    advertisements of Fahnestock, French &amp; Co. for the Gold Medal Sewing Machine
+                    and advertisements seeking sales agents. There is also a blank bill head for
+                    Fahnestock, French &amp; Co. and a printed pamphlet of instructions to sales
+                    agents. This ledger dates from 1871-1872. The other volume in the collection is
+                    a letterbook of the firm Jonathan French and Sons, 1864-1867. The letters in the
+                    volume relate largely to shipments of and payment for fish.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 222</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

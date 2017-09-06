@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward G. Brownlee personal papers <date type="inclusive">1930-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward G. Brownlee personal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC510</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of scrapbooks and papers assembled by Edward Brownlee.
+                    There are two scrapbooks on the Port of Philadelphia, which contain clippings,
+                    magazine and newspaper illustrations, photographs, notes and lists of ships by
+                    line, and several maps. Lines represented include White Star, Holland America,
+                    American Export, and Banana Sales Corporation. There is also a disbound
+                    scrapbook on schooners, which contains photographs and clippings, circa 1930 to
+                    1933. Schooners represented include Edna Hoyt, George W. Elzey, Jr., Copperfield
+                    of Mobile, Nomis, Edward R. Smith, and others. Miscellaneous papers of Brownlee,
+                    1933-1992, include: a small batch of correspondence (1930s-1980s); notes on
+                    photographs of schooners; newspaper clippings about shipping in the Port of
+                    Philadelphia; Brownlee's research notes, including notes on Joseph Ogden (a
+                    ferryman in Philadelphia in the 18th century), and on tonnage measurements in
+                    marine archaeology; typescripts of articles by Brownlee, including
+                    "Reconstruction of Coasting Schooners" and "Recollections of Several
+                    Depression-Era Voyages and Coasting Schooners"; annotated sketches of an
+                    oystering schooner; and a 1991 letter from Brownlee regarding his connection
+                    with Independence Seaport Museum's library. The collection also contains line
+                    plans, circa 1990s, by Edward G. Brownlee. These include plans for William E.
+                    Lee, Electa Bailey, New Ironside, and General Banks.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Schooners.</subject>
+                <subject encodinganalog="650">Shipping--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Tonnage--Measurement.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Research notes.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Sketches.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Donated by Rosemary Clarke (niece of Ben and Bill McCoy; daughter of
+                    Violet McCoy Clarke)</p>
+                <p>Accession number: 1991.6; non-acc. ; 1981.16.1 and 1981.16.2; 1992.5</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

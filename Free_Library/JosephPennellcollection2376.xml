@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Pennell collection <date type="inclusive">1880-1920</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Pennell collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2376</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1880-1920</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Pennell (1857-1926) was born in Philadelphia. Pennell studied at the
+                    Philadelphia Industrial Art School and at the Pennsylvania Academy of the Fine
+                    Arts. After 1883, Pennell spent a great deal of his time traveling and working
+                    in Europe, using London as his home base, until in 1917, he returned to the
+                    United States to live. He produced numerous books (many of them in collaboration
+                    with his wife, Elizabeth Robins Pennell), but his chief distinction is as an
+                    original etcher and lithographer, and notably as an illustrator. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of lithographs, etchings, and drawings by Joseph Pennell.
+                    Lithographs include views of Philadelphia, including city streets, and interior
+                    and exteriors of Cliveden and Stenton. Pen and ink drawings include early
+                    studies and sketches; several illustrations for The Century; and the title page
+                    for Elizabeth Robins Pennell's Over the Alps on a Bicycle. There are a number of
+                    views of industrial work sites, including shipyards, locomotive works, and a
+                    munitions factory; there are also several views of airfields. The collection
+                    also includes "Views on the Old Germantown Road," a set of 16 etchings
+                    published in 1880.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library of Congress:
+                    Joseph and Elizabeth Robins Pennell collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

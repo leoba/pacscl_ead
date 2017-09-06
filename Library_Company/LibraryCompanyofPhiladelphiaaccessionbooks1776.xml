@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Company of Philadelphia accession books <date type="inclusive">1891-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Company of Philadelphia accession books</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1776</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Library Company of Philadelphia is an independent research library
+                    concentrating on American society and culture from the 17th through 19th
+                    centuries. It was founded in 1731 by Benjamin Franklin as a subscription library
+                    supported by its shareholders, as it is to this day. Free and open to the
+                    public, the Library Company houses an extensive non-circulating collection of
+                    rare books, manuscripts, broadsides, ephemera, and works of art. The Loganian
+                    Library, created in 1754 as a trust for the public, was transferred to the
+                    Library Company in 1792. The nucleus of the Loganian Library was the personal
+                    library of James Logan, which at the time of his death in 1751 was one of the
+                    three largest private libraries in the colonies, and the strongest in scientific
+                    books. The Ridgway branch opened in 1878, and was located at Broad and Christian
+                    streets. It was named after Phoebe Ann Ridgway Rush, wife of James Rush. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of 32 accession books for the Ridgway branch of the
+                    Library Company and 5 accession books for the Loganian Library. The Ridgway
+                    accession books are duplicates of the original set of accession books maintained
+                    at the Library. Entries in the accession books include accession number, title,
+                    author, classification, city and date of publication, and occasional remarks.
+                    Accessions are arranged by the size of volume and then by accession number.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

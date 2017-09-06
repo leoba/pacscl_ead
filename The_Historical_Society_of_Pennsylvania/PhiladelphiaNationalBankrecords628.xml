@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia National Bank records <date type="inclusive">1807-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia National Bank records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC628</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>130.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1807-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia National Bank (PNB) was the direct successor of The Philadelphia
+                    Bank, organized on August 3, 1803 and chartered on March 5, 1804. Its early
+                    board of directors included many of the city's successful merchants and
+                    businessmen who were not part of the traditional elite and identified themselves
+                    as Jeffersonian Democratic-Republicans rather than Federalists. Its original
+                    building at 4th and Chestnut Streets was designed by Benjamin H. Latrobe. The
+                    Philadelphia Bank grew steadily during the 19th century as Philadelphia became a
+                    major industrial and railroad center. It was reorganized as the Philadelphia
+                    National Bank on October 20, 1864, under the National Banking Act of 1863. In
+                    the 20th century PNB grew substantially by merger and acquisition. Absorbed
+                    banks included the Farmers &amp; Mechanics Bank, Girard National, Franklin
+                    National, Chester National Bank and Commercial National Bank of Philadelphia. In
+                    1986 PNB was absorbed into the CORESTATES financial group.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Philadelphia National Bank archive consists of records of both parent and
+                    subsidiary companies. Records of PNB include stock ledgers (1835-1919),
+                    signature books (1839-1883), general and individual ledgers (1886-1947).
+                    Absorbed banks represented in the collection include Farmers and Mechanics Bank
+                    (1799-1904), Bristol Trust Company (1908-1953), Citizens National Bank &amp;
+                    Trust Company (1892-1955), Northern National Bank (1889-1929), Ninth National
+                    Bank (1885-1950), Commercial National Bank (1810-1929). The records of absorbed
+                    banks include: articles of association; stock ledgers; journals; minutes;
+                    correspondence; personnel records; reports to the Comptroller of the Currency;
+                    collection ledgers; investment ledgers; and records relating to the World War I
+                    Office of Alien Property Custodian.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2002.101</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

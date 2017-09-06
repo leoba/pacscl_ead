@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Stevens-Cogdell-Sanders-Venning collection <date type="inclusive">1734-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Stevens-Cogdell-Sanders-Venning collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1259</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1734-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Stevens was a Charleston, South Carolina, businessman. His daughter, Mary
+                    Ann Elizabeth Stevens, married George Cogdell. Their son was Richard Walpole
+                    Cogdell (1787-1866). He had several children by his African-American mistress,
+                    Sarah Sanders (d. 1850). In the 1850s, Cogdell arranged for the Sanderses to
+                    move to Philadelphia. One of Richard and Sarah's daughters was Julia Sanders,
+                    who married Edward Y. Venning. Their daughter was Miranda Cogdell Venning
+                    (1862-1900), the first African-American graduate of Philadelphia's Girls’ Normal
+                    School (1882) and principal of the Joseph E. Hill School.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a miscellaneous collection of papers related to the Cogdell, Venning,
+                    Sanders, and Stevens families. Stevens family materials include two letter books
+                    (1768-1772) dealing largely with business matters in the West Indies and
+                    England, and a commonplace book of Mary Ann Elizabeth Stevens. The Cogdell
+                    family materials include estate papers, deeds, indentures, and wills; and
+                    correspondence, receipt books, and scrapbooks of R.W. Cogdell. Venning family
+                    materials include a family bible, baptismal certificates, and genealogical
+                    material; Declaration of Substitute for Edward Y. Venning (1863); and a book of
+                    quotes presented to Miranda Venning by William Carl Bolivar. Other families
+                    represented in the collection are the Holdens, Chews, Bowies, and Capps. The
+                    collection also includes wedding invitations and funeral announcements,
+                    scrapbooks, programs, church bulletins, broadsides, and newspaper clippings,
+                    including some of W. Carl Bolivar's column "Pencil Pusher Points," which was
+                    published in the Philadelphia Tribune.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: unaccessioned</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: Photograph Album Collection, Stevens, Cogdell, Sanders, and
+                    Venning families, two albums.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

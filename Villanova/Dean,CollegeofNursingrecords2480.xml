@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dean, College of Nursing records <date type="inclusive">1952-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dean, College of Nursing records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2480</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The College of Nursing at Villanova University, established in 1953, has
+                    bachelor's, master's, and doctoral programs fully accredited by the Commission
+                    on Collegiate Nursing Education and approved by the State Board of Nursing of
+                    the Commonwealth of Pennsylvania, as well as an American Nurses Credentialing
+                    Center accredited program in Continuing Education. The nurse anesthesia program
+                    is accredited by the Council on Accreditation of Nurse Anesthesia Educational
+                    Programs. In 1978, M. Louise Fitzpatrick, EdD, RN, FAAN was named as the third
+                    dean of the College of Nursing.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Dean of the College of Nursing, consisting
+                    of administrative files, correspondence, minutes, printed materials, and
+                    reports. Administrative materials include orientation handbooks and policy
+                    procedure manuals. Correspondence dates from 1951 to 1994 and relates to
+                    accreditation, the State Board of Nurse Examiners, faculty development, alumni
+                    and student associations, and various University committees. Minutes document
+                    meetings of faculty, administration, and Nursing curriculum and program
+                    committees, including the Academic Standing and Records Committee (1968-1995),
+                    the Curriculum Committee (1955-1995), and the Admissions Committee (1970-1990).
+                    The collection includes a large number of reports. These include Academic
+                    Standing Committee reports for Villanova University departments and programs;
+                    reports on College of Nursing accreditation, curriculum, and self-study
+                    assessments; nursing program standards and policies; State Board of Nurse
+                    Examiners evaluations; and reports of various University committees.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Nursing--Study and teaching</subject>
+                <subject encodinganalog="650">Universities and colleges--Administration.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

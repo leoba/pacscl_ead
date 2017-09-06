@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Taylor, Harris, Roman, Frazer and Smith families papers <date type="inclusive">1683-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Taylor, Harris, Roman, Frazer and Smith families
+                    papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2419</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1683-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The families in this collection are all related by the marriage of Marianne Smith
+                    to Dr. Stephen Harris on April 14, 1833. Marianne’s father, Joseph Smith, was an
+                    iron and shipping merchant in Philadelphia, and her mother was Mary Frazer,
+                    daughter of Colonel Persifor Frazer and Mary Worrilow Taylor. Marianne’s brother
+                    was Persifor Frazer Smith, the lawyer. For an overview of the relationship
+                    between the families in this collection, see the chart on page 4 of this guide.
+                    More information on the individuals represented in this collection is included
+                    in the introductory material to each family’s papers. Both sides of the lineage
+                    represented in this collection immigrated to Pennsylvania because of religious
+                    persecution in England and Ireland. As Presbyterians and Quakers, they no longer
+                    wished to live under a series of laws which forced non-Anglicans out of public
+                    office, schools and the church as well as prohibiting meetings for non-Anglican
+                    worship. These newcomers contributed to the establishment of the government and
+                    religious expression in early Chester County. The documents provide a broad
+                    picture of early Chester County and its residents as they interacted with each
+                    other at home and in Philadelphia through business, religious, and social
+                    transactions. Included in the collection are letters from James Logan (William
+                    Penn’s secretary); a broadside by Andrew Bradford, a Philadelphia printer; and a
+                    real estate document signed by David Lloyd, Chief Justice of Pennsylvania. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection spans the years 1683 to 1980 (bulk dates 1683-1851). Included in
+                    the collection are letters, land records (draughts, surveys, deeds, warrant,
+                    maps, advertisements of sale, etc.), business, legal and financial records,
+                    commissions, architectural drawings, receipts, account book, broadsides,
+                    genealogy, marriage certificates, wills, oath of allegiance, poetry, photographs
+                    (originals transferred to photo archives), etc. . Topics include: surveying,
+                    Native Americans, Rev. War (includes prisoners, discharge certificate, receipt
+                    for British dead, militia, etc.), estate settlements, astronomy, publishing,
+                    iron industry, Sarum Forge (includes labor agreements), East Whiteland
+                    Presbyterian Church, St. David’s Church, Harris family homestead, domestic abuse
+                    (18th c), English Quakers and religious persecution, etc. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

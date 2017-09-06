@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Curtis Bok and Nellie Lee Holt Bok collection <date type="inclusive">1837-1986</date>
+                        <date type="bulk"> 1920s-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Curtis Bok and Nellie Lee Holt Bok
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC662</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1837-1986</unitdate>
+                <unitdate type="bulk"> 1920s-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Curtis Bok (1897-1962), the son of Edward William Bok, was a lawyer and
+                    judge in Philadelphia. He served in the Orphan's Court and the Court of Common
+                    Pleas before he was appointed to the Supreme Court of Pennsylvania. Nellie Lee
+                    Holt Bok (1901-1984) was religious education director at Missouri's Stephens
+                    College for Women before her marriage to Curtis Bok. After their marriage in
+                    1934, she became involved in politics, briefly broadcasting a radio program in
+                    support of Franklin Roosevelt's. She continued to write on the topic of
+                    religion, and was involved in local philanthropic activities.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The focus of this collection is the personal and professional papers of Curtis
+                    and Nellie Lee Bok. In addition, there is some documentation of their children
+                    (Derek, Enid, and Benjamin) and their Bok and Holt ancestors (including the
+                    Seymour, Easton, and Gianinni families). There are letters, travel journals,
+                    photographs, and printed materials relating to the illustrious careers of both
+                    Curtis and Nellie Lee. Notable correspondents include Franklin Roosevelt, Rachel
+                    Carson, and Princess Grace of Monaco. The collection includes manuscripts of
+                    writings by the couple, including an account of the coronation of George VI by
+                    Curtis Bok, and newspaper and magazine articles by Nellie Lee Bok. The
+                    collection also includes school records, diplomas, certificates, social diaries
+                    and calendars, and posters.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <famname encodinganalog="600">Bok family.</famname>
+                <persname encodinganalog="600">Bok, Nellie Lee.</persname>
+                <persname encodinganalog="600">George VI, King of Great Britain,
+                    1895-1952--Coronation.</persname>
+                <famname encodinganalog="600">Holt family.</famname>
+                <subject encodinganalog="650">Judges--Pennsylvania.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Social life and
+                    customs.</geogname>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Diaries</genreform>
+                <genreform encodinganalog="655">Diplomas</genreform>
+                <genreform encodinganalog="655">Family papers</genreform>
+                <genreform encodinganalog="655">Passports</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Posters</genreform>
+                <genreform encodinganalog="655">Radio scripts</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Dr. Enid Curtis Bok Okun</p>
+                <p>Year acquired: 2005</p>
+                <p>Accession number: 2005.019</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

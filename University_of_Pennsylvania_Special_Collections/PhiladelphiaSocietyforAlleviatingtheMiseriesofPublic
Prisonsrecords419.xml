@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Society for Alleviating the Miseries of Public Prisons
+                        records <date type="inclusive">1787-1883</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Society for Alleviating the Miseries of Public
+                    Prisons records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC419</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1787-1883</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Society for Alleviating the Miseries of Public Prisons was
+                    established in May 1787 with the goal of improving the conditions of the Walnut
+                    Street Prison. In its earlier days, the society gave relief to prisoners in the
+                    form of money and clothing, donated bibles, and visited prisoners. By the 1820s,
+                    the society focused on changing the overarching policy of the prison from group
+                    confinement to the Pennsylvania System of solitary confinement and the new
+                    Eastern State Penitentiary. The members also visited county prisons across and
+                    the state and sought just penal legislation. The society continued to grow in
+                    numbers and, as the society entered the twentieth century, it became involved in
+                    numerous studies hoping to gain a better understanding of the causes of
+                    criminality and the most effective and just paths to punishment and
+                    reformation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Philadelphia Society for Alleviating the
+                    Miseries of Public Prisons. Materials include: reports from the society's agents
+                    to the Committee on County Prison (1862-1883), reports from the Visiting
+                    Committee to the Society, and reports to the Committee on Discharged Prisoners;
+                    minutes of the Committee on County Prison, 1856-1864; a manuscript by James J.
+                    Barclay relating to prison discipline, circa 1828; a scrapbook of newspaper
+                    clippings on prison discipline, 1843-1845; a 1787 memorial to the Pennsylvania
+                    State and House of Representatives requesting an act of incorporation; and an an
+                    account book of the Journal of Prison Discipline. The reports include case
+                    descriptions, summaries of visit made to prisoners (broken down by offense), and
+                    information about prisoners discharged from the prisons.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 19</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Pennsylvania Prison Society Records, 1787-1966 (collection
+                    1946).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Seldes collection <date type="inclusive">1845-1997</date>
+                        <date type="bulk"> 1930-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Seldes collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC2275</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>85 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1845-1997</unitdate>
+                <unitdate type="bulk"> 1930-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George Seldes (1890-1995) was an influential American investigative journalist
+                    and critic of the media and corporate power. He began his career in journalism
+                    when he was 16, working as a reporter for the Pittsburgh Leader. After a year at
+                    Harvard, he went to Europe to cover World War I. He remained in Europe after the
+                    war, working as a correspondent for the Chicago Tribune. He met and wrote about
+                    Freud, Alfred Adler, Isadora Duncan, Mussolini and Lenin. He left the Tribune in
+                    1928 and worked as a freelancer, covering, among other things, the Spanish Civil
+                    War. He is the founder of In Fact, a weekly progressive newsletter, which he
+                    edited from 1940 to 1950. One of the early issues of the newsletter addressed
+                    the hazards of smoking and the suppression of this information by the mainstream
+                    press. He was the author of more than a dozen books, including You Can't Print
+                    That, Lords of the Press, The Great Quotations, The Great Thoughts, and his
+                    memoir, Witness to a Century. Seldes was married to Helen Larkin Wiesman
+                    (1905-1979). He was the brother of Gilbert Seldes, the critic and author.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of George Seldes. The bulk of the materials
+                    are professional papers relating to his publication of his books and of In Fact.
+                    These papers include subject files of newspaper and magazine clippings; research
+                    notes; news bulletins; typed extracts of writings by others; typed and annotated
+                    drafts of articles by Seldes; manuscripts of Fads and Fascism, Sawdust Caesar,
+                    Tell the Truth and Run, You Can't Print That, Great Thoughts, Great Quotations,
+                    and other books; promotional materials for his publications; printed issues of
+                    In Fact and clippings of clippings of articles by Seldes in various newspapers
+                    and magazines; and correspondence with publishers, fellow journalists, readers,
+                    and other interested parties. Notable correspondents include Emma Goldman, J.
+                    Edgar Hoover, Ashley Montague; Norman Vincent Peale, William Shirer, Upton
+                    Sinclair, and Walter Winchell. There is some personal correspondence to George
+                    and Helen Seldes, as well, including letters from his niece Marian Seldes and
+                    her daughter Katharine Andres, and from Sylviane and Alvah Bessie. The
+                    collection includes a small number of photographs and newspaper and magazine
+                    profiles of Seldes. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

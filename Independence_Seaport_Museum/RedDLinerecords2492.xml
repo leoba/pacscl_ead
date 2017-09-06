@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Red D Line records <date type="inclusive">1861-1936</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Red D Line records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2492</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1861-1936</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Atlantic and Caribbean Steam Navigation Company, better known as the Red D
+                    Line was the main transportation link between the United States and Venezuela
+                    for 100 years. The company took its trade name from the red D on its white flag,
+                    which stood for (John) Dallett, a Philadelphia merchant who went to Venezuela in
+                    1823 soon after the country gained its independence from Spain. There he went
+                    into business with the influential merchant John Boulton. Dallett returned to
+                    Philadelphia and set up a business shipping cargoes to Boulton, and in 1838
+                    began chartering sailing vessels to carry his merchandise. The company built an
+                    excellent relationship with the Venezuelan government and business community,
+                    but eventually decided to get out of the shipping business when the 1936
+                    Merchant Marine Act terminated the system of mail contracts under which shipping
+                    companies had been subsidized. The company was sold to the Grace Line in 1937,
+                    which then merged the Venezuelan operations into Grace's overall service to
+                    South America. http://www.theshipslist.com/ships/lines/redd.htm -- more detail
+                    supplied by a descendant of Dallett</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Collection of records of the Atlantic and Caribbean Steam Navigation Company.
+                    Materials include: firms ledgers (1861-1871, 1881-1908); letter book for Red D
+                    Line (1872-1874), correspondence of Dallet, Bliss &amp; Co, primarily with Henry
+                    Lord Boulton in Caracas; Atlantic and Caribbean Steam Navigation Co. trial
+                    balances (1881-1932); Dallet and Co's ledger, NY (1881-1909); Dallet family cash
+                    received (1862-18874); Clearance book (1861-1880); freight lists, various ships
+                    (1927-1932, 1932-1936), including weights of freight shipped to various South
+                    American ports. The collection also includes records of several vessels: barque
+                    Hornet, bills and expenses (1878), with several surveys of cargo damaged during
+                    storms; barque John Boulton, expense book (1870-1872); freight lists (1862-1875)
+                    for the brig A.B. Patterson and other vessels. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Shipping--Pennsylvania--Philadelphia.</subject>
+                <geogname encodinganalog="651">United States--Commerce--Venezuela.</geogname>
+                <geogname encodinganalog="651">Venezuela--Commerce--United States.</geogname>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Letterbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

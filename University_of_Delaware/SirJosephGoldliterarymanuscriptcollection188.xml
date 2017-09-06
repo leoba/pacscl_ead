@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sir Joseph Gold literary manuscript collection <date type="inclusive">1904-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sir Joseph Gold literary manuscript collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC188</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1904-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>London-born and educated, Sir Joseph Gold was a noted scholar of international
+                    monetary law and a renowned collector of first editions of contemporary
+                    authors.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Sir Joseph Gold literary manuscript collection consists of twentieth-century
+                    British and American literary manuscripts and papers, including letters, poems,
+                    translations, reviews, essays, and other material. Authors in the collection
+                    include Barry MacSweeney, Tom Pickard, John Wieners, Brian Patton, Ralph Maud,
+                    Theodore Roethke, Martin Bell, Donald Justice, Anthony Hecht, Philip Whalen,
+                    Clayton Eshleman, Lawrence Ferlinghetti, Tony Connor, Charles Causley, Bertrand
+                    Russell, Charles Osborne, Allen Ginsberg, Samuel Beckett, Peter Russell, Olga
+                    Rudge, and others.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Richard Gold</p>
+                <p>Year acquired: 4/20/2006</p>
+                <p>Accession number: 06-43</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0658.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0658.xml</extref>
+            </otherfindaid>
+
+        </archdesc>
+    </ead>

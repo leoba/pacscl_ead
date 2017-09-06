@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Richard Mott Jones papers <date type="inclusive">1874-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Richard Mott Jones papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC1469</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.42 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Mott Jones (1843-1917) was the son of Eli and Sybil Jones. He was a 1863
+                    graduate of Haverford College. Jones served as Headmaster of the William Penn
+                    Charter School from 1875 to 1917 and as a Manager of Haverford College from 1892
+                    to 1906. He married Annie Virginia Costello in 1873. Their daughter was Madeline
+                    Jones, who married George John Walenta.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of letters, photos, and academic regalia of Richard Mott
+                    Jones and the Jones family. Materials include: reports on missionary activities
+                    in Syria; an inscribed copy of Mitchell's Ancient Atlas belonging to Richard M.
+                    Jones; academic regalia of Richard M. Jones; letters to Eli Jones; letters to
+                    Richard C. Jones when he was at Haverford; and photos of the Walenta family.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <famname encodinganalog="600">Jones family.</famname>
+                <persname encodinganalog="600">Walenta, Madeline Jones.</persname>
+                <subject encodinganalog="650">Quakers--Correspondence.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    George and Madeline Walenta papers and Jones family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

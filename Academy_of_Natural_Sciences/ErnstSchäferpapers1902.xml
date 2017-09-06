@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ernst Schäfer papers <date type="inclusive">1986-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ernst Schäfer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1902</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1986-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ernst Schäfer (1910-1992) was a famous German hunter and zoologist in the 1930s,
+                    specializing in ornithology. He is most famous for his three expeditions to
+                    Tibet in 1931, 1934-1935, and 1938-1939, the first two led by the Academy's
+                    Brooke Dolan II, and the third led by himself under the patronage of Himmler's
+                    Ahnenerbe organization. Schäfer wrote several books, including Berge, Buddhas
+                    und Bären (Mountains, Buddhas and Bears), and helped produce the film Geheimnis
+                    Tibet (Secret Tibet).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to Schäfer's participation in the
+                    Academy's expeditions in the 1930s to Tibet. Materials include correspondence
+                    between Robert M. Peck and Schäfer, in German with English translations by Mary
+                    Dolack. Peck was seeking information about the Dolan expeditions for the
+                    Academy's 175 anniversary exhibits. The collection also includes excerpts of
+                    writings by Schäfer about the Dolan expedition, translated into English by Mary
+                    Dolack, and photocopies of pictures taken by Schäfer during the expedition.
+                    Other documents in the collection are several letters regarding Schäfer/Dolan
+                    materials in the holdings of the Library of Congress and one about the
+                    provenance of the adult giant pandas in the Academy's collection.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Brooke Dolan papers (collection 64) and Robert Peck
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

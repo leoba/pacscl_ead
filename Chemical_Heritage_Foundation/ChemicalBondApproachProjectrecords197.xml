@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chemical Bond Approach Project records <date type="inclusive">1959-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chemical Bond Approach Project records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC197</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Chemical Bond Approach (CBA) Project was a new approach for teaching
+                    chemistry to secondary students that was first developed in 1959. It emphasized
+                    grounding in the theoretical concepts of chemistry rather than simple
+                    memorization. Its development came in response to the United States' fear of
+                    being eclipsed in the sciences after the launch of Sputnik.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of materials was donated by H. Anthony Neidig, one of the four
+                    directors of the CBA project (1959-1963). The collection consists of trial
+                    editions of CBA textbooks and records of the testing of the programs. Materials
+                    include: student and teacher versions of textbooks and laboratory manuals;
+                    reference articles; documentation of an Educational Testing Service (ETS)
+                    evaluation of the CBA materials; records of feedback received from teachers who
+                    tested the program; correspondence and other records from the 1961 CBA Summer
+                    Institute in Santiago, Chile; reprints of articles about the CBA program; CBA
+                    newsletters; information about the Reed College Conference on High School
+                    Chemistry, and miscellaneous records relating to the project.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: H. Anthony Neidig</p>
+                <p>Accession number: 06:061</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: Chemical Education Material Study and Chemical Bond Approach Project
+                    records (97:03); Joseph S. Schmuckler papers (05:073); Laurence E. Strong papers
+                    (93:04); Frank Henry Verhoek papers (includes some CBA) (96:03).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Area Consortium of Special Collections Libraries
+                        records <date type="inclusive">1988-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Area Consortium of Special Collections
+                    Libraries records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2290</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1988-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1985, 16 institutions came together to create Philadelphia Area Consortium of
+                    Special Collections Libraries (PACSCL) as an informal cooperative group with a
+                    shared agenda ranging from access to public programs and development. PACSCL has
+                    grown in size to over 30 libraries and evolved into a formal organization.
+                    PACSCL is governed by a Board of Directors consisting of one representative from
+                    each member library. An Executive Committee, consisting of six elected members
+                    (four officers and two at-large members), the immediate past chair, and the
+                    chairs of standing and ad hoc committees, oversees programs and planning.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Philadelphia Area Consortium of Special
+                    Collections Libraries (PACSCL). Materials include project and budget reports for
+                    NHPRC and Pew Charitable Trust grant projects; minutes of meetings of PACSCL and
+                    of the group's executive committee; correspondence related to membership and
+                    special projects; files on legal, insurance, and tax status of PACSCL; and files
+                    on programs and events. The records appear to be the files of Carol Spawn and
+                    Thomas Horrocks.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

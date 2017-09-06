@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Genealogical Society of Pennsylvania genealogical records
+                        collection (doc. boxes) <date type="inclusive">1766-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Genealogical Society of Pennsylvania genealogical records
+                    collection (doc. boxes)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1985</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1766-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Unlike the other records compiled by the Genealogical Society of Pennsylvania,
+                    most of the material in this collection is original. Folders are arranged by
+                    family or individual and contain a variety of material. Included are deeds wills
+                    and other legal documents, correspondence, account books, bills and receipts,
+                    school transcripts, photographs and printed material. Some contain volumes of
+                    published family histories. Perhaps more valuable than the genealogical data
+                    that can be extracted from these documents is the coverage of contemporary
+                    events also highlighted through words and pictures, including the Civil War and
+                    the Korean conflict. Some individuals are represented through more extensive
+                    documentation, comprising a mini-collection of its own. One such instance is the
+                    collection of Edwin S. Dunkerley, a former HSP volunteer. In addition to
+                    material documenting his life, there are letters from an apparent relative who
+                    served as a missionary in China during World War I. There is also one box of
+                    mid-19th century sheet music, identified as "Miss Leach" that includes titles
+                    such as "Lieutenant General Grant's Grand March," and F.B. Helmsmuller's
+                    "Ruck-Ruck-Gallop," or "Hitch-Hitch." Some records are by institution such
+                    as the Moyamensing Lodge No. 330.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

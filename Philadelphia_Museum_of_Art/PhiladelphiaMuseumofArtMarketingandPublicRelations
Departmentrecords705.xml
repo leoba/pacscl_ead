@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Marketing and Public Relations
+                        Department records <date type="inclusive">1952-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Marketing and Public Relations
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC705</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>68.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>While a Public Relations office has long been part of its organizational
+                    structure, the Museum did not designate a formal office of Marketing until 1994.
+                    That year's annual report noted for the first time a joint Marketing and Public
+                    Relations department operated by a staff of seven. Sandra Horrocks, who joined
+                    the Museum as its manager of public relations in 1971, headed the newly formed
+                    department. Other staff included Charlotte Biddle as Manager of Special Events,
+                    and Kristen B. Batley as Deputy Manager, Group Sales and Tourism. Charles Croce
+                    assumed Horrocks's position in 2000. As reported in the 2006 Annual Report, the
+                    Museum has greatly expanded the duties and staff of its Marketing and Public
+                    Relations Department. Department Director Charles Croce oversees a staff of 16
+                    who service four distinct operations; namely, media relations, marketing
+                    communications, special events and web development. These four offices are
+                    managed, respectively, by Norman Keyes, Director of Media Relations, Marcia L.
+                    Birbilis, Marketing Communications Manager, Camille Focarino, Director of
+                    Special Events and Bill Ristine, Webmaster.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Approximately 14 linear feet of general files comprise the bulk of this record
+                    group. While the earliest files date back to the 1950s, most were generated
+                    during the 1990s. Individual artists and special exhibitions organized by the
+                    Museum are the most frequent subjects. Attendance and fund raising reports, and
+                    materials pertaining to audience studies, proposed programs, committees and
+                    special events are also included, as well as a small group of files identified
+                    as "media." Almost as extensive are the "Photograph" files, which make a
+                    visual record of events from the 1960s to the 1990s. A significant number
+                    pertain to special events organized by the Museum and those held in the Museum
+                    but hosted by other organizations. Included in the former are exhibition
+                    openings and related lectures. Conventions of professional organizations, such
+                    as the American Association of Museums, and radio station dance parties are
+                    among the latter. There are also approximately 2 linear feet of seemingly
+                    similar files, 1980s-1990s, identified as "visual materials." The remaining
+                    8.5 linear feet of files are identified as "Clippings, Photos and Files." Most
+                    were generated during the 1980s and 1990s and like the "Photographs" files
+                    pertain in particular to special Museum exhibitions and events.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Marketing and Public
+                    Relations Department. </corpname>
+                <subject encodinganalog="650">Museums--Public relations.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 22</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=MPR">http://www.philamuseum.org/pma_archives/search.php?c=MPR</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Marketing Department records and Public Relations Department
+                    records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Phillips family papers <date type="inclusive">1919-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Phillips family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1147</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent> linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clarence Arthur Phillips (1893-1977) was a graduate of McCormick Theological
+                    Seminary and a missionary to Venezuela from 1918 to 1959. Phillips served for
+                    many years as director of the Colegio Americano de Caracas, an elementary
+                    school. Phillips also served as mission treasurer and manager of the Mission
+                    Bookstore and Press. He retired in 1959. His wife, Maude Edith Mason Phillips,
+                    was also a missionary in Venezuela. In Caracas, Mrs. Phillips taught Sunday
+                    school, trained women in house-to-house evangelism, played the organ in church,
+                    and taught music at the Colegio Americano. Clarence’s sister Verna Alice
+                    Phillips was a missionary in Venezuela from 1921 to 1954. She served as a
+                    teacher, principal and associate director of the Colegio Americano.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Philips family papers. Materials include: daily diary,
+                    1925, and pastor's pocket record book; photograph of teachers at the Colegio
+                    Americano, 1922; photograph album (Verna A Phillips, Venezuela) with index to
+                    pictures; scrapbook (Helen Phillips), circa 1928-1940, which includes programs,
+                    school records, correspondence, and plays; box of prints labeled Venezuela,
+                    circa 1920s-1970s, documenting the Phillips' missionary work in Venezuela; 1927
+                    commemorative booklet on the Venezuela Misison of the Presbyterian Church in the
+                    USA; set of slides of the Interchurch Building cornerstone laying, October 12,
+                    1958; a printed history of the Presbyterian Church in Venezuela, by Rev. C.
+                    Arthur Phillips, 1958; two small rolls of film: "Venezuela, Board of Foreign
+                    Missions, Presbyterian Church in the U.S.A” and a teaching film; lyrics and
+                    sheet music to the 1947 edition of "Himno Nacional De Venezuela,"; 1966
+                    yearbook of the Colegio Americano; watercolor of a mission building (possibly
+                    the Colegio Americano de Caracas; scarf with Venezuela motif and box of
+                    lacework; printed histories of Venezuela; and certificates of Verna Phillips,
+                    1953 and 1967. The collection also includes a copy of "How Many Buttons Has a
+                    Missionary," Elizabeth Irene Davenport Eggart's circa 1984 transcription with
+                    annotations of her father's (Jay Furber Davenport) diaries, 1926-1937, that
+                    document Presbyterian mission work in Venezuela.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Kaltenborn, Helen</p>
+                <p>Accession number: 97 0404b|03 0320|03 0916b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Peter Segal papers <date type="inclusive">1926-2005</date>
+                        <date type="bulk"> 1980s-2000s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Peter Segal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2083</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-2005</unitdate>
+                <unitdate type="bulk"> 1980s-2000s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Peter Segal was born in 1949 in Philadelphia and graduated from Temple University
+                    with a bachelor's degree in Business Administration in 1971. He earned both a
+                    Master’s in Music History and a Doctorate of Musical Arts from Temple and
+                    received diplomas from the Accademia Chigiana and Conservatorio Antonio Vivaldi
+                    (Italy) and University of Santiago de Compostela (Spain). As Director of Guitar
+                    Studies at Temple University from 1973 to 1993, Segal mentored over 200 graduate
+                    and undergraduate students in preparation for careers in the musical arts. Segal
+                    was also taught at the University of the Arts from 1973 to 1991. Segal was a
+                    member of the Philadelphia Classical Guitar Society since its foundation in 1967
+                    and served as its President, Treasurer and Director of Programming.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of guitar scores and documentation related to
+                    Segal's research and performing career. Materials include: transcriptions,
+                    copies, and published guitar scores by others; photographs of Segal, framed
+                    photos and diplomas; press clippings and reviews; ephemera related to concerts;
+                    scores, correspondence and press materials related to Spanish composer Joaquin
+                    Rodrigo and Segal's transcription of some of his works; Segal's dissertation;
+                    video recordings of Segal's performances; miscellaneous audio recordings; and
+                    microfilm of a Vivaldi score.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

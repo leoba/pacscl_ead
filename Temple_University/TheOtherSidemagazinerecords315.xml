@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>The Other Side magazine records <date type="inclusive">1965-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">The Other Side magazine records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC315</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>36 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1965-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Other Side magazine, a progressive Christian publication that addressed
+                    social justice issues such as race, economic justice, gender, and gay and
+                    lesbian concerns, launched in 1965 as Freedom Now. It published its last issue
+                    in September 2004. The magazine was originally published by Anne and Fred
+                    Alexander, and edited for many years by Dee Dee Risher.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains administrative and editorial files, as well as printed
+                    and audio materials related to The Other Side and Freedom Now. Editorial, board,
+                    and office files date largely from mid 1990s to 2004. Editorial files include:
+                    meeting minutes and issue planning notes; author correspondence; contracts; some
+                    manuscripts; circulation printouts; subscription lists; an article processing
+                    manual and reprint request log; a notebook of manuscripts received, and several
+                    reader surveys. There are subject files on a number of topics, such as abortion,
+                    food, politics, prayer, spirituality, refugees, poverty, and transgender issues.
+                    Board records contain meeting minutes, notes, memoranda, and long range planning
+                    materials. Office files include budgets, staff meeting minutes, memoranda to
+                    staff, and planning records for events. There is a complete run of issues of
+                    both Freedom Now (1965-1969) and The Other Side (1969-2002), as well as
+                    microfilm of The Other Side, 1986-2003. The collection contains issues of a
+                    number of other independently published magazines, including The Post American,
+                    Second Stone, The Door, and Open Hands. The collection includes awards and
+                    plaques received by The Other Side, audio tapes of speeches and seminars, and
+                    some computer disks. Some files are from Dee Dee Risher.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1009</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

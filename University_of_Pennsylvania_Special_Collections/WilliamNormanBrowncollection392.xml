@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Norman Brown collection <date type="inclusive">1891-1982</date>
+                        <date type="bulk"> 1930s-1960s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Norman Brown collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC392</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-1982</unitdate>
+                <unitdate type="bulk"> 1930s-1960s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Norman Brown (1892-1975) founded the South Asia Studies department at the
+                    University of Pennsylvania, the first in the United States, in 1948. From 1916
+                    to 1919 Brown held the position of the Harrison Research Fellow at the Penn.
+                    After holding positions at Johns Hopkins and Prince of Wales College in Jammu,
+                    India, he returned to Penn to accept the chair of Sanskrit. He then steadily
+                    expanded South Asia educational offerings at the Penn, resulting in a full South
+                    Asia Studies department. He also organized the American Oriental Society in
+                    1926.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of South Asia-related materials created or collected by
+                    William Norman Brown. Materials include: manuscripts of articles and addresses
+                    on Indian politics, religion, language, and art; photographs and negatives of
+                    Sanskrit texts and illustrated manuscripts; photographs of W. Norman Brown;
+                    notes on South Asian linguistics and vocabulary; and notes on miscellaneous
+                    South Asian subjects. There is a small amount of correspondence with colleagues
+                    and publishers, including some letters from Ananda K. Coomaraswamy. There are
+                    also manuscript and typescript drafts of articles on U.S. foreign policy,
+                    possibly by Charles Henry Burr, a 1891 copy of Poet-Lore including an article by
+                    Burr, and two photographs, possibly of Burr.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 162</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Archives and Records Center: W. Norman Brown Papers (UPT
+                    50/B879).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

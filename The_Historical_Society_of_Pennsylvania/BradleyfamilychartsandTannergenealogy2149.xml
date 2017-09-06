@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bradley family charts and Tanner genealogy <date type="inclusive">1975-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bradley family charts and Tanner genealogy</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2149</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains information on the Tanner and Bradley families, though it
+                    is unclear whether the materials are related. Tanner material is comprised of a
+                    photostat of a genealogy of William Tanner, Sr., of South Kingston, Rhode Island
+                    and his descendents by Rev. George C. Tanner, Faribault, Minnesota with name
+                    index. Stamped with Genealogical Society of Church of Jesus Christ of Latter-Day
+                    Saints. There is also a photocopy of a handwritten Bradbury ancestry chart
+                    compiled by Carl F. Hinderer, March 1981. (The Bradburys and Tanners appear to
+                    be related.) Bradley family materials include two binders containing photostats
+                    of Bradley genealogical research, including data sheets and typed notes -
+                    affiliated families include Streeper, Bane, Caine, Copland, Cope, and Hannum,
+                    and the families are mainly from the Midwest, Philadelphia and West Chester,
+                    Pennsylvania. Most sources are cited. A third binder contains a photostat of a
+                    Bradley Family Genealogy compiled over many years by R. Maude Bradley, which
+                    includes ancestor charts, narrative, and datasheets.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

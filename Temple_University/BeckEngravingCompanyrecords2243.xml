@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Beck Engraving Company records <date type="inclusive">1892-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Beck Engraving Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2243</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1892-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Beck Engraving, inc. gained a national reputation for four color plate printing,
+                    the Bassani Halftone process, and became one of the first sheet-fed gravure
+                    plants in the U.S. Beck Engraving was incorporated in 1898 and the company
+                    expanded its operations to New York City in 1910.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The records of this New York/Philadelphia fine art printing firm span most of the
+                    20th century documenting the evolution of the business over time through ledgers
+                    (1902-1957), cash journals, insurance records, inventories and appraisals, audit
+                    reports, production reports, leases and contracts, tax returns and reports,
+                    pasteups, photographs of plant facilities and personnel, negatives, promotional
+                    materials, in-house mechanicals, block prints from Guatemalan artist, Carlos
+                    Sierra Franco, color prints of the work of Jules Guerin, and a group of 40
+                    French woodcuts published by H.C. Perleberg of Philadelphia. There is a small
+                    amount of correspondence from Charles W. Beck, Jr. and financial records from
+                    the Fidelity Appraisal Co., Penn Process Co., Inc., and Wolf and Company. An
+                    addition to the collection consists primarily of 20 copper printing
+                    plates--depicting early 19th cent. American battleships--and a box of early
+                    correspondence regarding the predecessor company, Philadelphia Photo-Engraving
+                    Co.; some company literature; and some photographs of the engraving-printing
+                    facilities.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

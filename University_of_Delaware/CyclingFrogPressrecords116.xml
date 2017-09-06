@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Cycling Frog Press records <date type="inclusive">1962-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Cycling Frog Press records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC116</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sam Antupit founded The Cycling Frog Press in 1960 in his basement in Pound
+                    Ridge, New York. He regularly produced booklets, announcements and other small
+                    items for friends and family. In 1994 he received an NEA grant that allowed him
+                    to travel the country recording various Native American storytellers then
+                    printing their tales in limited editions through Cycling Frog Press. For more
+                    than 40 years, Sam was a member of the Westchester Chappel, contributing a page
+                    to the yearly letterpress calendar produced by this collective of hobbyist
+                    printers.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to the Cycling Frog Press founded by Sam
+                    Antupit. Materials in the collection include: proofs and samples of work;
+                    broadsides, books, and keepsakes from various private presses and chappels; type
+                    specimen booklets and sheets; materials related to Bob Jones and the Glad Hand
+                    Press, including a wood printing block cut by John DePol; and photographs. The
+                    collection also includes materials related to a book project on Native American
+                    tales which was funded by the National Endowment for the Humanities.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Antupit</p>
+                <p>Year acquired: 8/12/2004</p>
+                <p>Accession number: 04-102</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

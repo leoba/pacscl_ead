@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Queen Mary's Dolls' House collection <date type="inclusive">1922-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Queen Mary's Dolls' House collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1424</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1922-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Princess Marie Louise, of the British Royal Family, conceived of the idea of
+                    creating a Dolls' House for Queen Mary (Consort of King George V). She asked Sir
+                    Edwin Lutyens to design it and contacted numerous authors and artists to create
+                    original miniature books and paintings for the Dolls' House. Rudyard Kipling
+                    wrote his "If" in miniature specially for that purpose. Intended also as a
+                    showcase for British craftsmanship, the dollhouse was originally exhibited at
+                    the British Empire Exhibition in 1924. It is on permanent display at Windsor
+                    Castle.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of letters relating to the production of miniature
+                    paintings, drawings, etchings, and texts for miniature volumes for Queen Mary's
+                    Dolls' House. The letters accompanied submissions for consideration by Princess
+                    Marie Louise; some of the more famous artists and authors writing to the
+                    princess include Bernard Partridge, Margaret Kemp Welch, Cecil Aldin, W. Heath
+                    Robinson, A. E. Houseman, Henry Holiday, W. Russell Flint, Adrian Stokes, and
+                    Marjorie Bowen. Drawings and paintings are not included in this collection. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hertha Kraus papers <date type="inclusive">1904-1968</date>
+                        <date type="bulk"> 1930-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hertha Kraus papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC854</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1904-1968</unitdate>
+                <unitdate type="bulk"> 1930-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hertha Kraus (1897-1968) was a German-American social worker and professor of
+                    social work at Bryn Mawr College. Kraus came to the United States in 1933 after
+                    she was dismissed by the Nazis from her position as Director of Public Welfare
+                    for the city of Cologne. In the 1930s and 1940s she was active in the refugee
+                    placement programs of the American Friends Service Committee. She joined the
+                    faculty of the Bryn Mawr Department of Social Economy and Social Research (later
+                    the School of Social Work) in 1936. She retired in 1963.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal and professional correspondence and other items
+                    relating to Kraus's activities as a social work educator and her involvement
+                    with refugee placement programs of the American Friends Service Committee. The
+                    collection includes her scholarly articles, course material notebooks, lecture
+                    notes, and social work bibliographies. Also included are Kraus's school records
+                    and a copy of her dissertation.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 70-8</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Eighth Street Wayside Mission records <date type="inclusive">1927-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Eighth Street Wayside Mission records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC960</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Eighth Street-Wayside Mission was the formed by the union of the Eighth
+                    Street M.E. Mission and Wayside Presbyterian Mission in 1927. It was conducted
+                    by a joint committee of ten: five Methodists and five Presbyterians. During the
+                    summer months, the Mission was supported by the Summer Evangelistic Committee,
+                    and during the rest of the year by the Trustees of the Presbytery of
+                    Philadelphia. The Mission conducted evangelistic meetings and street meetings, a
+                    Sunday school and welfare work for residents of the neighborhood.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains minutes of quarterly meetings, 1927-1946 of the Eighth
+                    Street-Wayside Mission Committee, which include reports by members of the
+                    committee, including the treasurer, and reports on the activities of the
+                    Mission; and legal documents, such as an agreement of union between Eighth
+                    Street M.E. Rescue Mission and Wayside Mission, 1927, and leases, 1948 and 1956.
+                    There are several printed reports of the Presbytery of Philadelphia, Committee
+                    on National Missions, 1936-1943, and also some correspondence about the merger
+                    of the two missions, 1927.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Philadelphia Presbytery</p>
+                <p>Accession number: 89 0105b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Summer Evangelistic Committee of Philadelphia Presbytery
+                    records (accessions 06 1212b and 05 0429b).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

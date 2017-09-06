@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Larry R. Thompson collection <date type="inclusive">1970-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Larry R. Thompson collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC625</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1970-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Larry R. Thompson is a genealogist who has done extensive research on Thompson
+                    families, especially in the midwestern United States.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection represents years of genealogical research conducted by Larry R.
+                    Thompson. Families investigated include, but are not limited to, Thompson,
+                    Kyner, Vanarsdale, Allison, Butler, and Sheperd. Thompson did his research at
+                    the Historical Society of Prnnsylvania, the Presbyterian Historical Society, the
+                    National Archives, several libraries in Richmond, and at the Mormon Family
+                    History Center in Broomall. The collection is in binders, spiral notebooks and
+                    loose papers. The materials include emails, photocopies from genealogical
+                    research sources, printouts of genealogical records, handwritten and typed
+                    correspondence, and photographs.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <famname encodinganalog="600">Kyner family.</famname>
+                <famname encodinganalog="600">Thompson family.</famname>
+                <persname encodinganalog="600">Thompson, Larry R.</persname>
+                <subject encodinganalog="650">Genealogy.</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2002.053</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

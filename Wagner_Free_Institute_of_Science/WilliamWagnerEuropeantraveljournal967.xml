@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Wagner European travel journal <date type="inclusive">1841-1842</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Wagner European travel journal</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC967</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1841-1842</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Wagner (1796-1885) was a philanthropist and naturalist. At the age of 16,
+                    he was apprenticed to the financier Stephen Girard. In 1816 he was sent as an
+                    assistant supercargo on a two-year trading voyage, during which he collected
+                    many shell, plant, and fossil specimens. After leaving Girard's employ, he went
+                    into business as a shipping merchant with Charles A. Snowden. This partnership
+                    was dissolved in 1825, and Wagner continued as a merchant in his own firm. He
+                    retired from business in 1840. In 1847, he began to deliver lectures on
+                    scientific topics, and, finding that interest in these lectures was strong,
+                    founded the Wagner Free Institute of Science in 1855.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of four travel journals kept by William Wagner during
+                    his two year honeymoon in Europe with his wife Louisa Binney Wagner. Volume 1
+                    contains entries for travel from Philadelphia to London and Manchester; volume 2
+                    contains material on Manchester, Dublin, Belfast, Hamburg, Berlin, Leipzig, and
+                    Dresden; volume 3 covers Prague, Vienna, Trieste, Greece, Rome, and Pompeii; and
+                    volume 4 contains entries for Florence, Leghorn, Geneva, Milan, Como, Zurich,
+                    Basel, Manheim, Strasbourg, and Paris. In the diaries Wagner describes his daily
+                    activities as well as various European sights and monuments in extensive detail.
+                    He also describes visits and conversations relating to the development of his
+                    collections. Volume 3 contains several loose and tipped in sketches of
+                    architectural features, boxes, and furniture, as well as a color drawing based
+                    on an artist's rendition of the eruption of Mount Etna. Two loose items from a
+                    later period are in the back of volume 4: an exchange agreement from the
+                    Academie Imperiale de Metz from 1857 and a short Philadelphia Inquirer article
+                    about the Wagner Free Institute of Science from 1955.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89-005</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: the Robert Chambers collection (90-015) (Box 5, folder 61) contains
+                    a series of letters of introduction given to William Wagner for his honeymoon
+                    trip to Europe in 1841-1842. The William Wagner personal papers (89-010)
+                    contains Wagner's handwritten lists that mention contacts for fossils in
+                    Europe.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

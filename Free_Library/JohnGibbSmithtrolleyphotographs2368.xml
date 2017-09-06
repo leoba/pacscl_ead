@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Gibb Smith trolley photographs <date type="inclusive">1889-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Gibb Smith trolley photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2368</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1889-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Gibb Smith, Jr. (d. 1958) was the grandson of Charles E. Smith (1820-1900),
+                    a president of the Philadelphia &amp; Reading railroad. John Gibb Smith, Jr.
+                    collected images of Philadelphia's transit system, primarily trolleys, and
+                    donated his collection to the Free Library in 1946.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The John Gibb Smith Collection consists of over a thousand photographs that give
+                    a comprehensive overview of Philadelphia's transit system during the first third
+                    of the 20th century. Most of the photographs in the collection are of trolleys;
+                    almost every type of car that operated in the city between the 1890s to the
+                    early 1940s is represented. Many of the views are street scenes that also
+                    feature people, businesses, and homes. Most were taken during the Philadelphia
+                    Rapid Transit period (1902-1940), but some show the equipment of its
+                    predecessors (including a few horse cars). There are also prints of subway cars
+                    and Philadelphia Rapid Transit non-passenger equipment. The transportation
+                    portion of the collection is rounded out by pictures of both city and suburban
+                    trackage and a series of photographs showing the construction of the Market
+                    Street subway-elevated line. There are also some pamphlets, newsletters,
+                    newspaper clippings, and loose negatives.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.freelibrary.org/pix/trolleys/index.htm">http://www.freelibrary.org/pix/trolleys/index.htm</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Philadelphia Transportation Collection and Dr. Harold E. Cox
+                    Transportation Collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

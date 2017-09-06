@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>M. Carey Thomas estate papers <date type="inclusive">1913-1967</date>
+                        <date type="bulk"> 1935-1938</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">M. Carey Thomas estate papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1418</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1913-1967</unitdate>
+                <unitdate type="bulk"> 1935-1938</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Martha Carey Thomas (1857-1935) received her bachelor's degree from Cornell
+                    University in 1877. She did graduate work at Johns Hopkins University, the
+                    University of Leipzig, and the University of Zurich where she earned a Ph.D. in
+                    linguistics, in 1882. In 1884, Thomas became dean of the college and chair of
+                    English at the new Bryn Mawr College for women. In 1894, the first president of
+                    the college, James Rhoads, retired, and Thomas was narrowly elected to succeed
+                    him. She was president until 1922 and remained as Dean until 1908. In 1908, she
+                    became the first president of the National College Women's Equal Suffrage
+                    League. She was also a leading member of the National American Woman Suffrage
+                    Association. After 1920 she advocated the policies of the National Woman's
+                    Party. She was one of the early promoters of an equal rights amendment to the
+                    U.S. Constitution. Thomas lived for many years in a close relationship with her
+                    friend and housemate Mamie Gwinn. After Gwinn left Thomas in 1904 to marry,
+                    Thomas took up housekeeping with the philanthropist Mary Garrett, with whom
+                    Thomas shared the campus home, living together until Garrett's death. Thomas
+                    died in Philadelphia, Pennsylvania. She is buried on the Bryn Mawr College
+                    campus in the cloisters of the Thomas Library.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes documents pertinent to the settlement of M. Carey
+                    Thomas's estate. In addition, there are accounts and other records relative to
+                    the estates of Mary E. Garrett and Edith Lowber, Garrett County, Maryland,
+                    properties, and to the Thomas family summer cottage, Coombe Edge.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College: M.
+                    Carey Thomas papers and Mary E. Garrett papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

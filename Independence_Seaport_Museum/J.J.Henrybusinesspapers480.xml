@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. J. Henry business papers <date type="inclusive">1954-1967</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. J. Henry business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC480</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1967</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J.J. Henry Co., were a New York naval architecture firm. The firm designed the
+                    naval icebreaker Glacier, and helped develop a fleet of ships to take liquefied
+                    gas from Algeria to London and from the Persian Gulf to Tokyo. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Collection of papers of J.J. Henry Co. Materials include black and white
+                    photographs of ships designed by J.J. Henry Co. Images show construction,
+                    launches, and trial trips. Ships include: Potomac (rebuilt and renamed
+                    Shenandoah), Baune, David P. Reynolds, and Rio San Juan. The collection also
+                    includes a small number of photographs and negatives of company executives and
+                    employees. Other items in the collection include: a brief history of the
+                    company; biographical sketches of officers and employees of the company, 1967;
+                    applications packets for listing on the Bureau of Ship Bidders list of firms
+                    qualified to render design services, 1954; notes and drafts for J.J. Henry Co.
+                    newsletters; a brochure for the Joseph H. Thompson, miscellaneous newsletters
+                    and shipbuilding publications; two copies of a heat balance and flow diagram by
+                    the company; and two reels of 16mm film (no sound) of seakeeping tests of a
+                    mariner vessel and conversion, 1970. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Biographies.</genreform>
+                <genreform encodinganalog="655">Motion pictures.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1988.55</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

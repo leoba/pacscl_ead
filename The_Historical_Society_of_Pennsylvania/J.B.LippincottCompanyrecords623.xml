@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J.B. Lippincott Company records <date type="inclusive">1855-1958</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J.B. Lippincott Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC623</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>140 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-1958</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. B. Lippincott &amp; Co. was an American publishing house founded in
+                    Philadelphia, Pennsylvania in 1836 by Joshua B. Lippincott. Joshua Lippincott's
+                    company began by selling Biblesand other religious works then successfully
+                    expanded into trade books, which became the largest portion of the business. In
+                    1849, Lippincott acquired Grigg, Elliot &amp; Co., a major book distribution
+                    company. The acquisition helped make the company one of the largest publishers
+                    in the United States. In the 1950s the company began producing a successful line
+                    of medical and nursing books and journals. The company was sold to Harper &amp;
+                    Row in 1978 but Joshua Lippincott's great-grandson Joseph Wharton Lippincott,
+                    Jr. remained on the Board of Directors until 1987. In 1990, the company was
+                    acquired by Wolters Kluwer, who merged it with Raven Publishers and then with
+                    Williams &amp; Wilkins to form Lippincott Williams &amp; Wilkins in 1998.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of business records documenting over 100 years of the
+                    company's history. The largest portion of the collection is a series of
+                    letterbooks containing outgoing correspondence related to all aspects of the
+                    publishing operation, from soliciting advertising magazines to negotiating
+                    author contracts. Several dozen letterbooks contain incoming correspondence from
+                    Lippincott's London Agency. Much of the rest of the collection consists of a
+                    variety of financial records, including general ledgers, receipt books, cash
+                    disbursement books, and payroll records. Publication costs and sales are
+                    documented through stock cards, royalty payment records, and order and inventory
+                    volumes. The collection includes several manuscripts for publications, and some
+                    original artwork and illustrations. There are also boxes of books published by
+                    Lippincott, including the Annals of Surgery.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2002.036</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.hsp.org/files/3104lippincottinventory.pdf">http://www.hsp.org/files/3104lippincottinventory.pdf</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

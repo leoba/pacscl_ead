@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Maybell Sammons Hayes papers <date type="inclusive">1925-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Maybell Sammons Hayes papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC956</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Maybell Sammons Hayes (1895-1981), a medical missionary of the PCUSA, graduated
+                    from Grove City College in 1919 and from Woman's Medical College in 1923.
+                    Appointed to the India Mission in 1924, Dr. Hayes served at the Fatehgarh
+                    Hospital from 1925-1927. From 1927 through 1960, she served as a physician on
+                    the staff of the Allahabad Agricultural Institute where her husband, Brewster
+                    Hayes, was head of the Institute's Horticulture Department. In 1960, she was
+                    sent to the Punjab Synod where she served on the staff of the Ludhiana Christian
+                    Medical School until 1962. She was enrolled as a Peace Corps volunteer from 1965
+                    through 1967 and served with the Department of Social and Preventative Medicine,
+                    SMS, Medical College, Jaipur, Rajasthan. From 1967 until her return to the U.S.
+                    in 1970 she served in Naila, a village in the Jaipur District, where she
+                    conducted general clinic work and lectured at the Health Center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is of a scrapbook of photos related to Maybell Hayes' work in
+                    India, 1955-1959, including photographs of rural clinics of Jumna Dispensaries,
+                    1944; staff and patients of dispensaries; Hayes working with patients; Nehru
+                    visiting Extension Project, 1955; and possibly photos of Hayes' husband in
+                    Riverside, California, 1957. The collection also includes several loose
+                    photographs, including staff and students of the Allahabad Agricultural
+                    Institute, 1951; a 1925 group photograph of staff of the Jumna Dispensaris; 1944
+                    photographs of the Jumna Dispensaries at the Agricultural Institute; and a 1933
+                    group photo of Allahabad Christian College bible teachers and Jumna Church
+                    Sunday school teachers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 88 0407c</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Maybell Sammons Hayes papers (RG 182).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

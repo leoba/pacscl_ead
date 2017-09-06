@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Academy of Dermatology records <date type="inclusive">1936-1980</date>
+                        <date type="bulk"> 1960s-1970s </date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Academy of Dermatology records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2279</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1980</unitdate>
+                <unitdate type="bulk"> 1960s-1970s </unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Academy of Dermatology, a society of American dermatologists, was
+                    founded in 1938. The organization's original name, the American Academy of
+                    Dermatology and Syphilology, was changed to its current form in 1961 when the
+                    Academy incorporated. The Academy's mission has been and still is educational,
+                    although the organization also offers placement services to its members and
+                    maintains statistics regarding its membership and the specialty in general. The
+                    organization holds an annual meeting. In 1979, the Academy began publication of
+                    the medical periodical Journal of the American Academy of Dermatology, which
+                    remains in publication.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the American Academy of Dermatology. Materials
+                    include: correspondence, minutes, agendas, and reports of the board of
+                    directors, the council of the National Program for Dermatology, and from various
+                    AAD task forces; correspondence of successive incumbents of the offices of
+                    Secretary-Treasurer, Historian, and Director of National Program for
+                    Dermatology; biographies and obituaries of members; and histories of the
+                    organization. The collection also includes information on the 1975
+                    reorganization of the Academy and 40th anniversary issues of the Bulletin of the
+                    AAD. AAD officers represented in the collection include John M. Knox, Richard C.
+                    Gibb, Robert D. Hamilton, Peyton Weary, and Lawrence C. Parish. The section of
+                    Gibb papers includes editorial files from his tenure as editor of the
+                    International Journal of Dermatology. Other items in the collection are: framed
+                    and unframed photographs of dermatologists; a notebook of photographs of culture
+                    studies from the collection of Sabouraud; photographs of patients with
+                    dermatologic conditions by Henry W. Stelwagon; illustrations and descriptions
+                    from a text on skin conditions; and a small number of reprints, illustrations,
+                    and clippings on dermatology and dermatologists (1930s-1970s).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: American Academy of Dermatology collection of biographical
+                    records regarding dermatologists (MSS 3/0023-01) and Lawrence Parish papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

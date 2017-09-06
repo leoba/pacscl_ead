@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clair Wilcox papers relating to international trade <date type="inclusive">1944-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clair Wilcox papers relating to international
+                    trade</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC777</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clair Wilcox (1898-1970) was on the faculty of Swarthmore College from 1927 to
+                    1968 and chaired the Department of Economics for 37 years. Professor Wilcox was
+                    a distinguished economist who authored six books and, perhaps most notably,
+                    chaired the International Trade Conference, which led to the General Agreement
+                    on Tariffs and Trade (GATT), the predecessor of today's World Trade Organization
+                    (WTO).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of memos and reports related to the negotiations for an
+                    international trade organization which led to the General Agreement on Tariffs
+                    and Trade. The materials include drafts of tariff proposals and a draft of a
+                    trade agreement charter, preliminary and followup reports on the negotiations,
+                    and a copy of a memorandum from the Department of State to President Truman
+                    asking his approval for tariff cuts negotiated at the Geneva conference, along
+                    with dissents submitted by other government agencies. There is also a transcript
+                    of Wilcox's testimony to the State Department about the 1947 meeting in Geneva
+                    of the Committee for an International Conference on Trade and Employment and a
+                    copy of the official report of the U.S. Delegation to this meeting.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 35</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

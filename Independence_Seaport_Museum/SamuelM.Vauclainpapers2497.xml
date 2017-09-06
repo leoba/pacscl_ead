@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel M. Vauclain papers <date type="inclusive">1869-1930</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel M. Vauclain papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2497</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1869-1930</unitdate>
+            </did>
+
+            <bioghist>
+                <p>USS Periwinkle (1864) was a steamer procured by the Union Navy during the final
+                    months of the American Civil War. She served the Union Navy’s struggle against
+                    the Confederate States of America as a patrol gunship. USS Standish was an
+                    iron-hulled screw tug built at Boston in 1864, completed too late for service in
+                    the American Civil War. After completing her trials in January 1866, the ship
+                    was laid up at Norfolk until 1871 when she was placed in service at the Norfolk
+                    Navy Yard. She was sold on 5 August 1921 to B. Wever &amp; Sons, Baltimore, Md.
+                    Samuel Matthews Vauclain (1856 -1940) was a lifelong employee of the Baldwin
+                    Locomotive Works Company. He was a locomotive manufacturer, inventor, salesman,
+                    and international businessman. One of his many achievements was the invention of
+                    the compound locomotive in 1889. His brother James L. Vauclain (1838 and 1874)
+                    was 1st Assistant Engineer on the USS Periwinkle and the USS Standish. In 1861,
+                    James L. Vauclain a mechanic for the Lafayette and Indianapolis Railroad,
+                    patented a locomotive smokestack that saved fuel and increased power by means of
+                    a moveable throat that could be controlled by the engineer, and by employing a
+                    smaller stack from which ashes and dust would be thrown higher.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Vauclain family. Materials include: logbook
+                    of USS Periwinkle &amp; USS Standish, 1869-1870; certificate of appointment of
+                    James L. Vauclain as 3rd Assistant Engineer, US Navy; passports for Samuel M.
+                    Vauclain, Anna Vauclain and her children; certificates of appointment of Samuel
+                    M. Vauclain as member of the Pennsylvania Commission to construct a bridge over
+                    the Delaware River; and a small collection of correspondence between Matthew
+                    Branch, president of American International Shipbuilding Corporation and Samuel
+                    M. Vauclain and his daughter Constance regarding her sponsorship of the Quaker
+                    City, which was launched in 1919.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Periwinkle (Steamer)</corpname>
+                <corpname encodinganalog="610">Standish (Tug)</corpname>
+                <genreform encodinganalog="655">Certificates.</genreform>
+                <genreform encodinganalog="655">Passports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

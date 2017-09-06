@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marshall Clagett papers <date type="inclusive">1937-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marshall Clagett papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1237</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>18.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marshall Clagett (1916-2005) was one of the world's leading historians of
+                    medieval science, in particular the work and influence of Archimedes. He
+                    received his bachelor's and master's degrees from George Washington University,
+                    and his Ph.D. in history from Columbia University. From 1947 to 1964, he was a
+                    professor of the History of Science and later Vilas Research Professor at the
+                    University of Wisconsin, where he also directed the Institute for Research in
+                    the Humanities for six years. From Wisconsin, he went to the Institute for
+                    Advanced Study in Princeton, New Jersey, where he was a professor in the School
+                    of Historical Studies. He was the author of more than a dozen volumes on the
+                    history of science and mathematics. His major work was the five-volume
+                    Archimedes in the Middle Ages, published over 20 years starting in 1964. His
+                    more recent scholarship focused on science in ancient Egypt. He was a fellow of
+                    the Medieval Academy of America, past president of the History of Science
+                    Society, and a member and former vice president of the American Philosophical
+                    Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of Marshall Clagett. Materials
+                    include: incoming and outgoing correspondence with colleagues and publishers;
+                    research notes, including photostats, photographs, and transcriptions of source
+                    material; articles and reprints; drafts of Clagett's manuscripts; course
+                    handouts; and correspondence and minutes from various professional organizations
+                    and societies, including the American Philosophical Society and the History of
+                    Science Society. The collection includes a small number of personal papers,
+                    including correspondence regarding Clagett's academic appointments and housing
+                    arrangements and a few receipts.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Science--Egypt--History.</subject>
+                <subject encodinganalog="650">Science--History.</subject>
+                <subject encodinganalog="650">Science, Medieval.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: M2006-04</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

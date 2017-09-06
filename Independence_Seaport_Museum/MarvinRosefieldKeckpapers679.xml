@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marvin Rosefield Keck papers <date type="inclusive">1916-1972</date>
+                        <date type="bulk"> 1916-1920</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marvin Rosefield Keck papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC679</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1972</unitdate>
+                <unitdate type="bulk"> 1916-1920</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marvin Rosefield Keck, (1895-1971) was born in Odebolt, Iowa. During World War I,
+                    Keck enlisted in the Navy and was assigned to Admiral Niblack's Flagship Band of
+                    the Mediterranean Fleet. During the summer of 1919, the fleet was sent to the
+                    Adriatic Sea to sweep mines, and the band played concerts in the Balkan States
+                    and Italy. Later in the year, the Flagship Olympia was sent to the Black Sea to
+                    inspect ports of Asia Minor. The band played concerts in Constantinople and many
+                    other ports. In 1920, Keck married his wife Ethel. In 1921 the Kecks moved to
+                    Onida, South Dakota, where Marvin served as the Register of Deeds and Justice of
+                    the Peace. While living in Onida, Keck organized a children's band called Keck's
+                    Kornet Kids. The Kecks moved to Rapid City in 1934, and Marvin served as a
+                    member of the police force for one year before opening a dry cleaning business,
+                    which he ran until 1938, when he went to work for the Post Office. Keck directed
+                    the Rapid City Post Drum and Bugle Corps, and helped to organized the (South
+                    Dakota) State Legion Band, was a member of the Rapid City Municipal Band and the
+                    Rapid City Symphony Orchestra, and played bugle for many military funerals. Keck
+                    was also a member of the American Legion. He died in 1971. USS Olympia
+                    (C-6/CA-15/CL-15/IX-40) was a protected cruiser in the United States Navy during
+                    the Spanish-American War. She is most notable for being the flagship of
+                    Commodore George Dewey at the Battle of Manila Bay. Olympia continued in service
+                    throughout World War I and was decommissioned in 1922. As of 2008, she is a
+                    museum ship at the Independence Seaport Museum in Philadelphia,
+                    Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Marvin Rosefield Keck. The collection includes
+                    letters sent to Ethel (who would become his wife) from 1916 to 1920, along with
+                    typed transcripts of those letters. The letters describe Keck's daily life
+                    during training and then as a sailor and musician in the Flagship Band. There
+                    are several scrapbooks and photo albums of Keck's Navy service, 1917-1920. The
+                    albums include commercial postcards and photo postcards from the fleet's voyages
+                    to the Mediterranean, the Adriatic Coast, and the Balkans; photographs of
+                    members of the Flagship Band and other sailors; a few images that appear to be
+                    earlier photographs of Keck and his family; currency; band programs; calling
+                    cards; and other ephemera. Notable among the items in the collection are a set
+                    of diaries kept by Keck during his service. The diary entries are brief daily
+                    descriptions of training, life aboard the Olympia, and the many concerts played
+                    by the band. A printed transcript of diaries and a copy of the transcript on CD
+                    are kept with the collection. Also of note are a series of cartoons on political
+                    and naval topics drawn by Keck for a cartooning correspondence course; as well
+                    as an instruction booklet from the W.L. Evans School of Cartooning of Cleveland,
+                    OH. Many of Keck's cartoons are annotated with comments by his instructor. The
+                    collection also includes an undated typescript autobiography by Keck; a
+                    typescript of Keck's spoof of a war diary, entitled Ezekel's War Diary;
+                    typescripts of talks by Keck; photos, news clippings, and programs related to
+                    musical groups Keck directed or participated in; and letters related to Keck's
+                    nomination as Civil Servant of the Year in Rapid City (of which he was a
+                    co-winner).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Olympia (Cruiser) </corpname>
+                <genreform encodinganalog="655">Autobiographies.</genreform>
+                <genreform encodinganalog="655">Cartoons (Humorous images)</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Speeches.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2006.24</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

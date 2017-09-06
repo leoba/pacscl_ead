@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Miscellaneous maps and rolled items <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Miscellaneous maps and rolled items</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2173</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of reproductions and reprints of historical and
+                    contemporary maps of Pennsylvania and New Jersey. There are also a few other
+                    items, such as a Lovell family tree, some blank genealogical charts, and a
+                    reproduction of the Declaration of Independence. Maps include: Frankford,
+                    Pennsylvania, 1878 (photocopy); Philadelphia by Benjamin Eastburn, 1776
+                    (photocopy); Philadelphia, 8th Ward, and 23rd Ward, J. L. Smith Company, circa
+                    1960; Philadelphia, 23rd Ward; Philadelphia to Tinicum Island, Henry D. Paxson,
+                    1926; Chester County Map by James Hindman, 1816 (reprint); Pictorial Map of
+                    Historic Delaware County, 1976; Plan of the Operations of General Washington
+                    against the King's Troop in New Jersey, 1777 (reprint from 1968); West Chester
+                    Quadrangle, by Chester County Planning Commission (U.S. Geological Survey),
+                    1966; Map of Some of the South and Eastbounts of Pennsylvania (reprint of early
+                    map, probably late 17th Century showing trees and waterways); Plan of the Town
+                    and Harbor of Boston, 1775 (facsimile of original at Yale); Pilgrim Anniversary
+                    Print, 1970; Satellite Map of New Jersey (U.S. Geological Survey); Map of the
+                    Township of Birmingham showing the original grants (Bucks County); Historama of
+                    Colonial New Jersey, 1962; Map of the Historic Main Line (1979 reprint of 1953)
+                    and advertisement for map; Road Map of Bedminster Township, 1966 (Bucks County);
+                    and Map of East Bradford and West Bradford, 1912 (Chester County) (reproduction
+                    of original map).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

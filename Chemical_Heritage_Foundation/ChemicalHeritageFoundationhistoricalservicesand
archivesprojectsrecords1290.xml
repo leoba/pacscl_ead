@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chemical Heritage Foundation historical services and archives
+                        projects records <date type="inclusive">1985-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chemical Heritage Foundation historical services and
+                    archives projects records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1290</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1985-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1982, the Center for the History of Chemistry (CHOC) was launched as a pilot
+                    project of the University of Pennsylvania and the American Chemical Society
+                    (ACS). In 1987 CHOC was incorporated as a not-for-profit organization, now named
+                    the National Foundation for the History of Chemistry, by joint action of the ACS
+                    and AIChE, the Center's third sponsor. In 1992 the Chemical Heritage Foundation
+                    (CHF) assumed its present name to better reflect the interdisciplinary nature of
+                    the sciences and industries it serves and the widening public scope of its
+                    activities.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the Chemical Heritage Foundation's
+                    historical services and archives projects. These records pertain primarily to
+                    CHF's Biomolecular Sciences Initiative (BIMOSI) -- a project designed to
+                    document contemporary history of the life sciences by conducting oral histories
+                    with molecular biologists, coordinating archival planning, exploring historical
+                    questions raised by the development of molecular biology, and encouraging
+                    scientists to donate their papers to appropriate repositories. BIMOSI was funded
+                    by grants from the Mellon Foundation and the National Historical Publications
+                    and Records Commission. Its particular focus was on documenting the Human Genome
+                    Project. BIMOSI records (1985-1996) include: correspondence to scientists and
+                    institutions urging participation, information on document preservation
+                    strategies, articles and reprints on archives and archival methods, lists of
+                    scientists in molecular biology, notes from internal meetings on the project,
+                    including the Archival Advisory Committee, grant proposals and progress reports.
+                    The collection also includes papers (1998-2000) of Leo Slater. Slater is an
+                    historian of science who was CHF's Director of Historical Services. These
+                    materials include: memos, agendas and other records from meetings revolving
+                    around different historical projects, many of them undertaken with divisions of
+                    the American Chemical Society.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

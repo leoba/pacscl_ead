@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Phillips P. Moulton Woolman research papers <date type="inclusive">1966-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Phillips P. Moulton Woolman research papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC804</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Phillips P. Moulton (b. 1909) was a Quaker scholar who edited The Journal and
+                    Major Essays of John Woolman, published by Oxford University Press in 1971 as an
+                    edition of its Library of Protestant Thought. He was a professor at Adrian
+                    College.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of Moulton's note cards, correspondence (primarily with
+                    Henry J. Cadbury), photocopies, and other papers related to the editing of John
+                    Woolman's writings. The collection also contains microfilm of Mss A &amp; B of
+                    Woolman's Journal from the Historical Society of Pennsylvania.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Cadbury, Henry Joel, 1883-</persname>
+                <persname encodinganalog="600">Woolman, John, 1720-1772.</persname>
+                <subject encodinganalog="650">Society of Friends--Controversial
+                    literature.</subject>
+                <genreform encodinganalog="655">Microforms</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 5623</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Friends Historical
+                    Library, Swarthmore College: Woolman research papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

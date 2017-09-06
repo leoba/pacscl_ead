@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>L.A. Post papers <date type="inclusive">1875-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">L.A. Post papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC1471</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Levi Arnold Post (1889-1971) was a Greek scholar and taught at Haverford College
+                    from 1919 to 1958. His wife was to Grace H. Lickely Post (1896-1999). He is the
+                    author of From Homer to Menander: Forces in Greek Poetic Fiction and The Vatican
+                    Plato and Its Relations. He was an Editor and Secretary-Treasurer of the
+                    American Philological Association, and later served as the Association's
+                    President. He was an editor of the Loeb Classics Library from 1940 to 1967.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of L.A. Post. Materials include:
+                    offprints by Post and other scholars, many of them with presentation
+                    inscriptions to Post; journals and books; notes, typescripts, and galley proofs
+                    of articles; correspondence with fellow scholars, editors, and publishers;
+                    lecture notes; and photographs of a student production of a Greek drama. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Philological Association.</corpname>
+                <subject encodinganalog="650">Greek literature--Study and teaching.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Galley proofs</genreform>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

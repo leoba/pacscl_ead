@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dean A. Wood papers <date type="inclusive">1971-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dean A. Wood papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC180</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Monte Carlo Integration Computer (MCIC) is a special purpose digital computer
+                    that utilizes the Monte Carlo integration method for simulating dynamic
+                    equilibrium and rate processes. The computer was designed for instructional
+                    purposes to allow chemistry students to simulate these processes at both the
+                    macroscopic (concentration of species) and microscopic (atomic and molecular)
+                    levels. The MCIC was originally developed in 1970-72 through a dissertation
+                    study at Temple University by Dean A. Wood under the direction of Frank X.
+                    Sutman. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Dean Wood's 1971 Temple University doctoral thesis,
+                    entitled "The Monte Carlo Integration Computer as an Instructional Model for
+                    the Simulation of Equilibrium and Kinetic Chemical Processes: The Development
+                    and Evaluation of a Teaching Aid," and a binder entitled "Monte Carlo
+                    Integration Computer: Data collection and graphical dispay of concentration vs.
+                    time relationships for various rate and equilibrium processes as simulated by
+                    the Monte Carlo Integration Computer."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: D.W.</p>
+                <p>Accession number: 05:104.001</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

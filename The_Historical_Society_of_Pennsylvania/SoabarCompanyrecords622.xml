@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Soabar Company records <date type="inclusive">1912-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Soabar Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC622</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1912-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>According to a financial report in the collection, the Soabar Company was formed
+                    in 1912 as H. G. Davis Manufacturing Co. The company was formed for the purpose
+                    of "manufacturing, selling, and leasing machinery, tags, tickets, and labels."
+                    The company was originally located on Frankford Avenue. Subsequent locations
+                    were also in the Frankford area. In 1920 the stockholders changed the name to
+                    Soabar Co. This name is apparently based upon the invention of the sew-ticketing
+                    machine. The company did a great deal of business with clothing retailers,
+                    including Strawbridge &amp; Clothier , John Wanamaker, Gimbels, and Montgomery
+                    Ward &amp; Co.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes records for the Soabar Company and several subsidiary
+                    companies that eventually merged into Soabar, namely: Joseph J. Stone &amp; Co.
+                    (1939-1965), Dixie Tag &amp; Envelope Company (1940s-1950s), Rotag Manufacturing
+                    Corporation (1950s), and Robinson Tag &amp; Label Co. (1953-1962). There are
+                    also records for the Soabar GmbH (1960s-1976), a German subsidiary. The
+                    collection includes minutes of executive committees and boards of directors,
+                    charters and bylaws,financial records, patents, documentation of the Company's
+                    1968 merger with Avery, and records on product liability litigation. There is
+                    also extensive photographic documentation of staff members, board of directors
+                    members, products, company events, and factory buildings, as well as promotional
+                    materials, label samples, brochures for ticketing machines, company newsletters,
+                    and a scrapbook.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Avery Dennison Corporation.</corpname>
+                <corpname encodinganalog="610">Avery Soabar.</corpname>
+                <corpname encodinganalog="610">H. G. Davis Manufacturing Company </corpname>
+                <corpname encodinganalog="610">Soabar Company </corpname>
+                <persname encodinganalog="600">Soabar GmbH</persname>
+                <subject encodinganalog="650">Manufacturing
+                    industries--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Ticket printing machines.</subject>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2002.008; 2004.066</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

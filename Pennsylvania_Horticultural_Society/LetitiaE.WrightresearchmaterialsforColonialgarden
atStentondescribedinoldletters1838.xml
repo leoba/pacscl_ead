@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Letitia E. Wright research materials for "Colonial garden at
+                        Stenton described in old letters" <date type="inclusive">1911-1921</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Letitia E. Wright research materials for "Colonial garden
+                    at Stenton described in old letters"</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1838</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1921</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mrs. William Redwood Wright was born Letitia Ellicott Carpenter on April 7, 1861.
+                    She was the daughter of George Washington Carpenter and Mary Rodman Fisher, and
+                    was a direct descendent of James Logan, who left England in the late seventeenth
+                    century to settle in the colonies as William Penn’s Chief Secretary and
+                    Counselor. She was an expert on wildflowers, and was involved in several
+                    horticultural and conservation organizations, including the First Garden Club of
+                    Philadelphia, of which she was a charter member. She is noted for her careful
+                    study and restoration of the Stenton Garden, originally planted by James Logan.
+                    Her monograph, "Colonial Garden at Stenton described in Old Letters," was
+                    published by the Site and Relic Society of Germantown in 1915.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of typescript research notes, transcripts of letters, and
+                    drafts of Letitia E. Wright's article on James Logan and the gardens at Stenton.
+                    Included are transcripts of letters between John and Anna Blackburne and James
+                    Logan, and between John Forthergill and William Logan, and transcripts of plant
+                    and seed lists. There are various drafts and fragments of drafts of Wright's
+                    article, "Colonial Garden at Stenton described in Old Letters." The collection
+                    also includes a mounted photo-reproduction of a letter from Anna Blackburne,
+                    notebooks kept by Wright during her research for this article, a typescript list
+                    of botanical books in the Logan Library, lists of plants at other gardens,
+                    manuscript and typescript descriptions of plants, and a manuscript transcription
+                    of A Catalogue of the Plants in the Garden of John Blackburne, Esq.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Gardens--History--18th century.</subject>
+                <subject encodinganalog="650">Gardens--United States--History.</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Logan family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

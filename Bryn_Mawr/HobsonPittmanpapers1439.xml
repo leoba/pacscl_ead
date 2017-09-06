@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hobson Pittman papers <date type="inclusive">1929-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hobson Pittman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1439</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.85 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hobson Pittman (1899-1972) grew up in North Carolina and moved to Pennsylvania
+                    when he was 18. He attended Pennsylvania State College, studied at the Carnegie
+                    Institute of Technology, and for a number of years spent his summers at the art
+                    colony in Woodstock, New York. He was made director of art at the Friends
+                    Central Day School near Philadelphia in 1931, taught in the summer school at the
+                    Pennsylvania State University from 1932 to 1965, and, in 1949, became a member
+                    of the faculty at the Pennsylvania Academy of the Fine Arts. A painter as well
+                    as a teacher, Pittman won numerous prizes and awards for his art and his
+                    paintings hang in many museums, including the Metropolitan Museum of Art, the
+                    Whitney Museum of American Art, and the North Carolina Museum of Art.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the scrapbooks and correspondence of Hobson Pittman
+                    (1929-1966) and papers related to the Hobson Pittman estate and the Friends of
+                    the Hobson Pittman House (1979-1989). The scrapbooks include newspaper
+                    clippings, magazine articles, and brochures for exhibitions. Correspondence is
+                    with friends and family, students, galleries, and art dealers. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College
+                    Collections holds some of Pittman's paintings.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

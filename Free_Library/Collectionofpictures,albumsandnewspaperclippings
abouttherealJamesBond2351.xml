@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Collection of pictures, albums and newspaper clippings about the
+                        real James Bond <date type="inclusive">1927-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Collection of pictures, albums and newspaper clippings
+                    about the real James Bond</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2351</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Bond (1900-1989) was a leading American ornithologist. Bond was born in
+                    Philadelphia and worked at the Academy of Natural Sciences, rising to become
+                    curator of birds. He was an expert in Caribbean birds and wrote the definitive
+                    book on the subject: Birds of the West Indies, first published in 1936. Bond won
+                    the Institute of Jamaica's Musgrave Medal in 1952; the Brewster Medal of the
+                    American Ornithologists Union in 1954; and the Leidy Medal of the Academy of
+                    Natural Sciences in 1975. Author Ian Fleming appropriated his name for his
+                    fictional spy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the ornithologist James Bond.
+                    Scrapbooks in the collection consist of letters, photos, and clippings, from
+                    1953 to 1991. Included are items related to the fictional James Bond, James
+                    Bond's work as an ornithologist, Mary Bond's published works and her articles in
+                    local newspapers and newsletters, the awarding of the Leidy medal to James Bond,
+                    and the death of James Bond. The collection also includes: correspondence of
+                    Mary W. Bond from editors, publishers and fans; correspondence between Mary Bond
+                    and Ian Fleming's secretary; royalty statements; photographs of Bond and his
+                    wife, including a photograph of James Bond meeting Ian Fleming; an audio tape of
+                    Mary Bond being interviewed by the BBC in 1966; and correspondence with several
+                    students, historians, and collectors of Bondiana. Manuscripts by Mary Bond
+                    include a published copy and advance proofs of How 007 Got His Name; and
+                    publisher's proofs of To James Bond with Love. There is also a typescript of The
+                    Private World of James Bond by David Contosta. Personal Bondiana (unrelated to
+                    007) includes: gun and collecting permits, lists of awards, a map showing the
+                    "Bond Line" in the Caribbean, Bond's curriculum vitae, reviews of Bond's Birds
+                    of the West Indies, reprints of ornithological articles by Bond miscellaneous
+                    clippings, a photograph of Bond skinning a bird and a small die-cast metal model
+                    of an Aston Martin.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: James Bond papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

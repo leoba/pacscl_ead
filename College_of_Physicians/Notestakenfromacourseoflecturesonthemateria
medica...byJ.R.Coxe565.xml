@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Notes taken from a course of lectures on the materia medica...by
+                        J.R. Coxe <date type="inclusive">1824-1825</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Notes taken from a course of lectures on the materia
+                    medica...by J.R. Coxe</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC565</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1824-1825</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Redman Coxe (1773-1864) studied in Europe and at the University of
+                    Pennsylvania under Dr. Benjamin Rush. He received his M.D. in 1794 from Penn and
+                    was professor of chemistry there from 1809 to 1818 and professor of materia
+                    medica from 1818 to 1835. He was an author, bibliophile, and an editor
+                    considered the founder of medical journalism.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of medical lecture notes (1824-1825), in the hand of an unknown
+                    student, entitled "Notes Taken from a Course of Lectures on the Materia Medica
+                    Delivered in the University of Pennsylvania by J.R. Coxe M.D. Professor." The
+                    volume has a table of contents at the rear. Lecture topics include bloodletting,
+                    Indian physick, expectorants, and numerous plants, minerals, and compounds.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1996-020</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

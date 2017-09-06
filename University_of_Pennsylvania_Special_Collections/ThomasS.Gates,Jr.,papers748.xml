@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas S. Gates, Jr., papers <date type="inclusive">1902-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas S. Gates, Jr., papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC748</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1902-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Gates, Jr., (1906-1983) served in several positions in the U.S. government
+                    over his long career. He was Secretary of the Navy from 1957-1959 and Secretary
+                    of Defense from 1959-1961. He was ambassador to China from 1976-1977. His
+                    father, Thomas S. Gates, Sr., was President of the University of Pennsylvania
+                    from 1930-1944.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains materials related to Gates's military and government
+                    service, as well as his other professional and personal activities. Materials
+                    include: night order books and other log books related to naval operations
+                    during World War II; correspondence, including letters from Eisenhower;
+                    appointment books and call logs; numerous awards, citations, medals from army,
+                    government and diplomatic service; materials related to Gates's assignment to
+                    China; and albums that include family photographs, photographs from military
+                    service, and mementos given to Gates during trips to various countries.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 269</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

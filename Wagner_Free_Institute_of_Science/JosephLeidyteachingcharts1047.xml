@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Leidy teaching charts <date type="inclusive">1870-1885</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Leidy teaching charts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1047</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1870-1885</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Leidy (1823-1891) was one of the preeminent figures in the development of
+                    American science in the nineteenth century. He was a physician, naturalist,
+                    anatomist, and scientific illustrator. Following William Wagner's death in 1885,
+                    Leidy assumed the role of President of the Faculty of the Wagner Free Institute
+                    of Science, with special direction of the Biology Department. Leidy was Chairman
+                    of the Board of Curators at the Academy of Natural Sciences in Philadelphia, and
+                    is a central figure in that institution's history. He also taught courses at the
+                    University of Pennsylvania and at Swarthmore College. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of 133 pencil, ink, and gouache drawings on cardboard
+                    with canvas mountings, 1 lithographic print (O.C. Marsh), and 1 press-type on
+                    cardboard chart of a later date. The teaching charts were constructed and used
+                    by Joseph Leidy while he was a professor of natural history at Swarthmore
+                    College (1870-1885). Although none of the charts are signed, most bear labels in
+                    Leidy's hand and the images have been identified as being created or copied from
+                    texts by him, while others possibly were copied under Leidy's supervision.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 92-005</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: Multiple collections of Joseph Leidy records</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

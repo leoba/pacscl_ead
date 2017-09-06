@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph C. Carter personal papers <date type="inclusive">1929-1992</date>
+                        <date type="bulk"> 1946-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph C. Carter personal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2055</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1992</unitdate>
+                <unitdate type="bulk"> 1946-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Carter (1909-1995) was a professor of journalism at Temple University.
+                    During his 30 year tenure, Carter was distinguished for his promotion of high
+                    school journalism through the Temple High School Press Tournament. In 1958,
+                    Carter began work on a biography of Temple founder Russell Conwell, which was
+                    published in 1981. Carter was the founder and director of Temple's William J.
+                    Blitman Reading Room, which later became the Blitman Library. Carter was the
+                    editor of Temple's "Faculty Record" from 1947 to 1960.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this Philadelphia university educator are dominated by his personal
+                    interest in the life of Russell Conwell, founder of Temple University. The
+                    collection includes research materials and correspondence with the relatives of
+                    Johnny Ring, Conwell's Civil War aide; including John Q. Ring and Mary Ault
+                    Ring. The collection also contains a 3 volume history of the Blitman Journalism
+                    Library at Temple, a bound copy of "Publicity for Young Actress Jayne Mansfield
+                    and the Philadelphia Film 'The Burglar'" compiled by Carter in 1976, and a
+                    bound copy of issues of the "Faculty Record", 1947-1960, with some
+                    correspondence pasted in. Some of the materials found in the collection relate
+                    to Carter's teaching career at Temple. The materials include artifacts,
+                    articles, copyright certificates, memorabilia, microfilms, negatives, notes,
+                    periodicals, photographs, and telegrams. There are typescripts of Carter's The
+                    Acres of Diamonds Man and Magnolia Journey. The collection also includes
+                    miscellaneous correspondence related to Carter's career and particular writings,
+                    with readers, colleagues, and institutions (1960s-1992).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

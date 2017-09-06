@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Gordon Townsend Bowles papers <date type="inclusive">1930-1934</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Gordon Townsend Bowles papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC981</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1934</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Gordon Bowles (1904-1991), the son of Quaker missionaries, was born in Japan, and
+                    lived there until he graduated from high school. He attended Earlham College
+                    where he studied zoology, after which he took graduate courses in anthropology
+                    at the University of Pennsylvania for one year before transferring to Harvard.
+                    During his time in Penn, he made the acquaintance of Horace Jayne, the director
+                    of the University Museum. Jayne later told Bowles about the expedition to China
+                    being planned by Brooke Dolan. Having received a scholarship from the
+                    Harvard-Yenching Institute for Chinese Studies, Gordon was able to join the
+                    expedition.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence and photocopies of maps and expedition
+                    journals of Gordon T. Bowles. The letters include reports to Horace Jayne and
+                    Chien Tien Ho (of Academia Sinica), and discussion of the logistics of shipping
+                    the specimens collected on the expedition back to the United States. There are
+                    also inventories of the ethnological specimens collected in Tibet and items
+                    presented to the Metropolitan Museum of Natural History in Nanking. The journals
+                    (only volumes three and four are present) are photocopies of Gordon's notebooks
+                    kept during the trip.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89:01</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Bowles family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

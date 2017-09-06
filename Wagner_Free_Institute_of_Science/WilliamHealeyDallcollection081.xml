@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Healey Dall collection <date type="inclusive">1850-1920</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Healey Dall collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC081</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1850-1920</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Healey Dall was a noted natural historian, paleontologist, and
+                    malacologist. In 1865 he was appointed as a member of the Scientific Corps to
+                    the Western Union Telegraph Expedition to Alaska and the Yukon. From 1871-1884,
+                    Dall worked for the United States Coast Survey. In 1884 he was appointed as
+                    Paleontologist with the United States Geological Survey, a position he held
+                    until 1925. Dall's greatest scientific contributions were in the field of
+                    malacology. Working on both fossil (Tertiary) and living mollusks, he described
+                    over 5300 species. In 1893, the Wagner Free Institute of Science elected Dall
+                    Honorary Professor of Invertebrate Paleontology. In recognition of his
+                    contributions to science the Trustees of the Institute awarded Dall a medal on
+                    June 7, 1899. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The William Healey Dall collection consists of a medal, scientific instruments,
+                    and a photograph. The medal of the Wagner Free Institute of Science was awarded
+                    to Dall in 1899 for his "investigations and writings in paleontology." It is
+                    the only medal ever awarded by the Institute. The collection of scientific
+                    instruments belonging to Dall includes, a dissecting kit Dall used on his first
+                    expedition to Alaska in 1865, a pocket thermometer, a pocket compass, a pocket
+                    barometer/altimeter, and a fire-lighter. The card photograph of Dall is from
+                    "Geo. Prince, Artistic Portraits, Penn Ave. &amp; 11th St., Washington, D.C."
+                    that was probably taken when he was in his thirties.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: All items in collection donated by Whitney and Barbara Dall.</p>
+                <p>Accession number: 02-001, 02-002, 02-003</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

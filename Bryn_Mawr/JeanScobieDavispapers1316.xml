@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jean Scobie Davis papers <date type="inclusive">1907-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jean Scobie Davis papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1316</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1907-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jean Scobie Davis (1892-1985) graduated from Bryn Mawr College in 1914. She
+                    received her master's degree in 1921 from the University of Wisconsin. That
+                    summer she was a tutor in Economics at the first session of the Bryn Mawr Summer
+                    School for Women Workers in Industry. Over the course of her long career she
+                    taught at several colleges including Agnes Scott College, Vassar, Pierce, Wells,
+                    and the American Women's College in Beirut. She retired in 1957. Davis had a
+                    lifelong interest in prison reform, and was a member of the Board of Visitors of
+                    the New York State Correctional Facility in Bedford Hills, New York, for 36
+                    years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the diaries and papers of Jean Scobie Davis. Davis kept
+                    daily diaries from 1911 to 1984. She also kept travel journals and a few
+                    scrapbooks. This collection also includes: family histories compiled by Davis;
+                    autobiographical notes; correspondence with family and friends; photo albums;
+                    and records of her work with women's prison and reformatories for teenagers.
+                </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward B. Paisley papers <date type="inclusive">1893-1961</date>
+                        <date type="bulk"> 1934-1961</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward B. Paisley papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC845</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1961</unitdate>
+                <unitdate type="bulk"> 1934-1961</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edward Bland Paisley (1890-1968), a Presbyterian pastor and educator, studied at
+                    Arkansas College, Austin Presbyterian Theological Seminary, University of Texas,
+                    and Yale. Paisley was the Educational Secretary of the Executive Committee on
+                    Home Missions, Secretary of the Board of Christian Education's Graduate
+                    Christian Education department, and a professor and later president of the
+                    Assembly’s Training School for Lay Workers among several other positions. He was
+                    affiliated with the PCUS and the PCUSA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional and personal papers of Edward Paisley. The
+                    collection includes incoming and outgoing correspondence, minutes, and reports
+                    related to Paisley's work with the Graduate Christian Education department of
+                    the BCE; correspondence, lecture notes, and printed educational materials
+                    related to his work with the General Assembly's Training School for Lay Workers;
+                    reports, annual meeting programs, and board of trustee minutes (1946-1949) of
+                    the International Council of Religious Education; and minutes, proposed lesson
+                    plans, and publicity materials from the Commission on Education. The collection
+                    also includes general and personal correspondence files, 1932-1943; typescripts
+                    of speeches and addresses made by Paisley; manuscripts by Paisley and others;
+                    and printed catechisms and Presbytery manuals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown; 134414 give by Mrs. E. B. Paisley</p>
+                <p>Accession number: 68 0291|3:14-G-3 (or 13 4414?)</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Austin Presbyterian
+                    Theological Seminary: Paisley (Edward Bland) papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alice Bache Gould papers <date type="inclusive">1905-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alice Bache Gould papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1373</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.15 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mathematician and historian Alice Bache Gould graduated from Bryn Mawr College in
+                    1889, receiving her bachelor's degree in Mathematics and Physics. She continued
+                    her study of mathematics at the Massachusetts Institute of Technology and Newham
+                    College in England from 1890-1893. In 1911 Gould traveled to Spain to do
+                    research on Christopher Columbus. During World War I Gould worked as a volunteer
+                    in the espionage office of the United States embassy in Spain. After the war
+                    Gould returned to the United States to teach. In 1926 Gould again returned to
+                    Spain to continue her research on Columbus and became involved in public
+                    education measures and the establishment of local schools in Simancas. The
+                    outbreak of the Spanish Civil War in 1936 forced her to return to Boston but
+                    after the war she returned to Spain. She lived the remainder of her life in
+                    Simancas, where she died in 1953.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers by and about Alice Bache Gould collected by her
+                    cousin and the executor of her will, Susan W. Fitzgerald. Correspondence from
+                    Alice Bache Gould includes requests for donations to the Paul Shorey Chair
+                    endowment, and letters to her cousin Susan Fitzgerald about her move back to
+                    Spain after Spanish Civil War and about the disposition of her estate. Other
+                    materials in the collection include letters to Gould from Henry Goldmark and
+                    letters to Fitzgerald about the assembly of the present set of papers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Tamiment
+                    Library/Robert F. Wagner Labor Archives, New York University: Alice Bache Gould
+                    Papers; Massachusetts Historical Society: Alice Bache Gould papers. </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

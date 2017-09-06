@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kienbusch European decorative arts records <date type="inclusive">1860-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kienbusch European decorative arts records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC2330</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>104.23 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1860-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>A lifelong New Yorker, Mr. Carl Otto Kretzschmar von Kienbusch (1884-1976) was a
+                    successful businessman who collected armor from about 1914 until his death in
+                    1976 . The Museum’s relationship with the famous collector and connoisseur began
+                    in the late 1940s, when R. Sturgis Ingersoll, former president of the Museum,
+                    visited Mr. von Kienbusch’s residence on East 74th Street in New York City,
+                    which at the time was filled with his burgeoning collection. In 1974, Mr. von
+                    Kienbusch approved the loan of 165 pieces to create a display in the Museum.
+                    Upon his death in 1977, the entire collection with an important library and
+                    archive was bequeathed to the Museum where it was installed, as Mr. von
+                    Kienbusch had requested, in a series of handsome galleries funded by the City of
+                    Philadelphia and arranged in the style of a traditional European armory.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Kienbusch archive provides documentation of the collection of arms and armor
+                    assembled over many decades by Mr. von Kienbusch. The papers also offer
+                    biographical information about Carl Otto von Kienbusch and the Kienbusch family.
+                    Kienbusch’s correspondence and related materials document his interactions with
+                    dealers, collectors, museums, and scholars. This portion of the collection
+                    includes an estate appraisal, copies of Kienbusch's will, inventories of the
+                    Kienbusch collection, receipts and invoices, articles by others on the Kienbusch
+                    Collection, drafts of articles by Kienbusch, and some genealogical files on the
+                    Kienbusch family. Correspondents include R. Sturgis Ingersoll, W. O. Oldman, and
+                    the Metropolitan Museum of Art. The collection includes a number of arms and
+                    armor auction catalogs collected and annotated by Kienbusch. A number of the
+                    volumes have been bound in sets. Catalogues date from 1860-1976. There is also
+                    an index to file, arranged by classification and by auction sale, to arms and
+                    armor auctions. In 1963, Princeton published The Kretzchmar von Kienbusch
+                    Collection of Armor and Arms. This collection includes copies of the published
+                    catalog, as well as photographs and annotated typescript drafts of the
+                    catalogue. There is a large quantity of photographic material in the collection:
+                    glass negatives, lantern slides, film negatives, and small and large format
+                    photographic prints. These include images of objects in the Kienbusch collection
+                    of arms and armor; objects in various private collections; photographs and
+                    negatives from Kienbusch’s European travels (city views, landscapes, castles,
+                    people, rooms containing armor collections); and illustrations to accompany
+                    lectures. Personal papers of Kienbusch include appointment books, travel
+                    diaries, autobiographies, a family history, and photographs. Appointment books
+                    document Kienbusch’s daily activities; they include tickets, receipts, and
+                    ephemera pasted in. The travel diaries describe collecting trips Kienbusch made
+                    to Europe in 1923, 1937, 1952, 1954, and 1959. There are also travel scrapbooks,
+                    from 1937, 1952, and 1953, which contain photographs of landscapes, castles,
+                    people, and arms and armor. The 1953 scrapbook also includes a typed narrative
+                    description of Kienbusch’s journey. There are typescript autobiographies of
+                    Kienbusch, which include photographs, as well as a history of the Kienbusch
+                    family, also compiled by Kienbusch. Finally, there are a number of loose
+                    photographs of Kienbusch taken throughout his life, and photographs of other
+                    family members. Other miscellaneous items in the collection include rolled
+                    plates illustrating weapons and uniforms from various periods, published by the
+                    Company of Military Historians; several miscellaneous posters depicting arms and
+                    armor; and a series of mounted photo reproductions, presumably of Kienbusch and
+                    his collection. [it seems more likely that these were created by the museum,
+                    rather than by Kienbusch -- also possible that they are part of the Herben
+                    materials -- not clear from the items themselves] </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <persname encodinganalog="600">Von Kienbusch, Carl Otto Kretzschmar, 1884-1976--Art
+                    collections. </persname>
+                <subject encodinganalog="650">Armor--Europe. </subject>
+                <subject encodinganalog="650">Armor--Pennsylvania--Philadelphia. </subject>
+                <subject encodinganalog="650">Art--Collectors and collecting.</subject>
+                <subject encodinganalog="650">Weapons--Europe. </subject>
+                <subject encodinganalog="650">Weapons--Pennsylvania--Philadelphia. </subject>
+                <genreform encodinganalog="655">Autobiographies.</genreform>
+                <genreform encodinganalog="655">Catalogs.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Estate inventories.</genreform>
+                <genreform encodinganalog="655">Glass plate negatives.</genreform>
+                <genreform encodinganalog="655">Lantern slides.</genreform>
+                <genreform encodinganalog="655">Manuscripts.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Wills.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

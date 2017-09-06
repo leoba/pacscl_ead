@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Albert family papers <date type="inclusive">1859-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Albert family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC950</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1859-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Seaman Albert (1835-1880) began his career in the US Navy in 1855, and
+                    achieved rank of Chief Engineer in 1861. Took a leave of absence from the Navy
+                    to serve as Chief of the Bureau of Machinery at the Philadelphia 1876 Centennial
+                    -- he was in charge of Machinery Hall. He died two months after his last voyage
+                    aboard the USS Quinnebaug, which sailed throughout the Mediterranean and North
+                    Africa, 1879-1880. His brother Sidney Albert (1840-1874), began his career in
+                    the US Navy in 1859, and achieved rank of Chief Engineer in 1870. Sidney retired
+                    from the Navy in 1872, and moved to Minneapolis where he was Superintendent of
+                    Water Works. Mary Jackson Seaman Albert (1815-1893) -- mother of John S. and
+                    Sidney Albert (? -- check)</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Albert family papers. Materials include correspondence,
+                    journals, scrapbooks of John Seaman Albert and his brother Sidney Albert during
+                    their naval careers and gives insight into life aboard a US naval vessel during
+                    the period just prior to the Civil War, political comments on world events and
+                    particularly events in the Orient and events leading up to and during the Civil
+                    War. John's journals cover the period of the Philadelphia Centennial, 1876. John
+                    Albert materials include: correspondence from John to his mother, his brother
+                    Sidney, and to his wife; appointments and orders; photographs, including a
+                    photograph of the USS Quinnebang on the Delaware River; diary of a voyage
+                    (1878-1880); journal (1864-1880); scrapbook of newspaper clippings; invitations
+                    (1860s and 1876); and a report on the final trial trip of the USS Wampanoag;
+                    1868. Sidney Albert materials include orders, letters to mother, his brother
+                    John, and several to his father and others. Additionally there are letters from
+                    Mary Albert to Sidney (1862-1866). John S. Albert, III materials include: a
+                    photo album kept during his service aboard the USS Naifeh and a log book from
+                    that time (1944-1945); scrapbook of clippings related to the attack on the USS
+                    Kearny, 1941; personal papers related to his US Navy service; and photos of the
+                    Naifeh, its officers and crew,and the Kearney. The collection also includes
+                    photographs of Mary Albert, Sadie Albert (aunt), Sarah Albert (wife of John S.)
+                    (photographs, daguerreotypes and tintypes, carte de visite, and cabinet
+                    cards.)</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Cabinet photographs.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Daguerreotypes.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Military records.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+                <genreform encodinganalog="655">Tintypes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 87.43; 85.73; 86.107</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

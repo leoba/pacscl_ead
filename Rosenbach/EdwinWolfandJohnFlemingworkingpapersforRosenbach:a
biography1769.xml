@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edwin Wolf and John Fleming working papers for Rosenbach: a
+                        biography <date type="inclusive">1953-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edwin Wolf and John Fleming working papers for Rosenbach: a
+                    biography</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1769</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edwin Wolf 2nd (1911-1991) was a librarian, bibliophile, author, historian,
+                    Franklin scholar, and civic leader. Wolf worked with Dr. A.S.W. Rosenbach for
+                    nearly twenty years, compiling many of the company's catalogs. He was the
+                    Curator of the Library Company of Philadelphia from 1953 to 1955, and its
+                    Librarian from 1955 to 1984. John Fleming worked with Dr. Rosenbach from 1925
+                    until the latter's death in 1952. He became a Vice President of the Rosenbach
+                    Company in 1948 and succeeded to the business in 1954. He was also a member of
+                    the Board of Trustees of the Rosenbach Foundation. Wolf and Fleming co-authored
+                    Rosenbach: A Biography, which was published in 1960.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the working papers for Wolf and Fleming's biography of
+                    A.S.W. Rosenbach. The collection includes: typescripts with annotations; page
+                    proofs; pre-publishing reader's and editor's comments; clippings of reviews; a
+                    small amount of publicity materials, including a sales brochure for the book;
+                    correspondence with publishers, reviewers, and readers; and typed and
+                    handwritten notes on Rosenbach's business transactions.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

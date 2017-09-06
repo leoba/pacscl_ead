@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>B. H. McCalla papers <date type="inclusive">1897-1903</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">B. H. McCalla papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC460</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1897-1903</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bowman Hendry McCalla (b. 1844) was born in Camden, New Jersey. McCalla was
+                    appointed a midshipman in 1861. In 1885, he led an expeditionary force of 750
+                    seamen and Marines in landing at Panama to protect American treaty rights as a
+                    revolution there threatened to block transit across the isthmus. In 1897, while
+                    commanding Marblehead in blockading Cuba, he cut cables to isolate the Spanish
+                    garrison at Cienfuegos. On 10 June 1898, with Lieutenant Colonel Robert
+                    Huntington, USMC, Commander McCalla led a joint Navy and Marine Corps expedition
+                    into Guantánamo Bay, Cuba, seizing the anchorage and thereby enabling a close
+                    blockade of Spanish warships at Santiago de Cuba, about forty miles west.
+                    Commanding Newark during the Boxer Rebellion, he was second in command of an
+                    international force under British Admiral Sir Edward Seymour, including 112
+                    bluejackets, that advanced from Tientsin to Peking to relieve foreign legations
+                    under siege there. In battle at Hsiku Arsenal, McCalla and 25 of his force were
+                    wounded; five were killed. For this action, he received a Congressional medal,
+                    the Order of the Red Eagle by the German Emperor and another medal from the King
+                    of England. Commissioned rear admiral in 1903, he retired in 1906. He died in
+                    1910. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Journal belonging to Bowman Hendry McCalla dating from the Spanish American War.
+                    Outlines his command on Marblehead from Sept. 1897 to Nov. 1897. Journal is
+                    dedicated to his wife and contains a full description of his activities aboard
+                    as well as the men in his command. Some reference to his earlier court-martial
+                    and his command of Enterprise. The journal is continued over four volumes. The
+                    journal continues through 1899, when McCalla was commander of Newark [he was
+                    promoted to a captaincy in 1898]. The collection also includes: printed reports
+                    about a cable-cutting operation performed by the crew of Marblehead in 1989;
+                    recommendations for medals of honor related to that operation; a 1903 invitation
+                    to the dedication of the Champlain Monument; and a printed volume Inauguration
+                    du Monument Camplain A Quebec le 21 Septembre 1989 (published 1902), inscribed
+                    to Admiral McCalla by Alexandre Chauveau, President to the Champlain Monument
+                    Committee. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1984.68; 1984.78</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

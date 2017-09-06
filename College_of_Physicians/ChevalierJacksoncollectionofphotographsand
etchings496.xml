@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chevalier Jackson collection of photographs and etchings <date type="inclusive">1923-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chevalier Jackson collection of photographs and
+                    etchings</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC496</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1923-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Chevalier Jackson (1865-1958) was a laryngologist. Jackson attended the Western
+                    University of Pennsylvania (now the University of Pittsburgh) from 1879 to 1883,
+                    and received his MD from Jefferson Medical College. He also studied laryngology
+                    with the British specialist Sir Morell McKenzie. In the course of his career
+                    Jackson introduced many improved techniques for bronchoscopy, oesophagoscopy and
+                    gastroscopy. and was successful in removing dangerous foreign bodies with the
+                    medical instruments and techniques he designed. During the 1920s, Jackson began
+                    a crusade to spread knowledge of preventive measures in order to protect
+                    children from inhaling foreign objects. His work led to the passage of the
+                    Federal Caustic Poison Act of 1927. He was also the author of four monographs,
+                    twelve textbooks, and over 400 medical articles. Jackson was a professor at six
+                    different schools, including the University of Pittsburgh, Jefferson Medical
+                    College, Women's Medical College (now Drexel University College of Medicine) and
+                    Temple University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs of Chevalier Jackson and prints of his
+                    etchings. There are a series of framed photographs of students enrolled in the
+                    course in brochoscopy Jackson taught at the University of Pennsylvania, and
+                    several photographs of Jackson inscribed to George Pilling. The etchings include
+                    images of Old Blockley, Pennsylvania Hospital, Women's Medical College, and
+                    Sunrise Mills in Schwenksville, Pennsylvania.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1990-108, 1990-109, 1990-110, 1990-111, and 1990-112</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

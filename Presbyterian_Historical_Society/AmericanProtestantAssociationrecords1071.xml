@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Protestant Association records <date type="inclusive">1853-1870</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Protestant Association records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1071</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.02 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1853-1870</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Protestant Association began on Tuesday the 8th of November, 1842,
+                    in the city of Philadelphia to halt the spread of Catholicism in the United
+                    States. The constitution of the group begins: "Whereas, we believe the system
+                    of Popery to be, in its principles and tendency, subversive of civil and
+                    religious liberty, and destructive to the spiritual welfare of men, we unite for
+                    the purpose of defending our Protestant interests against the great exertions
+                    now making to propagate that system in the United States".</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection comprises two items: 1) a bound constitution and by-laws of the
+                    American Protestant Association used by Sarah Wiley as commonplace book which
+                    includes clippings of poems and inspirational passages, and mementos (book was
+                    published in 1853, but clippings are undated); and 2) a "Resolution of
+                    Condolence" given to the family of John C. Wiley, past R.W.G. Secretary and
+                    member of the American Protestant Association's New York Lodge No. 3, dated
+                    1870.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library; may have been donated by Edna Gibson
+                    (along with a larger framed document, 2 x 3 feet) -- per note in collection.</p>
+                <p>Accession number: 93 1021</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: American Protestant Association records (RG 323).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

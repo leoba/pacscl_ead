@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Meserve Holly collection <date type="inclusive">1947-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Meserve Holly collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC636</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1947-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Kathleen Kellogg Meserve (1906-1999) was an amateur horticulturist from Long
+                    Island who produced a series of hardy holly hybrids that have become standard in
+                    nurseries and gardens in the United States and Europe. Meserve's interest in
+                    holly began shortly after World War II when she and her family moved to a
+                    10-acre estate in St. James on Long Island, where she attended a local
+                    garden-club lecture about holly. In 1975 the American Horticultural Society
+                    honored Meserve for her "outstanding contributions to amateur horticulture,"
+                    and six years later she received the Eloise Payne Luquer Medal of the Garden
+                    Club of America for her work in hybridizing hollies and greatly extending their
+                    temperature range. The profits from the sale of Mrs. Meserve's holly patents
+                    helped to maintain her estate, which came to be called Holly-by-Golly. Her
+                    plants are sold by commercial growers throughout the world.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to Kathleen Meserve's horticultural
+                    work and her business Holly-By-Golly. Materials in the collection include:
+                    business and personal correspondence, propagation records, financial records,
+                    brochures, posters, printed reference material and catalogs, magazines,
+                    journals, books, slides and photographs, and seeds.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Longwood Gardens</p>
+                <p>Year acquired: 3/20/2003</p>
+                <p>Accession number: 2003-30</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Conard-Pyle Company records (has information on Holly-By-Golly).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

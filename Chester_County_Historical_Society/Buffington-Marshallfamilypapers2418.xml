@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Buffington - Marshall family papers <date type="inclusive">1707-1876</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Buffington - Marshall family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2418</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1707-1876</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Buffington family manuscripts begin with emigrant Richard Buffington (d. 1747/8).
+                    He was married three times and his children included Ann, Ruth, Richard (d.
+                    1741, married Phebe Grubb), Thomas, William, John, Hannah, Mary, Elizabeth,
+                    Lydia, Abigail, Joseph, and Alice. Richard Buffington, Jr. (d. 1741) and his
+                    wife, Phebe Grubb (d. 1769), settled in West Bradford, their children were John,
+                    Frances, Phebe, Richard, Samuel, Henry, Catherine, Peter, Nathaniel, Jeremiah,
+                    Isaac, and Joseph. After Richard’s death in 1741, his widow Phebe married Simon
+                    Hadley. Marshall family manuscripts originated from the family of emigrant
+                    Abraham Marshall (1669-1767) and his wife, Mary Hunt Marshall (d. 1769). They
+                    had nine children, including Humphry Marshall (1722-1801), botanist, and his
+                    brother James Marshall (1725-1755), father of Dr. Moses Marshall (1758-1813).
+                    Moses Marshall assisted his uncle Humphry in his botanical work, and also served
+                    as a Justice of the Peace for West Bradford Township, Chester County, PA. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The manuscripts in the collection cover the years 1707 to 1876. The bulk of the
+                    collection is connected to two families, Buffington and Marshall. Buffington
+                    papers concern primarily the line of descent from Richard Buffington the
+                    emigrant, through his son Richard Buffington, Jr. who married Phebe Grubb.
+                    Marshall family papers are primarily those of emigrant Abraham Marshall and his
+                    family, including his sons James and Humphry Marshall, and James’ son Dr. Moses
+                    Marshall (nephew of Humphry Marshall). The collection includes: letters, deeds,
+                    accounts, receipts and other business papers, diary pages, summons, warrants and
+                    other legal papers, poetry, zodiac chart, advertisement of a murder, maps and
+                    land drafts, genealogy, apprenticeship agreements, tax records, poetry, etc.
+                    Topics include: farming, botany, legal system, politics and elections, the poor,
+                    education, medicine, crime (includes murder, fornication and bastardy cases,
+                    etc.), slavery, etc. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

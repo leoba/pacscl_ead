@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rittenhouse Square Flower Market collection <date type="inclusive">1914-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rittenhouse Square Flower Market collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1839</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Rittenhouse Square Flower Market is an annual flower market with food,
+                    concerts, and children's activities. It was organized by Mrs. George Gordon
+                    Meade Large in 1914 to raise funds for local charities. The Rittenhouse Square
+                    Flower Market is managed by a board of officers, and much of the work is done by
+                    volunteers from local garden clubs. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Rittenhouse Flower Market.
+                    Materials include: rough minutes of the board of officers (1914 to 1922); lists
+                    of charities that benefited from the proceeds of the market, compiled in 1942
+                    and 1982, and including some summary information; black and white photographs of
+                    vendors and attendees; newspaper clippings; a booklet printed for the market's
+                    twentieth anniversary; and several histories of the market. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Flower shows--Pennsylvania--Philadelphia.</subject>
+                <geogname encodinganalog="651">Rittenhouse Square (Philadelphia, Pa.)</geogname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

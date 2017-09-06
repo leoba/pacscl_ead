@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. Liddon Pennock collection <date type="inclusive">1901-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. Liddon Pennock collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1856</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. Liddon Pennock (1913-2003) was a noted Philadelphia horticultural and floral
+                    designer. For many years, he ran his family's business, a Center City flower
+                    shop that provided floral decorations for countless society weddings as well as
+                    the Nixon White House. In 1966, Pennock turned the business over to his
+                    employees and focused his energies on Meadowbrook Farm, his 25-acre estate,
+                    where he established a successful retail nursery and garden shop. He joined the
+                    Council of the Pennsylvania Horticultural Society in 1947, and served as its
+                    president from 1954-1957. He was actively involved with the Philadelphia Flower
+                    Show, both as an exhibitor and as an advisor. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials collected by and about J. Liddon Pennock. Items
+                    include: printed volumes on gardening and landscape design, several inscribed by
+                    the authors or givers; papers related to his estate Meadowbrook and the bequest
+                    of that estate to the Pennsylvania Horticultural Society, including appraisals
+                    of the furnishings and an auction catalog; a scrapbook compiled by the staff of
+                    the Morris Arboretum for his 80th birthday, which includes photos, personal
+                    letters, and information on the naming of a new variety of Enkianthus perulatus
+                    "J.L. Pennock"; photos and slides of Pennock, the interior and gardens of
+                    Meadowbrook, and other gardens; a scrapbook on the 1971 wedding of Tricia Nixon
+                    and Edward Cox, for which Pennock designed the flowers; his bible; copies of a
+                    1993 management contract for the running of the nursery and plant sales business
+                    at Meadowbrook; a genealogical chart of the Pennock family; and artifacts,
+                    including his library seal, protractors and stencils.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Meadowbrook Farm (Meadowbrook, Pa.)</corpname>
+                <subject encodinganalog="650">Gardens--Pennsylvania--Philadelphia Region.</subject>
+                <subject encodinganalog="650">Horticulturists.</subject>
+                <genreform encodinganalog="655">Genealogies.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

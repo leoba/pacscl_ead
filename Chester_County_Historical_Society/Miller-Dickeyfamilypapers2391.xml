@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Miller - Dickey family papers <date type="inclusive">1786-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Miller - Dickey family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2391</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1786-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>This collection consists of papers of the Cross, Dickey, and Miller families of
+                    Chester County, Philadelphia, Pennsylvania and Baltimore, Maryland. John Miller
+                    and his wife, Margaret, emigrated from Scotland to Pennsylvania with their young
+                    daughter, Jane, in 1786. Miller, who was trained as a stone cutter in Scotland,
+                    developed a thriving marble business in Philadelphia; he also owned a farm in
+                    Great Valley, Pennsylvania. John was an early member of the Pennsylvania
+                    Abolitionist Society, a supporter of the Magdalene and Missionary Societies.
+                    John Miller was an elder of the Scots (Associate Reformed) Presbyterian Church
+                    Thier daughter, Jane, married Rev. Ebenezer Dickey in 1805. Jane’s sisters,
+                    Helen, Margaret and Julia, eventually all married Presbyterian ministers: Helen
+                    married William Finney, Julia married George Junkin, and Margaret married
+                    Charles McLean. Ebenezer and Jane Miller Dickey settled in Oxford, Pennsylvania
+                    and had six children: John Miller, Mary Jackson (later Cross), Margaret Irvine
+                    (later Cross), Helen, Samuel (4th), and Ebenezer Verner. Ebenezer and Jane
+                    Miller Dickey were passionate supporters of the Chester County Bible Society. As
+                    pastor of the Oxford Presbyterian Church, Reverend Dickey rose to prominence in
+                    the area, publishing essays on the importance of educating children and the
+                    temperance movement. Dickey, a former slave owner, was a charter member of the
+                    local colonization society. Plagued with a chronic stomach ailment, Dickey went
+                    to Europe in search of a cure. Although he achieved a modicum of relief at a spa
+                    in the Pyrenees, Dickey was uncomfortable with the Catholicism in southern
+                    Europe and returned home after eleven months. The letters he wrote to his family
+                    and congregation were later published as Travels in Europe for Health, in 1820,
+                    by an American Clergyman, in the Christian Advocate, a Philadelphia periodical.
+                    In addition to his service as pastor, Dickey owned and operated a farm, and
+                    served as a silent partner in his brother Samuel’s cotton factory in Hopewell.
+                    After Dickey’s death in 1831, his wife, Jane, was left to raise their five minor
+                    children, and care for her mother, Margaret Irvine Miller. Jane Dickey oversaw
+                    the formidable operation of the Oxford farm, as well as the Philadelphia
+                    property she had inherited after her father’s death. Dickey also continued to
+                    support various civic organizations including the Oxford Sewing Society and the
+                    Poor Widows’ Society of Baltimore. In 1832, her daughter Mary married Richard I.
+                    Cross, a Baltimore lumber merchant, and in 1836, her daughter Margaret married
+                    Reverend Andrew B. Cross, a Presbyterian minister, author and publisher. Helen,
+                    the youngest daughter, did not marry and lived at home with her mother. After
+                    training first at Dickinson, then at Princeton Theological Seminary, John Miller
+                    Dickey the eldest son of Ebenezer and Jane took his father’s place as pastor of
+                    Oxford Presbyterian Church. He established a private school for girls, the
+                    Oxford Female Seminary, and later helped found the Ashmun Institute which became
+                    Lincoln University after the Civil War. He married Sarah Emlen Cresson and had
+                    four children. Samuel Dickey, the second son of Ebenezer and Jane Miller Dickey
+                    became a Presbyterian minister after first attending Lafayette College then
+                    enrolling in Princeton Theological Seminary. He later served as the President of
+                    the Octoraro Bank. The third Dickey son, Ebenezer Verner, attended Lafayette
+                    College and medical school at the University of Pennsylvania. Unable to get by
+                    on the proceeds of his medical practice, Ebenezer also owned a large dairy farm,
+                    was a member of the faculty of the Oxford Female Seminary and was the president
+                    of the Philadelphia and Baltimore Central Railroad and the Octoraro Bank until
+                    his early death in 1857. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Includes personal correspondence, business records, genealogical notes, diaries,
+                    and family photographs. The collection is particularly strong on the following
+                    topics: relationships between women, family health, Presbyterian church, the
+                    history of Oxford, Pennsylvania, marble cutting business, and the genealogy of
+                    the Miller, Dickey, and Cross families. The Miller-Dickey Family Collection
+                    includes four photograph albums, two photographs and a stereograph of members of
+                    the Dickey and Cross families which have been transferred to photo archives.
+                </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

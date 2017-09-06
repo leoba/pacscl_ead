@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Dugan papers <date type="inclusive">1880-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Dugan papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC557</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>29 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1880-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Dugan (1912-1967) was born in Altoona, Pennsylvania. Dugan attended Altoona
+                    High School and graduated in 1929. He studied at Penn State University from
+                    1933-1937. After graduating Dugan moved to New York. During the Second World
+                    War, he supervised French, German, Spanish and Russian classes for soldiers. He
+                    also worked as a war correspondent. During this time he wrote articles for
+                    magazines such as the Saturday Evening Post, Holiday, National Geographic and
+                    New York Times. In 1946 he married Ruth Mae Lonergan, whom he met while she was
+                    a WAC in London during the war. Much of his writing in the 1950s and 1960s
+                    concerns underwater exploration with Captain Jacques Cousteau. Dugan first met
+                    Cousteau in 1944 during the liberation of France. Dugan was the author of Man
+                    Under the Sea, American Viking, The Great Iron Ship, and editor of Captain
+                    Cousteau's Underwater Treasury. He helped Cousteau with the presentation of his
+                    underwater documentaries, which helped to inform the general public about the
+                    sea. Dugan received the Grand Prix, Cannes International Film Festival award for
+                    The Silent World in 1956, and was part of the team that produced the Academy
+                    Award-winning documentaries The Silent World (1956) and World Without Sun
+                    (1964). Dugan was a member of the American Littoral Society and the American
+                    Geographical Union. With his wife Ruth, he helped to found the United States
+                    Liaison Committee for Oceanographic Research in 1951. The purpose of the
+                    committee was to raise and grant money for marine research.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of James and Ruth Dugan on diving, marine science,
+                    and other related topics. Materials in the collection include photos, films,
+                    periodicals, correspondence, clippings, and miscellaneous records. Photographs
+                    in the collection include: images of dives off the French coast of the
+                    Mediterranean; images of Jacques Cousteau and his crew at work and candid shots
+                    of them (Cousteau playing an accordion and photos of John F. Kennedy and
+                    Cousteau); slides from Hawaii and San Francisco. Printed materials in the
+                    collection include: magazines, reprints and extracts; newspaper clippings, many
+                    of which deal with Jacques Cousteau and the Cousteau Society; newsletters;
+                    directories; diving equipment catalogs; a private cable code book from 1955;
+                    programs and brochures; and several books, including an oversize volume "Greek
+                    Ships of 1821". Audiovisual materials in the collection include: reel-to-reel
+                    audio tapes, including interviews (Admiral Momsen on submarines; and JYC),
+                    talks, meeting of the MAVC convention, 1961, and audio of sounds made by the
+                    Weddell seal; film reels, including footage of the dive at Fontaine de Vaucluse;
+                    and a number of commercial videos related to marine subjects. Records related to
+                    the United States Liaison Committee for Oceanographic Research includes Ruth and
+                    James Dugan correspondence. The correspondence largely relates to the tax status
+                    of the organization. Records also include one grant application, bank
+                    statements, and canceled checks. Other materials in the collection include:
+                    typescripts of articles and other writings; multiple copies of a brochure
+                    written by Dugan for an extermination company; plans for an underwater exhibit
+                    at the Philadelphia Maritime Museum, 1974; and several maps and charts,
+                    including a chart of New York Harbor, the ocean floor, and other locations; a
+                    can of Evian water;a diving mask; and a metal valve handle. The collection also
+                    includes items related to Auguste and Louis Boutan. Materials include: plans of
+                    diving apparatus; manuscript of a chapter on Louis Boutan in Man Under the Sea,
+                    by Dugan; typed notes on Boutan, in English and French; instruction booklet and
+                    brochure for Boutan's Scaphandre Autonome; articles on Boutan; photos of Boutan
+                    (1880-1930); prints of underwater photos by Boutan (1890s) and a portfolio
+                    containing 4 of Boutan's underwater photograph: "Photographies Sous-Marines par
+                    L. Boutan", 1898; photos of Boutan's diving apparatus; several drawings of
+                    diving apparatus; plans for a diving vessel; and charts of weight, displacement,
+                    and so on for the vessel.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Manuscripts.</genreform>
+                <genreform encodinganalog="655">Maps.</genreform>
+                <genreform encodinganalog="655">Motion pictures.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Reprints.</genreform>
+                <genreform encodinganalog="655">Schematic drawings.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1995.60</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

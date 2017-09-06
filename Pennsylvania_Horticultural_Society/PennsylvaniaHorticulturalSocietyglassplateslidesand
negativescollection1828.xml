@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Horticultural Society glass plate slides and negatives
+                        collection <date type="inclusive">1903-1935</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Horticultural Society glass plate slides and
+                    negatives collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1828</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1935</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The McLean
+                    Library, formed shortly after the founding of the Pennsylvania Horticultural
+                    Society, currently holds over 15,000 volumes on gardening and plant care,
+                    botany, and urban greening, and the archives of the Philadelphia Flower Show and
+                    the society. The library also houses nearly 30,000 images of the Philadelphia
+                    Flower Show, pre-World War II estate gardens of the Philadelphia area, and
+                    garden and landscape images from around the world, 1930s-1960s. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of glass slides and glass plate negatives depicting gardens,
+                    flowers, vegetables, and animals. Items include a series of 5" x 7" color
+                    slides of the gardens and home of Mrs. Richard Haughton; a series of 4.75" x
+                    3.5" color slides of Alpine flowers taken in and around Correvon, Switzerland;
+                    a series of slides taken during a Garden Club of America tour of Japan, China,
+                    and Honolulu in 1935; and a series of black and white glass plate negatives of
+                    vegetables, horses, and flowers from the early 1900s.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Flowers--Pictorial works.</subject>
+                <subject encodinganalog="650">Vegetables--Pictorial works.</subject>
+                <geogname encodinganalog="651">Asia--Description and travel.</geogname>
+                <genreform encodinganalog="655">Lantern slides.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: John Wister slide collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

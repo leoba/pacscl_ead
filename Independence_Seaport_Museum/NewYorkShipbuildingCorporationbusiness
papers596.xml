@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>New York Shipbuilding Corporation business papers <date type="inclusive">1895-1967</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">New York Shipbuilding Corporation business
+                    papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC596</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1895-1967</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The New York Shipbuilding Corporation (or New York Ship for short) was founded in
+                    1899 and opened its first shipyard in 1900. Located in Camden, New Jersey on the
+                    east shore of the Delaware River, New York Ship built more than 500 vessels for
+                    the U.S. Navy, the United States Merchant Marine, the United States Coast Guard,
+                    and other maritime concerns.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Photos and negatives of ships built by the New York Shipbuilding Corporation,
+                    contracts #1-542 (not complete). Images include ships during construction,
+                    completed ships, launches, a few interior and deck views. There are also
+                    photographs of the yard facilities, docks, shops, and equipment; executive
+                    staff; participants in the apprentice program; open houses; awards ceremonies;
+                    and aerial views of the yard taken in 1960. There are a number of photograph
+                    albums of keel laying and launching events (1958-1965). Other materials in the
+                    collection include: a small number of general body plans for ships; several
+                    plans for shipboard systems; plans and drawings of NYSC yards and buildings;
+                    scrapbook of newspaper clippings, 1955-1956, with articles on NYSC and on Louis
+                    E Wolfson (board chairman of NYSC); newspaper clippings about a 1935
+                    shipbuilders' strike. There are a small number of records records related to
+                    specific contract numbers. These materials include job orders, blueprint
+                    logbooks, and specifications. Printed materials include: printed contract and
+                    specification books, for contract #5-387 (not complete); newsletters (York Ship
+                    News, 1919-1921 and Shipways, 1958-1959); histories of NYSC; brochures on ships;
+                    launch invitations; and engineering manuals. Other items include facilities
+                    inventory, 1964; printed agreement between NYSC and the AFL-CIO, 1966; printed
+                    rules of employment, 1966; list of contracts; and a claim by NYSC for an
+                    adjustment to the contact with the US Bureau of Ships for USS Kitty Hawk, 1961,
+                    and other assorted materials. The collection also includes a small number of
+                    materials related to Sun Shipbuilding, including copies of the newsletter Our
+                    Yard and plans for a hydro-test stand. And published volumes on the [naval
+                    engineering] firm of Merritt-Chapman and Scott. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Architectural drawings.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1998.15</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

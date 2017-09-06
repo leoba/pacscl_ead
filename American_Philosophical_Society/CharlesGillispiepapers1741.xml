@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Gillispie papers <date type="inclusive">1961-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Gillispie papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1741</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>23.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1961-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles C. Gillispie (b. 1918) is a historian of science specializing in France
+                    1760-1820. He received his bachelor's degree from Wesleyan University and did
+                    graduate work at the Massachusetts Institute of Technology and Harvard
+                    University. He joined the faculty of Princeton University in 1947, where he
+                    founded both the undergraduate and graduate programs in the history of science;
+                    he is now professor emeritus. He was awarded the Balzan Prize in history and
+                    philosophy of science in 1997. He was the editor of the Dictionary of Scientific
+                    Biography, and his publications include The Edge of Objectivity (1960),
+                    Pierre-Simon Laplace, 1749-1827: A Life in Exact Science (1997), and Science and
+                    Polity in France: The Revolutionary and Napoleonic Years (2004).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Charles Gillispie's research notes, reprints, and
+                    copies of texts and manuscripts related to his work on 18th and 19th century
+                    science in France. Many of the texts and manuscripts are in French, and are
+                    present here in the form of photocopies and microfilm. The collection also
+                    includes some transcriptions by Gillispie, and his manuscript notes on the
+                    original works. In addition to the research materials, there are some drafts of
+                    articles by Gillispie, lecture notes on the history of science in France and in
+                    America, and several dissertations on the history of science by others.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Science--France--History.</subject>
+                <subject encodinganalog="650">Science--History.</subject>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

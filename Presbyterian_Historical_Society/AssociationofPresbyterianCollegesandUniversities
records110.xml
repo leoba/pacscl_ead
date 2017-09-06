@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Association of Presbyterian Colleges and Universities records <date type="inclusive">1976-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Association of Presbyterian Colleges and Universities
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC110</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1976-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Association of Presbyterian Colleges and Universities is an independent,
+                    not-for-profit organization that exists to strengthen the work and mission of
+                    colleges and universities related to the Presbyterian Church (U.S.A).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes minutes of annual meetings (1981-1996), the executive
+                    committee, and board of directors; subject and correspondence files; budget,
+                    audit, and other financial records; covenant agreements; APCU Risk Management;
+                    Business Education Initiative records, 1994-2001; Point of View newsletters and
+                    related records, 1990-2002; constitution and by-laws; committee minutes;
+                    membership fact sheets and membership votes; newsletters; memoranda; reports;
+                    and guidelines, 1976-1981. Also included are the files of Duncan Ferguson,
+                    President of APCU.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Association of Presbyterian Colleges and Universities</p>
+                <p>Accession number: 04 0129|06 1005a</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

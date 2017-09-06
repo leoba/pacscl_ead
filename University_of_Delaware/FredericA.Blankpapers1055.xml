@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frederic A. Blank papers <date type="inclusive">1807-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frederic A. Blank papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1055</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1807-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frederic A. Blank (d. 1992) was a New York businessman. He served in the army
+                    during World War I, then returned home to his previous career as an export
+                    manager. In 1926, he worked in the wall-covering industry, and invented a
+                    washable, non-fading wall-covering. In 1940, he was appointed to the American
+                    and Foreign Panel of Arbitrators in the U.S. by the American Arbitration
+                    Association of New York. He also taught institutional decoration at Cornell
+                    University (1945) and joined the Executive Association of Greater New York
+                    (1945), becoming the vice president in 1948. He retired to Wilmington, Delaware,
+                    in 1949.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Frederick Blank papers consist of material dating from 1807-1991. The
+                    collection focuses largely on subjects related to Blank's military service and
+                    to the wall-covering business. It includes books, court records, correspondence,
+                    membership cards, articles, booklets, tear sheets, memoranda, pamphlets,
+                    clippings, photographs, fabric sample books, class notes, business cards,
+                    wall-covering sample books, brochures and advertisements, printing plates, maps,
+                    and periodicals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 92-152c; 92-52</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0572.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0572.xml</extref>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

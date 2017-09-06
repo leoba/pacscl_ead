@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Morris Maier papers <date type="inclusive">1899-1978</date>
+                        <date type="bulk"> 1950-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Morris Maier papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC791</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1899-1978</unitdate>
+                <unitdate type="bulk"> 1950-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Morris Maier (1909-1982) was a Haverford College alumnus, class of 1931.
+                    He served on the Haverford College Board of Managers and as Treasurer of the
+                    Haverford College Corporation. He was a member of the Haverford Monthly
+                    Meeting.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of financial records, correspondence, meeting minutes, and
+                    printed materials related to Quaker and philanthropic concerns with which
+                    William Morris Maier was involved. These include the Friends Freedmen's
+                    Association, Ludwick Institute, Friends Fiduciary Corporation, the Philadelphia
+                    Yearly Meeting (including the Representative Meeting), the Richard Humphreys
+                    Foundation, University Settlements, Cheyney State College, and the Emlen
+                    Institute.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Emlen Institution for the Benefit of Children of
+                    African and Indian Descent (Philadelphia, Pa.)</corpname>
+                <corpname encodinganalog="610">Friends Fiduciary Corporation.</corpname>
+                <corpname encodinganalog="610">Ludwick Institute (Philadelphia, Pa.)</corpname>
+                <corpname encodinganalog="610">Philadelphia Yearly Meeting of the Religious Society
+                    of Friends.</corpname>
+                <corpname encodinganalog="610">Richard Humphreys Foundation.</corpname>
+                <subject encodinganalog="650">Quakers--Charities.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 4398</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Emlen Institution records, Philadelphia Yearly Meeting of the Society of Friends
+                    records; Friends Historical Library: Friends Freedmen's Association records,
+                    Richard Humphreys Foundation records, Philadelphia Yearly Meeting of the Society
+                    of Friends records; Historical Society of Pennsylvania: Ludwick Institute
+                    records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

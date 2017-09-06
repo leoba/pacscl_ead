@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rosenbach family papers <date type="inclusive">1828-1979</date>
+                        <date type="bulk"> 1840s-1940s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rosenbach family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1761</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1828-1979</unitdate>
+                <unitdate type="bulk"> 1840s-1940s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Rosenbachs were a prominent Jewish Philadelphia family. Morris (born Meier)
+                    Rosenbach emigrated from Germany to the United States in 1844, and became a US
+                    citizen in 1855. In 1857 he married Isabella H. Polock. They had eight children:
+                    Hyman Polock (1858-1892), Philip Hyman (1863-1953), Morris (1865-?), Rebecca H.
+                    (1866-1926), Adalaide (1868-1872), Moses Polock (1870-1953), Miriam H. Wolfe
+                    (1873-1926), and Abraham Simon Wolf (1876-1952). Morris Rosenbach, Sr. was a
+                    soft goods merchant. His wife Isabella was involved with the Hebrew Sunday
+                    School Society, the Hebrew Female Benevolent Society, the Jewish Orphans Home,
+                    and Congregation Mikveh Israel. Moses Polock (1817-1903) was the brother of
+                    Isabella Polock Rosenbach. As a young man, he was employed by the publishing and
+                    bookselling firm of M'Carty &amp; Davis as a clerk. Twenty years later Polock
+                    acquired the business and upon his death, the firm descended to Abraham
+                    Rosenbach. Hyman was a freelance journalist and later worked as a regular staff
+                    member at the Public Ledger. Morris Jr. was an engineer who worked for a time
+                    for the Missouri River Commission. He eventually settled in Chicago and was an
+                    executive for the packing house of Wilson and Company. Abraham received his
+                    Ph.D. from the University of Pennsylvania in 1898. In 1903, he and his older
+                    brother Philip established the Rosenbach Company to sell rare books and fine and
+                    decorative arts.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the Rosenbach family papers. Materials in the collection
+                    include: correspondence between family members, including a series of letters
+                    from Morris (Jr.) to his mother, sisters, and Abraham describing his travels in
+                    the western United States in the late 1890s; the passport, naturalization
+                    papers, and military service records of Morris Rosenbach (in German); business
+                    books related to Morris Rosenbach's business; school notebooks and a penmanship
+                    book of Isabella Rosenbach; a scrapbook, minutes, and histories of the Hebrew
+                    Sunday School Society; school notebooks, composition books, notes, and school
+                    papers of Abraham; honorary degrees and awards belonging to Abraham; clippings,
+                    printed profiles, and a typescript of a speech by Edwin Wolf related to Abraham;
+                    bibliographic cards for works on and by Tennyson (probably compiled by Abraham);
+                    address and phone books of Philip and Abraham; business books related to
+                    Philip's Carlton Club; estate papers of Philip and Abraham; blueprints for the
+                    building at 1618 Locust street; printed copies and a manuscript of Hyman Polock
+                    Rosenbach's Jews in Philadelphia Prior to 1800; commonplace books; calling cards
+                    of family members; and a typescript of the memoirs of Cyrus Adler.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

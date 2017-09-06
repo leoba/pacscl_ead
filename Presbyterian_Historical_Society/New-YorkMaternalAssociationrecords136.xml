@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>New-York Maternal Association records <date type="inclusive">1832-1880</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">New-York Maternal Association records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC136</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1832-1880</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The New York Maternal Association was formed in 1818. The main Association was
+                    composed of subordinate chapters attached to individual Presbyterian churches
+                    throughout the city. At monthly meetings of these chapters, mothers and their
+                    children met for prayer and conversation, the purpose being to instruct children
+                    in the faith. These individual chapters came together for a semiannual meeting;
+                    this constituted the New York Maternal Association. At these semiannual
+                    meetings, each constituent member chapter reported on their activities in the
+                    previous year. Some of the group's annual reports were published in the Mother's
+                    Magazine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of minutes of the New York Maternal Association. The volume
+                    includes copies of correspondence to the New York Maternal Association, brief
+                    histories of member chapters, and minutes of annual and semiannual meetings,
+                    1832-1869. The volume also includes a list of the founding members of the New
+                    York Maternal Association and some historical sketches and correspondence
+                    related to the history of the Association, 1869-1880.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 05 0429e</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harris Wofford papers <date type="inclusive">1957-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harris Wofford papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1478</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>540 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1957-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Harris Wofford (b. 1926) is a politician, academic administrator and lawyer.
+                    After serving in the United States Air Force from 1944-1945, he received his AB
+                    from the University of Chicago in 1948. He received law degrees from both Yale
+                    and Howard Universities. From 1954-1958 he practiced law with the Washington
+                    firm of Covington and Burling. He taught law from 1959-1961 at Notre Dame Law
+                    School. From 1958-1959, he was counsel to Reverend Theodore Hesburgh on the U.S.
+                    Commission on Civil Rights. In 1959 Wofford joined Senator John Kennedy's
+                    pre-convention campaign and organized and coordinated the new Civil Rights
+                    Section of the presidential campaign. After the election, as Special Assistant
+                    to President Kennedy, he served on a new sub-cabinet Group on Civil Rights. He
+                    also sat on the task force which helped organize the Peace Corps and during the
+                    years 1964-1966 was Associate Director of the organization. He was a member of
+                    President Johnson's 1965 Smithsonian Task Force that prepared the President's
+                    proposals for the International Education Act. Wofford was President of the
+                    State University of New York's College at Old Westbury from 1966-1970 and then
+                    President of Bryn Mawr College from 1970 to 1978. After his tenure at Bryn Mawr,
+                    Wofford served as Pennsylvania's Secretary of Labor and Industry, where he
+                    established and led the Pennsylvania Office of Citizen Service. From 1991-1994
+                    Wofford served as a United States Senator from Pennsylvania. After leaving
+                    office, he served as CEO of the Corporation of National Service.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes papers, books and videotapes. The bulk is devoted to
+                    Wofford's campaigns for election and his papers from his term as a U.S. Senator
+                    for Pennsylvania. A large collection of videotapes documents his second,
+                    unsuccessful campaign for election against Republican Rick Santorum. Additional
+                    material includes several book-length manuscripts, papers from his work as
+                    Pennsylvania Secretary of Labor and Industry, and various papers and manuscripts
+                    relating to his work in the fields of national service, civil rights, the Peace
+                    Corps, and African and international development. Wofford's political papers
+                    complement the papers from his tenure as President of Bryn Mawr College, also
+                    held by the Bryn Mawr College Library.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Harris Wofford presidential papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

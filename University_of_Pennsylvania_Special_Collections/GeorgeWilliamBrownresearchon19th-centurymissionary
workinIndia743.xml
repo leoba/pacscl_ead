@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George William Brown research on 19th-century missionary work in
+                        India <date type="inclusive">1924-1932</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George William Brown research on 19th-century missionary
+                    work in India</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC743</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1924-1932</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George William Brown (1870-1932) received his Ph.D. in Sanskrit, Hebrew, and
+                    Arabic from Johns Hopkins University under the direction of Maurice Bloomfield.
+                    Brown taught at Central Christian College, before going to Harda and Jubbulpore
+                    in South India, where he worked as a missionary of the Disciples of Christ for
+                    16 years. From 1917 to 1921 he was Professor of Semitic languages at the College
+                    of the Bible, Transylvania University, and from 1921 to 1927 he was Dean of the
+                    Faculty and Professor of Indology at the College of Missions at Indianapolis.
+                    Brown was a founding member of the Linguistic Society of America. His son, W.
+                    Norman Brown, was also a noted Sanskrit scholar.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of George William Brown. Materials include:
+                    research notes and a typescript for a history of the Disciples of Christ in
+                    India; research notes for and typescripts of "History of Missions in India";
+                    notes on Hittites, Dravidians, Elamites, Etruscans, Sumerians, Hurri, Churri and
+                    the Mittani and Dravidian languages; a review of a Nepali etymological
+                    dictionary; notes on the Synoptic Gospels; typescript of an analysis of the
+                    Tulsi Das Ramayana; and a series of lecture notes on China, linguistic and
+                    language study, comparative philology, and the Old Testament. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 265</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

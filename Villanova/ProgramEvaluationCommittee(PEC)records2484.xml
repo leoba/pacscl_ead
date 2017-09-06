@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Program Evaluation Committee (PEC) records <date type="inclusive">1979-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Program Evaluation Committee (PEC) records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2484</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1979-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Program Evaluation Committee (PEC) was formed in the fall of 1985 by
+                    Villanova University President John M. Driscoll, with the appointment of twelve
+                    faculty members and two administrators. Father Dricoll gave the Program
+                    Evaluation Committee the charge to evaluate all existing academic and
+                    non-academic programs and to make resource allocation recommendations for each
+                    program. The Program Evaluation Committee report to the president was issued
+                    March 1988. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Program Evaluation Committee records consist mainly of reports. Included in
+                    the collection are reports from various task forces including Environmental
+                    Opportunities and Constraints, Internal Strengths and Weaknesses, and Personal
+                    Values, and internal self studies and departmental reports. Also included are
+                    individual responses from members of the university community and departmental
+                    responses. The Program Evaluation Committee report submitted to the university
+                    president in March 1988 is also included in this series. The PEC report includes
+                    a complete set of minutes of the Committee (1986-1988).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Universities and colleges--Administration.</subject>
+                <subject encodinganalog="650">Universities and colleges--Curricula</subject>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

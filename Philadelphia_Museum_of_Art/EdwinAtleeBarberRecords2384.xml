@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edwin Atlee Barber Records <date type="inclusive">1901-1916</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edwin Atlee Barber Records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC2384</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-1916</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edwin Atlee Barber was Curator/Secretary of the Philadelphia Museum of Art from
+                    1901 to 1907, Director/Curator from 1907-1916 and Honorary Curator of American
+                    Pottery and Porcelain from 1893 to 1916. His great interest was pottery,
+                    porcelain, and ceramics, primarily early American works. A scholar and prolific
+                    writer, Barber wrote numerous articles on his specialty, many of which were
+                    published. He remains today a pioneer scholar in his field. Born in Baltimore,
+                    Maryland in 1851, Barber's family included distinguished heroes of the
+                    Revolutionary War, as well as early captains of industry. When he was a child,
+                    Barber's family moved to Pennsylvania and then to Iowa, but Barber returned East
+                    for his schooling. He graduated from the Williston Seminary in East Hampton,
+                    Massachusetts, in 1869, and then attended Lafayette College where he studied
+                    English. In 1880, Lafayette College conferred upon Barber a Master of Arts
+                    degree, and in 1893, he received from the College a Doctorate of Philosophy. In
+                    1874, Barber went west with the United States Geological and Geographical Survey
+                    of the Territories. The following year his travels took him to sites of Indian
+                    ruins in Utah and Arizona where his pottery interests most likely were
+                    stimulated. At this time Barber also was reporting for the New York Herald as a
+                    special correspondent. In 1879 Barber returned to the Philadelphia area to
+                    become a Post Office Superintendant and later an Officer of the U.S. Civil
+                    Service Examining Board. Barber became involved with museum interests in
+                    Philadelphia. In 1879 he was appointed Chief of the Department of Archaeology of
+                    the Permanent Exhibit in Fairmount Park, and in 1893, was appointed Honorary
+                    Curator of Pottery and Porcelain at the then Pennsylvania Museum and School of
+                    Industrial Art. In addition, he was the Secretary of the Corporation and Curator
+                    from 1901 to 1916. In a letter to Morris Carter of the Boston Museum of Fine
+                    Arts, Barber outlined his own tasks: “Secretary of the Corporation and various
+                    committees, Acting Curator of all the twelve departments of the Museum; arrange
+                    and install all of the collections, prepare all of the labels for printing; edit
+                    the Museum Bulletin and Annual Report, and prepare for publication all of the
+                    Guides, Handbooks, catalogues and Art Primers; conduct the Bureau of
+                    Identification of Art Objects; collect the annual Membership dues; act as
+                    Superintendent of the building and have direct charge of the guards and all
+                    other employees.” Later in 1907, after Pepper's death, his title was changed
+                    from Curator to Director. Barber's tenure at the Museum was during a critical
+                    period of growth and self-definition for the Museum. Through Barber's influence
+                    the Museum placed a great importance on the decorative arts, a focus which has
+                    remained through the years. An avid collector and a recognized authority,
+                    especially of Pennsylvania German pottery and early American glassware, Barber
+                    also is the author of the acclaimed text, Pottery and Porcelain of the United
+                    States. Barber spelled his middle name with a capital L, as Edwin AtLee Barber,
+                    whenever the choice was left up to him; but others usually spelled it with a
+                    small l, including the Library of Congress. Barber married Nellie Louise Parker
+                    in 1880. On December 12, 1916, Barber died of pneumonia, and was survived by his
+                    wife and their daughter.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Barber's correspondence is arranged in two alphabets, 1901 to 1911 and 1912 to
+                    1916. Some Barber correspondence with Museum people was kept separately.
+                    Extensive correspondence with John T. Morris, Board of Trustees Vice President
+                    and a collector; John Story Jenks, also a collector and a Vice President of the
+                    Board; Leslie W. Miller, Principal of the School; and James L. Allan, Assistant
+                    Treasurer make up a series. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Pennsylvania Museum and School of Industrial
+                    Art.</corpname>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/ead.php?c=BAR&amp;p=tp">http://www.philamuseum.org/pma_archives/ead.php?c=BAR&amp;p=tp
+                    </extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Dalton Dorr Records and Edwin AtLee Barber Papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

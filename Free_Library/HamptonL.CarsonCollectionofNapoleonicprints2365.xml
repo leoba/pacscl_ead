@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hampton L. Carson Collection of Napoleonic prints <date type="inclusive">undated</date>
+                        <date type="bulk"> 1800-1850</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hampton L. Carson Collection of Napoleonic prints </unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2365</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="fre"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.28 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+                <unitdate type="bulk"> 1800-1850</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hampton Lawrence Carson (1852-1929) was a lawyer and an avid historian and
+                    collector of manuscripts, autographs, political cartoons, and portraits. Born in
+                    Philadelphia in 1852, he graduated from the University of Pennsylvania Law
+                    School in 1874 and taught there from 1895 to 1903. He was also a partner in
+                    several private laws firm and dealt primarily in estate law. In 1903 Governor
+                    Samuel W. Pennypacker appointed him attorney general of Pennsylvania, a post
+                    which he held until 1907. From 1919 to 1921 Carson was both president of the
+                    American Bar Association and chairman of a subcommittee of the Pennsylvania
+                    Commission on Constitutional Amendment and Revision. He was a member of several
+                    historical associations, including the American Historical Association Endowment
+                    Fund and the Historical Society of Pennsylvania (HSP). He served as president of
+                    HSP from 1921 until his death in 1929. His interest in history is reflected in
+                    his major published works, History of the Supreme Court of the United States and
+                    History of the Historical Society of Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of prints (etchings, engravings, aquatints, and lithographs)
+                    of Napoleon, his associates, and scenes from his life and military career. The
+                    collection is arranged in four sections (portraits, life, associated
+                    personalities, and miscellaneous items), and contains some 3,300 pieces.
+                    Included in the collection is a framed set of seven hand-colored miniature
+                    portraits of Napoleon and his generals, and several books on Napoleon.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Richard E. Bishop papers, films, and paintings <date type="inclusive">1937-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Richard E. Bishop papers, films, and paintings</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC036</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Evett Bishop (1887-1975) was a painter, etcher, and photographer of
+                    wildlife subjects, particularly wildfowl. He graduated from Cornell University
+                    in 1909 with an M.E. degree and went to work as an electrical engineer for the
+                    Cutler-Hammer Manufacturing Company in Milwaukee. In 1915 he married Mary Ellen
+                    Harrington. The couple moved to Philadelphia, where Bishop worked at a
+                    manufacturing plant as a sales manager until his retirement from business in
+                    1933. A number of his etchings and prints are in the collection of the National
+                    Gallery of Art in Washington D.C. He lived in Philadelphia and was a member of
+                    the Philadelphia Print Club and the Philadelphia Watercolor Society. In 1936, he
+                    published Bishop's Birds: Etchings of Water-fowl and Upland Game Birds. In the
+                    same year, J.N. "Ding" Darling, the Chief of the U.S. Biological Survey, asked
+                    Bishop if his drypoint of Canada geese, entitled "Coming In," could be used on
+                    the third Federal Duck Stamp.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of samples of the artwork of Richard Bishop and
+                    materials related to his artwork. Included are two framed oil paintings of the
+                    Mara River in Kenya, a sheet of pencil sketches of ducks in flight, and a bound
+                    souvenir volume related to the U.S. Department of Agriculture "Duck Stamp"
+                    designed by Bishop. The volume includes plates of Bishop's stamp, a series of
+                    humorous duck stamp drawings signed by friends, and a letter and several
+                    telegrams congratulating Bishop on the selection of his design. Included in the
+                    collection, but not bound into the volume are a U.S. Department of Agriculture
+                    brochure on the history of the duck stamp, and a press release announcing the
+                    selection of the winner of the 1982-1983 duck stamp competition. The collection
+                    also includes two 16 mm color films of birds, one entitled Prairie Wings. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 01:09</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

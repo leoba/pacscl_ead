@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel George Gordon papers <date type="inclusive">1913-1947</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel George Gordon papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1003</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.48 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1913-1947</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mineralogist, crystallographer, lecturer, collector, research scientist, and
+                    member of the staff of the Academy of Natural Sciences of Philadelphia, Samuel
+                    Gordon took his first course in mineralogy with Edgar T. Wherry at the Wagner
+                    Free Institute of Science, 1911-12. He went on to train himself by private
+                    study, taking special courses at the University of Pennsylvania and elsewhere.
+                    This training culminated in a six months sojourn in Heidelberg, Germany, where
+                    he studied with Victor Goldschmidt, 1926-27. His specialized interest in
+                    crystallography resulted in the publication, with Victor Goldschmidt as senior
+                    author, of the Crystallographic Tables, as the Academy of Natural Science of
+                    Philadelphia Special Publication, no. 2. Gordon studied possible collecting
+                    localities where minerals could be found to round out the Academy's Vaux
+                    collections. His expeditions included trips to the Andes of Peru, Bolivia, and
+                    Chile, 1921; the Julianehaab District of Greenland, 1923; Bolivia and Chile,
+                    1925; and the Chilean Expedition of 1938.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of several parts. Collection 90-020 contains 1)
+                    professional correspondence, alphabetically arranged, chiefly for the years
+                    1933-1947; 2) Gordon's annotated thesis for the Philadelphia Mineralogical
+                    Society titled "Classification of Minerals" (1913); 3) notebooks titled
+                    "Krystall Messung I," "Krystall Messung II" (1926), "Lothrorh Practicum,"
+                    and one untitled notebook of mineralogical tables, all of these notebooks are in
+                    German; 4) materials related to Gordon's collecting expeditions, including
+                    visas, general correspondence, expense sheets, an herbarium sheet prepared by
+                    Harry Trudell bearing the title with blue pencil to which a photograph of Gordon
+                    and motorcycle have been affixed; 5) miscellaneous materials including
+                    photographs of jade in an envelope titled "Jade by Samuel Gordon for
+                    Frontiers." Collection 92-013 consists of proof sheets for an article entitled
+                    "Mineralogy of Pennsylvania," published by the Academy of Natural Sciences,
+                    1922. The proof sheets are lightly annotated and several pages are missing.
+                    Collection 92-014 is a reprint of Gordon's "Penroseite and Trudellite: two new
+                    minerals," first published in the Proceedings of the Academy of Natural
+                    Sciences of Philadelphia, Vol. LXXVII, 1925, pages 317-324.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 90-020; 92-013; 92-014</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: other Gordon reprints are in the Harry W. Trudell papers
+                    (92-017).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Court of Quarter Sessions, Chester County, PA records <date type="inclusive">1681-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Court of Quarter Sessions, Chester County, PA
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2421</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>300 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1681-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Includes records of the Clerk of Courts of Quarter Sessions and Oyer and Terminer
+                    and General Jail Delivery and Criminal Rcords of the Sheriff. The Chester County
+                    Court of Quarter Sessions heard criminal cases and dealt with county
+                    administrative matters. This court was based on English practice and was shaped
+                    by the laws passed by Pennsylvania’s General Assembly. The early county court
+                    held by justices of the peace heard all types of cases (civil, criminal, estate)
+                    and dealt with administrative functions such as levying taxes, controlling
+                    finances, caring for the poor, overseeing building of roads and bridges, and
+                    laying out townships and boroughs. The judicial system of Pennsylvania was
+                    reorganized by the “Ordinance for Establishing of Courts” (1707). The ordinance
+                    designated the provincial court the “supreme court” and formally divided the
+                    county court into criminal and civil courts: the court of quarter sessions and
+                    the court of common pleas respectively. The Pennsylvania Constitution of 1969
+                    brought about significant changes in the structure of the court of quarter
+                    sessions as it abolished the courts of oyer and terminer and general jail
+                    delivery, quarter sessions of the peace and orphans’ court: the jurisdiction of
+                    these courts was transferred to the court of common pleas. In Chester County,
+                    criminal records continue to be maintained by the clerk of courts. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Includes dockets and books, indexes to dockets and book, and papers. Types of
+                    records include but are not limited to: indictments, tavern license papers,
+                    indentured servant and apprentice records, reports of directors of the poor,
+                    licenses for hawkers, peddlers and Indian traders. Topics : economics, labor,
+                    law, government, crime, poverty, women, and social and local history. Records
+                    are housed at Chester County Archives &amp; Record Services, Govt. Services
+                    Center, 601 Westtown Road, West Chester, PA 19380. 610-344-6760. The Chester
+                    County Archives is administered by the Chester County Historical Society in
+                    cooperation with the County of Chester. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

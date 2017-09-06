@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philosophy in Process, volume 6, manuscript <date type="inclusive">1968-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philosophy in Process, volume 6, manuscript</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC760</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Paul Weiss (1901-2002) was a philosopher known particularly for his work in
+                    metaphysics. He graduated from City College with a degree in philosophy and then
+                    studied with noted philosopher Alfred North Whitehead at Harvard University,
+                    where he earned his Ph.D. in 1929. He lectured for a year at Harvard and
+                    Radcliffe and then taught at Bryn Mawr before moving to Yale. Professor Weiss
+                    taught at Yale from 1946 until his retirement in 1969 as Sterling Professor of
+                    Philosophy. Weiss was the founder of the Metaphysical Society of America in 1947
+                    and of its academic journal, Review of Metaphysics. He served as the journal's
+                    editor until 1964. He was the author of more than 30 books on topics such as
+                    cosmology, theology, and aesthetics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of a typed manuscript, with corrections, of Volume 6 of
+                    Philosophy in Process by Paul Weiss.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Philosophy.</subject>
+                <genreform encodinganalog="655">Diaries</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 3075</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Ruth Lilly Special
+                    Collections and Archives, Indiana University-Purdue University Indianapolis:
+                    Paul Weiss papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

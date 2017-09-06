@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Martha C. Johnson papers <date type="inclusive">1957-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Martha C. Johnson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1317</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1957-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Martha C. Johnson (d. 1988) was the manager of the Francis Scott Key Book Shop in
+                    Georgetown, Virginia, and was a partner in the literary agency Johnson and
+                    Thompson Authors' Representatives in Washington D.C. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Johnson's records from her time at the Johnson and
+                    Thompson agency and files from the Francis Scott Key Book Shop. Records from the
+                    Johnson and Thompson agency include correspondence with authors and publishers;
+                    manuscripts and galleys of books; clippings; a large scrapbook of publicity
+                    material for Carp's Washington, the first book placed by the Johnson and
+                    Thompson agency; financial records; and administrative documents, such as phone
+                    lists of authors and publishers and a register of royalty payments. Records from
+                    the book shop include customer orders, publicity materials about the shop,
+                    financial records, photographs of the store, authors, and customers, sales
+                    catalogs, and other ephemera.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

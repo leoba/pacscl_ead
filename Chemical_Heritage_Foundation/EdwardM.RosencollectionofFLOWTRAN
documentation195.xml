@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward M. Rosen collection of FLOWTRAN documentation <date type="inclusive">1969-1992</date>
+                        <date type="bulk"> 1960s-1970s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward M. Rosen collection of FLOWTRAN
+                    documentation</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC195</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1969-1992</unitdate>
+                <unitdate type="bulk"> 1960s-1970s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>FLOWTRAN is a system of digital computer programs for the mathematical solution
+                    of steady-state chemical engineering problems. The purpose of FLOWTRAN is to
+                    enable design, process and production engineers to make use of powerful,
+                    up-to-date, chemical engineering calculating tools in their day-to-day work.
+                    FLOWTRAN was released within Monsanto in 1966. Edward M. Rosen joined Monsanto
+                    in 1959, where he worked with an early IBM computer and a FORTRAN compiler on a
+                    material balance program, and then in the field of computerized simulation of
+                    chemical processes. Alvin Larsen (d. 2004) joined Monsanto in 1969, and was a
+                    co-worker of Rosen's. He carefully collected manuals and other documentation
+                    about FLOWTRAN. This collection is made up of his records, those of Rosen, and
+                    those of a few others. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of manuals, reports, internal Monsanto memos and
+                    correspondence relating to Monsanto's FLOWTRAN system. Records include: FORTRAN
+                    listings of the internal and external FLOWTRAN building blocks; internal
+                    training and workshop documents; published papers about FLOWTRAN; articles about
+                    the history of the system; marketing documents; internal and external user's
+                    documentation; records of educational outreach projects in which the FLOWTRAN
+                    system were made available to universities; and miscellaneous memos and
+                    correspondence.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: E.R.</p>
+                <p>Accession number: 06:044</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

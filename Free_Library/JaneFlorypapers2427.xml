@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jane Flory papers <date type="inclusive">1960-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jane Flory papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2427</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jane Trescott Flory was born in Wilkes-Barre, Pennsylvania in 1917. She was
+                    educated at the Philadelphia Museum School of Industrial Art (now Philadelphia
+                    College of Art), receiving her degree in 1939. She began working as a freelance
+                    writer and illustrator of children’s books soon after college, and married
+                    artist and college instructor Arthur Leroy Flory in 1941. Flory’s first
+                    children’s book, Snooty, the Pig Who Was Proud, was published in 1944 and her
+                    last, The Great Bamboozlement, was published in 1982. In addition to her
+                    writing, Flory served as director of the evening division of the Philadelphia
+                    College of Art in Philadelphia from 1958-1974.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts, illustrations, and notes of Jane Flory.
+                    Documentation is present for a number of Flory's books, including The Liberation
+                    of Clementine Tipton, We'll Have a Friend for Lunch, Ramshackle Roost, The
+                    Unexpected Grandchildren, The Faraway Dream, It Was a Pretty Good Year, and The
+                    Golden Venture. Materials include manuscript drafts, notes and sketches, galley
+                    proofs, and correspondence with editors. The collection also includes a
+                    handwritten and illustrated manuscript of This Is Farmer John, which was never
+                    published, and several notebooks containing story outlines, manuscript drafts of
+                    stories, and notes on character development and changes to story lines.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

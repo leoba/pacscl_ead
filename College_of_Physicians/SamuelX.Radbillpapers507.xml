@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel X. Radbill papers <date type="inclusive">1751-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel X. Radbill papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC507</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>53.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1751-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel X Radbill, Philadelphia pediatrician and medical historian, was born in
+                    1901. Radbill received his M.D. from the University of Pennsylvania in 1924. In
+                    1925, he became a Resident at Children's Hospital of Philadelphia. In 1926,
+                    Radbill opened his private practice. He began to specialize in pediatrics in
+                    1938 and joined the pediatrics staff at Philadelphia General Hospital. During
+                    the early 1930s, Radbill helped organize and run three free local pediatric
+                    clinics in Philadelphia. During World War II, he served as an examiner for the
+                    local draft board, then enlisted in 1942. He served as Chief of the Communicable
+                    Disease Section at Ashburn General Hospital in McKinney, Tex., and Chief of
+                    Medical Service and Venereal Disease Control Officer at Fort Crockett,
+                    Galveston, Tex. Radbill was elected to fellowship in the College of Physicians
+                    of Philadelphia in 1943. He died in 1987.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Samuel X. Radbill. Major topics within the
+                    collection include medicine in folklore, the history of pediatrics, pediatrics
+                    in art, Jewish physicians, children's hospitals, medical history of Philadelphia
+                    and the history of Children's Hospital of Philadelphia. Materials include:
+                    pamphlets and reprints; manuscripts and typescripts of articles; research and
+                    bibliographic notes; prints and engravings; photographs; postcards; clippings
+                    from magazines and newspapers; museum and auction catalogs; a small amount of
+                    correspondence; minutes of the Library Committee and the Wood Institute Advisory
+                    Committee of the College of Physicians, 1949-1987; and manuscripts and printed
+                    volumes. Among the images and illustrations are many portraits of physicians.
+                    Bound manuscripts include lecture notes from Dr. Chapman's courses, 1817; and a
+                    three-volume text book on medicine in Latin, 1751. Reprints are in English,
+                    French, German, Italian, Hebrew; several books are in Latin.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">College of Physicians of Philadelphia.</corpname>
+                <subject encodinganalog="650">History of Medicine.</subject>
+                <subject encodinganalog="650">Medicine--Pictorial works.</subject>
+                <subject encodinganalog="650">Medicine--Study and teaching.</subject>
+                <genreform encodinganalog="655">Broadsides</genreform>
+                <genreform encodinganalog="655">Cartoons (Humorous images)</genreform>
+                <genreform encodinganalog="655">Catalogs</genreform>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Ephemera</genreform>
+                <genreform encodinganalog="655">Exhibition catalogs</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Pamphlets</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Portraits</genreform>
+                <genreform encodinganalog="655">Postcards</genreform>
+                <genreform encodinganalog="655">Prints (Visual works)</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1991-166</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Samuel X. Radbill papers (MSS 2/0037-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

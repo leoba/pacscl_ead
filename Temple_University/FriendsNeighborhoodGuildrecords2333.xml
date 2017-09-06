@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Friends Neighborhood Guild records <date type="inclusive">1910-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Friends Neighborhood Guild records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2333</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>19.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Friends Neighborhood Guild is a settlement house serving the Poplar section
+                    of North Philadelphia. The organization was founded in 1879 and was originally
+                    called the Friends Beach Street Mission. In 1899, the organization was renamed
+                    the Friends Neighborhood Guild. The Guild was involved in the redevelopment of
+                    East Poplar. In 1950, the Guild started the Friends Self Help Cooperative, one
+                    of the most successful housing cooperatives in Philadelphia. The cooperative
+                    subsequently purchased Penn Towne, a Redevelopment Authority housing project at
+                    Seventh and Fairmount Streets. The Guild also established Operation Poplar, an
+                    extensive outreach program that involved the Guild in housing, community
+                    organizing, juvenile counseling, urban renewal, small businesses, and other
+                    facets of neighborhood life.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains administrative records, scrapbooks, photographs, slides,
+                    and audiovisual materials of the Friends Neighborhood Guild. Materials include:
+                    board minutes, agendas, and reports; annual reports, 1984-1990; correspondence,
+                    including appeals, thank you letters, and correspondence with staff of community
+                    organizations and city agencies; agreements with agencies and organizations such
+                    as the Energy Coordinating Agency; grant proposals and grant reports; files on
+                    aid recipients; minutes, memoranda, financial information, and correspondence
+                    related to the Friends Rehabilitation Program (2001-2004), the Greater
+                    Philadelphia Federation of Settlements, and the Philadelphia Housing Authority;
+                    and some routine office forms and files. These records include the files of two
+                    executive directors, Phillip G. Fazah and Francis Bosworth. There is a good deal
+                    of information about the organization's finances, including: budgets and monthly
+                    reports 1933-1956; pension plan and payroll files; personnel retirement records;
+                    general ledger and journal, 1984-1986; audits, 1990s; and copies of invoices,
+                    receipts, and checks, 1980s-1990s. Scrapbooks, 1954-55 and 1960-61, contains
+                    clippings, programs, flyers, and photographs. There are also photographs and
+                    slides of Friends Neighborhood Guild events and activities (ranging in date from
+                    the early 20th century to the 1990s), as well as videos and audiocassettes from
+                    various social welfare organizations and programs, including the United Way and
+                    the Children's Defense Fund.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Swarthmore College,
+                    Friends Historical Library: Friends Neighborhood Guild records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

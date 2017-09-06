@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Public Relations Department records
+                            <date type="inclusive">1922-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Public Relations Department
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC694</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>22.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1922-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>For many years the Museum hired publicity agents through the Director's Office.
+                    In 1950 the first full-time press representative was appointed, and there has
+                    been a Public Relations Department ever since.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to the Museum's Public Relations
+                    department. Records include Museum press releases and newspaper clippings from
+                    the 1920's to very recently. Also included are some departmental correspondence,
+                    brochures, posters and minutes of the Public Relations Committee (1964-1975).
+                    The bulk of the collection consists of 64 scrapbooks (1927-1972) that primarily
+                    contain newspaper clippings which feature or simply mention the museum. Magazine
+                    articles are also included and, to a lesser extent, ephemera and photographs
+                    from newspapers across the country. Includes correspondence related to
+                    publications of the museum (correspondence of Frederick King and Calvin
+                    Hathaway, both editors of the Museum's publications) and some correspondence
+                    related to the publication of the Pennsylvania Museum Bulletin, edited by Paul
+                    Vanderbilt; Also correspondence of Sandra Horrocks from the 1970s.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Public Relations
+                    Department. </corpname>
+                <subject encodinganalog="650">Museums--Public relations.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Press releases.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 21</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=PR">http://www.philamuseum.org/pma_archives/search.php?c=PR</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Smithsonian Institute
+                    Archives of American Art; microfilm of PMA's Public Relations Scrapbooks (among
+                    Philadelphia Museum of Art selected records, 1874-1954); Philadelphia Museum of
+                    Art: Marketing Department records, 1983; Marketing and Public Relations
+                    Department records, 1955-1999.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

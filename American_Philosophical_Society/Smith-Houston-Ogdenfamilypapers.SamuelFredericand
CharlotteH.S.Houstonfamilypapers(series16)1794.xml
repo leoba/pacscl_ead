@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Samuel Frederic and Charlotte
+                        H.S. Houston family papers (series 16) <date type="inclusive">1895-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Samuel Frederic and
+                    Charlotte H.S. Houston family papers (series 16)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1794</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1895-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Frederic Houston (1866-1952) and Charlotte Harding Shepherd (1867-1940)
+                    were married in Philadelphia in 1902. The marriage was the second for both Sam
+                    and Charlotte. Sam's first marriage, in 1887, to Edith Atlee Corlies (1864-1895)
+                    of Philadelphia, resulted in three children, Edith (1888-1970), Margaret
+                    (1891-1970), and Henry Howard II (1895-1918). Edith died from complications
+                    developed after the birth of Henry, in 1895. Henry II died while a soldier in
+                    World War I. After about seven years of living at Druim Moir with his children
+                    and mother, Sallie Sherrerd Bonnell Houston, Sam married Charlotte. Charlotte, a
+                    widow and friend of Sam's first wife, brought two children to Druim Moir,
+                    Charles Wardell Brown, Jr. (1891-1951) and Charlotte Harding Brown (1895-1973).
+                    Sam and Charlotte had one child together, Eleanor, born in the summer of 1910.
+                    The Houstons took a number of trips abroad, chief amongst was a 1902-1903 trip
+                    to Europe. Sam, Charlotte and the children sailed the eastern Mediterranean and
+                    made ports of call at Tunis, Malta, Zante, Delphi, Corinth, Athens,
+                    Constantinople, Knossos, Gournia, and Venice. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Samuel Frederic Houston and his wife
+                    Charlotte. Materials include; correspondence; clippings; invitation acceptance
+                    lists; scrapbooks; photographs documenting the family’s several trips to Europe;
+                    and a notebook entitled "Books We Have Read" in which Sam and Charlotte list
+                    books read, by author, with a short review of each. The collection also includes
+                    correspondence, clippings, invitations, photographs, printed material, a
+                    scrapbook, and postcards regarding Henry's military service in France, and his
+                    death there in the summer of 1918. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University Archives
+                    and Records Center, University of Pennsylvania: Henry Howard Houston estate
+                    papers; Pennsylvania State Archives: H.H. Houston estate papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

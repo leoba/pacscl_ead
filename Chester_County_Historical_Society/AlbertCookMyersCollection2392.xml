@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Albert Cook Myers Collection <date type="inclusive">1740-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Albert Cook Myers Collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2392</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>166 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1740-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Albert Cook Myers was born in Adams County, PA in 1874. He was a graduate of
+                    Swarthmore College, and later received an honorary Doctor of Letters from
+                    Franklin and Marshall College in 1932. After graduation from Swarthmore in 1898,
+                    Myers became affiliated with THE LITERARY ERA, where he served as editor in the
+                    history department. (1898-1900). He served as registrar and a member of the
+                    faculty at Swarthmore from 1900-1902. Myers spent his post graduate years of
+                    historical study at the Universities of Pennsylvania, Wisconsin, and Harvard,
+                    sharpening his skills as an historian. During much of this time, he attended
+                    lectures taught by Frederick Jackson Turner. In 1907, he was recommended by
+                    Governor Pennypacker as one of the directors of the Pennsylvania Historical
+                    Exhibit for the Jamestown Exposition. He was later tapped to become the Director
+                    of the Historical Exhibits of the Thirteen Original States. The following year,
+                    using many of the same skills, Myers became a member of the Mayor’s Historical
+                    Committee, celebrating the founding of Philadelphia. From this position, he
+                    became director of the Historic Industries Loan Exhibit, part of the Founders
+                    Celebration. In 1910, Myers undertook his life’s work--the assembling of
+                    material on the life and writings of William Penn. He proposed to recreate the
+                    life and works of Penn, accounting for each day. To this end, he undertook a
+                    massive campaign to raise money (amounts needed to complete project were vastly
+                    underestimated). He spent most of the years, which coincided with World War I,
+                    in England, doing research, attempting to get into many private collections to
+                    copy letters of Penn. The entrance of the United States into World War I found
+                    Myers in America. He became a member of the War Service Committee and worked
+                    without compensation to provide for the servicemen coming to Philadelphia. He
+                    organized historical walks through Philadelphia, ending with meals and
+                    receptions at the Historical Society of Pennsylvania. He wrote pamphlets for the
+                    serviceman, pointing out the history of Philadelphia. According to published
+                    reports, about 32,000 servicemen were reached with his activities. Though the
+                    editing of the works of Penn took up all of his life, Myers participated in
+                    other fields of endeavor. From 1924 to 1936, he served on the board of the
+                    Valley Forge Commissioners, a time when the greatest expansion of the park took
+                    place. From 1924-27 and again from 1933-36, Myers was part of the Pennsylvania
+                    State Historical Commission. During his early tenure, he was the driving force
+                    behind erecting 27 large historical markers. During his second tenure on this
+                    board, he was active in the research and restoration of Pennsbury, Penn’s home
+                    in Pennsylvania. Other activities often took him away from his Penn pursuits. In
+                    1918, he helped chair a commemoration of the bicentennial of Penn’s death. In
+                    1924-25, he spearheaded a campaign to raise money to buy the original charter of
+                    Penn to Pennsylvania, and was in charge of the celebration in 1925 when the
+                    charter was formally presented to the State. In 1928, he directed the 150th
+                    Anniversary Celebration of the French alliance with America, with a pageant and
+                    French officials recalling the Valley Forge Encampment. In 1932, Myers directed
+                    the grand celebration of the 250th anniversary of the First Arrival of Penn in
+                    America. Because his main focus was Penn, the man and his works, Myers was
+                    sought as a lecturer. He was known as the foremost authority on Penn, using
+                    lantern slides to illustrate the points in his lecture. He also made himself
+                    available to budding historians, helping them find manuscripts and sources to
+                    aid in their research. A lifelong Hicksite Quaker, Myers was active in the
+                    affairs of the Society of Friends and served on several boards. Myers lived at
+                    the family home in Moylan, Delaware County from 1906 until 1955, when it was
+                    sold. He moved to West Chester, PA for a short time and lived the rest of his
+                    life at Pocopson Home, until his death in 1960. His legacy leaves many written
+                    works by Myers, even though his masterpiece on Penn was never completed or
+                    published</p>
+            </bioghist>
+
+            <scopecontent>
+                <p/>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

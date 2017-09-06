@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Helen Oakes papers <date type="inclusive">1961-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Helen Oakes papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC1217</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>45.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1961-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Helen Oakes has studied and been involved in the Philadelphia school system since
+                    the 1960s. She played active roles in many organizations committed to improving
+                    and restoring public education including the Citizens Committee on Public
+                    Education in Philadelphia and the West Philadelphia Schools Committee. Mrs.
+                    Oakes was appointed to the Board of Education in Philadelphia in 1982 and served
+                    as a member until 1989. While on the Board of Education, she worked as a member
+                    of the Desegregation Task Force and the Task Force on Teacher Selection. Mrs.
+                    Oakes also wrote and published The Oakes Newsletter for nineteen years from 1970
+                    to 1989.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains papers related to Helen Oakes' involvement with variety
+                    of educational institutions and issues. Board of Education subject files address
+                    a wide range of topics, including AIDS, dropouts, charter schools, attendance,
+                    affirmative action, effective schools, pregnancy prevention, school
+                    reorganization, superintendent selection, the Educational Home Rule Charter.
+                    Subject files include articles, printed reports, studies, statistics, and some
+                    memoranda and correspondence. There are also records related to the compilation
+                    of School-by-School Statistical Analysis of Philadelphia's Public Schools, 1965,
+                    1975-1981, as well as printed School District of Philadelphia directories,
+                    financial reports, policies, and teaching guides. The collection also contains
+                    newspaper clippings, 1964-2002, and records related to Oakes' reelection to the
+                    Board of Education. Rhoads Elementary School files include notes from classroom
+                    observations and from staff meetings and discussions with staff, reports, copies
+                    of mailings to parents and memos to staff, and correspondence from staff members
+                    to Oakes. The files related to The Oakes Newsletter include mailing lists,
+                    accounting information, tax forms, incoming and outgoing correspondence,
+                    reference materials for articles, notes on classroom observations and notes from
+                    discussions with educators. The collection includes files related to
+                    organizations with which Oakes was involved such as the Council for Educational
+                    Priorities, Citizen's Committee on Public Education, Philadelphia Voter
+                    Education Project, and the League of Women Voter's Education Committee. These
+                    files include minutes, printed materials, and memoranda. There are some records
+                    in the collection related to the sale of the papers of Floyd Logan, founder and
+                    president of the Educational Equality League.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 995</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

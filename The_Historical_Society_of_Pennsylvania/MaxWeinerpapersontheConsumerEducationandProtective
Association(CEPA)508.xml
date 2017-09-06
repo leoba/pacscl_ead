@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Max Weiner papers on the Consumer Education and Protective
+                        Association (CEPA) <date type="inclusive">1966-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Max Weiner papers on the Consumer Education and Protective
+                    Association (CEPA)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC508</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Papers of Max Weiner, founder and executive director of the Consumer Education
+                    and Protective Association (CEPA), founded in 1966. This organization fought
+                    utility companies, public transportation companies, automotive companies, and
+                    other major parties in order to secure rights for consumers. Weiner and CEPA
+                    also spoke out about a number of socio-political issues, including political
+                    corruption and police brutality. Included in the collection are newspaper
+                    clippings, press releases, leaflets, pamphlets, and other printed materials
+                    regarding rallies and activities, newspapers and newsletters, correspondence,
+                    speeches, radio program scripts, reports, court documents, cartoons, transcripts
+                    of hearings, and information about the groups and companies that CEPA fought.
+                    There are also videotapes and audiotapes of Weiner's appearances on TV and radio
+                    programs. Weiner ran for office unsuccessfully a number of times on the Consumer
+                    Party ticket.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Besse Weiner, 1991.</p>
+                <p>Year acquired: 1991</p>
+                <p>Accession number: 1991:43</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

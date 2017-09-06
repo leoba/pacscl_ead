@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>School of Business records <date type="inclusive">1929-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">School of Business records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2436</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1922, the Villanova School of Business offers seven undergraduate
+                    degrees in the fields of accounting, economics, and business administration;
+                    seven graduate programs; and an executive MBA program. Programs are accredited
+                    by the Association to Advance Collegiate Schools of Business (AACSB). The school
+                    is home to several business research centers including the Center for Marketing
+                    and Public Policy Research, the Center for Global Leadership, the Daniel M.
+                    DiLella Center for Real Estate, the Center for the Study of Church Management,
+                    the Center for Entrepreneurship, and the Institute for Research in Advanced
+                    Financial Technology.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The School of Business records include records of the Dean of the School and
+                    records of programs and departments within the school. The papers of the Dean of
+                    the School of Business are arranged into four series: Correspondence, Minutes,
+                    Reports, and Printed Materials. The bulk of the correspondence (1929-1978) is
+                    from faculty members or from the Association to Advance Collegiate Schools of
+                    Business (AACSB) regarding undergraduate accreditation. Minutes are present for
+                    Chairmen’s Meetings (1979-1990); Dean’s Council (1995-2006); and from several
+                    departments within the School of Business. The Reports series includes AACSB
+                    Undergraduate Accreditation applications and reports; a statement of the
+                    philosophy and objectives of the College of Commerce and Finance; annual Dean’s
+                    reports (1963-1987); annual reports from the College’s departments; proposals
+                    for a Master of Business Administration; and student and alumni surveys;
+                    accreditation questionnaires; self-study reports, and reports by consultants.
+                    Printed materials in the collection include syllabi for several College
+                    programs; and brochures for the Master of Business Administration program. The
+                    collection also includes syllabi from the Management Department, for courses
+                    given between 1982 and 1995 (with one syllabus from a Statistical Methods course
+                    given in 1971), and the Graduate Studies program, for courses given between 1983
+                    and 1995.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Annual reports.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

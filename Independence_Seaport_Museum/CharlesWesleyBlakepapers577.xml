@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Wesley Blake papers <date type="inclusive">1906-1932</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Wesley Blake papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC577</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1906-1932</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles W. Blake was born in Pleasantville, NJ. Blake worked for several U.S.
+                    shipping companies, including Clyde Steamship Co, USSB, CD Mallory &amp; Co.,
+                    and Callaghan, Atkinson, &amp; Co. Comprise career (ca. 1906-1932) Some ships
+                    identified: Egremont, Swiftlight, Ambridge, Hugoton, Mallemak.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>log of SS Teresa (1917); Chief Officer's Log Book, (1917) logbook of SS Hugoton;
+                    log of US Steam Launch Barancas (contains material from SS Teresa and SS
+                    Swiftarrow), 1909-1926; master reports for the SS Teresa; circulars and form
+                    letters from the War Department, regarding vessel appearance; assorted reports
+                    of public service for various vessels; payroll information for the SS Swiftarrow
+                    and SS Hugoton; transcription of telegram of hurricane warnings off coast of
+                    Florida and Nassau Island, 1926; account books for SS Bolagan, Red Cloud, and
+                    Lake Horkville (1918-19); account book for SS Bellepine (1921) and SS Swiftstar;
+                    statements of expenses aboard the SS Red Cloud, submitted to Callaghan, Atkinson
+                    &amp; Co.; and payroll lists/balance sheets. Other papers in the collection
+                    include: telegrams, correspondence, invoices, notes by Capt. Blake; reports on
+                    voyages addressed to owners; disbound scrapbook with clippings and ephemera
+                    (1906-1926); transcriptions of news dispatches (1917) </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Barbara Palmer</p>
+                <p>Accession number: 1996.80.1-8</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

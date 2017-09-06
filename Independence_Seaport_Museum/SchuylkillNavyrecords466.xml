@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Schuylkill Navy records <date type="inclusive">1865-1977</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Schuylkill Navy records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC466</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1977</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Schuylkill Navy of Philadelphia is the oldest amateur athletic governing body
+                    in the United States. It was founded in 1858 with nine clubs and approximately
+                    300 members. . The member clubs of the Navy are all located on the Schuylkill
+                    River where it flows through Fairmount Park in Philadelphia, with most of the
+                    clubs being located on the historic Boathouse Row. Clubs represented at the
+                    founding of the society in October 1858 included America, Camilla, Chebucto,
+                    Falcon, Independent, Keystone, Neptune, Pennsylvania, and University. Later that
+                    month Nautilus and Quaker City joined. Half of the clubs lapsed during the Civil
+                    War. Current member clubs include Fairmount Rowing Association, Crescent Boat
+                    Club, Bachelors Barge Club, University Barge Club, Malta Boat Club, Vesper Boat
+                    Club, College Boat Club, Penn Athletic Club Rowing Association (Penn AC), Undine
+                    Barge Club, Philadelphia Girls' Rowing Club (PGRC), Gillin Boat Club and St.
+                    Joseph's University and St. Joseph's Prep. At least 23 other clubs have belonged
+                    to the Navy at various times. By charter, "its object is to secure united
+                    action among the several Clubs and to promote amateurism on the Schuylkill
+                    River." Each club sends a delegate to the monthly meetings and the clubs elect
+                    the officers of the Schuylkill Navy at the January meeting. The Schuylkill Navy
+                    and its member clubs still host many races. In 1953, the Navy convinced the Dad
+                    Vail Rowing Association to move its regatta to Philadelphia. It has remained
+                    since. The Dad Vail is probably the largest collegiate regatta held and usually
+                    signifies the end of the spring rowing season for most collegiate teams. Other
+                    major regattas held each year include the Thomas Eakins Head of the Schuylkill
+                    Regatta (sponsored by the University Barge Club) and the Frostbite Regatta. The
+                    Navy also sponsors other athletic endeavors including a basketball league and an
+                    annual cross country race. The latter has been held since 1899, with a few
+                    interruptions during World War II.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Schuylkill Navy. Materials include: minutes
+                    of meetings of the Schuylkill Navy, attended by representatives of each of the
+                    Navy's constituent clubs, 1865-1954 (missing 1883-1888) and 1955-1966. The
+                    minutes discuss routine business, including committee reports and rewriting of
+                    the group's constitution and by-laws, preparation for regattas, and activities
+                    of member clubs. Correspondence of the Schuylkill Navy’s secretaries include
+                    incoming and outgoing correspondence to member rowing clubs, individual members,
+                    and other Philadelphia area clubs and organizations. Letters discuss planning of
+                    regattas and other events, membership, meetings, and equipment and property of
+                    the Schuylkill Navy. Office records, 1940s-1960s, include files on regattas,
+                    treasurer's files, financial records, including account books, check registers,
+                    and member lists, by-laws, charter, and other records. Materials related to
+                    regattas include: correspondence, programs, announcements, 1867-1972 (bulk 1930s
+                    and 1960s); logbooks of participants and outcomes, 1873-1965; photos,
+                    correspondence, programs, and clippings related to the Philadelphia Gold
+                    Challenge Cup, 1930s-1950s; scrapbooks (disbound) of programs and clippings,
+                    1913-1940: programs are annotated with scores and outcomes of races); clippings;
+                    and regatta programs, 1880-1955, of regattas held by the Schuylkill Navy and
+                    local and regional regattas held by other rowing clubs. Records related to other
+                    rowing organizations include: files related to FISA, the international rowing
+                    federation, including member bulletins, annual reports, and proceedings of
+                    annual congresses; National Association of Amateur Oarsmen records including
+                    correspondence, minutes, financial information, and office files; correspondence
+                    related to donations for the US Olympic Rowing Team (1950-1952); and minutes of
+                    the Middle States Regatta Association, 1888-1961. Records for the Schuylkill
+                    Navy Basketball League, 1957-1970, include schedules, player lists, and score
+                    books. Files related to the Schuylkill Navy Cross Country Run, 1925-1965,
+                    include programs, race results, reports, and correspondence. Scrapbooks, 1928,
+                    1935-1946, 1947-1960, 1966, include clippings, programs, and photographs.
+                    Photographs in the collection, 1940s-1970s, include portraits of rowing crews,
+                    photos of crews during races, (some with information about the crew). Many of
+                    these are of university or prep school crews. The collection also contains bound
+                    and some loose copies of Rowing News, 1943-1959, and flags of the United States,
+                    Canada, and the Soviet Union.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">National Association of Amateur Oarsmen
+                    (U.S.)</corpname>
+                <subject encodinganalog="650">Regattas--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Rowing clubs--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Rowing--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Bylaws.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Constitutions.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1985.23</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

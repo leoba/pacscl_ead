@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Villanova University photographs collection <date type="inclusive">1855-2008</date>
+                        <date type="bulk"> 1900-2008</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Villanova University photographs collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2488</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-2008</unitdate>
+                <unitdate type="bulk"> 1900-2008</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University traces its origins to old Saint Augustine's Church in
+                    Philadelphia, which the Augustinians founded in 1796, and to its parish school,
+                    Saint Augustine's Academy, established in 1811. Villanova University has been
+                    sponsored by the Augustinian Order since its founding in 1842. Today, the
+                    University is comprised of five colleges: Liberal Arts and Sciences (Villanova
+                    College), Engineering, School of Business (formerly known as the College of
+                    Commerce and Finance), Nursing and the School of Law.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs, negatives, and slides related to Villanova
+                    University and its campus, students, alumni, and faculty. Images of campus
+                    buildings record construction, interiors and exteriors, and documentation of
+                    buildings before and after fires. Of note are several images made by
+                    photographer James E. McClees in 1856. Events such as awards ceremonies,
+                    commencements, centennial celebrations, building dedications, and
+                    groundbreakings are also included. There are portraits of Villanova University
+                    presidents, as well as proof-books of photos of the inauguration of President
+                    Donohue and photographs of inauguration of President Dobbin. Portraits of
+                    honorary graduates include John F. Kennedy, Eugene Ormandy, Joseph Biden, James
+                    Michener, William Howard Taft, and Cardinal Jozef Glemp of Poland. Portraits of
+                    notable visitors include Martin Luther King, Jr., Gerald Ford, and Ronald
+                    Reagan. Group portraits, many of them oversized, depict faculty, trustees, and
+                    students grouped by academic major and graduating class. Student clubs and
+                    societies are also included. Other subjects include student activities, sports,
+                    theater productions, and alumni activities. Photographers include Jules Schick,
+                    Gilbert and Bacon, Harry D. Richards, William H. Rau, and Drucker and Co.
+                    Negatives in the collection include pictures of student clubs, activities,
+                    sports, candid shots of students and faculty taken for the yearbook, 1966-1967,
+                    and a series of negatives from the Engineering department, some of which
+                    appeared in the Villanova Engineer from the 1930s-1950s. The collection also
+                    includes photographs of library artwork, photographs used in exhibits and
+                    anniversary celebrations; a small number of newspaper clippings of students and
+                    faculty; and lithographs and engravings of campus views.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Villanova University--Faculty</corpname>
+                <corpname encodinganalog="610">Villanova University--Sports</corpname>
+                <corpname encodinganalog="610">Villanova University--Students</corpname>
+                <subject encodinganalog="650">College presidents--Portraits</subject>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

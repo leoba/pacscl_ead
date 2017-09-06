@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Gerald Clifford Weales papers <date type="inclusive">1958-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Gerald Clifford Weales papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC739</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Gerald Weales (b. 1925) is a theater scholar, critic, and Professor Emeritus of
+                    English at the University of Pennsylvania. He received his bachelor's, master's,
+                    and doctoral degrees from Columbia University. His books include The Jumping off
+                    Place: American Drama in the 1960s, American Drama since World War II, Canned
+                    Goods as Caviar, and Religion in Modern English Drama. For 25 years his theater
+                    reviews were published in Commonweal, and he has also published in many other
+                    journals, including the Nation, the Gettysburg Review, the Tulane Drama Review,
+                    the Quarterly of Film Radio and Television.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of typescript drafts and galleys of books written by Gerald
+                    Weales. Most of these drafts are only lightly annotated with copy edits and
+                    proofreaders's marks; the short stories are more heavily annotated. Book
+                    manuscripts include: American Drama Since World War II, Arthur Miller: Death of
+                    a Salesman, Religion in Modern English Drama, Canned Goods as Caviar, Tale for
+                    the Bluebird, and The Complete Plays of William Wycherly. Manuscripts of essays
+                    and chapters include: "Ruggles of Red Gap," "Steamboat Round the Bend,""
+                    It's a Gift," and "Ronald Ribman: Artist of the Failure Clowns." Manuscripts
+                    of play and screenplays include: "Ethics, Incorporated," "The Hero at Home,"
+                    "The Western Hero," and "The Hero and Homicide."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 261</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

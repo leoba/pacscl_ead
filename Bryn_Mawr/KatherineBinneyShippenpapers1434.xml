@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Katherine Binney Shippen papers <date type="inclusive">1905-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Katherine Binney Shippen papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1434</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Katherine Binney Shippen (1892-1980) was a 1914 graduate of Bryn Mawr College.
+                    She was an author, primarily of children's books. Her titles include The Great
+                    Heritage, A Bridle for Pegasus, The Pool of Knowledge, and The Heritage of
+                    Music. In 1924 she made a journey to China and Japan, with stops on the way home
+                    in Southeast Asia, India, Africa, and Europe. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of Katherine Shippen. Materials include:
+                    manuscripts; correspondence with editors; scrapbooks of reviews of her work;
+                    photograph albums of trips to San Francisco and Asia; a narrative of her trip to
+                    China entitled "With a Sense of Wonder"; memorabilia from her time at Bryn
+                    Mawr College; a cassette and transcript of an interview with Shippen; and a key
+                    to the City of Hoboken, her hometown.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Southern Mississippi: Katherine Binney Shippen papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

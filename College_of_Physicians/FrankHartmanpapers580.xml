@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frank Hartman papers <date type="inclusive">1904-1977</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frank Hartman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC580</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1904-1977</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frank Hartman (1893-1986), was a radium specialist and consultant, and owner of
+                    Radium Services, Philadelphia, Pennsylvania, 1919-1956. He started selling
+                    radium products after World War I. In 1934 he became a sales agent for radium
+                    from the Eldorado Mining and Refining Company of Canada, which along with the
+                    Atomic Energy Commission after World War II, supplied him with radium and
+                    various isotopes. By the late 1930s, Hartman was acutely aware of the dangers of
+                    radium and took it upon himself to locate and recover pieces lost by area
+                    hospitals and industry until his retirements in 1956.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Frank Hartman. Materials include:
+                    correspondence with academic institutions, officials of government and cancer
+                    societies, and Philadelphia radiologists, relating to Hartman's services;
+                    reports, catalogs, and price lists, including US Atomic Energy publications
+                    (1918-1960s) of radium products; photographs; a diary of radium retrieval
+                    efforts (1930s-1956); clippings regarding radium in Philadelphia area
+                    (1930s-1960s); reprints, flyers in German and English for radiation therapies
+                    (1920s-1930s); books on radium and radioactivity (1904-1968); photographs of
+                    Marie Curie, Frank Hartman, and Hartman Laboratories; and other papers relating
+                    to Hartman's life and career. The collection also includes: 117 glass lantern
+                    slides related to radium, radioactivity, and the Curies; framed photos and
+                    illustrations of radiation theory and phenomena; a binder of photos made from
+                    glass slides and box of other photos; publications relating to the radiation
+                    industry, including Vols. 14 and 17 of Atomic Energy of Canada, Ltd. Published
+                    Papers; and 2 cassettes (and CDs) of 1971 and 1976 interviews with Hartman.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Holy Family College.</p>
+                <p>Year acquired: 1997</p>
+                <p>Accession number: 1997-012</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

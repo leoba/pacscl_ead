@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry R. O'Brien papers <date type="inclusive">1926-1929</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry R. O'Brien papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1176</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.06 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1929</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Rust O'Brien (1891-1970) served in the U.S. Public Health Service's Bureau
+                    of Mines in Pittsburgh, with the International Health Board of the Rockefeller
+                    Foundation in Thailand from 1921 to 1924, and with the Board of Foreign Missions
+                    of the Presbyterian Church in the USA, serving in Chiang Mai, Thailand, as a
+                    member of the staff of the McCormick Hospital. His wife, Mary L. Phillips Carr
+                    O'Brien, served in Thailand alongside him. The couple returned to the United
+                    States in 1931.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, reports and photographs from the
+                    O'Briens' time serving as missionaries in Chiang Mai, Thailand. Photographs
+                    include an image of the Chiang Mai Mission Group, 1929, and an image of the cook
+                    at Chiang Mai Mission, 1929. The correspondence dates from 1926 to 1929 and is
+                    sent from Mary Lou O'Brien to Mrs. Jones and "Friends" (possibly meaning
+                    members of the sponsoring church). One letter of three pages is in the form of a
+                    poem, made up of rhyming couplets. The collection also includes two reports
+                    written by Mary Lou O'Brien in 1928.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Fenn, Martha</p>
+                <p>Accession number: 98 0908</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Henry Rust O'Brien papers (RG 394).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

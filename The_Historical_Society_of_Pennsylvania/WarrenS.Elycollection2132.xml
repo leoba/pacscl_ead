@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Warren S. Ely collection <date type="inclusive">1895-1958</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Warren S. Ely collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2132</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>26.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1895-1958</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Warren S. Ely lived in Doulestown, Pennsylvania. He was the Librarian of the
+                    Bucks County Historical Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of genealogical research conducted by Ely and
+                    his wife. There is also documentation related to the Ely’s activities with the
+                    Bucks County Historical Society and the Daughters of the American Revolution.
+                    Genealogical materials include: research on various families, many in Bucks
+                    County, containing family charts, extensive handwritten notes, correspondence,
+                    reports and some narrative family histories; research materials related to the
+                    descendants of Joshua Ely, consisting of original documents and copies and
+                    extracts of original documents, notes, and family charts, as well as one
+                    photograph; photocopies of genealogical queries in a Hartford, Connecticut
+                    newspaper, 1936-1941. (name of the newspaper is not specified); research done
+                    for the DAR on Bucks County Revolutionary War soldiers; notebooks of
+                    genealogical research; and extensive correspondence with Gilbert Cope, William
+                    Wallace, B. F. Fackenthal, and others related to genealogical topics. There is
+                    also correspondence, receipts, reports related to Ely’s work as the Bucks County
+                    Historical Society Librarian, as well as research files on local history topics.
+                    There is one scrapbook featuring newspaper clippings with illustrations of
+                    people, ships, and other topics (many humorous) that includes some extracts from
+                    primary sources in the back.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Nichols &amp; Sons records <date type="inclusive">1770-1820</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Nichols &amp; Sons records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC824</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1770-1820</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Nichols, was an apprentice to William Bowyer the younger (1699-1777), one of
+                    London’s most learned and influential printers. In 1766 Nichols became Bowyer’s
+                    partner and inherited the business on Bowyer’s death. He continued Bowyer’s
+                    tradition of printing for private gentlemen, learned societies and the Palace of
+                    Westminster and, in 1778, purchased a share in the Gentleman’s Magazine, a
+                    popular monthly periodical specializing in literature, history and the arts. The
+                    Nichols family edited and printed the magazine until 1856. His son, John Bowyer
+                    Nichols entered the firm in 1796 and conducted the business beginning in
+                    1803.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These 131 letters are from the files of the London publishing firm of John
+                    Nichols and Sons. The letters are from authors and business firms having
+                    dealings with the publisher. They represent only "K" and "L" from the files,
+                    and cover the period from 1770 to 1820. There are some copies of Nichols'
+                    answers. The letters in general have to do with biographies, articles for
+                    Gentlemen's Magazine and Legal Antiquities, illustrations for articles, and
+                    requests for books.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 63</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

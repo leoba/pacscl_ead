@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>McCarty &amp; Davis records <date type="inclusive">1773-1888</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">McCarty &amp; Davis records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1763</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1773-1888</unitdate>
+            </did>
+
+            <bioghist>
+                <p>M'Carty &amp; Davis were early Philadelphia booksellers and publishers. The firm,
+                    owned by William McCarty (1788-1861) and Thomas Davis (1790?-1851), was a
+                    successor to Johnson &amp; Warner, who were noted for publishing children's
+                    books. Jacob Johnson (1771?-1819) and Benjamin Warner (1786-1821) sold their
+                    firm in 1815 to McCarty and Davis. In 1831, Moses Polock (1817-1903) was
+                    employed by McCarty &amp; Davis as a clerk. Twenty years later Polock acquired
+                    the business, and upon his death the firm descended to his nephew, Abraham Simon
+                    Wolf Rosenbach (1876-1952).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business books and other documents kept by M'Carty and
+                    Davis, Johnson &amp; Warner, the Benjamin Warner Estate, Moses Polock and
+                    related tradesmen. The volumes include: account books, including those of
+                    traveling salesmen working for M'Carty and Davis in Pennsylvania, Tennessee,
+                    Missouri, Ohio, Virginia, and New York; inventories of the stock of M'Carty and
+                    Davis, Johnson &amp; Warner, the Benjamin Warner Estate, and Moses Polock; order
+                    books; letter books; bills for work of compositors, printers, and binders;
+                    miscellaneous memo and account books; William Davis's commonplace book; and
+                    manuscripts of astronomical almanacs and notes to a history book.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: McCarty &amp; Davis account books (coll. no. 1901); American
+                    Antiquarian Society: McCarty &amp; Davis papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

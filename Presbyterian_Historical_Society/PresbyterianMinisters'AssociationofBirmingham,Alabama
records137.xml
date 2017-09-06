@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterian Ministers' Association of Birmingham, Alabama records
+                            <date type="inclusive">1936-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterian Ministers' Association of Birmingham, Alabama
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC137</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Presbyterian Ministers' Association of Birmingham was a group of clergymen
+                    who met regularly for mutual fellowship. At the meetings, the members heard
+                    papers read and held discussions on a variety of topics. The Association
+                    disbanded in 1971.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of minutes of the Presbyterian Ministers' Association of
+                    Birmingham, Alabama. Minutes discuss routine business and record speakers and
+                    the topics of their addresses. Earlier minutes include brief summaries of talks.
+                    Volumes also include lists of members, treasurer's reports, newspaper clippings,
+                    programs, and responses to a 1970 survey of members on the future of the
+                    Association. Some of the minutes discuss racial relations, including proposals
+                    in 1963 to open membership of the Association to ministers of "members of any
+                    other race."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Melton, Howard</p>
+                <p>Accession number: 05 0514y</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Institute of Chemical Engineers records <date type="inclusive">1925-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Institute of Chemical Engineers
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC928</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>American Institute of Chemical Engineers (AIChE) was formed in 1908 to foster
+                    professional development and encourage communication among members of the
+                    chemical engineering profession. The organization has 18 divisions and forums
+                    which focus on specific areas of chemical engineering. AIChE publishes various
+                    journals, and holds annual meetings at which members and guest experts present
+                    papers.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of selected records from the AIChE. The materials fall
+                    into four broad groups: local section histories; abstracts of papers given at
+                    the 73rd annual meeting; materials gathered from the chemical engineering
+                    departments of universities and other institutions for a history project
+                    entitled "Beginning of Chemical Engineering in U.S.A."; and a time capsule of
+                    materials on the occasion of the organization's diamond jubilee. Also included
+                    in the collection are AIChE membership directories, by-laws, brochures on
+                    chemical engineering careers, and other miscellaneous AIChE materials.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 85:02</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

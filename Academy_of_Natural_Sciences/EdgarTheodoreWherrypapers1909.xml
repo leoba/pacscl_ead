@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edgar Theodore Wherry papers <date type="inclusive">1834-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edgar Theodore Wherry papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1909</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1834-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edgar T. Wherry (1885-1982) was a geologist, crystallographer, and botanist. As a
+                    young man, he attended lectures at the Wagner Free Institute of Science, where
+                    he would later also teach courses in mineralogy (his students there included
+                    Samuel George Gordon, the noted mineralogist). He received his Ph.D. in geology
+                    and mineralogy from the University of Pennsylvania in 1909. Wherry worked at the
+                    Smithsonian Institution and the U.S. Department of Agriculture in the field of
+                    geology, before becoming interested in the wild plants of North America. He
+                    became the nation's leading expert on ferns, native phlox, and native
+                    wildflowers. In 1930, Wherry returned to Philadelphia, where he joined the
+                    faculty of the University of Pennsylvania as Professor of Plant Ecology and
+                    Soils. He retired in 1955, but continued to teach courses in botany and ecology.
+                    He was the first editor of The American Mineralogist, and was editor of the
+                    Bulletin of the American Rock Garden Society and of Bartonia, the journal of the
+                    Philadelphia Botanical Club. Over his career, he published more than 420 papers,
+                    books, and monographs on geological and horticultural topics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection of Edgar T. Wherry papers include: specimen catalogues and type
+                    catalogues; collecting, reference, and travel notebooks; correspondence with
+                    colleagues and letters of appointment; reprints and articles by Wherry and
+                    others; a manuscript of Checklist of the Flora of Chester Co. (PA), by Wherry,
+                    Fogg, and Wahl (1979); photographs and negatives of specimens, photographs and
+                    negatives of Wherry and his colleagues; newspaper clippings; certificates and
+                    awards; and maps.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Wherry correspondence and writings (collection
+                    742).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>C. Dudley Brown papers <date type="inclusive">1933-1966</date>
+                        <date type="bulk"> 1950s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">C. Dudley Brown papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2510</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1966</unitdate>
+                <unitdate type="bulk"> 1950s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>C. Dudley Brown A.I.D. is an interior designer and design consultant. His clients
+                    and projects have included The Cosmos Club, the Australian ambassador's
+                    residence, Glenview Mansion in Rockville, Capitol Hill Presbyterian Church, Kent
+                    Valentine House in Richmond, Virginia, and a number of Chevy Chase residences.
+                    In the 1960s, he was retained as a decorator and design consultant to the
+                    Cochran Chair Co. He was awarded the 2006 Mayor's Award for Excellence in
+                    Historic Preservation, served as the first president of the Washington Chapter
+                    of the Victorian Society in America and remains an active member of the board of
+                    the Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the alphabetical reference files of C. Dudley Brown.
+                    The files include newspaper and magazine clippings, product catalogs, and
+                    brochures. The bulk of the materials date from the 1950s and early 1960s, with a
+                    few items dating back to the mid-1930s. Topics covered by the files include
+                    antiques, clocks, display, early American furniture, modern furnishings,
+                    hardware, windows, and remodeling. Sources of articles include American Home,
+                    House Beautiful, New York Times Magazine, Better Homes and Gardens, and House
+                    and Garden. There is some material related to Brown's work for the Cochran Chair
+                    Co. including product catalogs, price lists, and a company history. The
+                    collection also includes lecture notes, papers, drawings, and reference material
+                    from courses taken by C. Dudley Brown on design, display, and professional
+                    practice, 1951-1952.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

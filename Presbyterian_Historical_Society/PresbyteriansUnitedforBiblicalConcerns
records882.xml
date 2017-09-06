@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Presbyterians United for Biblical Concerns records <date type="inclusive">1965-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Presbyterians United for Biblical Concerns
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC882</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28.35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1965-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Presbyterians United for Biblical Confession (PUBC) was formed in 1965 as a
+                    response to concerns over the Confession of 1967. The PUBC proposed changes to
+                    effect a clearer affirmation of the inspiration and authority of the Bible. In
+                    1966, the 178th General Assembly approved some of the changes suggested. The
+                    PUBC later changed its name to Presbyterians United for Biblical Concerns. In
+                    the summer of 1989 PUBC merged with Covenant Fellowship to form Presbyterians
+                    for Renewal.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of Presbyterians United for Biblical Concerns.
+                    Materials include: minutes, correspondence, memoranda, reports, and agendas from
+                    meetings of the Board, the Executive Committee, and annual meetings; executive
+                    director files, including correspondence, subject files, financial records, and
+                    employee records; files on a 1985 tour of the Holy Land; copies of Communique,
+                    1978-1984, and New Updates, from the late 1980s; newsletters from the
+                    Presbyterians for Biblical Confession (precursor to PUBC), Presbyterians United
+                    for Biblical Confession and PUBC brochures; copies of various publications,
+                    including Presbyterian Journal, Presbyterian Outlook, and A.D.; newspaper
+                    clippings; and photographs of individuals and meetings. The collection also
+                    includes: files from task forces and conferences on various issues, which
+                    contain reports, memoranda, correspondence, and position statements; files on a
+                    dialogue between Presbyterians for Lesbian/Gay Concerns (PLGC) and PUBC
+                    sponsored by the Committee on Pluralism and Conflict; planning documents for
+                    PUBC participation at the General Assembly; and files related to the 1976
+                    Consultation on Homosexuality (including logistical records, correspondence, and
+                    a printed report from the Consultation). Topics addressed include homosexuality,
+                    church union, women's ordination, youth evangelism, missions, theological
+                    education, the sanctuary movement, inclusive language, and prayer in
+                    schools.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 78 1114, 90 0727: PUBC; accession 93 0816b, 95 0525h:
+                    Welde, Matthew; accession 90 1019c: Scott, Mary Ellen</p>
+                <p>Accession number: 78 1114|93 0816b|95 0525h|90 0727|90 1019c</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

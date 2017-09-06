@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Tabb Bishop papers <date type="inclusive">1996-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Tabb Bishop papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2262</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1996-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Tabb Bishop was a lobbyist with the Philadelphia-based consulting firm S. R.
+                    Wojdak &amp; Associates, where he worked on issues related to Philadelphia city
+                    government until 2002. Prior to joining the firm, he served as executive
+                    director of the Philadelphia Delegation in the Pennsylvania House of
+                    Representatives and worked on several major policy initiatives involving
+                    economic development, public transportation, housing, education, and
+                    environmental justice. Bishop served as Deputy Chief of Staff at Temple
+                    University from 2002 to 2007. In 2007 he left Temple to assume the newly created
+                    position as director of public policy for Verizon Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to Tabb Bishop's work as a lobbyist for
+                    S.R. Wojdak Associates. The issues on which Bishop worked included housing,
+                    predatory lending, a proposed new football stadium, and a ban on sales of spray
+                    paint to minors. Materials in the collection include: reports and position
+                    statements; reference materials on issues; correspondence and memos; contact
+                    information, such as business cards, telephone directories, and lists of members
+                    of Mayor John Street's cabinet and various government committees; Bishop's
+                    appointment calendars for 1996 and 2001; receipts; a video, possibly of an
+                    interview with a journalist; and several artifacts.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Housing--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Loans--Corrupt practices.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Politics and
+                    government.</geogname>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

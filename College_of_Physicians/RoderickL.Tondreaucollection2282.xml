@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Roderick L. Tondreau collection <date type="inclusive">1936-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Roderick L. Tondreau collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2282</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Roderick L. Tondreau (1915-1999) received his M.D. from the University of
+                    Pennsylvania School of Medicine in 1940. Tondreau was the Director of Radiology
+                    at Holy Redeemer Hospital and a member of the Philadelphia Roentgen Ray
+                    Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Roderick L. Trondeau on the history of
+                    radiology. Materials include: photocopies of articles, curricula vitae, and
+                    biographical sketches from journals related to the history of radiology (some
+                    from the holdings of the library of the CPP); reprints and articles on
+                    roentgenology; a copy of Medical World New from 1965; program of the Roentgen
+                    Ray Society's 1976 meeting; a copy of "Radiologic Imaging in Philadelphia" by
+                    Tondreau and William Tuddenham; and a small amount of correspondence related to
+                    Tondreau's research on the history of radiology in Philadelphia.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Philadelphia Roentgen Ray Society records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

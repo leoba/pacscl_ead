@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Southeastern Pennsylvania Synod archives <date type="inclusive">1930-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Lutheran Theological Seminary at Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Southeastern Pennsylvania Synod archives</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TLTSp.ACC2353</unitid>
+                <repository label="Repository">The Lutheran Theological Seminary at Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>105 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Southeastern Pennsylvania Synod of the Evangelical Lutheran Church in America
+                    is a collaborative partnership of congregations, institutions, rostered leaders
+                    and lay leaders on the territory of Southeastern Pennsylvania. According to its
+                    mission statement, the Mission of the Southeastern Pennsylvania Synod "is to
+                    oversee the life and ministry of this church in this territory so that: the
+                    Gospel of Jesus Christ is proclaimed; the witness of congregations is
+                    strengthened; people receive healing, justice and mercy; and the unity that our
+                    Lord gives is realized."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Types of materials: minutes, correspondence, reports, publications, printing cuts
+                    (the old metal designs), audio tapes dating in general from the 1930-1978 era,
+                    with most in the 1950-1968 period. There are a few published volumes of minutes
+                    dating from the 18th and 19th centuries. The majority of the collection is
+                    paper. Some portions of the collection will be easier to work through as they
+                    are sorted by topics as they appeared in a file (although some of this material
+                    is not always in order). Other boxes are much more disorganized and someone will
+                    need to figure out how to organize them better, although the contents per box
+                    generally relate to the same topic. Types of sub-collections: Bishop's general
+                    files 1930-1978 (21 boxes); Committee on Social Ministry 1957-1969 (1 box);
+                    Synod Office general files 1953-1974 (4 boxes); Board of Home Missions 1950-1969
+                    (3 boxes); SEPA Synod, LCA general files 1955-1978 (17 boxes); SEPA Synod, LCA
+                    President's files 1953-1972 (6 boxes); SEPA Synod, LCA minutes, correspondence,
+                    financial files 1958-1969 (2 boxes). [Please note--some of the boxes have been
+                    separated into two Hollinger record boxes; I just counted the first box whose
+                    inventory I photocopied, so these figures are approximate. Most of the "B"
+                    boxes are not completely full--more like half full.]</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

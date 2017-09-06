@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Needlework Guild of America records <date type="inclusive">1885-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Needlework Guild of America records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC651</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1885-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Needlework Guild of America was founded in Philadelphia in 1885. The Guild's
+                    mission was to make and distribute new garments for the needy. Members were
+                    required to produce at least two garments a year to maintain active membership
+                    in the Guild. As it grew, many branches were added, but the Philadelphia branch
+                    retained its identity as the "parent branch." </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Needlework Guild of America.
+                    Manuscript materials in the collection include: minutes of the Executive
+                    Committee of the Philadelphia Branch, 1902-1920; Treasurer's Account book with
+                    the Philadelphia Branch, 1897-1933; and minutes of Annual Meetings of Section
+                    President, 1917-1928. Printed materials include bound copies of annual and
+                    biennial reports for the national group from 1885-1938, and annual and biennial
+                    reports for the Philadelphia Branch for 1891-1953. Additionally, there are 8
+                    photographs of the guild members and exhibits promoting their work.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Needlework Guild of America.</corpname>
+                <persname encodinganalog="600">Needlework Guild of America. Philadelphia
+                    Branch.</persname>
+                <subject encodinganalog="650">Charities--Pennsylvania.</subject>
+                <subject encodinganalog="650">Charities--United States--Societies, etc.</subject>
+                <subject encodinganalog="650">Women in charitable
+                    work--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Annual reports</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2004.060</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

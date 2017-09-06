@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Lawrence M.C. and Eleanor
+                        Houston Smith papers (series 74) <date type="inclusive">1860-1986</date>
+                        <date type="bulk"> 1933-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Lawrence M.C. and
+                    Eleanor Houston Smith papers (series 74)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1821</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1860-1986</unitdate>
+                <unitdate type="bulk"> 1933-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lawrence Meredith Clemson Smith (1902-1975) was a U.S. government official and
+                    Philadelphia civic leader. He was the chairman of the Philadelphia Board of
+                    Trade and Conventions from 1955 to 1963 and the U.S. vice-chairman of UNESCO.
+                    His wife, Eleanor Houston Smith (1910-1987 was a Distinguished Daughter of
+                    Pennsylvania, served two terms on the Historical Commission of Pennsylvania, and
+                    was a longtime member of the Board of Governors of the Nature Conservancy.
+                    Lawrence and Eleanor were early conservationists and helped to establish the
+                    Schuylkill Valley Nature Center. They had six children. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Lawrence M. C. Smith and Eleanor Houston
+                    Smith. Materials include: correspondence with family and friends; invitations;
+                    greeting cards; inventories, appraisals, bills and receipts, and photographs
+                    related to works of art, furniture, books and manuscripts, jewelry, silver,
+                    maps, and globes collected by the Smiths; correspondence, minutes, annual
+                    reports, newsletters, and clippings related to various projects supported by the
+                    Smiths, including the Schuylkill Valley Nature Center and the Clarke-Watson
+                    House; and architectural drawings, photographs, clippings, and accounts related
+                    to various Smith family residences. The collection also includes correspondence
+                    related to the Smiths' offer to take in English children during World War II and
+                    FBI files on Lawrence and Eleanor. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

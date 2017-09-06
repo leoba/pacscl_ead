@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Gilbert and Joseph Cope papers <date type="inclusive">1798-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Gilbert and Joseph Cope papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2123</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>26 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1798-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of genealogical research and personal papers compiled by
+                    Gilbert Cope and his son Joseph. The largest portion of the collection is
+                    comprised of surname files from the Gilbert Cope Foundation of Genealogical and
+                    Historical Research (1818-1988). These files include genealogical worksheets,
+                    clippings, correspondence, family charts, printed materials, and some original
+                    photographs and documents (many of them relating to the Copes). Besides the Cope
+                    family itself, other families heavily represented include Baily, Brinton, Brown,
+                    Darlington, du Pont, Garrett, Gilbert, Hoopes, McGrew, Price, Sellers,
+                    Sharpless, and Smedley. The collection includes a number of volumes of
+                    correspondence to and from Gilbert and Joseph Cope, primarily on genealogical
+                    topics, with particular emphasis on Cope family history. Some printed materials
+                    from Pennsylvania and British institutions and groups are included.There are
+                    also some personal papers for ancestors of the Copes, including account books
+                    and diaries for Joseph Cope (1740-1820) and Eliza Cope (died 1862), and
+                    biographical information about Gilbert and Joseph, including transcripts of
+                    Gilbert’s diaries. Some miscellaneous notes, drawings, and published family
+                    histories are also included.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Haverford College:
+                    Cope-Evans family papers; Chester County Historical Society: Gilbert Cope
+                    collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

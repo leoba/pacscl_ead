@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Esther B. Aresty papers <date type="inclusive">1947-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Esther B. Aresty papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC417</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1947-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Esther Aresty (1908-2000) was a culinary historian who wrote on food, cooking and
+                    etiquette. Her publications included The Delectable Past (1964), The Best
+                    Behavior (1970), and The Exquisite Table (1980), Her large collection of rare
+                    cookbooks and manuscripts was donated to the University of Pennsylvania in
+                    1996.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes correspondence, manuscripts, and printed materials
+                    related to or collected by Aresty. Materials include: incoming and some outgoing
+                    correspondence related to publishing and civic activities; some personal
+                    correspondence; manuscripts for publications, including Delectable Past and Best
+                    Behavior; research materials and drafts of articles on etiquette, domestic
+                    servants, and Escoffier; copies of Culinary Review; dealer catalogues for
+                    cookbooks; printed materials including cookbooks, pamphlets, and newspaper
+                    clippings related to food and cooking; newsletters, correspondence and printed
+                    materials from the American Institute of Wine and Food; and a small number of
+                    recipes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 188</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

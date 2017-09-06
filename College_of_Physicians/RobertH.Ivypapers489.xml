@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert H. Ivy papers <date type="inclusive">1904-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert H. Ivy papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC489</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1904-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert H. Ivy (1881-1974) was an internationally known plastic surgeon and
+                    authority on lip and cleft palate deformity. Ivy immigrated to the United States
+                    from England in 1899. He graduated from the University of Pennsylvania Dental
+                    School in 1902 and its School of Medicine in 1907. Ivy was a professor of
+                    plastic surgery and maxillofacial surgery at the University of Pennsylvania (he
+                    held appointments in both the Medical and Dental Schools), and a Fellow of the
+                    American College of Surgeons and of the College of Physicians.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes certificates from various professional organizations,
+                    including the American College of Surgeons, the American Board of Plastic
+                    Surgeons, the Association of Military Plastic Surgeons, and the American
+                    Association for the Advancement of Science; honorary diplomas, plaques, a
+                    trophy, and licenses; and military certificates, including Ivy's appointments to
+                    the ranks of Lieutenant Colonel (1919) and Colonel (1924 and 1939) and a 1945
+                    certificate recognizing his service as a consultant to the Secretary of War.
+                    Other items include a notebook titled "Notes on clinical laboratory
+                    examinations," 1912; addresses and recollections by Ivy; numerous photos and
+                    slides of Ivy, meetings and reunions, golfing, and fishing and photos,
+                    negatives, and slides of a visit to North China and Korea, 1904-1905;
+                    correspondence related to the Graduate Hospital's role in the University of
+                    Pennsylvania's medical program (1969-1970); correspondence, announcements, and
+                    schedules from the College of Physicians, largely from the early 1970s; and
+                    correspondence for Ivy's "Personal Recollections of Holders of the John Rhea
+                    Barton Professorship of Surgery in the School of Medicine of the University of
+                    Pennsylvania".</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from Mutter Museum</p>
+                <p>Year acquired: 1989</p>
+                <p>Accession number: 1989-84</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

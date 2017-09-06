@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Delaware River Port Authority correspondence regarding naming of
+                        the Walt Whitman Bridge <date type="inclusive">1954-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Delaware River Port Authority correspondence regarding
+                    naming of the Walt Whitman Bridge</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC712</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Walt Whitman Bridge is a suspension bridge spanning the Delaware River from
+                    Philadelphia to Gloucester City, New Jersey. The Walt Whitman Bridge is one of
+                    the larger bridges on the east coast of the United States. Construction on the
+                    bridge began in 1953, and it opened to traffic on May 16, 1957. The name was
+                    bestowed on July 20, 1955. The naming of the bridge itself was a subject of
+                    controversy. While the span was still under construction, the Catholic Diocese
+                    of Camden and local officials in South Jersey led a letter-writing campaign
+                    against the naming of the bridge after Whitman because of his homosexuality.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of letters and postcards sent to the Delaware River Port
+                    Authority (DRPA) regarding the naming of the Walt Whitman Bridge. The collection
+                    also includes minutes and summary reports of the special committee designated
+                    DRPA to consider names for the bridge. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 229</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

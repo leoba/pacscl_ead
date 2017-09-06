@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Speer family papers <date type="inclusive">1786-1988</date>
+                        <date type="bulk"> 1860s-1960s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Speer family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1449</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>22 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1786-1988</unitdate>
+                <unitdate type="bulk"> 1860s-1960s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Elliott Speer (1867-1947) was one of the leaders of the Protestant
+                    missionary movement in the first half of the 20th century. In this capacity, he
+                    made many trips to the Far East and to South America. His wife was Emma (Doll)
+                    Bailey Speer (1872-1961). She attended Bryn Mawr College from 1890 to 1892. She
+                    worked throughout her lifetime for the Young Women's Christian Association,
+                    assuming the presidency of the National Board in 1915. Their daughter, Margaret
+                    Bailey Speer also attended Bryn Mawr College, graduating in 1922. She was a
+                    teacher, and traveled to China in 1925 as part of a Presbytarian mission to
+                    teach English at the Women's College at Yenching. Upon the outbreak of war in
+                    1941, she was detained by the Japanese, not returning to the United States until
+                    1943. After her return she assumed the post of headmistress of the Shipley
+                    School in Bryn Mawr. William McMurtrie Speer (1865-1923) was Robert Elliott
+                    Speer's brother. He was a newspaperman and lawyer.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of the Speer family. Materials are divided
+                    into four major series for Robert Elliott Speer, Emma Bailey Speer, Margaret
+                    Bailey Speer, and Robert Milton Speer. The Robert Elliott Speer papers include
+                    letters to his wife and children, diairies, scrapbooks, account books, and
+                    photos. This portion of the collection also includes correspondence of his
+                    father, Robert Milton Speer (1838-1890), U.S. representative from Pennsylvania,
+                    to family members. The Emma Bailey Speer papers include letters to her husband,
+                    family and friends; diaries, talks, speeches, and notebooks, primarily
+                    concerning family matters. Correspondents include Herbert Hoover, Elizabeth
+                    Morrow, and John D. Rockefeller. The Margaret Bailey Speer papers chiefly
+                    consists of letters (1925-1942) to her parents relating to her activities as
+                    dean of the women's college at Yenching University, Peking, China. This section
+                    of the collection also includes letters to other family members, and speeches
+                    and talks (1943-1965) to students and other groups, given while Speer was
+                    headmistress at the Shipley School. The Robert Milton Speer papers includes
+                    correspondence with family members, including his parents, U.S. representative
+                    Robert Milton (1838-1890) and Martha Ellen (McMurtrie) Speer; and brothers,
+                    Robert Elliott (1867-1947) and Victor (1872-1905) Speer. These papers include
+                    records of Robert Milton Speer's political career representing Pennsylvania
+                    (1871-1875), and Victor's correspondence with family members. In addition to
+                    these four major sections, the collection also includes genealogical materials
+                    on the Elder family, religious pamphlets written by Emma Bailey Speer, and
+                    printed articles by Margaret Bailey Speer on her work in China.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

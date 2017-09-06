@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kanji Dwarkadas papers <date type="inclusive">1919-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kanji Dwarkadas papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC745</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Kanji Dwarkadas (b. 1892) was a prominent Indian labor reformer. He was a member
+                    for Labour in the Bombay Legislative Council (1921-1923); member of the
+                    Industrial Dispute Committee and of the Prostitution Inquiry Committee (1922);
+                    one of the founding members of the All-India Trade Union Congress; treasurer and
+                    secretary of the All-India Home Rule League and member of the National Home Rule
+                    League (during the period when Annie Besant was that group's president);
+                    founding member of the Children's Aid Society (established 1927) and later
+                    secretary of that group (1938-1941). His published works include Forty-five
+                    Years with Labour, Ruttie Jinnah; the Story of a Great Friendship, and Ten Years
+                    to Freedom.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Kanji Dwarkadas, including correspondence
+                    and manuscripts of articles, letters to the editor, and reports of interviews.
+                    The correspondence relates to Dwarkadas's involvement in Indian politics, trade
+                    unions, and children's and women's welfare. Correspondents include: Annie
+                    Besant, Sir C. P. Ramaswami Aiyer, D. G. Pole, Shiva Rao, P. K. Telang, C. R.
+                    Attlee, Jinnah, Arthur Nethercot, and many others. Other materials in the
+                    collection include minutes from the Children's Aid Society, the Prostitution
+                    Committee, the Home Rule for India League; and reports by various individuals
+                    related to Indian politics and economic and social issues.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 267</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Logan family papers <date type="inclusive">1664-1871</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Logan family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2411</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>30 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1664-1871</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>A large section of this collection comprises the papers of James Logan, scholar,
+                    secretary to William Penn, clerk of the Provincial Council, commissioner of
+                    property and receiver general for the province. These papers include:
+                    correspondence, among which are letters from William Penn, and some of Logan's
+                    scholarly, scientific, and biographical papers, 1681-1753; letterbooks,
+                    1701-1709, 1702-1726, 1712-1715, 1716-1743, 1720-1731, 1748-1750;
+                    correspondence, copied by Deborah Logan, 1700-1747; letters on political and
+                    business affairs, 1698-1769; documents relating to Indian affairs, 1701-1802;
+                    archives of the Provincial Council, 1694-1755; James Logan's "Justification"
+                    before the assembly, 1709; his receipt book, 1702-1709; account book, 1712-1720;
+                    ledger, 1720-1727; and daybook, 1722-1723. The large body of official papers in
+                    this collection includes: records of the court held at Upland, under Edmund
+                    Andros, 1676-1681; extracts from the record book of the county court at Upland,
+                    1676-1681; early Pennsylvania laws, 1693-1699; New Castle court records,
+                    1677-1682; appeals, petitions, and grievances presented to the provincial
+                    council, 1700-1713; accounts of the quitrents collected by Governor John
+                    Blackwell, 1689, listing the names of the first settlers of Philadelphia;
+                    quitrents for the three lower counties, 1701-1713; the receipt book for
+                    quitrents of Lynford Lardner, receiver-general, 1739, 1743-1750; and Penticost
+                    Teague's receipt book, 1700-1717. Among the Logan family papers are: William
+                    Logan's journal of a trip to Georgia, 1745; correspondence of Dr. George Logan,
+                    1784-1820; his letter book and journal of a trip to England while he was a
+                    student at the University of Edinburgh, 1775-1779; notes from Dr. Hunter's
+                    lectures on the physiology of the alimentary tube (Dr. James Hutchinson to
+                    Logan), 1775; letters and printed pamphlets on the political activities of Dr.
+                    George Logan, and to his foreign missions, 1809-1822; correspondence of Mrs.
+                    Deborah Logan, with a few miscellaneous additions, 1730-1836; an anatomy chart,
+                    some literary and biographical sketches by Deborah Logan, 1815-1827; her
+                    transactions on the farm and memoranda on various matters, 1813-1827. The Logan
+                    Collection includes many of the papers of John Dickinson and Dickinson family
+                    papers, 1697-1843. They include: documents expressing John Dickinson's opinion
+                    on educational, religious, and political matters; correspondence, 1764-1807;
+                    notes of arguments on Pennsylvania laws, 1760; notes on the question of the
+                    abolition of slavery; on religious, philosophical and administrative matters; on
+                    domestic and personal affairs, 1777-1803; Dickinson's Bible, 1740, with marginal
+                    notes; papers from the Dickinson estate, 1664-1806; papers on Dickinson's manor
+                    and other tracts of land; Poplar Ridge (Stephen Pleasonton) papers, 1677-1805;
+                    Kingston-on-Hull (Hunn and Asa Manlove) and Town Point (Caleb Luff and John
+                    Wethered) papers, 1671-1803; Dickinson's records pertaining to Rixom, 1747-1807,
+                    Canterbury, Rejected Valley, Wyeberry, Wyefield, 1714-1802; account of repairs
+                    at Fairhill House Chestnut St., Philadelphia, 1771-1776; records of his land and
+                    house in Wilmington, Delaware, 1754-1800, containing an account of material and
+                    labor, including records of land in the Brandywine Hundred, 1664-1797, and of a
+                    house in Jones Neck (Gideon Emery, Thomas White), 1791-1806; Dickinson's
+                    miscellaneous papers, 1750-1847, relate to land and include demand notes,
+                    indentures, and other business records; papers on land in Merion, 1710-1818; and
+                    Jonathan Dickinson's ledger, 1699-1701. Also included are Henry W. Stiegel
+                    papers, Elizabeth Furnace in Elizabeth Township, Lancaster County, 1766-1775;
+                    papers belonging to the estate of Thomas Wilson, 1763-1776; John Moland's
+                    family, 1745-1785; and William Hicks, 1763-1792. Other volumes in the Logan
+                    collection are the estate of Richard Hill, 1708-1758; the estate of Richard Hill
+                    Accounts, 1729-1742; papers of Thomas Griffiths estate, 1719-1788; of Richard
+                    Harrison's estate, 1744-1775; of Dr. Lloyd Zachary's estate, 1730-1774; Thomas
+                    Fisher's ledger of the estate of William Logan, 1772-1783; Thomas Fisher's
+                    letterbook, 1793-1808; inventory of goods, copies of William Logan Will,
+                    1772-1781; miscellaneous papers relating to the Norris estate, 1700-1797;
+                    including the Shardlow-Sweetapple (Wood-Ellis) papers, 1682-1775; papers
+                    relating to land of Duck Creek, 1683-1767; Beasley's land papers, 1725-1772;
+                    Friends meeting accounts, 1707-1743; a letterbook of Isaac Norris, 1735-1755;
+                    James Steel letterbooks, 1715-1732, 1730-1741, with some James Logan letters in
+                    them; some Logan Parchments, 1734-1770; Norris Parchments, 1682-1764; Dickinson
+                    parchments, 1679-1803. A part of the Logan Collection contains a smaller
+                    collection called the Logan-Dickinson-Norris Collection, 1675-1876, comprising
+                    contracts, testimonies, agreements, which are mainly John Dickinson's legal
+                    notes for law cases, 1675-1876; surveys, 1722-1850; accounts, list of prices of
+                    commodities, salaries, labor costs, 1729-1861, mainly Logan family accounts;
+                    deeds, bonds, leases, 1675-1839; wills, marriage certificates, 1726-1854; papers
+                    pertaining to administration of estates, 1730-1860; and "Charles Thompson's
+                    opinion of J. Dickinson and the Declaration of Independence," copied from the
+                    original by D. Logan, recopied by Sarah Miller Walker, 1845. This collection
+                    also has some miscellaneous correspondence, mostly by the Logan family,
+                    1725-1871. Barbara Jones's master thesis on Deborah Logan, 1964.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of the Logan family, 1840. Logan-Dickinson-Norris papers
+                    purchased, Gratz Fund, 1932.</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William P. Thompson papers <date type="inclusive">1954-1967</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William P. Thompson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC844</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1967</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Phelps Thompson (b. 1918), was elected Moderator of the General Assembly
+                    of the United Presbyterian Church in the U.S.A. in 1965. The next year, he was
+                    elected stated clerk of the General Assembly. He was a key leader in the merger
+                    of several Reformed Church groupings into the World Alliance of Reformed
+                    Churches, and served as the Alliance's president from 1970 to 1977. From 1975 to
+                    1978, he served as president of the National Council of Churches of Christ in
+                    the USA. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to various committees and divisions of
+                    the National Council of Churches of Christ, including the General Assembly, the
+                    General Policy and Strategy Committee, the Division of International Affairs,
+                    the Division of Christian Unity, the General Administration, the Broadcasting
+                    and Film Commission, and a number of others. Materials date from 1954 to 1967,
+                    and include minutes, reports, policy statements, memoranda, budgets, and
+                    newsletters. Reports address various topics within the church and larger social
+                    issues, including civil rights, apartheid, the war in Vietnam, and
+                    immigration.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 68 0290</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

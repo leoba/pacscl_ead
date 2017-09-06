@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas D. Bowes, M.E., Associates records <date type="inclusive">1905-1982</date>
+                        <date type="bulk"> 1905-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas D. Bowes, M.E., Associates records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC463</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>129.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1982</unitdate>
+                <unitdate type="bulk"> 1905-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas D. Bowes (1883-1965) was graduated from Cornell University in 1905. In the
+                    same year, he founded the naval architecture firm of Thomas D. Bowes, M.E.,
+                    Associates, Inc. The firm designed over eighty tugboats and several of
+                    Philadelphia's fireboats. The firm also designed over 300 yachts, mostly
+                    "commuter" and "houseboat" yachts. Bowes designed the 23' 9" "A" class
+                    sloop for the Corinthian Yacht Club of Philadelphia, of which he was a member.
+                    In addition to being a businessman, Bowes served on the advisory committee of
+                    the U.S. Council of National Defense and the Anti-Submarine Warfare Committee of
+                    the U.S. Naval Consulting Board during the first World War. During the Second
+                    World War, he designed minesweepers and submarine chasers for the U.S. Navy.
+                    Bowes also designed and patented the Bowes Drive, an electric device for the
+                    reduction of speed between engine and drive shaft in marine installations.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of plans and records of the naval architecture firm of
+                    Thomas D. Bowes, M.E., Associates, Inc. Materials include: rolled design plans,
+                    design #1-878 (1906-1964); and rolled design plans by job order, #9131-9504
+                    (1944-1963). These include construction plans, deck plans, general arrangement
+                    plans, inboard and outboard profiles, lines and offsets, hold plans, rigging and
+                    sail plans, midship section plans, and other machinery, equipment, and
+                    structural plans. Vessel types include barges, cargo vessels, catboats,
+                    cruisers, ferries, fireboats, houseboats, runabouts, schooners, sloops, tankers,
+                    tugs, and yachts. Designs are by Bowes, Bowes and Mower, and Bowes and Watts.
+                    The collection also includes design plan files for designs #710 to 857 and some
+                    job order records. These files include drawings and machinery plans,
+                    specifications, correspondence, calculations, inspection reports, engine and
+                    generator tests, work orders, product catalogues, and press releases. Business
+                    records of the firm include: correspondence, patents, and descriptions with
+                    plans and photos of the Bowes Drive; patents for other inventions by Bowes;
+                    correspondence related to patent applications and renewals; description and
+                    drawings of the "Magnetic 4" a car designed by Bowes to run on a magnetic
+                    transmission; a brochure of tugs designed by Bowes and built by RTC
+                    Shipbuilding; 1961-1964 corporate records, including bylaws and board of
+                    trustees minutes; contracts and bids; publicity on vessels designed by Bowes,
+                    including tugs and fireboats; correspondence related to sales of fireboats to
+                    various port cities in the United States and abroad; legal agreements,
+                    correspondence, plans, and other records related to work done for Fiedler and
+                    Sellers on diesel engines (mid-1940s); reprints and extracts of articles on
+                    naval engineering and architecture; product catalogues; reports, including a
+                    1960 Delaware River Basin study by the U.S. Army Engineers; photographs of
+                    vessels, including tugs, fireboats; and a photo album (disbound) with images of
+                    the construction of Arthur Hoyt Scott. Printed volumes in the collection include
+                    Machine Design (1903), Shipfitting Practice (1941), and Shipbuilding Shop
+                    Fabrication (1943). The collection also includes personal papers of Thomas D.
+                    Bowes, including a small amount of personal correspondence, photographs, a 1905
+                    Cornell University yearbook, and Bowes' will and related estate documents.
+                    Materials in the collection related to the Corinthian Yacht Club, 1951-1970,
+                    include; minutes, treasurer's reports, race committee reports, race results,
+                    memoranda, and correspondence, and photographs and negatives of launches and
+                    trials of sailing vessels.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Corinthian Yacht Club of Philadelphia.</corpname>
+                <subject encodinganalog="650">Marine engineering--United States.</subject>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <subject encodinganalog="650">Naval architecture--United States.</subject>
+                <subject encodinganalog="650">Yachts--Design and construction.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Press releases.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1984.9, 1984.10, 1997.19, 1994.109, and non-acc.</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Julian A. Sterling collection related to S. Weir Mitchell <date type="inclusive">1914-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Julian A. Sterling collection related to S. Weir
+                    Mitchell</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC699</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Julian A. Sterling was a surgeon at the Albert Einstein Medical Center in
+                    Philadelphia. Silas Weir Mitchell (1829-1914) was an American physician and
+                    writer. He studied at the University of Pennsylvania and received his M.D. from
+                    Jefferson Medical College in 1850. During the Civil War he worked with patients
+                    suffering from nervous injuries and maladies, and at the close of the war became
+                    a specialist in neurology. In this field Weir Mitchell's name became prominently
+                    associated with his introduction of the rest cure for nervous diseases,
+                    particularly hysteria. His medical texts include Injuries of Nerves and Their
+                    Consequences and Fat and Blood. Mitchell also wrote several historical novels
+                    including Hugh Wynne, Free Quaker, The Adventures of François, and The Red
+                    City.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of clippings and articles related to the life of S. Weir
+                    Mitchell. The items were collected by Julian A. Sterling, M.D. Materials include
+                    copies of Mitchell's published articles, newspaper clippings, a typescript
+                    biographical sketch, a memorial booklet, and two bas relief portrait plaques of
+                    Mitchell. The collection also includes Sterling's correspondence regarding the
+                    collecting of these items.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 214</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

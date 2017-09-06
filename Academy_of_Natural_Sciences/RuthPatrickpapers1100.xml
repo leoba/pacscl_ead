@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ruth Patrick papers <date type="inclusive">1898-1991</date>
+                        <date type="bulk"> 1950s-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ruth Patrick papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1100</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>186 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-1991</unitdate>
+                <unitdate type="bulk"> 1950s-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. Ruth Myrtle Patrick (born November 26, 1907, in Topeka, Kansas) is a botanist
+                    and limnologist specializing in diatoms and freshwater ecology, who developed
+                    ways to measure the health of freshwater ecosystems and established a number of
+                    research facilities. She attended the Sunset Hill School in Kansas City,
+                    Missouri, graduating in 1925. She earned her Ph.D. at the University of Virginia
+                    in 1934. In 1937, Dr. Patrick became curator of the Academy's Leidy
+                    Microscopical Collection and in 1947, she founded the Limnology Department at
+                    The Academy of Natural Sciences. From 1973 to 1976 she was the first woman chair
+                    of The Academy of Natural Sciences’ Board of Trustees and later held the
+                    Academy’s Francis Boyer Chair of Limnology. She formed the Environmental
+                    Associates, a group of corporate executives concerned about environmental
+                    effects of industrial activities. She taught limnology and botany at the
+                    University of Pennsylvania for more than 35 years and wrote more than 200
+                    scientific papers and a number of books on the environment, including Power So
+                    Great, Colors of Tomorrow, and the series Rivers of the United States. She has
+                    received numerous awards for her scientific achievements, including the National
+                    Medal of Science in 1996.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Dr. Ruth Patrick. Materials include:
+                    incoming and outgoing correspondence (1932-1991); memoranda, minutes, reports,
+                    and administrative files pertaining to Academy departments and committees;
+                    administrative files of organizations with which Patrick was involved, including
+                    the Environmental Associates, Environmental Assessments Council, the National
+                    Academy of Sciences, and various local, state, and national commissions;
+                    manuscripts of published and unpublished works, reprints, reference materials
+                    and data for articles and books, and correspondence with publishers, co-authors,
+                    and sponsors; lectures and addresses; reports, data, correspondence, maps,
+                    photographs, and other files related to various projects undertaken by Patrick
+                    or those under her supervision, including her book Groundwater Contamination in
+                    the United States; files of reports, articles, and studies on pollution, acid
+                    deposition, groundwater contamination, river basins, and estuaries; and
+                    miscellaneous memorabilia and photographs. The collection also includes
+                    documents related to the Ruth Patrick Fund, the Ruth Patrick Scholars program,
+                    and the celebration of Dr. Patrick's 50th anniversary at the Academy; and
+                    artifacts from the dedication of the Ruth Patrick Science Education Center,
+                    University of South Carolina, in 1991.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 94:14; 97:17; 98:12; 99:03</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Limnology
+                    Department records, Academy of Natural Sciences of Philadelphia Division of
+                    Environmental Research records, and Patrick Center for Environmental Research
+                    records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Richard Williamson Ellis papers <date type="inclusive">1916-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Richard Williamson Ellis papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2061</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>121 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard W. Ellis was a typographer, book designer, and printer. Ellis was born in
+                    Washington, D.C. in 1894 and he pursued an education in metallurgy before going
+                    to work as a printer. In 1924 Ellis started the Georgian Press, the beginning of
+                    an illustrious career in book designing and printing. From his shop in Westport,
+                    Connecticut Ellis printed over 50 books. After 1935, Ellis worked for Haddon
+                    Craftsmen in Camden, for Curtis Publishing in Philadelphia, as well as Golden
+                    Hind Press, Kingsport Press, and the Limited Editions Club during the latter
+                    years of his career. His works include fine art editions of Candide, Heart of
+                    Darkness, The Pennsylvania German Fraktur of the Free Library of Philadelphia,
+                    and The Four Gospels and the Acts of the Apostles. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this prominent American type and book designer include advertising,
+                    book covers, clippings, correspondence, ephemera, financial records, invoices,
+                    letterheads, galley proofs, memorandums, pamphlets, photographs, proofs,
+                    receipts, and sketches. This voluminous collection spans the entirety of Ellis'
+                    professional career, arranged principally around his job files, which document
+                    the printing of a book from the design phase to the actual printing and
+                    distribution. The collection includes job files for over twenty-five books.
+                    Ellis' personal life is documented through extensive family correspondence and
+                    photographs. The job files include correspondence, financial records, memos,
+                    pasteups, sketches, proofs, and advertising, from Ellis' employers over a 50
+                    year period including; Cheshire House, Curtis Publishing Company, Haddon
+                    Craftsmen, Inc., Georgian Press, Golden Hind Press, Kingsport Press,and the
+                    Limited Editions Club. The correspondence includes letters from Walter P.
+                    Chrysler, Gustav Davidson, Frederic Goudy, Mitchell Kennerley, Frank French,
+                    R.H. Kress, Christopher Morley, Arthur W. Rushmore, Jesse Satenstein, and Edwin
+                    Wolf II. The collection also includes two cabinets of type specimens;
+                    Ellis'extensive library of printed materials related to type and book designing;
+                    and collections assembled by Ellis on the work of Frank French, Mitchell
+                    Kennerley, and Frederic Goudy. Artifacts and furniture housed in the
+                    Templana-Conwellana Reading Room include a type cabinet and type drawers, a
+                    glass-fronted display case, Tibetan wood cut block, photo-engraved line block,
+                    Ben Franklin/Franklin Chess Club plaque, monotype caster type matrix, Georgian
+                    Press Visitor's Guest Book (1920s-1930s), a lithographic stone, framed
+                    broadsides and manuscripts, Bewick wood-engraved blocks, and a desk-top display
+                    holder.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

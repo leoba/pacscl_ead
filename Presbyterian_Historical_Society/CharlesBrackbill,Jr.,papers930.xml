@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Brackbill, Jr., papers <date type="inclusive">1961-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Brackbill, Jr., papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC930</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1961-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Brackbill, Jr. (b. 1921), was a Presbyterian minister who worked in
+                    planning for radio and television broadcasting for the Presbyterian Church USA.
+                    He was a 1948 graduate of Princeton Theological Seminary and did graduate work
+                    at Union Theological Seminary. He was pastor at Madison Avenue Presbyterian
+                    Church in Elizabeth, New Jersey, from 1948 to 1954, before becoming Associate
+                    Executive and Director of Radio and Television of the Synod of New Jersey. In
+                    1964 he was named Associate Chairman for Planning with responsibility for
+                    long-range planning for the Division of Radio and Television of the UPCUSA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Charles Brackbill related to his work for the
+                    Division of Radio/TV of the UPCUSA. Materials include policy papers, market
+                    analyses, reports, minutes, and planning documents. Specific items in the
+                    collection include a 1961 packet on standards for local council broadcasting, a
+                    1961 critique of religious radio by Brackbill, a 1961 New Jersey Council of
+                    Churches yearbook of religious broadcasting, a 1966 five-year plan for the
+                    Division of Radio/TV Audio-Visual of the UPCUSA, and minutes of the Ad Board,
+                    1968.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Brackbill, Charles</p>
+                <p>Accession number: 86 0116</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

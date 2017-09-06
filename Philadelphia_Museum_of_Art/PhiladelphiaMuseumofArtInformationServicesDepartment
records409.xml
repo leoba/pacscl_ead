@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Information Services Department records
+                            <date type="inclusive">2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Information Services Department
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC409</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The earliest reference to the Museum's adoption of any type of electronic support
+                    was in the 1982-1984 Annual Report. It notes that Susanna D. Roberts worked in
+                    the Administrative Services office as the lone word processing operator. In
+                    1991, the Museum established an Information Systems department, which consisted
+                    of a manager, Robert Leming, and Oscar Gunther, Alexander Ryabin and William
+                    Taylor Howard as parti-time computer assistants. Two years later, the
+                    department's title was changed to Technical Services and its personnel grew to
+                    include audio-visual and telephone technicians. In 1997, William Weinstein
+                    joined the Museum to manage its newly created Computer Servcies department.
+                    Telephone ("Voice") and audio-visual systems were now a separate office. Two
+                    year later, the department began operating as Information Services, and
+                    Weinstein was named Director. As of the 2006 Annual Report, Weinstein continues
+                    to serve as Director of the department, which now is staffed with Database and
+                    Network administrators, a Help Desk supervisor and technician, and a Business
+                    Systems coordinator. In addition to this staff is another office, Collections
+                    Information System Project. The project was initiated in 1999 and began with an
+                    18-member committee comprised of curators, conservators, registrars, educators
+                    and librarians coming together to select a centralized database system to
+                    manage, catalogue and provide access to the Museum's 300,000+ works of art.
+                    Jenny Wilker joined the Museum that first year to manage the project, which
+                    resulted in the Museum's implementation of "TMS" (The Museum System) database.
+                    Wilker retired at the end of 2006. The office, with a staff of approximatley 10,
+                    continues to update and expand on its electronic collection management
+                    capabilities.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These are the records of Jenny Wilker, who was manager of the Collections
+                    Information Systems Project until her retirement in 2006. Material includes
+                    database proposals; a style guide for entering objects in The Museum System
+                    (TMS) database; minutes of the Collections Information Committee, the Steering
+                    Committee, and the User Advisory Committee; statistics on the project; and
+                    samples of the newsletter Wilker issued for a time as an update of the project's
+                    progress. The collection also includes a 1993 report by consultant Margaretta
+                    Sander on a collections management database project.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Information Services
+                    Department. </corpname>
+                <subject encodinganalog="650">Information storage and retrieval
+                    systems--Art.</subject>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 18</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=IS">http://www.philamuseum.org/pma_archives/search.php?c=IS</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

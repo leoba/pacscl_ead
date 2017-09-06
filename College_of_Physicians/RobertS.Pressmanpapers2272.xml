@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert S. Pressman papers <date type="inclusive">1933-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert S. Pressman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2272</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert S. Pressman (1911-1995) graduated from the Temple University School of
+                    Medicine in 1946 and received an M.M.S. degree in Internal Medicine from the
+                    University of Pennsylvania. Pressman served as an Associate Professor of
+                    Medicine at Temple University and as head of the infectious diseases section at
+                    the Albert Einstein Medical Center. He was a president of the Philadelphia
+                    County Medical Society and of the Pennsylvania Society of Internal Medicine
+                    (1968-1969). He also served as president of the medical staff at Albert Einstein
+                    Medical Center. Pressman was elected a fellow of the College of Physicians in
+                    1955. He served as president of the College of Physicians from 1984 to 1986. He
+                    also served on several College committees, including the Committees on Audit,
+                    Fellowship, Finance, Major Gifts, and Nominations, and he was also an S. Weir
+                    Mitchell Associate and an active supporter of the New Century Fund.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Robert S. Pressman. Materials include:
+                    records of Pressman's term as President of the College of Physicians including
+                    correspondence, minutes and reports, and financial information; correspondence,
+                    minutes and reports, memoranda, policy statements, and annual reports, from the
+                    Philadelphia County Medical Society, the Pennsylvania Medical Society, and the
+                    Albert Einstein Medical Center; lecture notes from Pressman's medical studies at
+                    Temple University; product catalogs for medical equipment and supplies; bills
+                    and receipts; articles, reprints and journals; notes on research studies; grant
+                    proposals; correspondence with colleagues, editors, and patients.; and awards,
+                    certificates, and diplomas. The collection also includes a small amount of
+                    materials related to Pressman and his wife's military service, including patient
+                    records; family papers including a Pressman family history, school records of
+                    Alice Pressman, and photographs several diaries; and also medical textbooks.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia. Committee on By-Laws and Ordinances records of the Chairman
+                    (CPP 10/0010-01) and College of Physicians of Philadelphia. Office of the
+                    President records concerning the search committee (CPP 2/0009-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Engineers Club of Philadelphia records <date type="inclusive">1877-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Engineers Club of Philadelphia records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1991</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1877-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>"The Centennial Exposition of 1876 in Philadelphia drew engineers from around
+                    the world to view the technical advances of that century. It was apparent to
+                    engineers residing in Philadelphia that engineers did not know each other.
+                    Charles E. Billin invited twenty or so engineers to his home the following
+                    winter for refreshments. This started a series of gatherings at the homes of
+                    various engineers. The Club formally organized in December of 1877 and Professor
+                    L M. Haupt was its first President. It limited its membership to fifty. The
+                    minutes of the first meeting stated: 'Its object shall be the professional
+                    improvement of its members, the encouragement of social intercourse among men of
+                    practical science, and the advancement of engineering in its several branches.'
+                    The Club adopted as its motto a quotation from George Washington s speech to the
+                    Federal Convention of 1787 accepting the role of president. It expresses the
+                    charge placed upon the Engineers Club's members by its charter. The motto
+                    states: 'Let us raise a standard to which the wise and honest can repair.' (The
+                    Engineers' Club of Philadelphia website, http://www.engrclub.org/)"</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains minutes, correspondence, financial papers, committee
+                    reports, minutes of committee meetings, publications, awards given by the club,
+                    records of resignations, 100th anniversary planning documents, invitations,
+                    menus, and other general files. There are also planning documents for the U.S.
+                    Bicentennial.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

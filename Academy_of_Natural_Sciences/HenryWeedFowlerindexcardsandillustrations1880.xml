@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry Weed Fowler index cards and illustrations <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry Weed Fowler index cards and illustrations</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1880</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>26 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Weed Fowler (1878-1965) was an American zoologist born in Holmesburg,
+                    Pennsylvania. He studied at Stanford University under David Starr Jordan. He
+                    joined the Academy of Natural Sciences in Philadelphia and worked as an
+                    assistant from 1903 to 1922, associate curator of vertebrates from 1922 to 1934,
+                    curator of fish and reptiles from 1934 to 1940 and curator of fish from 1940 to
+                    1965. He published material on numerous topics including crustaceans, birds,
+                    reptiles and amphibians, but his most important work was on fish. In 1927 he
+                    co-founded the American Society of Ichthyologists and Herpetologists and acted
+                    as treasurer until the end of 1927.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes index cards of fish species kept by Henry Fowler. The
+                    cards list species name, type localities, and citations. There are also 66
+                    miscellaneous pencil, ink, and watercolor illustrations of fishes by Fowler,
+                    including drawings of Hyrtl skeletons made for the Catalog of World Fishes;
+                    other fish species, such as Hemibrycon dentatus and Chaunacidae; and frogs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Fowler's Catalog of Hyrtl fish skeletons (collection
+                    393) and Fowler's Catalog of World Fishes (collection 712).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

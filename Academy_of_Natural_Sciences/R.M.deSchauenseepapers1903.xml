@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>R. M. de Schauensee papers <date type="inclusive">1925-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">R. M. de Schauensee papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1903</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1925-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rodolphe Meyer de Schauensee (1901-1984) was curator of birds at the Academy of
+                    Natural Sciences of Philadelphia for nearly 50 years. He was the Academy's vice
+                    president from 1940 to 1949 and was a member of the Board of Trustees from 1934
+                    until his death. During his tenure, the Academy's bird collection grew from
+                    about 80,000 to over 170,000 specimens, and the scope of the collection was
+                    greatly expanded to include many more species not native to North America. De
+                    Schauensee was a member of a number of ornithological societies, including the
+                    Delaware Valley Ornithological Club. He published over 100 articles and six
+                    major books on avian systematics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence, manuscripts, and photographs of Rodolphe
+                    de Schnauensee. Materials include incoming and outgoing correspondence,
+                    1937-1977, related to identification of specimens, exchange of specimens with
+                    other institutions, expedition planning, work being performed by local
+                    collectors in Southeast Asia and South America, and other topics related to his
+                    work at the Academy. Correspondents include Ernst Mayr and Sidney Dillon Ripley,
+                    at the American Natural History Museum, Herbert Deignan, and Thomas Barbour.
+                    Materials related to de Schnauensee publications include: manuscript catalogue
+                    of the Birds of Siam, in 2 volumes, listing specimen names, references to the
+                    initial description, distribution, and measurements; typescript catalog of
+                    Siamese birds, in 3 volumes, giving references to initial descriptions; and
+                    correspondence related to the publication of Birds of Venezuela and Birds of
+                    China. Other materials in the collection include: specimen collecting notebooks,
+                    mostly from his trips to Siam, giving specimen number, date, location (sometimes
+                    including elevation), sex; film and glass negatives from Schauensee's trips to
+                    Thailand and Burma; a small book prepared by Schauensee on collecting shells;
+                    photographs; maps; and reprints of articles written by Schauensee.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia
+                    Ornithology Department records; George Miksch Sutton drawings (illustrations for
+                    de Schauensee's Birds of Columbia); Collection 628, de Schauensee papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

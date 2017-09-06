@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward Burgett Welsh papers <date type="inclusive">1850-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward Burgett Welsh papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1010</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1850-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edward Burgett Welsh (1881-1968) was a graduate of Wooster University and
+                    attended Princeton Theological Seminary, receiving a D.D. degree. Welsh was the
+                    pastor at the First United Presbyterian Church in Toronto, Ohio, where he served
+                    from 1926 to 1939. He served in other churches in Ohio and Pennsylvania,
+                    including the First Presbyterian Church in Coraopolis, Pennsylvania. A historian
+                    of the Presbyterian church, Welsh was the author of Buckeye Presbyterianism.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Edward B. Welsh. Much of the material is
+                    research for Welsh's book Buckeye Presbyterianism. Materials include:
+                    typescripts and photocopies of drafts of Buckeye Presbyterianism, 1963-1968;
+                    correspondence related to Welsh's research on the Free Presbyterian Church,
+                    1943-1954; an index file of notes on church history; maps of Ohio showing
+                    locations of churches and Presbyteries; floorplans for the library of the
+                    College of Wooster, 1960; blueprints of the Welsh Presbyterian Church,
+                    Philadelphia, 1926; and typed extracts of minutes of the General Assembly,
+                    1793-1861. Church records include: marriage licenses, 1915-1951; Barkersville
+                    (Evans Creek) Presbyterian Church Session Minutes (1871-circa 1876), Membership
+                    Roll (1870s-1880s) and Baptismal register (c. 1871-1891); Linton Presbyterian
+                    Church Session Minutes (1835-1855); Session Minutes of the Presbyterian Church
+                    of Frankfort, Ohio (1851-1865); and the minister's license of R. B. Wilson from
+                    Cambridge, Ohio, 1902. The collection also includes several scrapbooks: two
+                    scrapbooks of "Photographs and Notes Illustrative of Pioneer Presbyterian
+                    History in America" compiled by Welsh (many of the photographs and descriptions
+                    are of churches in Pennsylvania and Delaware); a scrapbook of clippings
+                    (1877-1895) from the United Presbyterian, Wayne County Herald (Wooster, Ohio),
+                    and other papers; and a scrapbook of clippings from the Free Presbyterian and
+                    the Anti-Slavery Bugle, 1850-1855.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 91 0130</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

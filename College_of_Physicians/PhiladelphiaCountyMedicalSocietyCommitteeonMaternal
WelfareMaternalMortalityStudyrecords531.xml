@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia County Medical Society Committee on Maternal Welfare
+                        Maternal Mortality Study records <date type="inclusive">1934-1970</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia County Medical Society Committee on Maternal
+                    Welfare Maternal Mortality Study records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC531</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1934-1970</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Committee on Maternal Welfare was established in 1930 by George P. Muller,
+                    President of the Philadelphia County Medical Society. Muller created the
+                    committee after he became aware of the results of a survey conducted by Dr.
+                    Haven Emerson; the survey revealed that although Philadelphia had a falling
+                    birth rate, the maternal mortality rate had remained the same over a period of
+                    ten years. In order to study this problem, President Muller appointed a
+                    committee, chaired by Philip F. Williams, to conduct additional research on
+                    maternal death in Philadelphia. In 1934, after a three year survey of 717
+                    maternal deaths, the Committee on Maternal Welfare produced a report of its
+                    findings. The impact of this report was so great that the committee became a
+                    permanent division of the Philadelphia County Medical Society and began holding
+                    monthly meetings. In subsequent years, the Committee on Maternal Welfare
+                    continued its surveys and began to implement programs designed to reduce the
+                    maternal death rate. Its work had a profound impact on the community; as a
+                    result of the committee's on going research and innovative programs,
+                    Philadelphia's maternal death rate dropped from 6.8 per thousand births in 1931
+                    to .9 per thousand births in 1949. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Philadelphia County Medical Society Committee on Maternal
+                    Welfare Maternal Mortality Study records. The collection includes five volumes
+                    of statistics on maternal mortality in Philadelphia, 1934-1960, compiled by the
+                    Committee on Maternal Welfare. The monthly summaries list the hospital, cause,
+                    preventability and notes about other related factors. Most of the volumes
+                    include yearly summaries as well. The collection also includes a small amount of
+                    material from the Philadelphia County Medical Society committees on Maternal
+                    Welfare and Maternal and Perinatal Studies (1955-1970). Items include:
+                    correspondence with committee members; lists of committee members; guidelines
+                    for maternity departments from the Philadelphia Country Medical Society and the
+                    Philadelphia Department of Health; and reports of maternal and fetal deaths.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1994-039 and 1996-010</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Philadelphia County Medical Society. Committee on Maternal
+                    Welfare Maternal Mortality Study records (MSS 03/0013-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Calvin I. Kephart genealogical research materials <date type="inclusive">1911-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Calvin I. Kephart genealogical research
+                    materials</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2162</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Calvin I. Kephart (1883-1969) was a historian and hearing examiner with the
+                    Interstate Commerce Commission. He served on the faculty of the National
+                    University (now George Washington University) for 12 years. He held six degrees
+                    and published four books. He was twice president of the National Genealogical
+                    Society and helped found the Maryland State Poetry Society. His wife was Olga
+                    Ahlson.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection is comprised mainly of genealogical research materials related to
+                    the Kephart family and related families. In addition to the Kepharts, family
+                    names researched include Britten, Weisel, Runyan, Heller, Fretz, and
+                    Rittenhouse. The bulk of the collection consists of incoming and outgoing
+                    correspondence with libraries, archives, and historical societies (many in
+                    Germany), relatives, and others doing genealogical research on the family. There
+                    are also , notes, pedigrees, copies of wills and vital records, and obituaries.
+                    There is also a small amount of information on and personal papers of Calvin I.
+                    Kephart, including obituaries, memoirs and articles by and about Kephart,
+                    advertisements for his books, copies of membership applications, materials
+                    related to Kephart's involvement with the National Genealogical Society, and
+                    correspondence with other genealogists, including Edward W. Hocker, Milton
+                    Rubincam, and William M. Mervine. Some of the genealogical research was
+                    conducted by Rubincam.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Commander Robert D. Kephart and Mrs. William Lee Collier.</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

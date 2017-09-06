@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sculley Bradley collection <date type="inclusive">1853-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sculley Bradley collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC380</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1853-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sculley Bradley (b. 1897), was a professor of English and American Literature at
+                    the University of Pennsylvania. With Gay Wilson Allen of New York University,
+                    Bradley oversaw the editing of The Collected Works of Walt Whitman. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains correspondence and other items authored or collected by
+                    Sculley Bradley. Materials related to Bradley's Critical Study of Whitman
+                    include: notes, research materials (reprints, photographs, newspaper and
+                    magazine clippings, postcards, and illustrations), and annotated galleys of
+                    Leaves of grass: A Textual Variorum of the Printed Poems (New York University
+                    Press, 1980). There is also a poster of a Whitman poem and several reprints of
+                    the Long Islander Whitman anniversary page. The collection includes personal
+                    correspondence between Sculley Bradley and James T. Farrell (1948-1959). There
+                    is also correspondence largely related to Bradley's editorship of the General
+                    Magazine and Historical Chronicle, regarding requests for articles and poems.
+                    This section also includes some drafts of articles and poetry. Correspondents in
+                    this section include Archibald MacLeish, James Thurber, John Dos Passos, and
+                    David McCord. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 150</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

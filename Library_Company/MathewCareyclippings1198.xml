@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mathew Carey clippings <date type="inclusive">1790-1833</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mathew Carey clippings</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1198</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>44.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1790-1833</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mathew Carey (1760-1839) was an important Philadelphia publisher and bookseller.
+                    He was born in Dublin, Ireland, and settled in Philadelphia in 1784. He founded
+                    the Pennsylvania Herald in 1785, and the Columbian Magazine in 1786. In the
+                    1790s Carey went on to develop a successful publishing house, which printed the
+                    works of Thomas Jefferson, Parson Weems, Sir Walter Scott, and James Fenimore
+                    Cooper, as well as the first quarto Bible of American manufacture, in both the
+                    Douay version and the Authorized version.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of 169 volumes of newspaper clippings compiled by Mathew
+                    Carey. The clippings are drawn from various sources, but nearly all are
+                    unattributed, and many are undated. Most volumes are miscellanies, but some are
+                    devoted to a single subject. Subjects include: law, internal improvements,
+                    politics, manufactures, sedition, medicine, education, and poetry. Many of the
+                    volumes are selectively indexed. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 9841.O, 9842.O, 9843.O, 9844.O, 9845.O, 9850.O</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: various Mathew Carey papers and collections.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

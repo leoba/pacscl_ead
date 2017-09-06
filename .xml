@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <eadheader xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid/>
+<filedesc>
+
+<titlestmt>
+<titleproper>Andrew E. Murray papers <date type="inclusive">1923-1999</date></titleproper>
+<sponsor>This collection-level EAD record is a product of the Philadelphia Area Consortium of Special Collections Libraries (PACSCL) Consortial Survey Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+</titlestmt>
+
+<publicationstmt>
+<publisher>Presbyterian Historical Society</publisher>
+<date>2012</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Machine-readable finding aid generated in EAD from data in the PACSCL Consortial Survey Database on <date>12/21/2012</date></creation>
+<langusage>Finding aid written in English</langusage>
+</profiledesc>
+</eadheader>
+
+
+<archdesc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" level="collection">
+<did>
+
+<unittitle label="Title">Andrew E. Murray papers</unittitle>
+<unitid>1059</unitid>
+<repository label="Repository">Presbyterian Historical Society<address>
+<addressline/>
+<addressline/>
+<addressline/>
+</address>
+</repository>
+<langmaterial>
+<language langcode="eng"/>
+</langmaterial>
+<physdesc><extent>9.00 linear feet</extent></physdesc>
+<unitdate type="inclusive">1923-1999</unitdate></did>
+
+<bioghist>
+<p>Andrew Murray (1917-1991) was an historian of the Presbyterian Church. Murray and his wife P. Dorothea Murray were volunteers with the Witherspoon Society. The couple served as executive secretaries Society and edited its newsletters, Network News and Witherspoon Connection. The Murrays were active in social justice issues on the personal, presbytery, and national levels.</p></bioghist>
+
+<scopecontent>
+<p>This is a collection of the papers of Andrew Murray. Materials include journals (1952-1990); course notes from Princeton Theological Seminary (1939-1943); course notes from the Princeton Institute of Theology (1948); sermons; manuscripts, research and bibliographic notes for articles and books (including The Presbyterian Church and the American Negro, and Murray's 1947 doctoral dissertation: ""A History of Presbyterianism in Colorado""); correspondence; papers related to social action/social justice work; papers related to the Witherspoon Society including copies of Network News (1975-1999) and Witherspoon Connection (1982); a small quantity of papers from Murray's time as Dean at Lincoln University Seminary; and meeting notes, minutes, and correspondence related to his work in Oxford Parish.</p></scopecontent>
+
+
+<accessrestrict><p>Access to this collection is restricted; please contact the holding institution for details.</p></accessrestrict>
+
+<acqinfo><p>Provenance: P. Dorothea Murray</p><p>Accession number: 00 0712|05 0118</p></acqinfo>
+
+
+
+
+
+
+
+
+
+
+</archdesc>

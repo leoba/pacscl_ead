@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Dickinson papers <date type="inclusive">1676-1885</date>
+                        <date type="bulk"> 1759-1807</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Dickinson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1553</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1676-1885</unitdate>
+                <unitdate type="bulk"> 1759-1807</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Correspondence, documents, business records, essays, notes, and newspaper
+                    clippings of John Dickinson, lawyer and statesman. The collection consists
+                    almost entirely of papers collected by Dickinson in relation to his political
+                    and business activities, but there are some miscellaneous papers of Sally Norris
+                    Dickinson, his daughter. Although the correspondence deals predominantly with
+                    Dickinson's activities in the public, governmental sphere, a significant portion
+                    concerns his private affairs, especially land and business activities.
+                    Correspondents include various statesmen and Revolutionary leaders among whom
+                    are Samuel Chase, Dickinson's brother Philemon Dickinson, litterateur Elizabeth
+                    Graeme Ferguson, poet and political satirist Hannah Griffitts, army surgeon John
+                    Jones, Arthur Lee, Charles Lee, Richard Henry Lee, William Lee, the first
+                    president of Dickinson College Charles Nisbet, George Read, Caesar Rodney,
+                    Charles Thomson, army surgeon James Tilton. There are one or two letters each
+                    from Samuel Adams, Robert Morris, Benjamin Rush, and George Washington.
+                    Interesting letters appear from several of his overseers and tenants including
+                    Daniel Walker, a free black tenant farmer. Documents from the Revolutionary War
+                    period, 1776-1883 (100 items) relate chiefly to Dickinson's service as an
+                    officer in the Pennsylvania militia. They include furlough recommendations,
+                    hospital reports, notes on military movements, militia returns, and information
+                    on soldiers' provisions, including ammunition. Government documents (150 items)
+                    extend from the early Revolutionary period and Dickinson's involvement in the
+                    Stamp Act Congress to his participation in the 1787 Constitutional Convention.
+                    Included are Dickinson's notes on the first Continental Congress, papers
+                    concerning early national land policies, foreign policy, taxation proposals, and
+                    the New Jersey and Virginia Plans. There are drafts of Dickinson's and Patrick
+                    Henry's petitions to the King, 1774, a John Jay draft of the Olive Branch
+                    Petition, drafts of Dickinson speeches at the Constitutional Convention, and
+                    copies of the Fabius letters which Dickinson wrote in support of the
+                    Constitution. Pennsylvania government documents, 1764-1784, (150 items) include
+                    financial accounts, drafts of Dickinson speeches prepared while he was president
+                    of the Supreme Executive Council of Pennsylvania, bills, materials on the Aaron
+                    Doane case, court-martial records, materials on the Wyoming controversy and
+                    miscellaneous Dickinson notes on government affairs. Delaware government
+                    documents, 1772-1789, (75 items) include papers on the Delaware River land
+                    dispute, 1772; suggestions for reform of the court system, submitted by Justice
+                    William Killen, 1781; militia returns, 1782; budget figures, and various bill
+                    drafts and notes. The collection includes Dickinson's land and business records,
+                    1733-1854 (500 items). Leases, agreements, memoranda, bills, receipts, etc.,
+                    center around the management of his real estate holdings, primarily in Delaware;
+                    house construction, relations with tenants, property sales, farming techniques,
+                    production figures. There is material relating to Dickinson's law practice which
+                    include information on cases argued before the High Court of Errors in
+                    Pennsylvania. Drafts of Dickinson's will, with codicils, are also present.
+                    Miscellaneous notes and essays include a commonplace book, n.d., essays
+                    ("Reflections on the Flag of Truce in America," "Opinion on the 40 Pr Poll
+                    Act in Maryland"), a comment on Pennsylvania land law, and a speech written on
+                    the founding of Dickinson College. Chronological arrangement, with series as
+                    described. Formerly calendared by John H. Powell, but since rearranged.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Robert Restalrig Logan.</p>
+                <p>Year acquired: 1943-1949</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

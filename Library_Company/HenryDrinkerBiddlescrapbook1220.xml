@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henry Drinker Biddle scrapbook <date type="inclusive">1772-1897</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henry Drinker Biddle scrapbook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1220</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1772-1897</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry Drinker Biddle (1831-1898) was the son of Sally Drinker and James Canby
+                    Biddle. His great-grandmother was Elizabeth Drinker (1734-1807). In 1889, Henry
+                    Drinker Biddle published Extracts From the Journal of Elizabeth Drinker, from
+                    1759 to 1807. Biddle also compiled a genealogy of his family titled The Drinker
+                    Family in America (1893).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a scrapbook of miscellaneous family papers assembled by Henry Drinker
+                    Biddle. Materials include: correspondence to the publishing firm of Key and
+                    Biddle; portraits of family members; newspaper clippings; transcriptions of
+                    marriage certificates, indentures, and wills; letters, some copied, from various
+                    family members, including some written by Biddle as a child; a chart of the
+                    Upper Lakes (Michigan) drawn by Biddle; a blueprint of a chain block patented by
+                    S.M. Vauclain; and several Confederate bond certificates.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 9980.F</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Drinker family papers and other family papers collections with
+                    Biddle and Drinker family connections.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

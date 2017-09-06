@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Medico-Chirurgical College of Philadelphia records <date type="inclusive">1882-1940</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Medico-Chirurgical College of Philadelphia
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2293</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1882-1940</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Medico-Chirurgical College of Philadelphia was established in 1881, and
+                    offered a three year course of study. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to Medico-Chirurgical College of
+                    Philadelphia. Materials in the collection include: card files of alumni of the
+                    College, including graduates of the Medical College, 1882-1917, dental and
+                    pharmacy alumni, and Frankford Hospital Interns, 1914-1937; and reel-to-reel
+                    tapes related to the history of the College. Tapes relate to the period from
+                    1848 to 1858. The collection also includes a mounted photograph of the 1903
+                    graduating class of the College with a copy of the commencement program listing
+                    graduates. Some students have been identified.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Colege of Physicians
+                    of Philadelphia: Medico-Chirurgical College of Philadelphia, lists of students
+                    and graduates (Z 10a/10).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

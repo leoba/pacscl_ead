@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James and Evelyn Kenny collection <date type="inclusive">1949-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James and Evelyn Kenny collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2253</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1949-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Evelyn Smith Kenny (d. 1971) was born in Schenectady, New York, moved to New York
+                    City and studied with the Ballet Rousse. She was a student of Catherine
+                    Littlefield and a member of the corps de ballet of Radio City Music Hall. In
+                    1945 she married James Kenny (d. 1982). They became famous as an ice skating
+                    ballet team and toured the US with Sonja Henie's Ice Revue. James and Evelyn
+                    later opened the Little Dance Shop in Wayne, Pennsylvania, a dance school which
+                    later became known as the Devon Festival Ballet. They had a daughter, Susan.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of a scrapbook and personal effects of James and Evelyn
+                    Kenny. The scrapbook contains newspaper clippings about Evelyn and James Kenny,
+                    the Little Dance Shop, and obituaries of both of them; it also includes
+                    photographs, programs, and a small number of letters. The collection also
+                    includes two pairs of toe shoes: one pair was worn by Evelyn at age 3-4 and
+                    later by her daughter, Susan, while the other pair is modified with metal spikes
+                    for use in ice ballet (a feature patented by Kenny). There is also a letter from
+                    a lawyer about the patent for the shoes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

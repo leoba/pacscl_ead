@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ned Heindel collection relating to the establishment of American
+                        Chemical Society certification in Chemical Hygiene and Environmental
+                        Analytical Chemistry <date type="inclusive">1992-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ned Heindel collection relating to the establishment of
+                    American Chemical Society certification in Chemical Hygiene and Environmental
+                    Analytical Chemistry</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC108</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1992-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ned D. Heindel (b. 1937) is Howard S. Bunn Professor of Chemistry at Lehigh
+                    University and is a Visiting Professor of Nuclear Medicine at Hahnemann
+                    University. He received his Ph.D. in organic chemistry from the University of
+                    Delaware in 1963. He was President of the American Chemical Society in 1994, and
+                    from 1985 to 1996 was a Director of the ACS. Between 1980 and 1987, Heindel was
+                    Director of Lehigh University's Center for Health Sciences. He has been a
+                    Trustee of the Chemical Heritage Foundation since 1986.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains, according to correspondence with the donor, "the paper
+                    trail of studies, endorsements, persuasions, and interactions which led -- in
+                    December 1995 -- to the ACS Board committing the funds to create two new
+                    certifications in Environmental Analytical Chemistry and in Chemical Hygiene.
+                    Panels of practitioners in both areas wrote, field-tested, and launched those
+                    certifications in 1996-1997. These programs are managed by NRCC [the National
+                    Registry in Clinical Chemistry, a multi-society sponsored management
+                    organization]." Records include correspondence, reports on certification
+                    guidelines, sample examination questions, and background reference materials.
+                    Also included in the collection are documents about discussions between the
+                    Society for Applied Spectroscopy and the Chemical Heritage Foundation about a
+                    spectroscopy museum.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: N.H.</p>
+                <p>Accession number: 03:622</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

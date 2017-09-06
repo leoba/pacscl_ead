@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Crawford H. Greenewalt papers <date type="inclusive">1946-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Crawford H. Greenewalt papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1098</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>104 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1946-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Crawford H. Greenewalt (1902-1993) received his bachelor's degree in chemical
+                    engineering from the Massachusetts Institute of Technology in 1922. He began his
+                    career as a chemist and worked in four manufacturing and two auxiliary
+                    departments of E.I. du Pont de Nemours Co. and later served as a vice president,
+                    a director and president from 1948 to 1962. He served as board chairman from
+                    1962 to 1967. He played a major role in the development of nylon and in 1941 was
+                    assigned to the Manhattan Project to act as a liaison between University of
+                    Chicago physicists and DuPont engineering and construction crews. His widely
+                    varied interests included birds and high-speed photography; he combined those
+                    interests in the book Hummingbirds, published in 1960. In 1968 he published
+                    another book on the subject, Bird Song: Acoustics and Physiology.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents Greenewalt's work as a photographer of birds and an
+                    ornithologist. Materials in the collection include: black and white and color
+                    photographic prints, negatives, film and glass slides, transparencies, stereo
+                    photographs, and movies of hummingbirds, songbirds, and other bird families;
+                    field notebooks (1956-1983), which document the location, equipment, and
+                    lighting used for Greenewalt's bird photography; manuscripts and reprints of
+                    Greenewalt's works on hummingbirds, and motion and sound studies; graphs,
+                    charts, and sound wave printouts related to Greenewalt's study of flight and
+                    birdsong; notebooks of data from flight tests and observations; photographs and
+                    microscope slides of hummingbird feathers; maps and pencil sketches of birds; a
+                    typescript of a talk on John Gould and William Baily given by Greenwalt at the
+                    American Philosophical Society in 1980, along with a set of slides of Gould and
+                    Baily artwork; camera equipment, manufacturers' equipment manuals, and notes on
+                    results of equipment tests performed by Greenewalt; documents related to the
+                    Academy's VIREO project include technical and equipment manuals, descriptions of
+                    the program, and correspondence between Greenewalt and Academy staff. The
+                    collection also includes some personal items including awards, certificates,
+                    honorary degrees, slides of family and friends.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 94:12; 94:12(7.)</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: Visual Resources for Ornithology records; Hagley Museum and Library:
+                    Crawford H. Greenewalt personal papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

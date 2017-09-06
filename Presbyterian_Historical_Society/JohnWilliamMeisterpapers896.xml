@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John William Meister papers <date type="inclusive">1969-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John William Meister papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC896</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1969-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John W. Meister (1916-1974) was a Presbyterian minister. He served as Executive
+                    Secretary of the Council of Theological Seminaries of the United Presbyterian
+                    Church. He was educated at Ohio University and Princeton Theological Seminary
+                    and served in churches in Ohio and Indiana. He was the author of What Baptism
+                    Means (1960).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of John William Meister. Materials include:
+                    incoming and outgoing correspondence of Jack Meister as Executive Secretary of
+                    the Council on Theological Education, 1969-1971; correspondence and reports
+                    related to plans for and design of a study on theological education by Doug
+                    Trout; progress reports; financial statements and budgets of the study;
+                    corrections to the Trout Report; reports and memoranda containing responses to
+                    the report from task forces at several seminaries; a copy of Part II of the
+                    Theological Education Resources of the United Presbyterian Church for the 1970s;
+                    and a working paper from the 1969 annual meeting of Council on Theological
+                    Education.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bauer, Richard</p>
+                <p>Accession number: 82 0827</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

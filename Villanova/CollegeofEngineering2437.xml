@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Engineering <date type="inclusive">1905-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Engineering</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2437</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The second degree-granting unit inaugurated at Villanova University was the
+                    College of Engineering, which began instruction in 1905 under the name of the
+                    School of Technology. Dr. A. B. Carpenter was hired in 1904 to organize and
+                    direct the school. In 1908 an undergraduate program in Mechanical Engineering
+                    was established, and in 1909 the first engineering bachelors degrees were
+                    awarded. An undergraduate program in Chemical Engineering was established in
+                    1919. In the years following the Second World War, the College expanded its
+                    degree offerings to the masters level, establishing graduate programs in each of
+                    its four engineering departments. A fifth undergraduate degree program, in
+                    Computer Engineering, was added in 1993. In the 1990s, research units were
+                    established in the areas of advanced communications and environmental
+                    engineering.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The records of the College of Engineering include records of the Dean of the
+                    College and records of programs and departments within the College. The papers
+                    of the Dean of the College of Engineering consist of administrative records,
+                    reports, and printed materials. Administrative records include a 1939 chemical
+                    engineering curriculum; information on the "Engineering personnel service" (a
+                    career preparation program), 1939; and a faculty and student directory of the
+                    College from 1980-1981. Reports range in date from 1905 to 1990 and cover a
+                    variety of topics, including the College’s marking system, statistics on the
+                    College, proposals for expansion of the facilities, and curriculum and program
+                    reviews and self-studies. Printed materials include brochures for the College,
+                    posters for the Graduate Studies program, a Sophomore class notebook from
+                    1924-1925, and other items. Records of the Electrical and Computer Engineering
+                    Department include a policy and procedure manual, faculty profiles, annual
+                    department reports (1985-1991), and proposals for Bachelor of Science and Doctor
+                    in Philosophy degrees in Electrical Engineering. Records of the Mechanical
+                    Engineering Department include laboratory instruction manuals, homework and
+                    examination problems, course notes, and a student notebook.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Engineering--Study and teaching.</subject>
+                <genreform encodinganalog="655">Directories.</genreform>
+                <genreform encodinganalog="655">Laboratory notebooks.</genreform>
+                <genreform encodinganalog="655">Posters.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

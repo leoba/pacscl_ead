@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Peter Koch Printer records <date type="inclusive">1983-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Peter Koch Printer records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1158</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1983-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Peter Rutledge Koch is a San Francisco Bay Area printer and one of the leading
+                    modern printers and designers of the fine press book. Born in Montana, he
+                    traveled to Europe and Africa before completing a bachelor's degree in
+                    philosophy at the University of Montana. He then spent time in Paris and
+                    Amsterdam, where he was heavily influenced by the work of Andrée Breton and Max
+                    Ernst. Three years later he launched his first publication, Montana Gothic, a
+                    poetry journal which was awarded the Pushcart Prize for the Best of Small
+                    Presses. From there, his career took off, but his work remained grounded in
+                    geography and a sense of place, filled with western themes, images, and even
+                    found-objects.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of printed materials produced by printer, Peter Koch. Items
+                    in the collection include business cards, book plates, announcements, pamphlets,
+                    invitations, coasters, programs, stationery, periodicals, books, signs,
+                    catalogs, and posters.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 97-25c; 96-27c; 95-80c</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/kochpp.htm">http://www.lib.udel.edu/ud/spec/findaids/kochpp.htm</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Black Stone Press Archive.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

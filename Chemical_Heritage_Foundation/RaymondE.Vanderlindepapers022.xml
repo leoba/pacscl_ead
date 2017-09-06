@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Raymond E. Vanderlinde papers <date type="inclusive">1947-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Raymond E. Vanderlinde papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC022</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1947-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Raymond Vanderlinde is Emeritus Professor of Pathology and Laboratory Medicine at
+                    Hahnemann University of Philadelphia. Prior to working at Hahnemann, Vanderlinde
+                    was a chemist with the State of New York Department of Health Division of
+                    Laboratories and Research. He is a member of the American Association for
+                    Clinical Chemistry (AACC), Upstate New York and Philadelphia divisions, and
+                    served as a member of the Board of Directors of AACC from 1979 to 1981, and was
+                    a member of various AACC committees. Dr. Vanderlinde is the author or co-author
+                    of more than 80 publications, principally in the areas of enzyme measurement and
+                    standardization, enzyme reference materials, laboratory evaluation, and quality
+                    control. AACC is an international scientific/medical society of clinical
+                    laboratory professionals, physicians, research scientists and other individuals
+                    involved with clinical chemistry and clinical laboratory science disciplines.
+                    Founded in 1948, the society has 9,500 members and is headquartered in
+                    Washington, DC. AACC is subdivided geographically into 22 local sections. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of Vanderlinde's work for the NY State
+                    Department of Health and of his work on various AACC committees. The collection
+                    includes: Vanderlinde's master's and doctoral theses from Syracuse University; a
+                    scrapbook of letters to Vanderlinde; records from Vanderlinde's time as a
+                    chemist at the State of New York Department of Health Division of Laboratories
+                    and Research; legal documents about the College of American Pathologists (CAP)
+                    consent decree; grant applications; articles by Vanderlinde and others on
+                    screening procedures, along with supporting research materials (articles,
+                    brochures) and correspondence; slides on drugs of abuse; reprints; reference
+                    manuals for equipment and clinical practices; documents about quality control
+                    and proficiency testing; AACC bylaws, section membership lists, histories,
+                    newsletters, programs for and correspondence about meetings of the Upstate NY
+                    and Philadelphia sections of AACC and committees thereof.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: R.V.</p>
+                <p>Accession number: 00:31</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: American Association for Clinical Chemistry records
+                    (97:08;01:07;02:02).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

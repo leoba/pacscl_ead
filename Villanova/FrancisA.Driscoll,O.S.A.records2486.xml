@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Francis A. Driscoll, O.S.A. records <date type="inclusive">1922-1925</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Francis A. Driscoll, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2486</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1922-1925</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Father Francis Driscoll (1899-1945) was born on Staten Island, New York. He
+                    entered the novitiate at Villanova, Pennsylvania, in 1905 and was ordained to
+                    the priesthood 1912. After ordination Father Driscoll was assigned to Villanova
+                    College as a professor of mathematics. In 1914 he was appointed vice president
+                    of the College and served as president from 1920 until 1924. In 1925 he founded
+                    Cascia Hall, a new Augustinian preparatory school in Tulsa, Oklahoma. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a small collection of papers of Father Francis A. Driscoll. Materials
+                    include correspondence, legal records, and a program. The correspondence deals
+                    with academic accreditation of the pre-medical program. The legal documents
+                    consist of excerpts from the deed of the Malvern Preparatory School. The program
+                    is a farewell tendered to Rev. Francis A. Driscoll, O.S.A., LL.D. The program
+                    booklet includes a picture of Father Driscoll. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Driscoll, Francis.</persname>
+                <subject encodinganalog="650">College presidents</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

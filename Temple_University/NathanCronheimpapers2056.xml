@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Nathan Cronheim papers <date type="inclusive">1919-1975</date>
+                        <date type="bulk"> 1950s-1970s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Nathan Cronheim papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2056</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>33.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1975</unitdate>
+                <unitdate type="bulk"> 1950s-1970s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Nathan Cronheim was born in Staunton, Va., on May 17, 1908, and he graduated from
+                    Penn State University in 1931 with training in both architecture and
+                    engineering. Cronheim's first job was as a draftsman for the Philadelphia firm
+                    of Howe &amp; Lescaze. During World War II Cronheim worked with Louis Kahn on
+                    several housing projects. Between 1946 and 1966 Cronheim completed some of his
+                    most significant projects in partnership with Leonard Weger. During this time
+                    Cronheim designed the air-conditioning systems for the U.S. Capitol and the
+                    Marshall Fields Dept. Store in Chicago.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this prominent Philadelphia architect/engineer include the files
+                    for numerous design jobs which contain architectural drawings, blueprints,
+                    correspondence, clippings, floor plans, contracts, construction estimates,
+                    pamphlets, brochures, manuals, newsletters, photographs, reports,
+                    specifications, and site plans. The graphic and written materials in this large
+                    collection document the entire design process including the job files for many
+                    Philadelphia area industrial and public projects, such as Picatinny Arsenal, the
+                    Northern Metal Co., the General Chemical Co., Stone Container Co., the Frankford
+                    Arsenal, Hercules Cement Co., the France Packing Co., the Joseph J. Greenburg
+                    School, and the Selinsgrove State School &amp; Hospital. Most of these materials
+                    date from the period of Cronheim's partnerships with Leonard Weger (1946-1966)
+                    and with Joseph D. Kuo (1967-1972), while there are no materials from Cronheim's
+                    brief relationship during the war years with Louis Kahn.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

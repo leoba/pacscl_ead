@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Innes-Kirkbride family papers <date type="inclusive">1794-1990</date>
+                        <date type="bulk"> 1890-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Innes-Kirkbride family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2068</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1794-1990</unitdate>
+                <unitdate type="bulk"> 1890-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Thornton Innes II (1843-1913) was a Philadelphia printer. His wife was
+                    Eleanor (Ellen) Baldwin Kirkbride (1850-1932). They had two sons, William
+                    Thornton Innes III (b. 1874) and Edward Kirkbride Innes. Both sons joined Innes
+                    and Sons, their father's printing firm, and William Innes III eventually became
+                    its head. The company also had a publishing arm, the Innes Publishing Company.
+                    In addition to his work in printing and publishing, William Innes III was a
+                    noted authority on tropical fish, and author of several books on the subject,
+                    including Goldfish Varieties and Tropical Aquarium Fishes, first published in
+                    1917. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of family papers, photographs, and artifacts of the Innes
+                    and Kirkbride families of Philadelphia. Types of materials in the collection
+                    include correspondence, photographs, genealogies and family histories, diaries,
+                    military papers, obituaries, certificates, manuscripts, sketches, indentures,
+                    pamphlets, newspaper clippings, and ephemera. Correspondence includes letters to
+                    and from members of the Baldwin and Kirkbride families (1794-1845); and letters
+                    from the Innes family (1843-1866), particularly William T. Innes, William T.
+                    Innes II, and William T. Innes III, Ellen S. Kirkbride Innes, and Mary W. Innes.
+                    Documentation related to specific family members includes diaries, 1905-1941, by
+                    Mary W. Innes and Eliza Kirkbride Innes documenting daily activities and one
+                    volume summarizes world events. William T. Innes III (1874-1969) papers include
+                    correspondence, medical records, appointment books, a ledger of fish-related
+                    purchases and miscellaneous documentation related to a variety of topics, as
+                    well as photographs of Innes as Benjamin Franklin. Eleanor S. Kirkbride papers
+                    include a commonplace book and journal. The collection includes pamphlets, book
+                    jackets, gift cards, and other examples of the work of Innes &amp; Sons Printers
+                    (1311 Sansom Street). Photographic images of family members in the collection
+                    include tintypes, snapshots, black and white prints, cabinet photographs,
+                    negatives, and stereo prints. There are also a number of artifacts, postcards,
+                    tradecards, prints and pencil and ink drawings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Temple University,
+                    Special Collections: William T. Innes papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

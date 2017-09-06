@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Spencer family papers <date type="inclusive">1916-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Spencer family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC937</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Herbert Spencer (1870-1942) was the minister at United Presbyterian Church
+                    of Wooster, Ohio (1913-1940). His son, Donald Agnew Spencer (1904-1961),
+                    attended Pittsburgh-Xenia Theological Seminary, graduating in 1929. Spencer
+                    served as pastor in churches in Pittsburgh and Canonsburg, Pennsylvania, before
+                    becoming pastor of the Second Presbyterian Church in Chattanooga, Tennessee, in
+                    1946. In 1956 became pastor of Hebron United Presbyterian Church in
+                    Pittsburgh.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of James and Donald Spencer. Materials include:
+                    typed and manuscript sermons of James Herbert Spencer, 1916-1935 (many undated);
+                    typed sermons and notes for sermons by Donald A. Spencer, 1927-1960; copies of
+                    printed sermons, including sermons preached by Donald Spencer on the radio
+                    program "The Protestant Hour", 1951-1954; and a typescript of "The Medieval
+                    View of Merit" by Donald Spencer, 1929.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Rogers, Martha Spencer</p>
+                <p>Accession number: 86 0702</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

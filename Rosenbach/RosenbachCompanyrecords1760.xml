@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rosenbach Company records <date type="inclusive">1888-1954</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rosenbach Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1760</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>130 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1888-1954</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Rosenbach Company was a Philadelphia firm dealing in rare books and
+                    manuscripts, and fine and decorative arts. The company was established by
+                    Abraham Simon Wolf Rosenbach and his brother Philip Rosenbach in 1903. Philip
+                    Rosenbach was elected president of the company and A.S.W. Rosenbach was elected
+                    secretary-treasurer. The company, with offices in Philadelphia and New York
+                    City, became recognized as one of the country's preeminent dealers in rare books
+                    and literary manuscripts, and A.S.W. Rosenbach is credited with helping build
+                    the collections of Harry E. Widener, J. P. Morgan, Henry C. Folger, and Henry E.
+                    Huntington. He also bought and sold some of the most famous literary
+                    manuscripts, including part of Chaucer's Canterbury Tales, Lewis Carroll's
+                    Alice's Adventures under Ground, and James Joyce's handwritten Ulysses (which he
+                    kept). A.S.W. Rosenbach died in July of 1952, Philip Rosenbach died in March of
+                    1953, and the Rosenbach Company was closed. Both men left the bulk of their
+                    estates to the Rosenbach Foundation. The Foundation maintained the family house
+                    on Delancey Street in Philadelphia, and in 1954 opened the Rosenbach Museum and
+                    Library to preserve the Rosenbachs' collection of books, manuscripts, fine art,
+                    and antiques.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Rosenbach Company from its establishment
+                    in 1903 to 1953, when the firm closed. Financial records include sales books,
+                    cash books, general ledgers, account books, accounts receivable cards, vouchers,
+                    bank statements, and check stubs. Records of the company's inventory include
+                    catalogues, bound and card-file listings of book and decorative arts stock, and
+                    volumes listing the items within particular collections. The collection also
+                    includes folders and scrapbooks of newspaper clippings on the Rosenbach Company
+                    and its purchases and sales, an album of photographs, and information on the
+                    Rosenbach Fellowship at the University of Pennsylvania.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

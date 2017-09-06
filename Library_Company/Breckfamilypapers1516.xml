@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Breck family papers <date type="inclusive">1679-1888</date>
+                        <date type="bulk"> 1770-1845</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Breck family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1516</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1679-1888</unitdate>
+                <unitdate type="bulk"> 1770-1845</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Breck (1747-1809) was a wealthy merchant in Boston; in 1792, he moved with
+                    his family to Philadelphia where he became a director of the First Bank of the
+                    United States and was active in local and national affairs. Breck--in
+                    partnership with John Green-- acted as a fiscal agent for the French fleet in
+                    American waters during the Revolution.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains correspondence of Samuel Breck, his son Samuel Breck,
+                    Jr. (1771-1862) and John Ross 1726-1800, Samuel Breck Jr.'s father-in-law and a
+                    Philadelphia shipping merchant). Correspondence, 1780-1789, mostly in French
+                    from French officials and commanders, deals with supplies, and, after the War,
+                    indicates continuing friendship. After the move to Philadelphia, the senior
+                    Breck entered into a mercantile partnership. Later correspondence in the
+                    collection reveals the family's wide acquaintance with American public figures
+                    such as Henry Clay, William Bingham, and Peter S. DuPonceau. The correspondence
+                    is more political than commercial.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Source unknown.</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bernard M. Taylor papers <date type="inclusive">1935-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bernard M. Taylor papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1152</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bernard M. Taylor (1906-2003) was born in Tallapoosa, Georgia. He completed his
+                    high school education in West Philadelphia and graduated from Lafayette College
+                    in 1928. Taylor entered Union Theological Seminary in New York and completed his
+                    studies there in 1931. In that same year he married Anne Justice, of
+                    Spartanburg, South Carolina, who was also at Union Seminary. Taylor was ordained
+                    in 1931 and was immediately installed as pastor of the Olive Church, Clarion
+                    Presbytery, in Oliveburg, Pennsylvania. In 1936, he accepted a call by Christ
+                    Church in Alpine, Tennessee. He also served as Stated Clerk of Cumberland
+                    Mountain Presbytery, Synod of the Mid-South, from 1942 to 1951. The Taylors took
+                    a leave of absence in 1946 and returned to New York City where both earned
+                    Master's Degrees in Christian Education from the Union Theological Seminary and
+                    Columbia University. They returned to Alpine the following year and served there
+                    until 1952 when they were called by Old Rehoboth Church (Maryland). Bernard
+                    Taylor served as pastor of that congregation and as the Stated Supply for the
+                    Gunby Church in Stockton, Maryland for five years. In 1957, he received a call
+                    from the Georgetown and Coolspring Presbyterian Churches, and served as the
+                    Moderator of New Castle Presbytery for one year. Bernard Taylor was installed as
+                    Associate Pastor of the First and Central Presbyterian Church in Wilmington,
+                    Delaware, in 1962 and remained there until his retirement in 1976.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to the Alpine Institute, Alpine Rural Life
+                    Center, and Christ Church Presbyterian Church in Alpine. Materials include:
+                    correspondence; typed histories and memoirs; printed material; newsletters;
+                    church bulletins; photographs; slides; newspaper clippings; an audiocassette of
+                    a recognition service for Bernard M. Taylor (1976); index cards of "contacts,"
+                    including members of the church in Alpine; a video made for Overtown County
+                    cable access television about Alpine (1986); Bernard Taylor's diaries,
+                    1935-1941; a copy of Taylor's biography The Roadmaker; a photocopy of "A Parson
+                    and Partner for All Seasons," a memoir by the Taylors; some materials related
+                    to Taylor's pastorate of Old Rehoboth Church, Maryland; Christ Church parish
+                    records (1943-1944); a small amount of financial records; leases and contracts
+                    related to property of Alpine; and maps.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Taylor, Rev. Bernard</p>
+                <p>Accession number: 97 1205|98 0826</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society. Bernard M. Taylor papers (RG 254).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

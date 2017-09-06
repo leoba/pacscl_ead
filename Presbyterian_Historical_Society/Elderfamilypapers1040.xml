@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elder family papers <date type="inclusive">1913-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elder family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1040</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.28 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1913-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Elder (1894-1981) and Ruth Roche Elder (b. 1899) were appointed by the Board
+                    of Foreign Missions to the East Persia Mission in 1921 and arrived in the field
+                    in 1923. Throughout their 42 years of service, they were engaged in evangelistic
+                    missionary work, initially in Kermanshah (1923-1934), the Hamadan (1934-1937)
+                    and finally in Tehran (1938-1964). Dr. Elder served as the pastor of the
+                    Persian-speaking congregations in each city. In 1935, he was Moderator of the
+                    newly formed Eastern Presbytery of Iran and was elected Moderator of the Synod
+                    of Iran in 1947 and 1960. In addition to numerous other activities, Elder wrote
+                    diverse articles, pamphlets and books that were published in both English and
+                    Farsi. The Elders retired from missionary service in 1964.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of daily diaries of Ruth Elder from the American
+                    Mission, Kermanshah, Persia, 1915-1920 and 1924-1943; correspondence to and from
+                    Ruth and John Elder; photographs (family and mission-related); typed articles by
+                    Elder on scriptural topics; notes for the memoir "Memories of Life in Persia";
+                    Christmas letters, 1950s-1970s; newsletters; church bulletins; sermons; and
+                    tracts. The photographs of mission projects include those of a flood relief
+                    project and an album of photos of the rebuilding of a school in Ismatabad
+                    (rebuilt by the World Council of Churches after the 1962 earthquake).
+                    Additionally, there is an audiocassette of the 1962 Easter service conducted by
+                    John Elder in Iran.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 92 0330b: Transferred from the library; accession 93 0301,
+                    94 1111i: Leake, Alice Elder</p>
+                <p>Accession number: 92 0330b|93 0301|94 1111i|00 0504f</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Elder family papers (RG 189).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

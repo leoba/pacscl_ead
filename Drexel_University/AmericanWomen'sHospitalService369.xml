@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Women's Hospital Service <date type="inclusive">1917-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Women's Hospital Service</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC369</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Women's Hospitals (AWH) developed from the War Service Committee of
+                    the Medical Women's National Association (later AMWA) in 1917 to provide,
+                    register, and finance American women physicians for war work; to offer medical
+                    and emergency relief to refugees; and later to provide international public
+                    health service. In 1959, AWH became an independent agency and remained such
+                    until 1982 when it re-merged with AMWA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Fifteen boxes (approximately 6,000 photographic prints and copper plates) make up
+                    the photograph component of this collection. The photographs are international
+                    in scope and document AWH activities at home and abroad. Photographs taken in
+                    Greece and France are particularly well represented in the collection as are
+                    rural sections of the Blue Ridge Mountains, Kentucky, South Carolina, and
+                    Tennessee. The majority of the non-United States photographs are of AWH members
+                    treating patients suffering from the result of war. Many photographs are taken
+                    "in the field" and in temporary facilities set up by AWH. The photographs from
+                    the rural southern United States are mainly of patient care provided by AWH
+                    members to poor families who otherwise would have had no care at all. Many of
+                    the photographs were used in AWH appeal brochures. The photographs arrived from
+                    the AWH office arranged by names of the Project countries. Not all of the
+                    individual photographs are dated or identified in detail. There is not currently
+                    a box list of these photographs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Year acquired: 1980</p>
+                <p>Accession number: 144</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Drexel University:
+                    American Women's Hospital Services, Medical Women's International Association,
+                    American Medical Women's Association, Papers of Alma Dea Morani, and Papers of
+                    Bertha Van Hoosen.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

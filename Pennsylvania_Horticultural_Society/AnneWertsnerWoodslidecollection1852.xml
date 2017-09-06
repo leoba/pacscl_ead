@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Anne Wertsner Wood slide collection <date type="inclusive">1940-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Anne Wertsner Wood slide collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1852</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1940-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Anne Wertsner Wood (1907-2004) was a horticulturist, writer and lecturer. She was
+                    a graduate of Ambler College (now Temple University Ambler). For six years, in
+                    the 1930s, Mrs. Wood headed the floriculture department at the Pennsylvania
+                    School of Horticulture for Women. In 1949 she married Harry Wood, a widower with
+                    two children who was horticulturist and grounds superintendent at Swarthmore
+                    College. The couple gardened at their home in Swarthmore. For 16 years Mrs. Wood
+                    was field secretary at the Pennsylvania Horticultural Society, advising
+                    neighborhood gardeners. From 1958 to 1988 she conducted garden tours all over
+                    the world and lectured on gardening and flower arranging. She was the author of
+                    The Flower Show Guide and Make Your Own Merry Christmas.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of slides gathered by Anne Wertsner Wood of gardens,
+                    nurseries, flowers, plants, and people in Europe and the United States from 1940
+                    to 1976. The collection also includes slides of Christmas decorations,
+                    Philadelphia gardens and prominent Philadelphians, and people associated with
+                    the Pennsylvania Horticultural Society. Most of the slides are in cardboard
+                    mounts, but there are also a few glass mounts.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Gardens--Europe.</subject>
+                <subject encodinganalog="650">Gardens--Pennsylvania--Philadelphia Region.</subject>
+                <subject encodinganalog="650">Gardens--United States.</subject>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: John Wister slide collection and Philadelphia gardens
+                    slide collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

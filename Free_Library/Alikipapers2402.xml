@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Aliki papers <date type="inclusive">1962-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Aliki papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2402</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Aliki Liacouras Brandenberg (b. 1929) is an author and illustrator of books for
+                    children. Aliki graduated from the Philadelphia Museum School of Art in 1951.
+                    Before she began writing books for children, Aliki worked as a freelance artist,
+                    creating art for advertising and display purposes. She also taught classes in
+                    art, worked as a muralist, and started a greeting card company. Her first book,
+                    The Story of William Tell, was published in 1960. Over her career, she has
+                    written many books and illustrated the books of other authors, including her
+                    husband Franz Brandenberg.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of sketches, illustrations, dummies, color separations and
+                    pasteups for This is the House Where Jack Lives, My Five Senses, Birds at Night,
+                    Averages, and The Story of William Penn.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Aliki Brandenberg
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

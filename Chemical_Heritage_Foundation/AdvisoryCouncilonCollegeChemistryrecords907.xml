@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Advisory Council on College Chemistry records <date type="inclusive">1963-1970</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Advisory Council on College Chemistry records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC907</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-1970</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Advisory Council on College Chemistry (ACCC) was formed in 1962 as an effort
+                    to improve college chemistry instruction. The program sought support for
+                    experimental programs, and formed study groups on general chemistry, curriculum
+                    and advanced courses, teaching aids, teacher development and courses for
+                    non-scientists. The ACCC was sponsored by the National Science Foundation from
+                    1962 to 1968.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records from the Advisory Council on College
+                    Chemistry. Materials include: documents relating to the founding of the ACCC;
+                    newsletters (1963-1970); project ideas and opinion papers; reports from the
+                    Executive, Curriculum, and Teaching Aids Committees and from Regional
+                    Conferences; project progress reports; and financial records.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Renfrew</p>
+                <p>Accession number: 83-1; 89:10</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Science in American Life exhibition records <date type="inclusive">1989-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Science in American Life exhibition records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1164</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1989-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1991, the American Chemical Society agreed to consult on and contribute funds
+                    to an exhibit entitled Science in American Life (SAL) at the Smithsonian
+                    Institution's National Museum of American History (NMAH). The exhibit opened in
+                    1994 and remained on view until 2006. The NMAH had control over the exhibit's
+                    content, and in the end, the ACS felt that the portrayal of chemistry was very
+                    negative. Ned D. Heindel (b. 1937) is a professor of Chemistry at Lehigh
+                    University. He was President of the American Chemical Society (ACS) in 1994, and
+                    from 1985 to 1996 was a Director of the ACS. In this latter role, he collected
+                    materials about the SAL exhibit's development and about the fallout that
+                    resulted from the differing views on the presentation of chemistry in the
+                    exhibit.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of documents relating to the Science in American Life
+                    exhibit. Materials include: the Smithsonian's initial feasibility study for the
+                    exhibit; draft scripts of the exhibit; public relations plans; a copy of a study
+                    conducted by the Smithsonian on visitors' responses to the exhibit;
+                    correspondence files from the director and one of the members of the ACS
+                    advisory committee; publicity materials and other documents on the Hand-On
+                    Science Center; and sample activity books. The collection also includes a
+                    comprehensive "briefing book" on ACS's response to the exhibit assembled by
+                    Heindel, which includes minutes from meetings of the advisory committee, press
+                    coverage of the exhibit, a copy of the advisory agreement between the ACS and
+                    the Smithsonian.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Ned Heindel</p>
+                <p>Accession number: 97:12</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: other Science in American life exhibition records (06:066).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

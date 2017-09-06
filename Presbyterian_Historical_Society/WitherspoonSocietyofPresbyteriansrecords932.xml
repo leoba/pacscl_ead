@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Witherspoon Society of Presbyterians records <date type="inclusive">1975-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Witherspoon Society of Presbyterians records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC932</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Witherspoon Society was organized in 1973 to work for renewal of the church's
+                    life and focus, so that it may continue to be biblically and confessionally
+                    faithful in the world. The society's goals are to implement the mission
+                    priorities of the General Assembly, develop vehicles of communication,
+                    reflection, mutual support, and disciplined action within the network, identify
+                    emerging priorities in the church and the world, encourage theological inquiry,
+                    seek more effective institutional forms, and seek effective ecumenical
+                    expressions of mission.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Witherspoon Society of Presbyterians.
+                    Materials include: incoming and outgoing correspondence related to meetings, the
+                    publication of Network News (newsletter), membership, and the Society's work on
+                    various programs; financial information, including expense reports, financial
+                    statements, and budgets; conference materials, including programs and
+                    participant lists; proposals for programs and requests for the Society to
+                    address social issues; issues of a newsletter titled The Commissioner Memo,
+                    1978; and member lists and membership directories. The collection also includes
+                    minutes of the steering committee and executive committee, annual meeting
+                    minutes, by-laws, and reports, 1976-1979. Many of the papers appear to have come
+                    from the files of Andrew and Dorothea Murray, and Elaine Wareham.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Murray, Dr. Andrew</p>
+                <p>Accession number: 86 0306</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Witherspoon Society papers (accession 90 0404a), Witherspoon
+                    Society papers (accession 82 0818), Witherspoon Society papers (accession 04
+                    0827d).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

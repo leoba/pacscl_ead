@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Naval correspondence collection <date type="inclusive">1831-1842</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Naval correspondence collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2505</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1831-1842</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Board of Naval Commissioners was a United States Navy administrative body in
+                    existence from 1815 to 1842. The establishment of the Board of Navy
+                    Commissioners by act of Congress on February 7, 1815 (3 Stat. 202), was the
+                    outgrowth of efforts to relieve the Secretary of the Navy of some of his
+                    responsibilities connected with the civil functions of the Navy so that he could
+                    devote more time to overall administration. The procurement of naval stores and
+                    materials; construction, armament, equipment, repair, and preservation of naval
+                    vessels; establishment of regulations to secure uniformity in the classes of
+                    naval vessels; preparation of estimates of expenditures for different parts of
+                    the naval service; and supervision of navy yards, naval stations, and Navy
+                    agents became the responsibilities of the board. The Secretary retained control
+                    over personnel and appointments, movement of ships, and other administrative
+                    matters not delegated to the board.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of letters (1831 and 1842) to commanders of the
+                    Philadelphia Navy Yard, including William Bainbridge, James Barron, George C.
+                    Read, and Charles Stewart, from the Navy Commissioners Office. Letters relate to
+                    construction and maintenance of Navy Yard facilities; contracts for timber,
+                    hardware, and rope; and contracts for the construction of new vessels, including
+                    the Raritan and the Philadelphia. Several letters mention the naval architect
+                    John Lenthall.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

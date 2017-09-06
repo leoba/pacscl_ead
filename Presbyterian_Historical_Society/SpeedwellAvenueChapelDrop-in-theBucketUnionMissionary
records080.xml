@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Speedwell Avenue Chapel Drop-in-the Bucket Union Missionary records
+                            <date type="inclusive">1911-1943</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Speedwell Avenue Chapel Drop-in-the Bucket Union Missionary
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC080</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.17 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1943</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Speedwell Avenue Chapel Drop-in-the Bucket Union Missionary Society was
+                    organized on May 26, 1911. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Speedwell Avenue Chapel Drop-in-the Bucket
+                    Union Missionary Society. Materials include minutes and reports, 1911-1916 and
+                    1925-1943 (2 volumes) Minutes discuss routine business including election of
+                    officers as well as sewing projects and addresses by visitors. Treasurer's
+                    records, 1924-1943 (1 volume), include records of payments of dues, special
+                    collections, and work done by members. This volume was also used as a scrapbook
+                    with photographs of India and Japan, postcards, newspaper clippings related to
+                    Society events and activities, and other inserts.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Presbyterian Church on the Green</p>
+                <p>Accession number: 02 1218x</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert J. Baptista papers <date type="inclusive">1920-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert J. Baptista papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC122</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1920-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert J. Baptista was Vice President of Manufacturing in the Fibers, Additives
+                    and Rubber Division of the Bayer Corporation until his retirement in 2000. He
+                    began his career at the company as a research chemist at the Verona Dyestuff
+                    Division in 1972, and between 1977 and 1985 was Plant Manager for two of the
+                    company's Bayonne facilities. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of scrapbooks and company manuals Baptista compiled on
+                    various plants and companies in the dye industry. Many of these companies
+                    eventually merged with Bayer Corporation. Included are histories of Verona
+                    Dyestuffs, Harmon Colors, Pharma Chemical, Mobay Chemical Corporation, General
+                    Analine and Film Corporation (GAF), Beaver Chemical Works, as well as Bayer
+                    Corporation itself. The scrapbooks contain histories compiled by Baptista and
+                    others, aerial photographs, photos of employees, management and facilities,
+                    company documents, such as articles of incorporation and patents, newspaper
+                    clippings, and plant location maps. These scrapbooks are the basis for many of
+                    the articles on the website colorantshistory.org, a site founded and maintained
+                    by Baptista and dedicated to history of the synthetic organic chemical dye
+                    industry. Also included in this collection are miscellaneous printed materials,
+                    books of paint and yarn samples, Bayer annual reports, copies of Bayer Research
+                    magazine, and materials relating to the decommissioning of the Haledon, NJ plant
+                    (owned by Miles, a predecessor of Mobay), and company's plan for environmental
+                    remediation at the site.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Robert Baptista</p>
+                <p>Accession number: 04:029;06:036;06:060; 06:084</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

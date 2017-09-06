@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph A. Hickey records <date type="inclusive">1919-1955</date>
+                        <date type="bulk"> 1942-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph A. Hickey records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2473</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1955</unitdate>
+                <unitdate type="bulk"> 1942-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Father Joseph Hickey (1883-1955) was born in Chicago, Illinois. He went to
+                    Villanova, Pennsylvania, in 1898 as an Augustinian postulant and entered the
+                    novitiate in 1902. Two years later he was sent to the International College of
+                    Saint Monica in Rome, Italy, to continue his studies for the priesthood. He was
+                    ordained in Rome in 1906. After ordination, he remained in Rome to do graduate
+                    work in Canon Law, for which he was granted a doctorate in 1908. In 1910, he
+                    became Rector of Saint Rita’s Hall, the Augustinian preparatory seminary at
+                    Villanova and, also, a professor at the College. He was appointed Province
+                    Regent of Studies in 1913, Definitor in 1914, and Provincial Socius and
+                    Secretary in 1918. Father Hickey became the first Prior of Saint Mary’s Hall at
+                    Villanova and from 1925 to 1926 he served as president of Villanova College. At
+                    the General Chapter of September 1925, he was named Assistant General for the
+                    English-speaking provinces of the Augustinian Order. From that time until 1953,
+                    except for the war years, he lived in Rome, Italy. At the General Chapter of
+                    1947, Father Hickey was elected Prior-General of the Order of Saint Augustine.
+                    During his term of office, Saint Monica’s in Rome was completely remodeled, and
+                    the new Curia building was erected. In 1953, after completing his term as Prior
+                    General, he retired to Saint Thomas of Villanova Monastery on the Villanova
+                    University campus.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Father Joseph A. Hickey. Materials include:
+                    reports from 1947 and 1955, in Latin, related to Father Hickey's election as
+                    Prior General of the Augustinian Order and to his death; typed lecture notes on
+                    education (classroom management), epistemology, ethics, and sociology; and
+                    clippings on Hickey receiving his LL.D. from Villanova in 1942 and on his death
+                    in 1955. Also included are several printed lectures by others.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Hickey, Joseph, 1883-1955.</persname>
+                <subject encodinganalog="650">College presidents</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

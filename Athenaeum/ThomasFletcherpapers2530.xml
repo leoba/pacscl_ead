@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas Fletcher papers <date type="inclusive">1774-1949</date>
+                        <date type="bulk"> 1774-1905</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas Fletcher papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2530</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1774-1949</unitdate>
+                <unitdate type="bulk"> 1774-1905</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Fletcher (1787-1866) was a Philadelphia silversmith. His partner in
+                    business was Sidney Gardiner. In Boston in 1808, he and Sidney Gardiner founded
+                    the firm Fletcher &amp; Gardiner. In 1811, they moved the firm to Philadelphia.
+                    Between 1811 and 1826, the firm received many important commissions for
+                    commemorative or presentation silver pieces. They made several pieces for heroes
+                    of the War of 1812, including Isaac Hull, Jacob Jones, James Biddle and Oliver
+                    Hazard Perry. Thomas Fletcher was one of the five original founders of the
+                    Franklin Institute. After Sidney Gardiner's death in 1827, Fletcher carried on
+                    the business. From 1836 to 1839, he was a partner with Calvin Wilder Bennett
+                    (operating as Fletcher &amp; Bennett). Thomas Fletcher's brothers Charles and
+                    George were also silversmiths and jewelers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Fletcher family of Philadelphia, including
+                    Timothy Fletcher and his children Thomas, Charles, Melanie, George, Frank,
+                    James, and Levi, as well as his grandson Veron Fletcher. The bulk of the
+                    materials relate to the life and business activities of Thomas Fletcher.
+                    Business materials include correspondence (of the firms Fletcher &amp; Gardiner,
+                    Fletcher &amp; Bennett, and Baldwin &amp; Fletcher); bills of lading; freight
+                    lists; indentures and agreements; commissions and orders for vases, swords,
+                    necklaces, and communion vessels. Fletcher family papers include correspondence;
+                    wills and deeds; estate papers; personal essays and poetry; clippings;
+                    genealogical records; marriage certificates; passports; and a small number of
+                    records of personal investments. Notable items in the collection include
+                    statements of Fletcher family members made upon the laying of the cornerstone of
+                    their country house in 1899; and a plan of lots in Delanco, New Jersey belonging
+                    to the estate of Thomas Fletcher. The collection also includes some papers of
+                    George Dummer.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Marjorie Fletcher Thomson Bowden, 1994</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Thomas Flecther letters (Collection 1343); Winterthur Archives:
+                    Thomas Flecther papers (Collection 278).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

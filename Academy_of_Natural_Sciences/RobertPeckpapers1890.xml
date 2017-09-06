@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Peck papers <date type="inclusive">1982-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Peck papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1890</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1982-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert M. Peck studied history and archeology at Princeton University. He is a
+                    Fellow of the Academy of Natural Sciences of Philadelphia, a writer, naturalist,
+                    and historian who has traveled extensively in North and South America, Africa,
+                    Asia and Europe. The author of A Celebration of Birds and Headhunters and
+                    Hummingbirds: An Expedition in Ecuador, Peck has written for a wide range of
+                    popular and scholarly magazines including Audubon, National Wildlife,
+                    International Wildlife, Arts, Antiques, Image, Terra, the Philadelphia Inquirer,
+                    and the New York Times. In 1991 he was awarded the Academy of Natural Sciences'
+                    Richard Hopper Day Medal for his work interpreting natural history to the
+                    public.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Robert M. Peck. Materials include: minutes,
+                    memos, planning notes and sketches related to various Academy projects and
+                    exhibitions, including diorama enhancement, the Discovering Dinosaurs exhibit,
+                    and a Brooke Dolan exhibit; correspondence, drafts, photocopies of Cassin
+                    correspondence, and other research materials assembled for his introduction to
+                    John Cassin's The Illustrations of the Birds of California, Texas, Oregon,
+                    British and Russian America; and correspondence related to various projects,
+                    including publication and publicity for Richard Ellis's books on whales, and a
+                    proposed Thomas Say postage stamp (1982-1986). The collection also includes
+                    correspondence and other papers related to Peck's work on Brooke Dolan and the
+                    "Dixie Mission" in Yenan. These papers include correspondence with W.J.
+                    Peterkin; an inventory of the Dolan collection; published volumes, including
+                    Yenan!: Colonel Wilbur Peterkin and the American military mission to the Chinese
+                    Communists, 1944-1945 by William P. Head, Dixie Mission: The United States Army
+                    Observer Group in Yenan, 1944 by David D. Barrett, and a copy of Annual
+                    Pictorial Magazine, 1991, which features the Dixie Mission story; and a series
+                    of photographs of Dolan in Yenan.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences Exhibits Department
+                    records and Ernst Schafer papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

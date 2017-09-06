@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Maurice River Cove and Delaware Bay Oyster Association records
+                            <date type="inclusive">1895-1898</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Maurice River Cove and Delaware Bay Oyster Association
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC450</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1895-1898</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1893, the state of New Jersey was divided into seven districts "with a
+                    commission of fourteen members to promote the propagation and growth of seed
+                    oysters and to protect the natural seed grounds." The legislature empowered the
+                    planters' association of Maurice River Cove to make rules governing the
+                    industry, to employ guards, and to assess fees. In 1899 the state passed yet
+                    another bill to enhance the protective stances of the first two bills. Fifteen
+                    years later, New Jersey created the Board of Shell Fisheries to further ensure
+                    the longevity of the Delaware Bay oyster harvest, which by 1917 had evolved into
+                    a $10 million a year industry.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Maurice River Cove and Delaware Bay Oyster
+                    Association. Materials include an account book of the Maurice River Cove and
+                    Delaware Bay Oyster Association, 1895-1898. Entries record monies received for
+                    licenses; salaries of officers; and expenses, such as printing costs, lobbying
+                    costs, and annual meeting costs. The collection also includes a single sheet
+                    report of the Collector of the Association, 1898. Bound volume of licenses to
+                    plant, grow, and catch oysters in Maurice River Cove and the Delaware Bay,
+                    issued to oystermen by the Maurice River Cove and Delaware Bay Oystering
+                    Association, 1896. The front flyleaves of both volumes are inscribed with the
+                    name of E.B. Cobb, Sailmaker, Bivalve, NJ.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1980.6.25</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

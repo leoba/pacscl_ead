@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>First Day or Sunday-School Society records <date type="inclusive">1790-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">First Day or Sunday-School Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC163</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1790-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The First Day Society was formed in 1791. Early members included Rev. William
+                    White (chairman), Benjamin Rush, William Currie, Thomas Mendenhall, Peter
+                    Thompson, Jr., Mathew Carey (secretary), Thomas Pym Cope, Nathaniel Falconer,
+                    and Joseph Sharpless. They felt that establishment of first-day or Sunday
+                    schools "would be of essential advantage to the rising generation." The work
+                    of the Society for the Institution of First-day, or Sunday Schools, in the City
+                    of Philadelphia, and the districts of Southwark, and the Northern Liberties was
+                    to aid needy Sunday schools of any denomination in Philadelphia by gifts of
+                    library books or "lesson helps." The Board of Visitors included Rush, Currie,
+                    Falconer, Samuel Powel, Benjamin Say, George Meade, and Samuel Fisher.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains two volumes of minutes, 1790-1964, and four volumes of
+                    Board of Visitors minutes, 1791-1940. Minutes include treasurer's reports,
+                    records of grants requested and approved, election of officers, memorial
+                    minutes, and reports of visitors to Sunday schools around the Philadelphia area.
+                    There are some typed reports and resolutions and printed memorial minutes pasted
+                    or tipped in and one volume includes clippings of newspaper accounts of the
+                    Society's annual meetings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: ASSU</p>
+                <p>Accession number: 05 0603o</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

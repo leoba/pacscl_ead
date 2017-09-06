@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Roach business papers <date type="inclusive">1860-1956</date>
+                        <date type="bulk"> 1870-1910, 1943-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Roach business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC458</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1860-1956</unitdate>
+                <unitdate type="bulk"> 1870-1910, 1943-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Roach (1813-1887) was a noted manufacturer and iron ship builder. He was
+                    born at Mitchellstown, County Cork, Ireland, and came to America at the age of
+                    16. He purchased the Reaney, Son &amp; Archbold shipyard in Chester,
+                    Pennsylvania, and in 1871 renamed it John Roach and Sons. The shipyard had a
+                    distinguished career building fine ships before it closed in 1922. It was
+                    revived for the war effort in 1917 but was acquired by Averell Harriman's
+                    American Ship &amp; Commerce Corporation in 1919 and renamed Merchant
+                    Shipbuilding. Roach and his wife Emeline had several children, including John B.
+                    Roach. John B. Roach (1839-1908) was the head of the Delaware River Iron
+                    Shipbuilding &amp; Engine Works of Chester, and vice president of the Morgan
+                    Iron Works of New York City.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of papers of John Roach, John B. Roach, and the Roach
+                    family. Records related to Roach and Sons shipyard include: souvenir books,
+                    1895; lists of ships and boilers built; patents, receipts, work reports, bids,
+                    and a list of sponsors (1873-1891); a photocopy of a register of ships built by
+                    Roach between 1872 and 1907, in two volumes; brochures of ships built by Roach;
+                    and a printed register of contracts for Reaney, Son and Archbold, Roach and
+                    Sons, and Merchant Shipbuilding Corp, 1859-1921. John Roach papers include:
+                    draft notice; deeds, leases, and mortgages; papers related to Roach's estate;
+                    several speeches and manuscript; correspondence sent to him during his illness;
+                    printed memorials and obituaries; and correspondence sent to him during his
+                    dispute with the Navy. Other materials related to the "Navy controversy"
+                    include newspaper clippings and articles, congressional bills, correspondence,
+                    statements, and a galley proof of "Secretary Whitney and the Dolphin," by John
+                    Roach, 1886. Family papers include: correspondence of Mrs. G. R. Forbes related
+                    to Roach family genealogy; photographs from County Cork, Ireland; a family
+                    genealogy; photographs of Roach, Roach family members, and a small number of
+                    photos of ships; and a 1914 photo album of the Roach family in Cape Cod. The
+                    collection also contains newspaper clippings and magazine articles on Roach's
+                    Shipyard, launchings and new contracts, the Dolphin controversy, and on John
+                    Roach and members of the Roach family. There are also a number of pamphlets on
+                    tariff laws (undated).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">John Roach and Sons (Chester, Pa.)</corpname>
+                <persname encodinganalog="600">Roach, John B.</persname>
+                <subject encodinganalog="650">Shipbuilding--Pennsylvania--Chester.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Deeds.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+                <genreform encodinganalog="655">Registers (lists)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1984.13; 1996.39; 1988.53</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

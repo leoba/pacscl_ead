@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Raymond B. Knudsen papers <date type="inclusive">1927-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Raymond B. Knudsen papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC872</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>29.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Raymond Barnett Knudsen (1919-2001) was a Presbyterian minister, consultant, and
+                    author of a weekly syndicated newspaper column entitled "The Counselor." He
+                    was a 1948 graduate of McCormick Theological Seminary. He served in pastorates
+                    in Illinois and New York and was Special Assistant General Secretary and
+                    Executive Director for the Department of Financial Development of the National
+                    Council of the Churches of Christ in the USA. In 1977 he joined the staff of
+                    Church Development, Inc., as Director of the National Consultation on Financial
+                    Development. In addition to his weekly column, Knudsen published book reviews in
+                    the field of psychology and religion.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal and professional papers of Raymond B. Knudsen.
+                    The collection includes records of Knudsen's time at seminary, his ministry, his
+                    work with the National Council of Churches, his publications, and his work as a
+                    consultant. Materials include records and correspondence from Knudsen's
+                    ministries in Colorado, Iowa, Indiana, Illinois, and New York, from the mid
+                    1930s to the 1970s; scrapbooks of clippings and programs, 1934-1946; seminary
+                    papers and files, 1943-1947; records from his time as Director for Broadcasting
+                    for the Illinois and Springfield Councils of Churches, 1952-1963; issues of
+                    "The Counselor," 1955-1994; "Counselor" recording disks; "Counselor"
+                    television formats; manuscripts of Developing Dynamic Stewardship and Models for
+                    Ministry (both 1978); financial records; sermon notes and outlines; files
+                    related to The Counselor's Association's incorporation and its work for the
+                    Presbytery of Greenbrier; and papers related to Kundsen's position as Special
+                    Assistant General Secretary for the National Council of the Churches of
+                    Christ.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Knudsen, Raymond</p>
+                <p>Accession number: 77 0321|88 0801|88 0613|86 1126|98 0826a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

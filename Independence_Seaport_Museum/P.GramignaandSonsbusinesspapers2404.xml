@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>P. Gramigna and Sons business papers <date type="inclusive">1918-1953</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">P. Gramigna and Sons business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2404</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1918-1953</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philadelphia Ship chandlers -- </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business records of P. Gramigna &amp; Sons. Materials
+                    include: ledgers of receipts and expenses, accounts receivable, checks; journals
+                    of income taxes, journals of daily provisions and sea stock, and payroll books.
+                    Papers in the collection include: bills for ships provisioned (1924-1929);
+                    correspondence; receipts and bills, 1920s-1930s; bills of lading; blank
+                    letterhead and bill heads; and ink blotter advertisements for P. Gramigna &amp;
+                    Sons. Provisions include food supplies, batteries, paint and paint brushes, nuts
+                    and bolts, and matches.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Journals (accounts).</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Paybooks.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

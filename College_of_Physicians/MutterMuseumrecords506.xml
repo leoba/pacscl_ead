@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mutter Museum records <date type="inclusive">1887-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mutter Museum records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC506</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1887-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1849, Dr. Isaac Parrish suggested that the College of Physicians of
+                    Philadelphia start a museum of pathological anatomy to preserve valuable
+                    material that might otherwise be lost to science. In 1858, Thomas Dent Mütter,
+                    retired Professor of Surgery at Jefferson Medical College, presented his
+                    personal collection of unique anatomic and pathological materials to The College
+                    of Physicians of Philadelphia. The collection now boasts over 20,000 objects.
+                    These include fluid-preserved anatomical and pathological specimens; skeletal
+                    and dried specimens, medical instruments and apparati; anatomical and
+                    pathological models in plaster, wax, papier-mâché, and plastic; memorabilia of
+                    famous scientists and physicians; medical illustrations, photographs, prints,
+                    and portraits. In addition, the Museum offers changing exhibits on a variety of
+                    medical and historical topics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Mütter Museum. Records include: budget
+                    records (2000-2006); files related to the Lewis and Clark and Say Ahh! Exhibits;
+                    files related to the Museum's calendar, activity and accession record books
+                    (1937-1970), museum guest and visitor registers (1887-1985); catalog of the
+                    museum (1947-1949); catalog of medals; scrapbooks (1930s and 1950s-1960s);
+                    Museum statistics; photo requests (1999-2004); group tour schedules and
+                    evaluations; and a typescript of a history of the Museum, ca. 1968-1978. Also in
+                    the collection are records of the Museum Council of Philadelphia and the
+                    Delaware Valley. Records include minutes and correspondence, and some
+                    photographs of objects in member institutions (1978-1989).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1991-119-16/17/18, 2007-005, 2007-006</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

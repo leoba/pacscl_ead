@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas Nelson &amp; Sons corporate minute books and ledgers <date type="inclusive">1871-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas Nelson &amp; Sons corporate minute books and
+                    ledgers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2088</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1871-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Masnel Corporation, a publishing firm specializing in Bibles, was formerly known
+                    as Thomas Nelson and Sons. The latter was established in 1870 and was
+                    incorporated in 1903 as a New York Corporation. In 1931, Thomas Nelson and Sons
+                    merged with Thomas Nelson &amp; Sons. The firm moved to New Jersey in 1958 and
+                    was incorporated there. In 1969, the name and assets of Thomas Nelson and Sons
+                    were sold and the new name became Masnel Corporation. Masnel Corporation
+                    voluntarily dissolved itself as a New Jersey Corporation in 1970.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Records of Thomas Nelson and Sons including: incorporation certificates and
+                    subsequent liquidation records, bank records, leases, appraisals and audits;
+                    equipment records -- receipts and invoices for machinery including invoices for
+                    the printing plates of The Revised Standard Version of The Bible; tax returns
+                    filed from 1959 to 1968; payroll records and correspondence regarding union
+                    arbitration. Holdings also include fourteen volumes of minutes of meetings of
+                    Stockholders and Board of Directors; a volume of stock certificates; contracts;
+                    balance sheets (1871-1948); and two corporate seals. There is a small number of
+                    records related to the Masnel Corporation.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Katharine R. Sturgis papers <date type="inclusive">1948-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Katharine R. Sturgis papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2284</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Katharine Rosenbaum Guest Boucot Sturgis was born in Philadelphia in 1903. She
+                    received her undergraduate degree from Penn State University and entered Woman's
+                    Medical College of Pennsylvania in 1935. She was forced to leave school when she
+                    contracted tuberculosis, but she later resumed her studies and earned her
+                    medical degree in 1940. After her internship at the Woman's Medical College
+                    Hospital and a residency at Herman Kiefer Hospital in Detroit, Sturgis returned
+                    to Philadelphia to teach at the Woman's Medical College. Throughout her career
+                    she conducted research in the early detection of lung cancer and tuberculosis,
+                    and later in life, she waged a vigorous campaign to inform the public of the
+                    hazards of smoking. Sturgis became a Fellow of the College of Physicians of
+                    Philadelphia in 1951 and was elected its first woman president in 1972. She was
+                    forced to retire one year later due to health problems. During her distinguished
+                    career, Sturgis also served as the first woman president of the Philadelphia
+                    County Medical Society and president of the American College of Preventive
+                    Medicine. Katharine R. Sturgis died 1987.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Katherine R. Sturgis. Materials include:
+                    professional correspondence with individual colleagues and related to
+                    involvement with various groups and institutions., and to activities as
+                    President of the College of Physicians. Additional materials include: medical
+                    papers (typescripts and reprints) by Sturgis, many related to lung cancer; notes
+                    and text for speeches and addresses given by Sturgis; correspondence, notes, and
+                    other information related to involvement with the Medical Advisory Board of
+                    Girard College; correspondence, minutes, and agendas from the Philadelphia
+                    County Medical Society; notebooks containing notes and sketches from patient
+                    visits; memos related to work as a tuberculosis consultant for the City of
+                    Philadelphia; annual reports from the Department of Preventative Medicine,
+                    Women's Medical College of Pennsylvania (1954-1965); and pencil drawings of an
+                    eye operation by H.C. Eggers. The collection also includes: a small number of
+                    family photographs and several framed items; clippings about Sturgis's career;
+                    diplomas and certificates of Samuel B. Sturgis; and a manuscript copy of
+                    Sturgis's autobiography The Kath with Nine Lives.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Office of the President, general correspondence files of
+                    Kathereine Sturgis (CPP 2/0002-02) and Office of the President, Presidential
+                    papers of Katharine R. Sturgis (CPP 2/0002-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Park family papers <date type="inclusive">1767-1960</date>
+                        <date type="bulk"> 1820-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Park family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC948</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1767-1960</unitdate>
+                <unitdate type="bulk"> 1820-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marion Edwards Park (1875-1960) was president of Bryn Mawr College from 1922 to
+                    1942. Her father, William Edwards Park (d. 1894) was a Congregationalist
+                    minister in Gloversville, New York. His father was Edwards Amasa Park (1808-ca.
+                    1888), a Congregationalist minister and professor of theology, philosophy, and
+                    Hebrew literature at Amherst College and the Andover Seminary. E.A. Park and his
+                    friend Bela Bates Edwards (1802-1852) co-founded Bibliotheca Sacra, a quarterly
+                    journal of theology. B.B. Edwards was Marion Edwards Park's maternal
+                    grandfather.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of the family of Marion Edwards Park.
+                    Materials include: correspondence of Bela Bates Edwards, Jerusha Billings
+                    Edwards, Edwards Amasa Park, William Edwards Park, Sarah Edwards Park, and
+                    Marion Edwards Park; memoirs, travel journals, and other writings by family
+                    members; childhood writings and drawings of Marion Edwards Park; an album
+                    commemorating Park's parents' 50th wedding anniversary; and photographs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 87-30</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philip Siekevitz papers <date type="inclusive">1941-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philip Siekevitz papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1059</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Phil Siekevitz (b. 1918) was a biochemist who received his Ph.D. from the
+                    University of California,Berkeley. He worked for many years at the Rockefeller
+                    Institute. In 1966 he was President of the American Society of Cell Biology. He
+                    was elected to the National Academy of Sciences in 1975 and President of the New
+                    York Academy of Sciences in 1976. The Enzyme Club was founded in 1942 as a way
+                    for researchers in the developing field of biochemistry to share information.
+                    The group met in the facilities of the Rockefeller Institute for 50 years before
+                    it was disbanded in 1992. Philip Siekevitz was the group's treasurer and its
+                    "prime mover" for over 30 years. The Enzyme Club hosted talks on biochemistry,
+                    molecular biology, genetics; their speakers included many Nobel laureates.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the Enzyme Club and papers of Philip
+                    Siekevitz. Materials include: a printed history of the club; articles on the
+                    club; financial sponsorship documentation; records relating to anniversary
+                    celebrations; a list of speakers (1941-1992); and reprints of articles written
+                    by Siekevitz and others.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: P.S.</p>
+                <p>Accession number: 92:07</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

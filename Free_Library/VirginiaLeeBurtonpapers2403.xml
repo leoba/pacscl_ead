@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Virginia Lee Burton papers <date type="inclusive">1962-1962</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Virginia Lee Burton papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2403</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1962</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Virginia Lee Burton (1909-1968) was an illustrator and author of children's
+                    books. Burton's books include Mike Mulligan and His Steam Shovel, Katy and the
+                    Big Snow, Choo Choo, Calico the Wonder Horse, Life Story, and The Little House,
+                    which won the Caldecott Medal in 1942. Burton lived with her two sons, Aristides
+                    and Michael, and her husband George Demetrios, the sculptor, in a section of
+                    Gloucester, Massachusetts, called Folly Cove. Here she taught a class in design
+                    and from it emerged the Folly Cove Designers, a group of internationally known
+                    professional artisans. The last act in her book, Life Story, tells the story of
+                    her life in Folly Cove.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of text with captions, separations, sketches and drawings,
+                    galley proofs, dummies, finished jacket drawings, and sketchbooks for Burton's
+                    book Life Story. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Virginia Lee Burton
+                    papers; University of Oregon: Virginia Lee Burton papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

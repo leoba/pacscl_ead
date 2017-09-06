@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>T. Morris Longstreth papers <date type="inclusive">1901-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">T. Morris Longstreth papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2518</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Morris Longstreth (b. 1886) was an author. His works were published in the
+                    Christian Science Monitor and other publications. His books include Knowing the
+                    Weather, The Silent Force, The Laurentians, The Catskills, and The Lake Superior
+                    Country. Charles Wharton Stork (b. 1883) was a poet and teacher who lived in
+                    Philadelphia. His published volumes include Hearts and Voices, On Board Old
+                    Ironsides, and Sea and Bay. He was also a translator and anthololgist of Swedish
+                    poetry. He taught English Literature for 25 years at Harcum College, Bryn Mawr,
+                    Pennsylvania, and lectured on poetry around the country and overseas. He was a
+                    founder of Contemporary Verse magazine, and served as president of the Poetry
+                    Society of America and of the Browning Society in Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence between T. Morris Longstreth and Charles
+                    Wharton Stork, from 1901 to 1968. The majority of the letters are from
+                    Longstreth to Stork. The letters discuss the writing output and careers of both
+                    men, with comments and suggestions passing back and forth. The letters
+                    occasionally touch on family matters and events of the day, but their main focus
+                    in on the craft of writing. The letters include a number of poems by Stork, and
+                    several by Longstreth. There are newspaper clippings of pieces by Longstreth and
+                    several clippings of reviews. The collection also includes a small amount of
+                    correspondence between Longstreth and Stork's wife Lisl. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Syracuse University:
+                    Charles Wharton Stork Papers, Special Collections Research Center, Syracuse
+                    University Library </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

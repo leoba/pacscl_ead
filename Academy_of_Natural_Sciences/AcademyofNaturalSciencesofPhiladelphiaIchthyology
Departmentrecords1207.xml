@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Ichthyology Department
+                        records <date type="inclusive">1958-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Ichthyology
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1207</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ichthyology has been a part of research at the Academy of Natural Sciences since
+                    its beginnings, but its importance has increased dramatically since 1898 when it
+                    acquired the entire personal collection of the famous 19th century naturalist
+                    Edward Drinker Cope and Henry Weed Fowler became its first full-time curator.
+                    The collection has continued to grow in size, scope, and importance; the
+                    department is now rated as one of the top five ichthyology centers in North
+                    America. It currently houses 1.2 million cataloged specimens representing an
+                    estimated 11,000 species and 2,797 primary types. The collection is
+                    taxonomically diverse, but it's especially strong among eels, characiforms and
+                    catfish. Its geographic scope is world-wide, but its strengths include
+                    freshwater species of North and South America and marine species of the Bahamas,
+                    Western Atlantic and Indian Oceans. Continued growth results from recent
+                    expeditions to the Bahamas, South America and Asia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents the activities of the Ichthyology Department of the
+                    Academy of Natural Sciences from 1954 to 1991. Materials include annual reports
+                    (1956-1981), a list of the department's employees, histories of the department
+                    and its collections; records related to funding; curatorial grant proposals and
+                    reports; records of expeditions and special projects; and correspondence of
+                    several members of the department's staff, including Eugenia Bohlke, James
+                    Bohlke, Phillip Heemstra, William F. Smith-Vaniz, and James C. Tyler. The
+                    correspondence relates to grants for expeditions, research projects, and
+                    preparation of specimen catalogs. The collection also includes commentary and
+                    field notes by Harry Pederson on his underwater films (1958-1976); a handwritten
+                    journal of a 1977 Venezuela (Rio Caura) expedition kept by William G. Saul,
+                    collection manager; and printouts of database records of specimens collected on
+                    expeditions, 1951-1991.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:10; 01:12; 97:24; 00:14</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Fish Dept. annual reports (collection 705).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

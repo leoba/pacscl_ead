@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John S. Whitall papers <date type="inclusive">1774-1845</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John S. Whitall papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC459</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.833 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1774-1845</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Siddon Whitall was a merchant in Philadelphia. This was his second career;
+                    as a young man, he sailed as a supercargo in the West India Trade. In 1815, his
+                    business investments failed. Because of these losses, his son John Mickle
+                    Whitall (b. 1800), then 15, was obliged to leave school to be apprenticed as a
+                    ship hand on the William Savery. Beginning in 1818, he made several voyages to
+                    the Far East, including Calcutta and Canton. By 1822 he sailed as Chief Mate
+                    aboard the ship Dorothea. In 1824, Whitall was contracted by Whitton Evans to
+                    oversee the construction of a new sailing ship, the New Jersey, the largest
+                    "Indiaman" yet constructed in Philadelphia, and was given command as captain.
+                    Between 1824 and 1829, he made several voyages to Canton. In 1829, Evans died
+                    and the ship was sold; Whitall retired from the sea and became a merchant. His
+                    firm, like his father’s, eventually failed, but he found success as a partner in
+                    a glass business in Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of John M. Whitall and John S. Whitall. The
+                    majority of the items in the collection belong to John M. Whitall; a small group
+                    of letters document John S. Whitall's relationship with and subsequent marriage
+                    to Sarah Mickle. The collection focuses primarily on four voyages to Canton
+                    (1824, 1826, 1827, and 1828) made by Captain John M. Whitall aboard the ship New
+                    Jersey. Materials include business and personal letters from John M. Whitall to
+                    his father and other family members, and business letters related to the ship
+                    New Jersey; charts covering the route to Canton, the first stop being Liverpool
+                    (where Whitton Evans lived); bills of lading, invoices, receipts, promissory
+                    notes, and custom house bonds; an account of crew wages; log books (1824-1827)
+                    for New Jersey; a journal with "Observations on Thermometer and Barometer"
+                    made during two of the voyages to Canton (1827-1829); and journal containing
+                    coastal drawings of island in the South China Sea and algebra exercises. Other
+                    items in the collection include: an oversized manifest of cargo and insurance
+                    certificate; a reproduction photograph of Captain John M. Whitall; and several
+                    samples of silk from China. In addition to papers related to New Jersey, the
+                    collection contains some records of other ships, including William Savery (log
+                    books, 1817-1820), Mary Lord, and Nancy. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <geogname encodinganalog="651">China--Commerce--United States.</geogname>
+                <geogname encodinganalog="651">United States--Commerce--China.</geogname>
+                <genreform encodinganalog="655">Bills of lading.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1984.37; 3-85 non acc. (photograph)</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

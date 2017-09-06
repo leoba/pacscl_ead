@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clifford J. Earle papers <date type="inclusive">1931-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clifford J. Earle papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC902</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1931-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clifford J. Earle (1904-1982) received his B.D. from McCormick Theological
+                    Seminary in 1934. He was pastor of churches in Wisconsin and Illinois, including
+                    the Second Presbyterian Church of Oak Park, Illinois (1943-1947). Additionally,
+                    he was Chairman, Committee on Social Education and Action, Chicago Presbytery
+                    (1943-1947); Moderator of the Chicago Presbytery, 1947-1948; Secretary for Study
+                    and Research in the Office of Church and Society of the Board of Christian
+                    Education; Secretary of the Office of International Affairs of the UPCUSA; a
+                    consultant to the U.S. Mission to the United Nations; and author of How to Help
+                    an Alcoholic (1952), and Alcohol and Christian Responsibility (1953).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Included in this collection are sermons (1934-1961); articles and speeches
+                    (typescripts and some manuscripts) on a range of topics including alcohol, race
+                    relations, the women's movement, Christianity and international relations,
+                    faith, prayer, and the Christian experience; and reports from the Office of
+                    International Affairs of the UPCUSA (of which Earle was Secretary), 1963-1966.
+                    Additionally, there is a small amount of correspondence about the Church's 1967
+                    Statement on China (including a letter from Henry Luce about the statement);
+                    materials related to the Special Committee to Study Women in Society and in the
+                    Church, including minutes, correspondence, and reports, 1967-1969; a report of a
+                    1968 survey of United Presbyterian ministers on civil rights; a survey of
+                    "Deliverances of the General Assembly of the Presbyterian Church of the USA
+                    with reference to war and peace, 1706-1937"; and a small number of materials
+                    related to the Wisconsin Christian Endeavor Union, including brochures,
+                    newsletters, and reports, 1931-1939. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Earle, Mrs. J.</p>
+                <p>Accession number: 83 0825</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

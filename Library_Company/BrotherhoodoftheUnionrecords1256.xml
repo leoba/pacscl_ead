@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Brotherhood of the Union records <date type="inclusive">1850-1980</date>
+                        <date type="bulk"> 1850-1869</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Brotherhood of the Union records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1256</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.583 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1850-1980</unitdate>
+                <unitdate type="bulk"> 1850-1869</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George Lippard (1822-1854) was a 19th century American novelist, journalist,
+                    playwright, social activist, and labor organizer. In 1850 Lippard founded the
+                    Brotherhood of the Union, a secret benevolent society with rituals and symbols
+                    drawn from the Masons and Odd-Fellows. The organization was later renamed the
+                    Brotherhood of America; it dissolved in 1995. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of writings, correspondence, and printed materials related
+                    to the Brotherhood of the Union. Materials include: an 1850 Charter of Circle
+                    142 of the Brotherhood of the Union; printed circulars and broadsides;
+                    manuscript letters from Lippard to William Macfarlane and James Stevens; and two
+                    volumes: Lippard's Diary (1852-1869), which contains Lippard's notes about the
+                    Brotherhood from 1852 to 1854, and which was continued by Lippard's successors
+                    as a record-book of the Supreme Washington; and a record book (1859-1879), which
+                    includes minutes, resolutions, by-laws, and financial records. The collection
+                    also includes photographs of Lippard's residence taken in the 1930s, of his
+                    gravestone taken in 1980, and of G.J. Ehmann conferring the G.E.W. Degee in
+                    1973.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: unaccessioned</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: George Lippard notebook (Am .09255).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

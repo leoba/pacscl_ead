@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Barton Longacre papers <date type="inclusive">1806-1869</date>
+                        <date type="bulk"> 1830-1869</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Barton Longacre papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1632</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1806-1869</unitdate>
+                <unitdate type="bulk"> 1830-1869</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Papers of James Barton Longacre, line and stipple engraver of Philadelphia, and
+                    chief engraver of the U.S. Mint, 1844-1869. Correspondence concerning his work
+                    on "The National Portrait Gallery of Distinguished Americans," discussing
+                    portraits, engravings, and biographical sketches, and financial matters; and
+                    letters revealing his responsibilities as Chief Engraver. Topics include coin
+                    design, mottos and inscriptions, composition, and production. Special
+                    correspondence files consider the use of aluminum in U.S. specie, execution of
+                    Chilean coinage, Longacre's salary and the Ingraham medal, and use of a
+                    "reducing machine" in making currency. A significant amount of correspondence
+                    with Richard Sears McCulloh, James Ross Snowden, and others reflects conflicts
+                    between the Chief Engraver and the Chief Coiner, Franklin Peale, especially in
+                    connection with Peale's manufacturing of medals. Letter book, 1830-37, of
+                    Longacre's business matters, and his fragmented memorandum books and diaries,
+                    1821-1867. Some family letters. Miscellaneous school books, 1806-07, account
+                    books, 1829-30, subscription book, 1830 for his engraved portrait of Bushrod
+                    Washington, notes on the Longacre family, and some printed material, concerning
+                    "The National Portrait Gallery," the Mint, and estate papers. Separated from
+                    the collection are a number of engravings, sketches, watercolors, etc. to the
+                    prints department.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Purchased</p>
+                <p>Year acquired: 1948</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

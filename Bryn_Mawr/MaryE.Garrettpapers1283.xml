@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary E. Garrett papers <date type="inclusive">1856-1931</date>
+                        <date type="bulk"> 1870s-1915</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary E. Garrett papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1283</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1856-1931</unitdate>
+                <unitdate type="bulk"> 1870s-1915</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mary Elizabeth Garrett (1854-1915) was a well-known Baltimore philanthropist and
+                    suffragist. She was M. Carey Thomas's devoted friend and a benefactress of Bryn
+                    Mawr College.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of Mary Garrett. Materials include:
+                    correspondence with her mother and other family members; diaries and address
+                    books; invitations and calling cards; correspondence and other papers relating
+                    to her estate, stock holdings, and other financial matters; bills and receipts;
+                    letters to John W. Garrett from his sons; and documents relating to the estate
+                    of John W. Garrett. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

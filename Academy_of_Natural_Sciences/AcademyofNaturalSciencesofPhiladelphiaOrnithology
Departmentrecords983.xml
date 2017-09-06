@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Ornithology Department
+                        records <date type="inclusive">1883-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Ornithology
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC983</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1883-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences maintains an ornithological collection of nearly
+                    200,000 study skins and 15,000 tissue samples. Of great historical importance,
+                    specimens in the collection predate the founding of the Academy in 1812 and
+                    include important early bird collections from such famous collectors as
+                    Alexander Wilson, John Audubon, and John Gould. Staff of the department care for
+                    and maintain the ornithology collection and conducts research on the
+                    evolutionary biology of birds.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Ornithology Department of the Academy of
+                    Natural Sciences. Records related to specimens in the collection include: 18
+                    volumes of accession books of ornithological specimens (up to 1997) and eight
+                    microfilm reels of the accession books (accession # 000001 to #175726); a record
+                    book of specimens in the Maple Avenue collection (1889-1896); card files for
+                    skeletons housed in Ornithology; specimen tags removed from specimens; records
+                    of South American species, including a card file of specimens collected by M.A.
+                    Carriker and Rodolphe Meyer de Schauensee; and field data sheets for specimens
+                    collected in Washington, Oregon, California, and Peru during J. Peter Myer's
+                    Shorebirds study. The Shorebirds study materials also include instructions for
+                    collecting and preserving specimens. Material related to the Delaware Valley
+                    Ornithological Club (DVOC) includes: a handwritten inventory of the DVOC
+                    Collection donated to the Academy; Delaware Valley Birding Hotline files,
+                    including transcripts of the hotline messages (1974-1977 and 1993),
+                    correspondence, records of financial contributions to the hotline, and telephone
+                    instructions; and correspondence between Frank Gill and the DVOC, 1962-1980,
+                    much of it about the relationship between the two organizations. Other records
+                    in the collection include news releases about the Pennsylvania Breeding Bird
+                    Atlas project 1986-1987; correspondence of John Hawley Foster, 1952-1985, about
+                    birding trips and Foster's financial support of Academy ornithology projects;
+                    and lab notebooks from Frank Gill and Fred Sheldon, 1975-1992, containing notes
+                    on their bird DNA studies.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89:06; 93:02; 97:19; 99:05; 00:02; 01:15; 07:14</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Melbourne A. Carriker field notes, Delaware Valley
+                    Ornithological Club records, Frank B. Gill papers, R. M. de Schauensee papers,
+                    and C. Chandler Ross papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

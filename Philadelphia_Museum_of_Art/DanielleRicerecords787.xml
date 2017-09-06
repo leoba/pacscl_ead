@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Danielle Rice records <date type="inclusive">1986-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Danielle Rice records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC787</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1986-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Danielle Rice came to the Museum in 1986 as its first Curator of Education. In
+                    the previous decades, the title of the department head was Chief of the Division
+                    of Education. Rice worked as Curator and then Senior Curator for the next 15
+                    years. In Spring 2001, the Museum appointed Rice to a newly created position in
+                    the Executive Offices based on her experience and talents and the needs of the
+                    institution. As stated in that year's Annual Report, Rice became the Museum's
+                    first Associate Director of Program, which charged her with the supervision of
+                    the Museum's increasingly complex planning for exhibitions, publications and
+                    every form of educational and scholarly material. Rice left the Museum four
+                    years later to become Executive Director of the Delaware Art Museum, in
+                    Wilmington, DE. Offered every summer, VAST (Visual Arts as Sources for Teaching)
+                    is an intensive two-week program for teachers of all grades and subject areas,
+                    and designed to encourage 60 participants to immerse themselves in the Museum's
+                    collections and explore the use of art as a resource in the classroom. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These records pertain to Rice's role as Senior Curator of Education, and consist
+                    primarily of program materials, workbooks, lecture notes, articles, slide lists,
+                    participant lists, and participant journals used in the Museum's teachers'
+                    workshop known as VAST, 1988-2003. Also included are Rice's lecture notes, slide
+                    lists, and correspondence, 1987-2002; publications, 1987-2003; syllabi; slide
+                    lists and lecture notes for PMA courses, 1986-2005; and papers pertaining to
+                    other museum projects, such as training for new guides.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <persname encodinganalog="600">Rice, Danielle. </persname>
+                <subject encodinganalog="650">Art museums--Educational aspects. </subject>
+                <subject encodinganalog="650">Education--Museums.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Lecture notes.</genreform>
+                <genreform encodinganalog="655">Manuals (Instructional materials)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 4</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=RIC">http://www.philamuseum.org/pma_archives/search.php?c=RIC</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Education Division Records, 1939-2004 (ED) </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

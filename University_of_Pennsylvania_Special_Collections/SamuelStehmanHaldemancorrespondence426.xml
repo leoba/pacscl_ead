@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel Stehman Haldeman correspondence <date type="inclusive">1840-1880</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel Stehman Haldeman correspondence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC426</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1840-1880</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Stehman Haldeman (1812-1880) was an American naturalist and philologist.
+                    In 1851 he was appointed Professor of the Natural Sciences at the University of
+                    Pennsylvania. In 1855 he joined the faculty of Delaware College but in 1868, he
+                    returned to the University of Pennsylvania as the first chair of its Comparative
+                    Philology department, remaining at the University until his death. Haldeman
+                    published and lectured on a variety of topics, including malacology,
+                    orthography, geology, philology, and chemistry.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of Haldeman's correspondence, 1840-1880. Topics
+                    include philology, phonography, ethnology, natural history, and archaeology.
+                    Notable correspondents include William Wagner, Richard Owen, Noah Webster,
+                    Melvil Dewey, and C. &amp; G. Merriam. The collection also includes invitations
+                    to lectures at the University of Pennsylvania, and a small amount of
+                    correspondence from the University relating to Haldeman's appointments to
+                    professorships in Comparative Philology and Natural History.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 194</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

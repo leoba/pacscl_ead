@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art financial records <date type="inclusive">1875-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art financial records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC311</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Museum of Art, located at the west end of the Benjamin Franklin
+                    Parkway in Philadelphia's Fairmount Park, was established in 1876 in conjunction
+                    with the Centennial Exposition and is now among the largest art museums in the
+                    United States. Originally the Pennsylvania Museum and School of Industrial Art,
+                    its founding was inspired by the South Kensington Museum (now the Victoria and
+                    Albert Museum) in London, which grew out of the Great Exhibition of 1851. The
+                    museum opened its doors to the public on May 10, 1877, originally housed in
+                    Memorial Hall. Construction of the current building began in 1919 when Mayor
+                    Thomas B. Smith laid the cornerstone on the former reservoir land of the
+                    decommissioned Fairmount Water Works covering ten acres of ground. The first
+                    section was completed in the spring of 1928. The quasi-Greek Revival design was
+                    produced by Horace Trumbauer and the firm of Zantzinger, Borie and Medary. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This group of financial records was collected from various sources. The first
+                    series, "Accounting records," probably originated in the Corporate Treasurer
+                    and Secretary's offices and consists of several ledgers, journals and registers.
+                    It offers the earliest documentation, beginning in 1875 and 1876, when the
+                    Museum's original site, Memorial Hall, housed the major art exhibition to the
+                    Centennial. While general bookkeeping records track transactions up until the
+                    early 1920s, most of the investment and funding material pertains to later
+                    years. The Assistant Treasurer appears to have generated most of the material in
+                    the second series, "Budgets, proposed and operating." Documentation includes
+                    operating expense reports, budget estimates, income forecasts and other reports
+                    related to the City's operating budget since the Museum is partially funded
+                    through municipal appropriations. Most reports date from the 1960s and 1970s.
+                    The final series, "City Planning Commission capital projects," focuses on the
+                    Museum's funding through the City of Philadelphia. Much of the material dating
+                    approximately from 1940 to 1960 originated in the Director's office,
+                    specifically during the tenures of Fiske Kimball and Henri Marceau. There is
+                    also documentation of specific capital improvement projects at the Museum that
+                    were initiated during the first half of the 1960s. The volumes in the collection
+                    include: Journals (1876-1913 and 1876-1921); Ledger (1913-1919); Stockholder
+                    registers (1875-1882); Underwriting registers (unbound) (1925-1939); and
+                    Registers of accounts (unbound) (1939-1958).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <subject encodinganalog="650">Museum finance. </subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Financial records.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=FIN">http://www.philamuseum.org/pma_archives/search.php?c=FIN</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Fiske Kimball Records,1908-1955; George M. Cheston Records, 1968-1977;
+                    Julius Zieget Records, 1892-1964; Secretary of the Corporation Records,
+                    1825-1980</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

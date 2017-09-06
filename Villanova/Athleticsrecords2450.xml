@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Athletics records <date type="inclusive">1867-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Athletics records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2450</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.48 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1867-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University's broad-based Wildcat athletics program is comprised of 24
+                    men's and women's varsity sports and over 500 student-athletes. In addition,
+                    club sports and an extensive intramural and recreation program fall under the
+                    auspices of the Athletic Department. Villanova is a member of the Big East
+                    Conference and the Colonial Athletic Association Football Conference.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Director of Athletics of Villanova
+                    University and the Varsity Sports program. The collection documents Villanova’s
+                    football, basketball, and baseball programs, with a smaller number of items
+                    relating to track and cross country, swimming and diving, crew, field hockey,
+                    golf, ice hockey, lacrosse, soccer, softball, tennis, volleyball, water polo,
+                    and wrestling. The bulk of the items in the collection are printed materials,
+                    news clippings, and reports. Types of materials include calendars and schedules,
+                    handbooks, programs, departmental reports, score books, tickets, and media
+                    guides. Of note are approximately thirty scrapbooks of news clippings about
+                    Villanova football (1933-1955); basketball (1933-1956); track (1940-1956); and
+                    other sports (1937-1965). There are also a small number of financial records,
+                    departmental reports, and other administrative records of the Athletics program,
+                    including a volume of financial records and clippings (1913-1922); addresses by
+                    Francis X. Regan (1954-1959); several letters of past athletics directors;
+                    correspondence related to the 1941 basketball "black list"; and a volume of
+                    minutes of the Athletics Board (1927-1956).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Villanova University--Sports</corpname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Programs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Speeches.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

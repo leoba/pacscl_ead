@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wagner Free Institute of Science director's journal <date type="inclusive">1956-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wagner Free Institute of Science director's
+                    journal</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1157</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.01 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1956-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated by William Wagner in 1855, the Wagner Free Institute is a natural
+                    history museum and educational institution in Philadelphia that is dedicated to
+                    providing free public education in the sciences. William Wagner originally
+                    offered free lectures and classes in his home and at Spring Garden Hall. He
+                    later constructed an Institute building, which opened to the public in 1865. The
+                    Institute's current programs and services include adult and children's
+                    programming offered onsite and at locations around Philadelphia, the Institute's
+                    library and archival collections, and a permanent display of the museum's
+                    specimen collections. Since 1891, the specimen collections have been displayed
+                    according to Darwinian principles of evolution, the organizational scheme
+                    selected by renowned biologist Joseph Leidy during his tenure as head of the
+                    Institute's scientific and educational programs in the late 19th century.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two notebooks kept from 1956 and 1981, possibly by
+                    Robert Chambers, Director of the Wagner Free Institute of Science from
+                    1945-1980. In these books, the writer notes building maintenance and employee
+                    matters, notable visits, installation of exhibits, open houses and other special
+                    events held at the Institute, and incidents involving break-ins, vandalism, and
+                    unruly patrons.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Wagner Free Institute of Science.</corpname>
+                <subject encodinganalog="650">Natural history libraries.</subject>
+                <subject encodinganalog="650">Natural history museums.</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 97-028</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

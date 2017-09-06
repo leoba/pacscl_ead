@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles A. Poulson Philadelphia scrapbooks <date type="inclusive">1822-1865</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles A. Poulson Philadelphia scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1744</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1822-1865</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Augustus Poulson Jr., grandson of Library Company of Philadelphia
+                    librarian Zachariah Poulson, was a publisher, antiquarian, and amateur
+                    historian. He compiled several series of scrapbooks of Philadelphia history,
+                    which were bequeathed to the Library Company following his death in 1866. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of scrapbooks predominately containing newspaper clippings,
+                    many dated between 1850 and 1860, describing the history, society, built
+                    environment, and political climate of Philadelphia. Other subject matter
+                    includes local anecdotes, price lists, mortality charts, tax lists, and year
+                    chronologies. Also contains periodical illustrations, advertisements, and prints
+                    showing businesses, churches, benevolent institutions, public and municipal
+                    buildings, household furnishings and implements, and social satires, several
+                    with an Afro-Americana or fashion content. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Dickinson College:
+                    Poulson, Charles Augustus, Sr. (1789-1866) Family papers, MC 2006.02</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Zelma Corning Brandt papers <date type="inclusive">1906-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Zelma Corning Brandt papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1309</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1906-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Zelma Corning Brandt (1891-1990) attended Bryn Mawr College from 1909 to 1911.
+                    She married Carl Brandt, of the Brandt &amp; Brandt publishing firm, where she
+                    worked until 1927. After her divorce, she worked as a correspondent for the
+                    Trans-Radio News Agency. She also worked as an observer for the United Nations
+                    International League for Human Rights. She was keenly interested in women's
+                    rights and was an original member of the Women's International Democratic
+                    Federation. She was active in many social, environmental, and political
+                    causes.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of Zelma Corning Brandt. Documentation
+                    includes: incoming and outgoing correspondence (1907-1988); photographs,
+                    notebooks, and publications related to Brandt's travels in India, Africa, China,
+                    and Japan; and printed matter from a variety of organizations, such as the
+                    National Organization for Women, the Gray Panthers, and anti-Vietnam war groups.
+                    The correspondence reflects Brandt's interest in and activities on behalf of a
+                    wide range of causes. Although some of the mailings from organizations are
+                    routine requests for donations, Brandt's responses are quite vibrant and
+                    engaging. Personal correspondence in the collection also reflects her commitment
+                    to social and political causes. The collection also includes photographs and
+                    some of Brandt's early diaries (1906-1910).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

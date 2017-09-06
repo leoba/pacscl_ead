@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Geneva Academy Board of Trustees records <date type="inclusive">1865-1913</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Geneva Academy Board of Trustees records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC166</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1913</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The town of Geneva, Kansas, was founded by free-state men in the summer of 1857.
+                    The idea of the settlement began with ambition, but the establishment of and
+                    building a large town never came to fruition; less than one fourth of the
+                    projected 300 families engaged to settle came. Originally, it had been decided
+                    to build a large structure and found a non-sectarian college and academy, but
+                    through the lack of money and settlement the college was not built, though an
+                    academy later took its place. The school had been established in 1866 under
+                    charge of the Neosho Presbytery.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is of the Geneva Academy Board of Trustees minutes and financial
+                    records, 1865-1913. Minutes are from 1865-1913, with gaps. Minutes include the
+                    constitution and by-laws of the Board of Trustees; plans for a building for the
+                    academy; decisions about tuition, school rules, and leasing of rooms and records
+                    of actions brought in court related to the occupancy rights to the building
+                    (1873-1875). The volume also includes some financial accounting of the Academy.
+                    Accounts from 1858-1860 may belong to L. L. Northrup, G. S. Northrup, or the
+                    Union Settlement Company, but provenance is unclear.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Synod of Kansas</p>
+                <p>Accession number: 05 0603r</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

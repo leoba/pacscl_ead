@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Nancy B. Davison papers <date type="inclusive">1979-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Nancy B. Davison papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1148</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1979-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Presbyterian Women (PW) is the national women's organization of the Presbyterian
+                    Church (U.S.A.). Nancy B. Davison worked as a volunteer with Presbyterian Women
+                    from 1985 to 1994. She served on the National Executive Committee of
+                    Presbyterian Women during the 1985-1988 Triennium as the representative from the
+                    Synod of Alaska-Northwest. During the 1991-1994 Triennium, she served on the
+                    Churchwide Search Committee as the representative from the Western region of the
+                    United States.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of materials compiled by Nancy B. Davis during her
+                    association with Presbyterian Women. The materials are related to volunteer
+                    services with Presbyterian Women including subject files; photographs;
+                    notebooks; filmstrip "In the Image of God" from the 1979 UPW National Meeting;
+                    and slides from the 1988 PW Churchwide Gathering, with a list identifying
+                    slides. Also included are materials from various meetings between 1985 and 1994,
+                    including National Meeting of United Presbyterian Women, Churchwide Gathering of
+                    Presbyterian Women, Business Meeting of Presbyterian Women, National Executive
+                    Committee Meeting and PW Enabler Training. These materials include agendas,
+                    programs, meeting minutes, planning notes, reports, photographs of meetings, and
+                    newsletters.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Davison, Nancy B.</p>
+                <p>Accession number: 97 0701</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Sunday and Adult School Union records <date type="inclusive">1817-1826</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Sunday and Adult School Union
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC158</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1817-1826</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Sunday and Adult School Union was formed in 1817. In that year, a number of
+                    Philadelphia-area Sunday school societies met to form a larger union of their
+                    societies for the purpose of concentrating their efforts in the support of
+                    schools, the publication and dissemination of moral and religious materials, and
+                    the formation of new schools. In 1825, the Philadelphia-based Sunday and Adult
+                    School Union joined with other regional unions to form the American Sunday
+                    School Union (ASSU). In 1939 the ASSU changed its name to the Philadelphia
+                    Council of Churches, and in 1969 it again changed names to the Metropolitan
+                    Christian Council of Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two volumes of records of the Sunday and Adult School
+                    Union. The first volume is a letter book, 1817-1825, which contains
+                    correspondence with other Sunday school unions (including requests for
+                    publications from the Union and letters about publication exchanges with other
+                    societies), and letters to Sabbath school missionaries, discussing duties and
+                    remuneration. The second volume contains the constitution and minutes of monthly
+                    and annual meetings of the Philadelphia Sunday and Adult School Union,
+                    1817-1824. The minutes discuss collecting books for the Union (including by
+                    exchange with other Sunday school societies and unions), fundraising,
+                    publication of books, reports from visitations, and additions of members to the
+                    Union. The volume also includes a printed copy of a proposed constitution for
+                    the American Sunday School Union, 1823, and minutes of the ASSU Missions
+                    Committee, 1825-1826.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: ASSU</p>
+                <p>Accession number: 05 0603i</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: American Sunday School Union records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

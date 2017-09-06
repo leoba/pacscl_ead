@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Josef Liener collection of Philadelphia Naval Shipyard photographs
+                            <date type="inclusive">1916-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Josef Liener collection of Philadelphia Naval Shipyard
+                    photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC491</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philadelphia Naval Shipyard was the first Naval Shipyard in the Nation. In 1799
+                    Congress authorized $522,678 in funds for the purchase of land to establish the
+                    Philadelphia Naval Shipyard. The shipyard was originally located in the
+                    Southwark region of Philadelphia. However, with growth of the city, the shipyard
+                    was relocated to its present site. For many years, the workload at the shipyard
+                    consisted primarily of new construction and conversions of ships. For example,
+                    during World War II the battleship Wisconsin, the aircraft carrier Antietam, and
+                    the cruisers Chicago and Los Angeles were launched in a period of seven months.
+                    However, during the late 1960s at the direction of Defense Secretary McNamara
+                    the Navy gradually phased out of the new construction business, turning this
+                    work over to the private sector. The last ship built at the Philadelphia Naval
+                    Shipyard was the command ship USS Blue Ridge in 1970.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of approximately 450 black and white photos from the
+                    Philadelphia Navy Yard. Images document modeling, construction, and testing of
+                    vessels at the Yard. Ships represented in the photographs include 40-foot and
+                    50-foot utility boats, personnel and rescue boats, minesweeping launches, a LCVP
+                    (landing craft vehicle, personnel), and area command cutters. The collection
+                    also includes some photographs of personnel. Memos from the Industrial
+                    Department of the Navy Yard in Portsmouth, New Hampshire, and from the Navy
+                    Department, dated 1921 and 1942-1943, relate to materials and procedures to be
+                    used in glue-laminated wood construction.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Naval Shipyard (Philadelphia,
+                    Pa.)</corpname>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1989.21</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

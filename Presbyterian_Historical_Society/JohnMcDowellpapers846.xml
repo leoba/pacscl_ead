@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John McDowell papers <date type="inclusive">1932-1937</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John McDowell papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC846</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1932-1937</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John McDowell (1870-1937) was Moderator of the General Assembly of the
+                    Presbyterian Church in the U.S.A. He served as Secretary of the Board of
+                    National Missions and Secretary of the Committee on Social and Industrial
+                    Relations of the Board of National Missions. He was noted for his Labor Day
+                    sermons. Scottish-born, a onetime breaker boy in a Pennsylvania mine (where he
+                    lost an arm), McDowell worked his way through Mount Hermon School at East
+                    Northfield. Massachusetts, and became a friend of Founder Dwight Lyman
+                    Moody.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of John McDowell, including typescripts and
+                    printed copies of sermons and addresses; news releases of statements; printed
+                    messages of the Board of National Missions and the General Assembly, including a
+                    "Labor Day Message"; a small amount of correspondence with the Publicity
+                    Department of the Presbyterian Church in the U.S.A.; and a broadside of a report
+                    of the Standing Committee on Social Welfare, 1937. Topics of the addresses in
+                    the collection include labor and the church, the economic crisis, the church and
+                    social and industrial relations, and unemployment.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 68 0291a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

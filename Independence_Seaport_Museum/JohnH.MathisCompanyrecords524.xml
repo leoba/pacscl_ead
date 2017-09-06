@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John H. Mathis Company records <date type="inclusive">1919-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John H. Mathis Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC524</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>195 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The John H. Mathis Co at Point &amp; Erie Streets in Camden, New Jersey, built
+                    yachts and also produced ships for the Navy and Coast Guard. Famed yacht
+                    designer John Trumpy began building yachts at the Mathis yard in 1910, and
+                    remained there until he opened his own shipyard in Maryland. During World War II
+                    a variety of ships were built, including minesweepers, transports, Coast Guard
+                    cutters, and ferries, among others. The Mathis Shipyard closed in the 1960s. The
+                    Mathis shipyard was later used by the firm Camden Ship Repair.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of plans and records for ships built by Mathis, including
+                    barges, tugs, tankers, patrol vessels, cargo vessels, trawlers, yachts, and
+                    fireboats. Rolled plans for hulls 93-216 include general arrangement plans
+                    (present for most hulls) and inboard and outboard profiles and plans of systems,
+                    machinery, infrastructure, ordnance, and other particulars (present for many
+                    hulls, with a large number of plans present for hulls 136, 147, 166). In
+                    addition there are plans for the minesweeper AM 57 USS Auk; 418, 1942 YO; W2
+                    82/83 US Net Tenders; other ships for which Mathis did design or repair work;
+                    and plans of the yard. Folded plans and accompanying records for hulls 96-214
+                    include: drawings and blueprints, notes on measurements; structural
+                    calculations; material orders and lists; labor and materials costs; hull and
+                    machinery plan lists; inventories of parts, machinery, appliances, and
+                    equipment; photographs and negatives; specification books; test notes;
+                    correspondence with the American Bureau of Shipping; a small amount of
+                    correspondence with suppliers, vendors, and customers; work schedules with
+                    estimated completion dates; a printed proposal for bid and specifications for a
+                    New York City fire boat, along with the typed Mathis bid; and a specification
+                    for bidders from the War Department for a cargo vessel (hull 147). The
+                    collection also features photographs and negatives of hulls 130-185, including
+                    images of ships during various stages of the construction and launches; photos
+                    of the yard; photos of yard workers; photos of the interior of Mathis
+                    Shipbuilding; photos of executive staff; and photos of piers 1, 2, and 4.
+                    Additional materials in the collection include: receipts for stocks bought and
+                    sold for W. W. Robinson; a small amount of financial information, circa 1945;
+                    product brochures; employee identification badges; a small number of newspaper
+                    clippings; and an index of plans (not complete).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <subject encodinganalog="650">Shipbuilding--New Jersey--Camden.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1993.87, multiple other accessions</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

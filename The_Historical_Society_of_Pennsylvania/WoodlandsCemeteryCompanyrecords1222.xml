@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Woodlands Cemetery Company records <date type="inclusive">1840-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Woodlands Cemetery Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1222</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>63 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1840-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1840 by seventeen prominent Philadelphians, and led by Eli Kirk Price,
+                    Woodlands Cemetery is the final resting place for numerous local and national
+                    figures. The aim of the founding members was to create a peaceful sanctuary by
+                    "removing the dead from the midst of the dense population of our cities, and
+                    placing them in operation with beautiful works of nature; thus making them the
+                    means of preserving open spaces and some of the finest park scenery near our
+                    town which otherwise would be prostrated in the progress of building
+                    improvements." Some of the notables buried here include Thomas Eakins, Sydney
+                    George Fisher, Rembrandt Peale, Eli Kirk Price and Eli Kirk Price II. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the records of the Woodlands Cemetery Company. Records
+                    include: annual reports to Corporators, 1844-1851; ledgers, 1889-1934; daybooks,
+                    1889-1932; cashbooks, 1889-1935; Superintendent's weekly reports, 1886-1931;
+                    letterpress books, 1891-1933, minute books; receipt books; receipts and lists of
+                    manager's expenses; burial reports; and correspondence. Additionally there is
+                    correspondence relating to the demolition of the 19th century entrance and
+                    construction of a new entrance according to designs of Paul Cret, 1936-1937. The
+                    collection also includes materials related to the estates of Eli K. Price, John
+                    Sargeant Price, and Elizabeth Price Martin. These materials consist of wills,
+                    correspondence regarding property appraisals, lease and purchase agreements, and
+                    proposed building plans.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Woodlands Cemetery (Philadelphia, Pa.)</corpname>
+                <subject encodinganalog="650">Cemeteries--Pennsylvania.</subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Cemetery records.</geogname>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Leases</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Wills</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: A1991:6; 2004.045</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Georgiana Goddard King papers <date type="inclusive">1905-1990</date>
+                        <date type="bulk"> 1905-1942</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Georgiana Goddard King papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC862</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1990</unitdate>
+                <unitdate type="bulk"> 1905-1942</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Georiana Goddard King (1871-1939) graduated from Bryn Mawr in 1896 with a
+                    bachelor's degree in English and, in 1897, a master's degree in philosophy and
+                    political science. She taught at Bryn Mawr, first in the English department, and
+                    later she was appointed Lecturer in History of Art and Comparative Literature.
+                    In 1913 she became the first chair of the History of Art department. She was an
+                    authority on Spanish painting.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the professional papers of Georgiana Goddard King.
+                    Materials include research and lecture notes on Spanish and Italian art and
+                    literature, manuscripts and articles, reprints, and a small amount of
+                    correspondence. Also included are a reminiscence of King by her friend Delphine
+                    Darby, and memorials and an obituary.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 74-15</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

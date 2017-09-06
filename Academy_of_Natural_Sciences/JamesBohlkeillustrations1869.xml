@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Bohlke illustrations <date type="inclusive">1953-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Bohlke illustrations</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1869</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Bohkle (1930-1982) was an ichthyologist at the Academy of Natural Sciences
+                    of Philadelphia. He received his Ph.D. in biological sciences from Stanford
+                    University in 1954, and then joined the Academy the same year as an assistant
+                    curator to work with Charles Chaplin on a book of Bahaman fishes. He was named
+                    chair of the department in 1960, a position he held until his death in 1982. He
+                    was also curator of the ichthyology collection (1963-1982). His research
+                    interests were the systematics and life histories of neotropical fishes and eels
+                    of the world.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs and illustrations in ink and pencil of fish
+                    for articles by James Bohlke, published between 1953 and 1981. Illustrators
+                    include Mary H. Fuges, Steven P. Gigliotti, Catherine H. Robins, Janet Roemhild,
+                    and J. Schatz.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences: James Bohlke, papers relating to Fishes of the Bahamas (1968)
+                    (collection 822). </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

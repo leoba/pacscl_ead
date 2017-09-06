@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia and Erie Land Company and South Renovo Land Company
+                        records <date type="inclusive">1865-1907</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia and Erie Land Company and South Renovo Land
+                    Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC210</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1907</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Incorporated in 1864, the Philadelphia and Erie Land Company laid out the town of
+                    Renovo, Pennsylvania, as the site for the great repair shops of the Philadelphia
+                    and Erie Division of the Pennsylvania Railroad. South Renovo, Pennsylvania,
+                    across the river from Renovo, was laid out in 1881.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the Philadelphia and Erie Land Company.
+                    Bound volumes include a dividend book (1866-1903), a record of the sale of town
+                    plots in Renovo, including sketches of the plots, and a book of unused stock
+                    certificates. Other materials include: maps, deeds, bond and warranties, reports
+                    and appraisals, mortgages, a record of capital distribution (1870-1903) and
+                    business correspondence. Most of the correspondence relates to the sale and
+                    development of land in Emporium and Renovo, and is directed to John A. Glenn,
+                    Secretary of the Company, and to Joseph F. Reilley, agent. The collection also
+                    includes a small number of business papers of the South Renovo Land Company.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. and Mrs. Barry Moyerman.</p>
+                <p>Year acquired: 1972</p>
+                <p>Accession number: 07-107</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

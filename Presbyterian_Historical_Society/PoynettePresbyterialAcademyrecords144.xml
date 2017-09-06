@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Poynette Presbyterial Academy records <date type="inclusive">1884-1914</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Poynette Presbyterial Academy records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC144</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1884-1914</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Poynette Academy was first conceived in 1884, when a group of trustees formed
+                    to raise funds to open a school under the direction of the Presbyterian Church.
+                    The school ran into financial difficulties and was dissolved, and its property
+                    and buildings sold off, in 1911.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Poynette Presbyterial Academy. Minutes of
+                    the Board of Trustees, 1884-1914, discuss election of officers, erecting a new
+                    building and setting up the school, Academy expenses and subscriptions, hiring
+                    staff, and financial dealings. These minutes also include information on the
+                    dissolution of the Academy and the sale of its property. Minutes of the Trustees
+                    Executive Committee, 1906-1912, largely focus on financial matters of the
+                    Academy. Other materials in the collection include: Articles of incorporation,
+                    by-laws, and Articles of Dissolution; file of correspondence from 1903-1911;
+                    reports on religious work conducted at the Academy, students, and finances;
+                    copies of mortgages and insurance statements; historical information on the
+                    Academy; copy of the 1903-1904 Academy catalogue; and extracts of meetings of
+                    the Executive Committee of the Board of Trustees.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Synod of Wisconsin Archives</p>
+                <p>Accession number: 05 0520p</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

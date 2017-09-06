@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Administrative Personnel Association of the Presbyterian Church
+                        records <date type="inclusive">1976-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Administrative Personnel Association of the Presbyterian
+                    Church records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC097</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1976-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joyce P. Bauer organized the Presbyterian Secretarial Association, PCUS, in 1976.
+                    The association changed names in 1984 to the Administrative Personnel
+                    Association. Prior to reunion in 1983, the association welcomed the
+                    participation of administrative personnel of the UPCUSA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Scrapbooks document the annual meetings of the Administrative Personnel
+                    Association as well as yearly business activities. Scrapbooks include minutes,
+                    photographs, regional reports, correspondence, bylaws, budgets and financial
+                    reports, pamphlets, and other memorabilia, as well as issues of the association
+                    newsletter, called variously: The Girl Friday, The Latest News, and APA News.
+                    Scrapbooks cover the following years: 1976-1982, 1978-1986, 1984, 1987-1990,
+                    1990-1991, 1992-1994, 1999, 2000, and 2001. The 2001 scrapbook also includes a
+                    small amount of material for 2002 and 2003. Additionally, there are national
+                    conference scrapbooks for 2002 and 2003.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bauer, Joyce P., APA (via Lindsay Crosby)</p>
+                <p>Accession number: 03 0519, 04 0827i</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

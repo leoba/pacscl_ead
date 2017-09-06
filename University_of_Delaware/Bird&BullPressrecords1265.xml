@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bird &amp; Bull Press records <date type="inclusive">1846-2006</date>
+                        <date type="bulk"> 1952-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bird &amp; Bull Press records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1265</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>18.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1846-2006</unitdate>
+                <unitdate type="bulk"> 1952-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Bird &amp; Bull Press was founded by printer and papermaker Henry Morris in
+                    1958 in Newtown, Pennsylvania. Since that time, Morris has produced broadsides,
+                    books, and other printed materials that are an important part of the
+                    contemporary American private press scene and significant documents in the art,
+                    craft, and history of hand papermaking. Morris first made paper as a commercial
+                    venture in 1958 for Cheney Pulp and Paper Company, later for his own books, and
+                    for friends.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Bird &amp; Bull Press records are a large collection of material dating from
+                    1846, with the bulk of the material dating from the mid-1950s to 2006. The
+                    collection consists of a variety of materials relating to writing, printing,
+                    publication, and other topics. Much of the collection is arranged by title or
+                    project, with manuscripts, typescripts, layouts, galleys, and correspondence
+                    grouped together. The range of materials to be found in the collection is
+                    extensive; it includes typescripts, drawings, manuscripts, illustrations,
+                    typographic samples, production files, text samples, prospectuses, metal
+                    engravings, wood cuts, ink prints, paper matrix, printer's apron (autographed),
+                    proofs, embossing samples, paper samples, layout materials, dummies, page
+                    proofs, watermarks, wood blocks, paste papers, tear sheets, books, catalogs,
+                    magazines, articles, programs, certificates, orders, broadsides, signed prints,
+                    contracts, telegrams, trophies, woven wall hangings, paper weights, visitor
+                    badges, correspondence (personal and business), maps, invitations, inscribed
+                    shorts, financial papers, coins, greeting cards, medals, business cards, bills,
+                    and a Bird and Bull paper mold.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: various</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: various</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/birdbull.htm">http://www.lib.udel.edu/ud/spec/findaids/birdbull.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

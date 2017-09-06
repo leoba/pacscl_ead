@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jacobs family papers <date type="inclusive">1761-1784</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jacobs family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC366</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.125 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1761-1784</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Israel Jacobs was a U.S. Representative from 1791-1793. John Jacobs was a member
+                    of Assembly for Chester County. The Association Library Company was organized in
+                    1757 and merged with the Library Company of Philadelphia in 1771. The eight-arch
+                    Skippack Bridge was built in 1792 over Skippack Creek on Germantown Pike in
+                    Lower Providence Township. The bridge was funded in part by money collected in a
+                    1762 lottery.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of seven volumes related to the Jacobs family. The
+                    volumes have been bound together into one book. Sections include: dues paid for
+                    membership in the Association Library, 1761-1762; accounts for the Skippack
+                    Bridge lottery, 1766; appraisal, payments and disbursements of the Benjamin
+                    Jacobs estate; an account of the sales of the effects of Benjamin Jacobs, 1775;
+                    an account of the sales of the effects of John Hamer, 1783; accounts respecting
+                    the estate of John Hamer, 1784-1789; and an expense book related to the estate
+                    of Israel Jacobs, including travel notes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Deposited by Eric Finkelstein; with bookplate of Samuel W.
+                    Pennypacker</p>
+                <p>Accession number: 14104.Q</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Jacobs family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

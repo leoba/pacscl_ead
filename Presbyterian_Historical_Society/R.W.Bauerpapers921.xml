@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>R. W. Bauer papers <date type="inclusive">1977-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">R. W. Bauer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC921</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Bauer (b. 1930) was a Presbyterian minister who was active in the area of
+                    national missions. Bauer was a 1955 graduate of McCormick Theological Seminary,
+                    and then served as pastor at Springdale Presbyterian Church, Springdale, Ohio,
+                    from 1955 to 1963. Beginning in 1963, he served as Field Administrator for
+                    National Missions in the Presbyterian Synod of Minnesota, Director of National
+                    Missions for Presybyterian Synod of Michigan, and Director for Texas Christian
+                    University. The 1982 General Assembly requested the General Assembly Mission
+                    Council to undertake a serious inquiry into the ability of the United
+                    Presbyterian Church "to deal...with social, political, and economic crises."
+                    Richard W. Bauer was appointed the Project Administrator. The final report was
+                    authored by Bauer and Donald L. Leonard and titled "An Historical Study of Past
+                    Denominational Responses to Social, Political and Economic Crises."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection relates to the research and writing of Bauer and Leonard's report
+                    on the Presbyterian response to crises in society. Included in this collection
+                    is a research plan, correspondence, mailing lists, handwritten notes,
+                    audiocassettes and notes for interviews, questionnaire responses, and drafts and
+                    Bauer's own copies of the final report and agendas for meetings. In addition
+                    there are photocopies from Presbyterian published materials, including General
+                    Assembly Mission Council minutes related to topics such as hunger, race, and
+                    civil rights; copies (some photocopies) of annual reports of the Hunger Program,
+                    1976-1981; printed "Historical Overview" publications on various topics in the
+                    United Presbyterian Church in the United States of America, including
+                    racial-ethnic ministry policies, new church development policies, mission
+                    funding policies, Christian education, youth programs; and official memos and
+                    reports related to funding.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bauer, Richard Waldron</p>
+                <p>Accession number: 85 0930</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

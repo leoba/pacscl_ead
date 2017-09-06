@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jewish Labor Committee records <date type="inclusive">1973-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jewish Labor Committee records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC1102</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>25.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1973-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Jewish Labor Committee, Philadelphia Metropolitan Area was established in the
+                    mid 1950s. The organization is a local affiliate of the National Jewish Labor
+                    Committee started in 1934 to provide aid to Jews during the Nazi occupation of
+                    Europe. The JLC works with various trade unions and outside agencies to address
+                    various issues affecting the Jewish community in Philadelphia. Through
+                    coordinated efforts with the National Office, in New York City, the agency
+                    played a key role in state campaigns for civil rights legislation, in historic
+                    civil rights marches of the 1950s and 1960s and the Leadership Conference for
+                    Civil Rights. The JLC continues to strengthen the American Jewish community's
+                    support of labor's domestic, economic and social positions, and to work with
+                    local unions in their support of a secure state of Israel.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains subject and organization files of the Philadelphia office
+                    of the Jewish Labor Committee. Subject files include newspaper clippings, policy
+                    statements, press releases, copies of legislation, newsletters, and
+                    correspondence. There are some files related to personnel and a director search.
+                    The collection also contains some records related to the national biennial
+                    convention of the JLC, including memoranda, programs, reports, and draft
+                    resolutions. Organization files include minutes, correspondence, memoranda,
+                    monthly reports (1973-1981), news clippings, policy statements, press releases,
+                    newsletters, and conference programs. Organizations represented include the
+                    AFL-CIO, Jewish Community Relations Council, A. Philip Randolph Institute,
+                    Philadelphia Committee in Support of Solidarity, Philadelphia Federation of
+                    Teachers, National Trade Union Council, Negro Trade Union Leadership Council,
+                    Labor Council for Latin American Advancement, and the Ethnic Labor Coalition.
+                    The Ethnic Labor Council files include information related to the James H. Jones
+                    book scholarship. The collection also includes a number of newsletters and
+                    journals including Jewish Frontier, Safer Times, AFL-CIO Legislative Alert, and
+                    Workmen's Circle Call. The collection includes materials in Hebrew, Polish, and
+                    German. Many files were generated by Alex Wollod, Regional Staff of Philadelphia
+                    JLC, as well as Rosalind Spigel, Mike Perry, and Ted Kirsch.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 943</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harlan &amp; Hollingsworth records <date type="inclusive">1917-1947</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harlan &amp; Hollingsworth records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2491</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-1947</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Harlan &amp; Hollingsworth Co., of Wilmington, Delaware, was the first firm in
+                    the United States to combine the shipyard and the foundry. Mahlon Belts and
+                    Samuel Pusey began partnership in 1836 as Betts and Pusey, with Samuel Harlan
+                    joining a year later to form Betts, Pusey &amp; Harlan. When Pusey retired in
+                    1841, his interest in the company was purchased by Harlan's brother-in-law,
+                    Elijah Hollingsworth and the firm name was changed to Betts, Harlan &amp;
+                    Hollingsworth. It changed to Harlan &amp; Hollingsworth in 1849. In 1867 the
+                    firm was incorporated under the name The Harlan &amp; Hollingsworth Company. On
+                    December 10, 1904, the company was acquired by Bethlehem Steel and operated as
+                    part of their shipbuilding division. The name changed from Harlan &amp;
+                    Hollingsworth to the Harlan Plant of Bethlehem Steel. The shipyard closed in
+                    1926, although it was reopened for a time during the Second World War and part
+                    of the shipyard was used by the Dravo Corporation until 1964. Railcars were
+                    built on the site until 1940, and parts for railcars until 1944.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Harlan Plant of Bethlehem Shipbuilding.
+                    Materials include: tonnage statements (listing ships that have been delivered,
+                    with their hull numbers and dimensions); list of vessels with the Dahl oil
+                    burning system; news releases and telegrams related to Bethlehem Steel workers'
+                    purchase of war bonds, 1942; and a letter regarding improper loading of rail
+                    cars, 1947. The collection also contains newspaper clippings about the Harlan
+                    Plant and Bethlehem Steel/Bethlehem Shipbuilding, 1922-1926, 1931. Clippings
+                    relate to construction contracts, safety issues for workers, a 1923 fire in
+                    which ship patterns were lost, and a lawsuit between Bethlehem Steel and the US
+                    government related to payment for patents. Other materials in the collection
+                    include: aerial photos of Harlan plant; photo of Bangor (later called Scourge)
+                    built by Harlan &amp; Hollingsworth; and plans of the Wilmington Yard of
+                    Bethlehem Steel (Harlan yard), 1942. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Bethlehem Steel Corporation.</corpname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

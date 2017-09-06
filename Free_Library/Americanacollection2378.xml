@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Americana collection <date type="inclusive">1787-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Americana collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2378</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1787-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Among the exemplary collections of the Free Library of Philadelphia is the Print
+                    and Picture Collection. Spanning the graphic arts from 1493 to the present time,
+                    the Free Library's Fine Art Prints and Photographs collection includes thousands
+                    of images. Initially representing only Philadelphia artists, the collection has
+                    been extended to include early masters as well as renowned modern printmakers
+                    and photographers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Free Library's collection of Americana is composed of over 8,000 prints,
+                    photographs, and pictures relating to American military, political, and social
+                    history. Of particular interest is a complete Julius Bien chromolithographed
+                    elephant folio edition of John James Audubon's Birds of North America,
+                    1858-1860. Other notable printmakers represented include J. T. Bowen, Thomas
+                    Doughty, John Hill, George Endicott, John Sartain, and Currier and Ives. The
+                    collection also includes several hundred trade cards as well as numerous
+                    political cartoons and items related to political campaigns. Civil war prints
+                    are also well represented. Other items include: bottle labels, baseball cards,
+                    stationary, greeting cards, calling calls, newspaper and magazine clippings,
+                    postcards, realia, and maps. Subject categories found in the collection include:
+                    military, political, and social history; political cartoons; commerce and
+                    technology; geographic locations; and decorative arts, fine arts,
+                    architecture.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia, Print and Picture Collection: 19th century trade cards
+                    collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

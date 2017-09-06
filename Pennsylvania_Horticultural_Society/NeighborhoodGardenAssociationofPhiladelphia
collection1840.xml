@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Neighborhood Garden Association of Philadelphia collection <date type="inclusive">1953-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Neighborhood Garden Association of Philadelphia
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1840</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Neighborhood Garden Association of Philadelphia was founded in 1953 by Louise
+                    Bush-Brown, an author of gardening books and the Director of the Pennsylvania
+                    School of Horticulture in Ambler. After a trip to Europe, she got the idea of
+                    planting window boxes in depressed areas of Philadelphia to improve conditions
+                    in the inner-city neighborhoods and organized constructive garden projects for
+                    adult and youth groups.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Neighborhood Garden Association
+                    of Philadelphia. Items include: a copy of the by-laws; a list of board of
+                    directors (1969); minutes (1971); correspondence of Louise Bush-Brown related to
+                    NGA lectures and programs; reports on projects and histories of the NGA; several
+                    drafts of "Flower That Touched a City's Heart," an article by Bush-Brown on
+                    the NGA; a scrapbook (1955-1966); and photo albums. The collection includes many
+                    slides documenting the association's projects, beginning in 1953. These projects
+                    include the Garden Block program and Demonstration Gardens. Many of the slides
+                    note the addresses of the gardens and the year.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Bush-Brown, Louise Carter, 1897-</persname>
+                <subject encodinganalog="650">Community
+                    gardens--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Urban
+                    beautification--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

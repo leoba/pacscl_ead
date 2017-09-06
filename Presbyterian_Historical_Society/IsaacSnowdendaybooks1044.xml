@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Isaac Snowden daybooks <date type="inclusive">1802-1831</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Isaac Snowden daybooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1044</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1802-1831</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Isaac Snowden, Jr. (1763-1835?), was a Philadelphia merchant and a dedicated
+                    churchman. He was treasurer of the Board of Trustees of the General Assembly of
+                    the Presbyterian Church in the United States of America (PCUSA) from 1799 until
+                    his death and of the Presbytery of Philadelphia. Snowden was also an active
+                    member and officer of the Second Presbyterian Church of Philadelphia, serving as
+                    secretary of its Board of Trustees from 1802, as its pew agent, and on the
+                    Congregational School Committee. In 1818 he was ordained an elder. He also
+                    served as secretary or treasurer of some of the voluntary societies of
+                    Philadelphia, including the Evangelical Society, the Missionary Society, the
+                    Humane Society, and the Magdalen Society.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains daybooks with Snowden's observations on his daily
+                    activities, mostly listening to sermons and his notes and responses to them.
+                    Many of the sermons were given by Dr. Janeway and Dr. Green. The daybooks
+                    include some reporting on business and organizational affairs of the Church.
+                    Snowden writes regularly, though not daily. There is one volume consisting of
+                    quotations and reflections from his reading.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Transferred from the library</p>
+                <p>Accession number: 92 0918b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Isaac Snowden, Jr. papers (RG 218).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

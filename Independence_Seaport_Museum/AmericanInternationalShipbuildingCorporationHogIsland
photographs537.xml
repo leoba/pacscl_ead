@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American International Shipbuilding Corporation Hog Island
+                        photographs <date type="inclusive">1917-1918</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American International Shipbuilding Corporation Hog Island
+                    photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC537</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-1918</unitdate>
+            </did>
+
+            <bioghist>
+                <p>American International Shipbuilding Corporation was established in 1916 on Hog
+                    Island, at the downstream limit of the City of Philadelphia. It was designed to
+                    be an assembly facility, with up to 80% of each hull being prefabricated
+                    elsewhere. It occupied over 900 acres and had 50 building ways. After the war,
+                    it was closed and liquidated, the Corps of Engineers filled in the creek that
+                    made Hog Island an island and in 1925 it became an Air Force facility. It is now
+                    occupied by Philadelphia International Airport and you can no longer see any
+                    trace of the yard from the air.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of 8 x 10 original black and white photographs and some
+                    reproduction photographs and 8 x 10 negatives. The images depict the operations
+                    at shops of the A.I.C., in 1917 and 1918. A few of the photographs are undated,
+                    but appear to come from the same time period. John L. Mahoney was the
+                    photographer.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: donor: Suzanne M. Koiro</p>
+                <p>Accession number: 1994.55</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

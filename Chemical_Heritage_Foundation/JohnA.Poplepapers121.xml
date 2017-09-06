@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John A. Pople papers <date type="inclusive">1931-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John A. Pople papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC121</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>26.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1931-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sir John Anthony Pople (1925-2004) was a theoretical chemist. Born in Burnham on
+                    Sea, Somerset, England, he attended Bristol Grammar School. He received his B.
+                    A. (in 1946) and doctorate (in 1951) degrees in mathematics from Cambridge
+                    University in the United Kingdom. He moved to the United States of America in
+                    the early 1960s, where he lived the rest of his life, though he retained British
+                    citizenship. In 1993 he moved from Carnegie Mellon University , where his
+                    earlier accomplishments were made, to Northwestern University. He received the
+                    Nobel Prize in Chemistry in 1998. He was made a fellow of the Royal Society in
+                    1961, and was knighted in 2003. His first major contribution was a theory of
+                    approximate molecular orbital (MO) calculations on pi electron systems in 1953,
+                    identical to the one developed by Rudolph Pariser and Robert G. Parr in the same
+                    year, and now called the Pariser-Parr-Pople method. Subsequently, he developed
+                    the methods of Complete Neglect of Differential Overlap (CNDO) (in 1965) and
+                    Intermediate Neglect of Differential Overlap (INDO) for approximate MO
+                    calculations on three-dimensional molecules, and other developments in
+                    computational chemistry. He pioneered the development of more sophisticated
+                    computational methods, so called ab initio methods, that used basis sets of
+                    either Slater type orbitals or Gaussian orbitals to model the wave function. He
+                    was instrumental in the development of one of the most widely used computational
+                    chemistry packages, the "GAUSSIAN" suite of programs. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes papers from Pople's days as a student, from his time at
+                    Carnegie Mellon University, and some from his time at Northwestern University.
+                    Also included are records of some of his many awards and honors, and drafts and
+                    correspondence regarding many of his papers. Papers relating to Pople's early
+                    academic career include school reports from grammar school, grades, exams,
+                    lecture notes from Cambridge (including notebooks for astronomy, mathematics,
+                    physics and chemistry), a copy of his dissertation, and correspondence about job
+                    offers. His Carnegie Mellon records (1964-1996) consist largely of files
+                    regarding students, post-doctoral fellows, and colleagues. These materials
+                    include nomination and recommendation letters, administrative records, such as
+                    budgets and travel expenses, comments on articles by students, and
+                    correspondence regarding jointly published papers. The materials form Pople's
+                    time at Northwestern University include reprints, nomination and recommendation
+                    letters, administrative and personnel files and correspondence regarding his
+                    receipt of the Nobel Prize. The collection also includes Pople's computational
+                    notes (1948-1950s), drafts of his original PPP work (1952-1953), drafts of many
+                    of his published papers, along with copies of articles on related topics and
+                    correspondence with co-authors and publishers, files on various conferences and
+                    meetings in which Pople participated, a packet of information for laureates
+                    attending the 1991 Nobel Jubilee, and some of the awards and certificates Pople
+                    received throughout his career.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J.P.</p>
+                <p>Accession number: 04:028</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

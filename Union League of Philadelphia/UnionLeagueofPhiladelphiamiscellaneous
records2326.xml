@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia miscellaneous records <date type="inclusive">1856-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia miscellaneous
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2326</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1856-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Odds and ends which have been donated to the Union League Archives by members and
+                    friends, some purchased. Materials include information on other Union Leagues
+                    and Union League name products; minutes, founding documents, and correspondence
+                    of Republican Party affiliated organizations in Philadelphia, such as the
+                    Republican Club of Philadelphia, the Young Republican Club, and Company A,
+                    Republican Invincibles (some from the Porter F. Cope papers), as well as
+                    information on Republican Party Conventions held in Philadelphia in 1940, 1948,
+                    and 2000; and an electrical contractor journal of F. H. Hochrath from
+                    1893-1895.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

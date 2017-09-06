@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Standard Oil Company of New Jersey records <date type="inclusive">1932-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Standard Oil Company of New Jersey records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC449</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1932-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Standard Shipping Company was created as a separate subsidiary of Standard
+                    Oil of New Jersey in 1927, but was reabsorbed into the parent company in 1934 as
+                    the Marine Department. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of business records of the Standard Shipping Company.
+                    Materials include navigation workbooks, 1940-1951. These volumes appear to have
+                    been kept by George Rasmussen. and note movements of the ships, including
+                    activities in port and voyages from one port to another. Ships represented
+                    include Esso Rochester, Esso Wilmington, Esso Memphis, and SS Glenpool. Other
+                    materials include: master's accounts for the SS Paul H. Harwood, 1941-1942,
+                    listing disbursements for various expenses, including pay and advances to crew;
+                    bulletins of the Standard Shipping Co. (from the early 1930s) with articles on a
+                    range of subjects such as safety measures, practical information about ports of
+                    call, ship news, personnel notes, explosions, boilers, fumigations, lookouts,
+                    yachting, and maritime history; and miscellaneous instructions related to marine
+                    stores and equipment.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Petroleum--Transportation.</subject>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1980.36</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

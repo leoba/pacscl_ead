@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William F. Keesecker papers <date type="inclusive">1974-1977</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William F. Keesecker papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC943</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1974-1977</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Keesecker (1918-1992) was a Presbyterian minister. A native of
+                    Washington, Kansas, he graduated from McCormick Theological Seminary. He served
+                    pastorates in Illinois, Iowa, and Kansas, and was a U.S. Navy Chaplain from
+                    1945-1946. In 1975, he was elected to serve as Moderator of the General Assembly
+                    of the United Presbyterian Church.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the correspondence of William Keesecker relating to his
+                    service as Moderator of the General Assembly. The correspondence, incoming and
+                    outgoing, dates from 1974 to 1977 and documents the day to day responsibilities
+                    of the Moderator. Some of the correspondence is accompanied by clippings,
+                    bulletins, and brochures. The collection also includes some legal files,
+                    possibly from the office of James Mackellar, Assistant to the Stated Clerk.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Keesecker, William F.</p>
+                <p>Accession number: 87 0331a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

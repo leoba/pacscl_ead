@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sylvester M. Kohut papers <date type="inclusive">1937-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sylvester M. Kohut papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC642</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sylvester Kohut (b. 1913) was born in McAdoo, PA. He attended McAdoo High School
+                    and Valparaiso University. In 1936 he enlisted in the US Navy. After boot camp
+                    at Newport, R.I., he also completed Torpedo School. He served on several Naval
+                    Ships. In June 1942, he was assigned to Submarine School, New London CT. On Feb.
+                    15, 1943 he was transferred to the USS Jack. He also served aboard the Dixie,
+                    Balch, Grouper, Trutta, Queenfish, and Argonaut. In 1944 he was awarded the
+                    Silver Star for gallantry in action against the Japanese. He entered the Naval
+                    Reserves in 1956, and retired in 1966. After his retirement Kohut obtained a
+                    degree from the Banking Institute and worked in a Philadelphia bank. Prior to
+                    his enlistment in the Navy, he served in "some kind of army unit or defense
+                    unit" (photo of Kohut at Fortress Monroe, VA, 1928-1932) that was "set up
+                    during the depression." </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers documenting the naval career of Sylvester Kohut.
+                    Materials include: correspondence, service records, and certificates, including
+                    a "crossing the line" certificate; Navy basic training handbook on the use of
+                    tools, 1945; newspaper clippings; "Ancient Order of the Deep" wallet card;
+                    sketch of Kohut drawn by a member of his crew; miscellaneous materials related
+                    to ships on which Kohut served, including a history of the USS Jack, and a
+                    photocopy of the log of the USS Grouper. Photographs in the collection include:
+                    a photo of Kohut in uniform and with his wife; his training company at Newport,
+                    RI; crews of the Alstede, the Balch, the Trutta, and the Grouper; photos of the
+                    USS Jack, the Dixie, and the Trutta; and of social gatherings. The collection
+                    also contains documents related to Kohut's receiving the Silver Star in 1944,
+                    including photographs, news clippings, and a citation. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Certificates.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Military records.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003.18</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

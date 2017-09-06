@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herbert M. Hadley Quakers World Wide research and editorial papers
+                            <date type="inclusive">1941-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herbert M. Hadley Quakers World Wide research and editorial
+                    papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1200</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herbert M. Hadley (d. 1998) was the son of a Quaker missionary and grew up in
+                    Alaska and Kansas. He graduated in 1939 from Friends University in Wichita,
+                    Kansas, and then became principal of the North Branch Friends Academy. During
+                    World War II, he was a conscientious objector, and served for four years in
+                    various units of the Civilian Public Service. After the war, he married Ruthanna
+                    Davis. He received his master's degree in American civilization from the
+                    University of Pennsylvania. In 1947 he became the secretary of the Friends
+                    Meeting in Washington D.C. In 1956, he was appointed executive secretary of the
+                    Friends World Committee for Consultation (FWCC), and traveled extensively around
+                    the world. In 1962, Hadley returned to the United States and served as the head
+                    of the American section of the FWCC. He was a long-time member of Germantown
+                    Meeting and was a member of the Friends Historical Association. In 1969 he was
+                    elected as a member of the Corporation of Haverford College. In 1991, he
+                    published Quakers World Wide: A History of Friends World Committee for
+                    Consultation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Herbert M. Hadley's papers related to the research for
+                    and production of his book, Quakers World Wide. Materials include
+                    correspondence, biographical sketches of FWCC figures, articles, FWCC
+                    newsletters, minutes of the Executive, Interim, and Advisory Committees of the
+                    FWCC; records of Hadley's expenses; and documents related to reviews, marketing,
+                    and distribution of the book.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Friends World Committee for
+                    Consultation--History.</corpname>
+                <corpname encodinganalog="610">Friends World Committee for Consultation.</corpname>
+                <subject encodinganalog="650">Society of Friends--History.</subject>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                <acqinfo>
+                    <p>Provenance: Gift of Ruthanna Davis Hadley</p>
+                    <p>Year acquired: 1999</p>
+                    <p>Accession number: 99-007</p>
+                </acqinfo>
+            </admininfo>
+
+            <add>
+
+
+
+
+
+
+                <relatedmaterial>
+                    <p>Related material may be found in the following collections: Friends
+                        Historical Library, Swarthmore College: Friends World Committee for
+                        Consultation (RG1).</p>
+                </relatedmaterial>
+
+            </add>
+
+        </archdesc>
+    </ead>

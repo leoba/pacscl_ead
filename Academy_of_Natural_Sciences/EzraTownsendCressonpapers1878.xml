@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ezra Townsend Cresson papers <date type="inclusive">1942-1953</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ezra Townsend Cresson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1878</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1942-1953</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ezra Townsend Cresson (1838-1926) was an entomologist, specializing in
+                    Hymenoptera. After becoming a member of the Academy of Natural Sciences, Cresson
+                    joined with James Ridings and George Newman to found the Entomological Society
+                    of Philadelphia, in which he held office through 1924. He was one of the first
+                    editors of the "Practical Entomologist" and established the "Entomological
+                    News." His memoir of Thomas B. Wilson and his history of the American
+                    Entomological Society are considered outstanding historical treatises. Cresson's
+                    many years of scientific study culminated in his Synopsis of the Hymenoptera of
+                    North America.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes manuscripts of Cresson's writings (annotated typescript,
+                    and some handwritten) on Ephydridae, or shore flies. There are also pencil and
+                    ink anatomical illustrations for articles. The collection also includes four
+                    card file boxes that contain bibliographic information on entomological
+                    resources (by year, by geography, by species), and membership cards for the
+                    American Entomological Society.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: American Entomological Society records and E.T.
+                    Cresson papers (collections 916 and 673).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Archaeological Society of Delaware records <date type="inclusive">1933-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Archaeological Society of Delaware records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC031</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Archaeological Society of Delaware was founded in 1933 as a professional
+                    association for local archaeologists. Over its history, the Society has
+                    excavated historic and prehistoric sites, lobbied for Delaware legislation to
+                    protect local sites and to hire a State Archaeologist, and raised awareness of
+                    the science among the population of the state. The Society publishes the
+                    Bulletin of the Archaeological Society of Delaware, Inksherds (the Society's
+                    newsletter), and various monographs and papers.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of the Archeological Society of Delaware.
+                    Materials include: correspondence; minutes of general meetings and of the Board
+                    of Directors; membership records and directories; financial records, copies of
+                    the Bulletin of the Archeological Society of Delaware and Inksherds (1933-1996);
+                    and annual reports of the Eastern States Archaeological Federation which contain
+                    annual reports of the Society. The collection includes the correspondence of Dr.
+                    Leon De Valinger, Archibald Crozier, and Herbert Pratt, who served as
+                    secretaries of the society, as well as newspaper publicity about the society and
+                    its members compiled mostly by Arthur G. Volkman.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of or purchase from Archaeological Society of Delaware</p>
+                <p>Accession number: 01-76; 01-69; 99-69</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0578.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0578.xml</extref>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Eastern States Archaeological Federation collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

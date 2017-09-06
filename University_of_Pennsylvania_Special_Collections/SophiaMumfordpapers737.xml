@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sophia Mumford papers <date type="inclusive">1892-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sophia Mumford papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC737</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>20 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1892-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sophia Wittenberg Mumford (1899-1997) was the wife and sometime editor of the
+                    critic and historian Lewis Mumford. Sophia Wittenberg, went to work after high
+                    school as a secretary and then became an editor at The Dial, where she met Lewis
+                    Mumford. After her marriage in 1921, Mrs. Mumford gave up a budding career as an
+                    editor to help further her husband's literary and academic aspirations. The
+                    couple had two children: Geddes Mumford (1925-1944) and Alison Mumford Morss
+                    (1935-1993).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Sophia and Lewis Mumford, consisting of family
+                    papers of the Mumford and Wittenberg families and some works by and about Lewis
+                    Mumford. Family papers include: correspondence between Lewis Mumford and his
+                    mother, between Lewis and Sophia Mumford, from Geddes Mumford to his family and
+                    others, and between the Mumfords and Evelyn Huber; letters of William Wittenberg
+                    (Sophia's father); and letters of condolence to Sophia Mumford on the death of
+                    her husband. There are also several albums of photographs of the Mumford and
+                    Wittenberg families; daybooks of E. C. Mumford (1892-1895), primarily consisting
+                    of menus; and diaries of Sophia Mumford kept between 1961 and 1980. Materials
+                    related to Lewis Mumford's work include manuscript drafts of several books:
+                    Green Memories, Findings and Keepings, The Bridge, and The Mumford-Leibovitz
+                    Letters. This section of the collection also includes Mumford's personal notes
+                    on his mother, daughter, and son; and reprints and clippings of articles on
+                    architecture, urbanism, atomic power, fascism, and many other subjects. There
+                    are also photographs and lantern slides of cities and buildings in Europe and
+                    the US; and several maps and city plans. The collection also contains papers
+                    concerning the Lewis Mumford centennial commemoration and documentation related
+                    to the disposition of and access to the Mumford papers, including Sophia
+                    Mumford's correspondence with biographer Donald Miller and with University of
+                    Pennsylvania librarians. Other materials in the collection include a manuscript
+                    on architecture by Carl Ludwig Franck; newspaper clippings about Lewis Mumford;
+                    and audio cassettes and 16' vinyl recordings of readings of Mumford's works
+                    (read by Mumford and by others). </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 259</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Lewis Mumford papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

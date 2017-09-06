@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Florence Bascom papers <date type="inclusive">1897-1937</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Florence Bascom papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC890</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1897-1937</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Florence Bascom (1862-1945) was an educator and geological survey scientist who
+                    is considered to be the first American woman geologist. Bascom earned bachelor's
+                    and master's degrees at the University of Wisconsin, and in 1893, she became the
+                    first woman to receive a Ph.D. from Johns Hopkins University. Bascom taught at
+                    Ohio State University from 1893 to 1895 before joining the faculty of Bryn Mawr
+                    College, where she founded the geology department. Under her direction, the
+                    department gained a national reputation. In 1896 Bascom was named assistant
+                    geologist with the U.S. Geological Survey—the first woman ever to receive that
+                    appointment. Her work on the Mid-Atlantic Piedmont region led to the
+                    contributions for which she is best known—U.S. Geological Survey Folios on
+                    Philadelphia (1909), Trenton (1909), Elkton-Wilmington (1920),
+                    Quakertown-Doylestown (1931), and Honeybrook-Phoenixville (1938). Bascom also
+                    wrote some 40 scientific articles on genetic petrography, geomorphology, and
+                    gravels.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the professional papers of Florence Bascom. Materials
+                    include incoming and outgoing correspondence, largely related to Bascom's work
+                    with the U.S. Geological Survey; field notebooks, laboratory notes, maps,
+                    photographs, drawings; manuscripts and reprints; and correspondence between
+                    Dorothy Wyckoff and Howard Meyerhoff regarding the USGS scientific survey of
+                    Puerto Rico and the Virgin Islands. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 80-1</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Sophia Smith
+                    Collection, Smith College: Florence Bascom papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>West Mount Airy Neighbors records <date type="inclusive">1977-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">West Mount Airy Neighbors records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC314</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>32.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>West Mt. Airy Neighbors is a Pennsylvania non-profit organization that was
+                    founded in 1959 to create and sustain West Mt. Airy as a racially integrated
+                    community. It was founded by George Schermer, the first Director of
+                    Philadelphia’s Human Relations Commission, and other neighbors concerned about
+                    white flight and block busting. Committees of the Associaton work on issues of
+                    concern to the community, including planning, city services, community
+                    relations, and housing. The current boundaries of the organization's service
+                    area are Fairmount Park on the West, Cresheim Valley Road on the North, Johnson
+                    Street on the South, and Germantown Avenue of the East.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes records of West Mount Airy Neighbors from the offices of
+                    David T. Moore, Administrator, Laurie Beck Tarver, Executive Director, Nancy A.
+                    Goldenberg, Executive Director, and Marilyn Shane, President. Records document
+                    administrative, personnel and financial matters, the board of directors, event
+                    planning, and the work of various committees, including Executive, Advisory,
+                    Membership, Arts &amp; Culture, Zoning, Schools, and Beautification. The
+                    Association's work on fundraising, publicity and development, volunteering,
+                    community organizations, zoning, safety, beautification, housing, and roads is
+                    documented through minutes, agendas, memoranda, notes, reports, and clippings. A
+                    number of printed materials are present, including flyers, announcements,
+                    posters, newsletters, and West Mount Airy community and business directories.
+                    The collection also contains records related to various events, including Mount
+                    Airy Day planning materials, 1983-2002, and materials related to the Pelham
+                    Anniversary Celebration, 1992-1993. There are subject files on a variety of
+                    topics, people, city offices and programs, and other community organizations.
+                    The collection also contains several studies and reports, most notably a 1989
+                    survey of neighbors and East Mount Airy Neighbors/West Mount Airy Neighbors
+                    joint committee reports.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1002</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

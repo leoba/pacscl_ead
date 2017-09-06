@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Castaldo scores, papers, and sound recordings <date type="inclusive">1953-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Castaldo scores, papers, and sound
+                    recordings</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC741</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Castaldo was an American composer and longtime president of the
+                    Philadelphia Musical Academy (later known as the Philadelphia College of the
+                    Performing Arts). He studied composition at New York University, the New School,
+                    and the Manhattan School of Music. He joined the Philadelphia Conservatory of
+                    Music in 1954, becoming the school's president in 1966, a position he held for
+                    17 years. During his tenure the school changed its name to the Philadelphia
+                    College of Performing Arts and later merged with the Philadelphia College of
+                    Art. Castaldo also founded the Philadelphia Composers' Forum and was
+                    composer-in-residence at the Grand Teton Music Festival. Castaldo's works have
+                    been performed by Andre Watts, Susan Starr, the Philadelphia Orchestra, the
+                    Baltimore Symphony Orchestra, and several esteemed string quartets. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of scores and papers of Joseph Castaldo. The bulk of the
+                    collection is made up of scores and parts of his works, including Ancient
+                    Liturgies, Landscapes, and Where Silence Reigns (and many more). Other materials
+                    include two scrapbooks that consist largely of newspaper clippings, programs,
+                    and announcements; files related to performances of particular works, including
+                    programs, announcements, reviews, and correspondence; manuscript drafts of
+                    Castaldo's Creative Studies in Music; audio cassette and reel-to-reel recordings
+                    of a number of Castaldo's works; diplomas and certificates; and obituaries of
+                    Castaldo and memorial programs. The collection also includes a small amount of
+                    incoming and outgoing correspondence between Castaldo and publishers, concert
+                    organizers, orchestra librarians, and other musicians. Some of this
+                    correspondence relates to Castaldo's tenure at the Philadelphia College of the
+                    Performing Arts.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 263</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

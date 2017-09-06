@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia Library, Art, and History and Archives
+                        Committee records <date type="inclusive">1865-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia Library, Art, and History and
+                    Archives Committee records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2317</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. The Library Committee
+                    was one of the original Standing Committees. Its responsibilities have changed
+                    through time, including oversight of the publications which it assumed in 1893
+                    and which was reassigned to Member Services in the late 1980s. At one time the
+                    Library Committee was also responsible for securing photographs of members. With
+                    the centennial observation in 1962, Max Whiteman was brought in and he
+                    eventually took charge of the library, art, artifact, and archives collections.
+                    In 1988 the Committee on Art, Archives, and History was absorbed into the
+                    Library Committee.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series is arranged into three subseries: Library, Art, and History and
+                    Archives. The Library subseries includes minutes of the Library Committee;
+                    selected correspondence, financial statements, and annual reports; printed
+                    materials for library-sponsored events, including Library Hours; information on
+                    accessions and acquisitions; published catalogues of the library's collection;
+                    and copies of the library's newsletter, Vita Libris. The Art subseries includes
+                    minutes, correspondence, published catalogues, appraisals and information on
+                    loans. The History and Archives subseries includes pamphlets and articles on
+                    Union League history; published histories; printed materials and other files
+                    related to House Tours; files from the League's Oral History Project; files
+                    related to the publication of the Tanner manuscript While Lincoln Lay Dying; and
+                    miscellaneous research materials on various historical topics.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

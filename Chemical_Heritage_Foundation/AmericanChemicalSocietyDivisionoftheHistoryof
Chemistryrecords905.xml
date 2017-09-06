@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Chemical Society Division of the History of Chemistry
+                        records <date type="inclusive">1960-2003</date>
+                        <date type="bulk"> 1970s-1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Chemical Society Division of the History of
+                    Chemistry records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC905</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>33.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-2003</unitdate>
+                <unitdate type="bulk"> 1970s-1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Chemical Society (ACS), founded in 1876, is a self-governed
+                    individual membership organization that consists of more than 158,000 members at
+                    all degree levels and in all fields of chemistry. The Division of the History of
+                    Chemistry is one of the 33 technical divisions within the ACS. The division
+                    encourages research and scholarship, presents awards for major achievements in
+                    the chemical sciences, and interacts with other organizations interested in the
+                    history of science.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records gathered from various members of the ACS
+                    Division of the History of Chemistry. Records include: Executive Committee
+                    minutes and reports; History Division reports; documents from the Nominating
+                    Committee; membership directories and cards; program and symposium materials;
+                    documents relating to the Outstanding Paper and Dexter Awards; a small set of
+                    documents on the CHEM Study project; financial records; 1985 to 1993 National
+                    Meeting Cachets (commemorative envelopes with informational cards); documents
+                    from the Committee on Divisional Activities; and by-laws and miscellaneous
+                    administrative materials.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 83-1</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

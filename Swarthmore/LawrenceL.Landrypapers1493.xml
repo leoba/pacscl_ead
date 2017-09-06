@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lawrence L. Landry papers <date type="inclusive">1973-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lawrence L. Landry papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1493</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1973-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lawrence L. Landry was Swarthmore College's Vice President of Finance from 1979
+                    to 1982. He was a member of the Committee on Facilities Planning and Management
+                    of the National Association of College and University Business Officers. Prior
+                    to coming to Swarthmore he was Vice President and Treasurer of Clark University.
+                    The Vice President of Finance is responsible for the College's budget, financial
+                    planning, endowment management, and stewardship of financial resources.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of files from the office of Vice President of Finance
+                    Lawrence Landry. Materials include: financial statement of investment funds;
+                    articles and papers on finance by Landry and others; materials related to a
+                    course on economics and investment that he taught at Swarthmore in 1982; expense
+                    reports; records of the Arthur Hoyt Scott Horticultural Foundation, including
+                    financial statements, correspondence, reports, and minutes; documentation of the
+                    Committee on Computer Services, including minutes, specifications for equipment
+                    and facilities for a computing center, and proposals for courses in computing
+                    instruction; and correspondence and reports on renovations to campus
+                    buildings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Arthur Hoyt Scott Horticultural
+                    Foundation.</corpname>
+                <corpname encodinganalog="610">Swarthmore College--Finance.</corpname>
+                <corpname encodinganalog="610">Swarthmore College. Scott Arboretum.</corpname>
+                <subject encodinganalog="650">Education--Information services.</subject>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                
+            </admininfo>
+
+            <add> </add>
+
+        </archdesc>
+    </ead>

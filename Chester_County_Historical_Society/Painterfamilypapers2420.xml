@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Painter family papers <date type="inclusive">1837-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Painter family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2420</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1837-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>This collection includes the letters (ca. 6,000+ items, chiefly 19th c.) of the
+                    Quaker family of Samuel M. and Anne Vickers Painter of West Chester, PA. Samuel
+                    Marshall Painter (1809-1884) was a successful newspaper publisher, book dealer
+                    and local official. Both Painters were active abolitionists. Samuel aided in the
+                    escape of freedom seeker Rachel Harris and Anne Vickers Painter (1810-1890) was
+                    the daughter of noted Underground Railroad conductor, John Vickers. The
+                    collection also includes the correspondence of their children: John Vickers
+                    Painter (1835-1903) railroad man and banker; Uriah Hunt Painter (1837-1900),
+                    West Chester businessman (railroad, telegraph, ice, lumber), early financial
+                    backer of Thomas A. Edison, Civil War correspondent for the Philadelphia
+                    Inquirer and possible Union intelligence agent; Gen. William Painter (1838-1884)
+                    Civil War soldier, at Gettysburg given responsibility of transportation of Army
+                    of Potomac; Capt. Francis James Painter (b.1841) Civil War, served in Navy; Dr.
+                    Joseph Elwood Painter (1842-1878) Civil War surgeon in charge of the hospital at
+                    Camp Curtin, later served in Japan; Henry Painter (1847-1893) Board of Chester
+                    County Prison Inspectors; Howard Painter (1851-1876) mining engineer; Ellen
+                    Painter (d.1948), daughter of Uriah Hunt Painter. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Most of the family correspondence is authored by the sons of Samuel M. Painter
+                    and Ann (Vickers) Painter of West Chester, PA. The bulk of this series includes
+                    letters from William Painter, Francis J. Painter, Albert P. Painter, John
+                    Vickers Painter and Uriah Hunt Painter. Series includes a number of letters from
+                    Ann (Vickers) Painter to her children [handwriting difficult to decipher] as
+                    well as letters from Samuel M. Painter. Includes 58 letters written by the
+                    Painter brothers from Eaglewood School with details regarding their experiences
+                    as students. Eaglewood, in New Jersey, was operated by the abolitionist Theodore
+                    Weld and his wife [collection includes one letter authored by Weld]. Civil War
+                    era letters include correspondence from Francis J. Painter while serving in the
+                    Navy. His duty included time in New Orleans during the Union occupation and
+                    blockade service off the coast of the Carolinas and Texas. Also includes Civil
+                    War letters from Albert Painter in the Union Quartermaster’s office in Kentucky
+                    and Joseph Ellwood Painter’s service as a Union medical doctor. William
+                    Painter’s letters also contain details of his time served which included the
+                    position of brevet brigadier general in charge of transportation for the Army of
+                    the Potomac. Correspondence of the Painter brothers after the Civil War revolve
+                    mainly around business dealings and travel in the United States and abroad. Also
+                    includes the letters of Joseph Ellwood Painter from Japan while he served as a
+                    doctor in the Navy (approx. 1870-1878) offering detailed impressions of Japanese
+                    culture and life as well as details regarding life in the Navy. Group of letters
+                    (1889-1897) from Uriah Hunt Painter to his daughter in Europe offers detailed
+                    descriptions of day to day operations in his two residences in Washington and
+                    West End, NJ. Includes details of his relationship with domestic servants and
+                    his photography. Letters from school friends, professional acquaintances and
+                    extended family. Letters from Civil War soldiers include letters sent from
+                    soldiers who Ann (Vicker) Painter took care of in her home. A group of 10
+                    letters from Olive Sprogle sent to Howard Painter offers details of courtship
+                    activity [she requested the letters be destroyed upon hearing of William
+                    Painter’s death]. Letters from the U.S. consulate in Japan regarding the death
+                    of Joseph Ellwood Painter (see Mangum). Approximately 100 letters by Emma S.
+                    Hunter sent to Uriah Hunt Painter between 1860 and 1865 discuss details of the
+                    Civil War and social/business news from West Chester including updates on
+                    Uriah’s telegraph business. Camille Bevill’s 17 letters from Japan to Samuel M.
+                    Painter detail life in Japan and updates on Samuel’s son Joseph Ellwood Painter.
+                    Includes letter from James Mott sent from Philadelphia in 1850 and a letter from
+                    the abolitionist Theodore Dwight Weld written in 1860. Also includes a letter
+                    from Horace Mann drafted in 1853 from Antioch College. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

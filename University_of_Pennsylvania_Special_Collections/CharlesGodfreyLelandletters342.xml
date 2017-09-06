@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Godfrey Leland letters <date type="inclusive">1861-1937</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Godfrey Leland letters</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC342</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1861-1937</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Godfrey Leland (1824-1903) was an American humorist and folklorist. Born
+                    in Philadelphia, Pennsylvania, he was educated at Princeton University, and in
+                    Europe. Leland worked in journalism, traveled extensively, and became interested
+                    in folklore and folk linguistics, publishing books and articles on American and
+                    European languages and folk traditions. he published a number of books,
+                    including Hans Breitmann's Ballads and Aradia, or the Gospel of the Witches.
+                    George Henry Boker (1823-1890) was a Philadelphia-based poet and playwright. He
+                    founded the Union League of Philadelphia in 1862 and held diplomatic
+                    appointments to Turkey and Russia. Leland and Boker, whose fathers were business
+                    partners, were close friends from childhood.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of 15 letters from Charles Godfrey Leland to George Henry
+                    Boker, 1861 and 1869-1870. Most of the letters were written during Leland's trip
+                    to Europe after he resigned from his position as Editor of the Philadelphia
+                    Press in 1868. The letters discuss the culture, literature, and social life he
+                    encountered during his trip abroad, and contain references to the two
+                    correspondents' acquaintances among the literary circles of both America and
+                    Europe. The collection includes a typescript of Sculley Bradley's introduction
+                    to and edited transcriptions of the collection of letters from the
+                    mid-1930s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 117</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

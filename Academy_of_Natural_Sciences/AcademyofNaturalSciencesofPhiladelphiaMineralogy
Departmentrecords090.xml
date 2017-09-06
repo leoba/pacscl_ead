@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Mineralogy Department
+                        records <date type="inclusive">1915-1988</date>
+                        <date type="bulk"> 1970-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Mineralogy
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC090</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1915-1988</unitdate>
+                <unitdate type="bulk"> 1970-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Not long after it opened in 1812, a cabinet of minerals was established at the
+                    Academy of Natural Sciences. Several of the founders and early members of the
+                    Academy assembled private mineral collections, some of which were later donated
+                    to the Academy. The Mineralogical and Geological Section was established in 1877
+                    and dissolved in 1924. One of the department's members was Samuel George Gordon,
+                    who joined the Academy as a Jessup scholarship student and, over his career,
+                    became one of the noted mineralogists of his day.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Department of Mineralogy of the Academy of
+                    Natural Sciences. These records, from the office of Robert Middleton, John
+                    Sherman, and others, include correspondence, memos, reports, documents related
+                    to fundraising, lists of specimens in various collections, reprints, records of
+                    exhibits, records of loans, and materials related to hiring curatorial staff.
+                    Catalogs in the collection include those of the Vaux, Seybert, Fiss, Keeley
+                    collections. There are also checklists of specimens and discrepancy forms for
+                    the mineralogy collections, notes and research materials for a history of the
+                    mineralogy collection at the Academy. The collection also includes published
+                    volumes (Mineralogy, by Berry &amp; Mason, 1959, and Mineralogy of Pennsylvania,
+                    Montgomery, 1969); mineralogical assay tools; awards from the Tuscarora Lapidary
+                    Society, sponsors of "Gemarama," 1973, 1978, and 1979; Samuel G. Gordon's
+                    collection of glass and film slides of geologic formations, landscapes, and
+                    portraits; glass slides of colored photomicrographs of mineral preparations; an
+                    oversize map of a mineralogy collection cabinet layout; and a small model of
+                    mine tram car.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02:12; 97:18</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

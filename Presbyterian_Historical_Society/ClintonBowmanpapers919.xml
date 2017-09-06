@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clinton Bowman papers <date type="inclusive">1918-1954</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clinton Bowman papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC919</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.0 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1918-1954</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clinton Bowman (b. 1890) was a Presbyterian minister. He was a 1915 graduate of
+                    Louisville Theological Seminary, and served as a minister in churches in
+                    Oklahoma and Illinois. During World War I, he was a chaplain in the U.S. Army.
+                    In 1925 he was called to be pastor of the First Presbyterian in East St. Louis.
+                    The congregation was divided for a time in the 1950s, with Rev. Bowman and a
+                    minority of the congregation remaining at the church's original site, while the
+                    majority of the congregation moved to a new site to the southeast. The group led
+                    by Bowman became the Westminster Presbyterian Church of East St. Louis on
+                    January 31, 1953. The two congregations merged in 1957.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is collection of papers of Clinton Bowman. Materials include: typed sermons,
+                    with some notes, 1925-1954 (9 cubic feet); scrapbook of newspaper clippings,
+                    programs, and announcements of marriages performed by Rev. Bowman, 1914-1917;
+                    minutes, memoranda, and correspondence related to Bowman's position on the Board
+                    of Trustees of Washington College; a small amount of correspondence related to
+                    church matters in St. Louis; and photographs of Bowman. The collection also
+                    contains materials related to Bowman's service as a chaplain for the 141st
+                    Infantry during World War I, including memos, orders, correspondence,
+                    photographs, postcards, maps, uniform patches, artifacts, and copies of the
+                    Stars and Stripes, the Washington Times, and the East St. Louis Times from 1918
+                    and 1919.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 85 0911</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

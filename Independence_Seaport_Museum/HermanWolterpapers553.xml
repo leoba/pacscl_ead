@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herman Wolter papers <date type="inclusive">1886-1901</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herman Wolter papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC553</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1886-1901</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herman Wolter was born in Prussia in 1839. At 17 he went to sea, working as a
+                    sailor for 15 years. While on an American merchantman bound for India, he was
+                    captured by the Confederate cruiser Alabama, off the east coast of Africa, and
+                    sent as a prisoner to Baltimore. Upon his release, he enlisted in the Union
+                    Navy. He participated in the second battle of Fort Sumter and the battle of Fort
+                    Moultrie. After the war, he settled in Philadelphia and began his career as a
+                    diver. In this work, he was involved in raising sunken ships, and he did much
+                    work in the Delaware and Schuylkill rivers on bridge and road construction
+                    projects. He died in 1901.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents the diving career of Herman Wolter. Materials include a
+                    scrapbook of news clippings about Wolter and about other divers and salvage
+                    operations; bill heads and letter heads of businesses involved in construction,
+                    engineering, dredging, and others fields related to Wolter's work; and business
+                    cards of other professional divers. Most of the businesses represented are in
+                    Philadelphia, Camden, Delaware, and the surrounding region. The scrapbook
+                    includes a small amount of correspondence concerning diving equipment. The
+                    collection also includes a framed photograph of Wolter in a diving suit, and
+                    framed newspaper obituaries for Wolter.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Deep diving.</subject>
+                <subject encodinganalog="650">Salvage.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Obituaries.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1995.104</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

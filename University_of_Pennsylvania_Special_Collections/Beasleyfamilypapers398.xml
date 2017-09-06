@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Beasley family papers <date type="inclusive">1802-1929</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Beasley family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC398</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1802-1929</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frederick Williamson Beasley, Jr. (1845-1871), received his Bachelor's degree
+                    from the University of Pennsylvania in 1866 and an honorary Doctor of Divinity
+                    degree in 1868. He was rector of All Saints Church in Lower Dublin,
+                    Pennsylvania. His father, Frederick Beasley (1777-1845), was ordained a deacon
+                    in the Episcopal Church in 1801 and a priest the following year. After serving
+                    as rector of several congregations in New Jersey, New York, and Maryland,
+                    Beasley accepted a position at the University of Pennsylvania as Professor of
+                    Moral Philosophy and Provost of the University, where he remained until 1928. He
+                    received an honorary Doctor of Divinity degree from the University in 1815. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a small collection of papers of Rev. Frederick W. Beasley and Rev.
+                    Frederick W. Beasley, Jr. Materials related to Beasley, Sr. include a
+                    certificate of priesthood, 1802, and letters from Beasley to his wife and son.
+                    Frederick Beasley, Jr. materials include a deed for cemetery lots;
+                    correspondence from the University of Pennsylvania regarding his honorary Doctor
+                    of Divinity degree; and a certificate of membership to the Evangelical Education
+                    Society. The collection also includes a letter from Mary Rowe Beasley seeking
+                    information about Frederick Beasley, 1929.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 169</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Mortimer-Beasley papers of Rev.
+                    Frederick W. Beasley</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

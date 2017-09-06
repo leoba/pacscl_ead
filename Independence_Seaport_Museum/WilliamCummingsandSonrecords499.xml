@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Cummings and Son records <date type="inclusive">1853-1879</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Cummings and Son records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC499</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1853-1879</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Cummings and Son were shipping merchants in Philadelphia. William
+                    Cummings (b. 1806) went into business with his uncle (also named William
+                    Cummings) in 1826. In 1830 he went into business for himself. He owned several
+                    schooners, brigs, barques, and ships, including the ship William Cummings. Some
+                    time before 1864, Cummings' son, Norris S. Cummings, joined the business. Over
+                    its history, the firm operated out of various locations near the Delaware River,
+                    including South Delaware Avenue, Walnut Street and Dock Street. The firm was in
+                    operation until at least 1880.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of William Cummings and Son. The collection
+                    consists of three volumes. The first volume is a receipt book (1864-1879) of the
+                    firm of William Cummings and Son, listing amounts paid for crew wages, pilotage,
+                    wharfage, labor and supplies. The ships William Cummings and Ann Elizabeth are
+                    mentioned frequently in this volume. The second volume is a letterbook of the
+                    firm kept between 1853 and 1866. Letters to ships' captains and merchants
+                    discuss market conditions, shipments of goods, bills and accounts, damages to
+                    vessels, and other business matters. This volume also includes several lists of
+                    cargoes and notes on freights and freighting. The third volume is a record book
+                    of a voyage of the ship William Cummings from Callao, Peru to Calcutta, India,
+                    to Philadelphia, PA (1858-1859). Most entries list winds, weather, courses, and
+                    remarks on unusual occurrences, such as punishments of crew. This volume also
+                    includes logs of the time the ship was in harbor in Callao and Calcutta, and a
+                    list of stores received at Calcutta.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Shipping--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Letterbooks.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1990.31; 1976.52; and 82.259</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

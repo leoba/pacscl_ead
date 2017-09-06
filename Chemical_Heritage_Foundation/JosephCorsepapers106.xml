@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Corse papers <date type="inclusive">1944-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Corse papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC106</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The United States Office of Scientific Research and Development (OSRD) was
+                    established in the Office for Emergency Management (OEM) by Executive Order in
+                    1941. Its functions were to advise the President on the status of scientific and
+                    medical research relating to national defense, coordinate federal government
+                    research relating to national defense, and compile defense mobilization lists of
+                    scientific personnel and resources. The Office was abolished December 31, 1947.
+                    The bulk of the records of the Office and its Committees are held in the
+                    National Archives.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>One of the committees working within the OSRD was the Committee on Medical
+                    Research, which worked on medical issues of concern to the military during World
+                    War II. Among the projects this committee worked on was the biosynthesis of
+                    penicillin. Some of the research for this project was conducted at Eli Lilly and
+                    Company laboratories. Joseph Corse was one of Eli Lily's researchers, and this
+                    collection consists of his copies of the progress reports issued by the
+                    committee, as well as memos, reprints of related journal articles and a copy of
+                    the main patent that resulted from the project. The collection also includes a
+                    copy of R.B. Woodward's second report to the Committee on Medical Research on
+                    the structure of penicillin.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J.C.</p>
+                <p>Accession number: 03:620</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: United States Office of Scientific Research and Development
+                    Committee on Medical Research Minutes, 1944-1946 (MSS 1/0003-01)</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

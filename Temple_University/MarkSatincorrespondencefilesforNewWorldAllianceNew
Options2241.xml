@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mark Satin correspondence files for New World Alliance/New Options
+                            <date type="inclusive">1977-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mark Satin correspondence files for New World Alliance/New
+                    Options</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2241</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mark Satin (b. 1946) is a U.S. lawyer, author, and the editor of the online
+                    political periodical Radical Middle Newsletter. The New World Alliance emerged
+                    in 1979 as a result of cross-country networking by Satin, as a means of
+                    activating social change organizations nationwide. The organization's platform
+                    is aimed at the issues of global peace, cooperative economics, energy
+                    conservation, holistic health, environmental preservation, and appropriate
+                    science and technology. The platform emphasized accomplishment of these goals
+                    through public education and political organizing around these issues, promoted
+                    through seminars, workshops, and forums, as well as the publication ofa
+                    tri-weekly newsletter, Renewal, and later a monthly newsletter, New Options. In
+                    1992 New Options suspended publication and all other organizational
+                    activities.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of correspondence and other documentation
+                    related to Satin's New Options newsletter. Materials include: correspondence
+                    from readers with general comments about the newsletter or in response to
+                    specific articles; correspondence from contributors and members of the
+                    newsletter's Board of Advisors; issues of the Renewal Newsletter #1-26 and
+                    related correspondence from readers and contributors; correspondence from
+                    members of political and social protest organizations; the Canadian and U.S.
+                    editions of Satin's book New Age Politics and correspondence from readers; and
+                    correspondence and other documents related to New World Alliance, including the
+                    group's platform. In addition to voluminous correspondence with New Age social,
+                    political, environmental, and spiritual organizations concerning issues of
+                    import to their constituencies, there is also regular correspondence with Gerald
+                    Goldfarb, Richard Perl, and Marc Sarkady.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

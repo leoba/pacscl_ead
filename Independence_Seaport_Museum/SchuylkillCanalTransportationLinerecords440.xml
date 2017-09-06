@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Schuylkill Canal Transportation Line records <date type="inclusive">1872-1875</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Schuylkill Canal Transportation Line records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC440</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1872-1875</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Schuylkill Navigation Company was chartered in 1815 to build a series of
+                    navigation improvements in the Schuylkill River. A 108-mile waterway was
+                    completed in 1827 linking Philadelphia to Port Carbon in the anthracite coal
+                    fields above Pottsville, Pennsylvania. During the 1860s the canal entered a
+                    period of decline. In 1869 it was damaged by a flood. Surrendering to the
+                    competition in 1870, the Schuylkill Navigation Company leased its waterway to
+                    the Philadelphia and Reading Railroad for a period of 979 years. Under the
+                    railroad's control, the Schuylkill Navigation continued to decline. Since the
+                    Delaware and Raritan Canal was owned by the competing Pennsylvania Railroad,
+                    Schuylkill boats were denied access to this important New Jersey waterway. As a
+                    result, traffic on the Schuylkill decreased rapidly. By 1890 only 144,994 tons
+                    of cargo passed through the Schuylkill Navigation. The Schuylkill Navigation was
+                    also greatly hindered by the problems of coal silt deposits which made its upper
+                    sections almost unusable. By 1891 the portion of Navigation above Port Clinton
+                    was abandoned. By 1904 the anthracite traffic had almost completely ceased, and
+                    after 1913 only an occasional cargo passed between Port Clinton and
+                    Philadelphia. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>One volume of records of the Schuylkill Canal Transportation Line. Volume
+                    includes: lists of canal barges, with captain, address, year built, builder,
+                    where wintered and notes; list of letters sent, 1874; list of discharged
+                    captains, 1873. Includes reason for discharge; a list of captains who quit
+                    dishonorably, 1874; lists of damages and collisions, 1872-1875. Includes notes
+                    about the incidents and costs of repairs; Engineer's Department charges for
+                    assistance and repairs to boats, 1874-1875; and a list of P&amp;R RR Co.
+                    officers for 1874. The cover of the volume is inscribed "G.T. Philips, Boat
+                    Agent, Office Schuylkill Canal Transportation Line, Fairmount Locks,
+                    Philadelphia, PA. P &amp; R RR Co."</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia &amp; Reading Railroad Co.</corpname>
+                <corpname encodinganalog="610">Schuylkill Navigation Company.</corpname>
+                <subject encodinganalog="650">Inland waterway vessels.</subject>
+                <genreform encodinganalog="655">Business records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1971.9</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

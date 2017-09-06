@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. H. Perrine Boat Shop records <date type="inclusive">1903-1963</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. H. Perrine Boat Shop records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC501</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1903-1963</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. H. Perrine was a small craft designer and builder in Barnegat, New Jersey. His
+                    specialty was the 15-foot Barnegat sneakbox, a boat designed for hunters, but
+                    also sailed in races and for pleasure.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the J. H. Perrine boat shop. Materials
+                    include: order and account books, listing customers, boats purchased, and
+                    payment information (sometimes including rough sketch of vessel) (1903-1963);
+                    construction logs, including customer's name and costs, measurements, sail
+                    plans, and progress of construction (c. 1908-1910); ledgers of expenses,
+                    including wages paid, electricity and telephone, sail cloth, paint, oil,
+                    hardware, and so on; and daybook of sales of marine supplies. Other materials in
+                    the collection include: a small amount of correspondence to J.H. Perrine from
+                    customers and suppliers; product brochures; bills; price lists; newspaper
+                    clippings; cloth samples; and a 1952 list of "Diamond class" hulls (#110-129)
+                    built by Perrine, including customer name and cost. The collection also includes
+                    black and white photographs of sneakboxes designed and built by Perrine,
+                    including the 15 ft. Barnegat sneak and one tinted photo of yacht races,
+                    Beachwood, N.J. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Daybooks.</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1990.54</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

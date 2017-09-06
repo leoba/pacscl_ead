@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alfred J. Johnson papers <date type="inclusive">1937-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alfred J. Johnson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1226</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alfred J. Johnson (1892-1984) was a researcher on dye chemistry. He received a BS
+                    in chemistry at the University of Wisconsin, and before completing his MS,
+                    joined the United States Bureau of Chemistry. He served in the army during World
+                    War I, and after the war, joined the DuPont Company. He remained at DuPont until
+                    his retirement. He was the holder of a number of patents and authored several
+                    textbooks.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two notebooks and a set of loose notes kept by Alfred
+                    Johnson. The loose notes were taken by Johnson based on various texts on dye
+                    production procedures. One notebook contains a series of abstracts of various
+                    chemicals translated from a German encyclopedia of chemical dyes and a list of
+                    German, English and American patents for chemical dyes, along with abstracts of
+                    how those dyes are derived. The other notebook lists formulas and procedures for
+                    obtaining dyes, giving the source of the information. This notebook also
+                    includes a few documents related to the DuPont organization. Much of the
+                    material is undated, except for the publication dates of the sources Johnson
+                    used.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Doris J. Allebach</p>
+                <p>Accession number: GB93:29</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

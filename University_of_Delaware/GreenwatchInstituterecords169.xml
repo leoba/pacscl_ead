@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Greenwatch Institute records <date type="inclusive">1977-2002</date>
+                        <date type="bulk"> 1992-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Greenwatch Institute records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC169</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-2002</unitdate>
+                <unitdate type="bulk"> 1992-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In August 1991, Keystone Cogenerations Systems Inc. was granted Coastal Zone and
+                    subaqueous land permits by the Delaware Department of Natural Resources and
+                    Environmental Control, allowing the company to build a coal-fired electric and
+                    steam generating plant in Logan Township, New Jersey, and a 1,600-foot pier into
+                    the Delaware River. Seven environmental activists appealed the permits and after
+                    a legal labyrinth, negotiated a tough settlement that brought some environmental
+                    clout and establishment of a trust fund "to be used for projects benefitting
+                    the environment." The Greenwatch Institute administers those funds, and its
+                    archives include the legal briefs, correspondence, bylays, and reports
+                    documenting establishment of the Institute.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the records of the Greenwatch Institute. Materials
+                    include: correspondence; bylaws; court briefs and other legal papers; reports;
+                    and printed material. The collection also contains materials related to the
+                    Salem nuclear power plant and the Brandywine &amp; Christina Rivers Task
+                    Force.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Greenwatch Institute</p>
+                <p>Year acquired: 6/30/2005</p>
+                <p>Accession number: 05-108</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0716.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0716.xml</extref>
+            </otherfindaid>
+
+        </archdesc>
+    </ead>

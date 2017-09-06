@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Horticultural Society slide collection <date type="inclusive">1958-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Horticultural Society slide
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1829</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>68.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The
+                    Pennsylvania Horticultural Society offers lectures and workshops, publishes the
+                    magazine Green Scene, and hosts the yearly Philadelphia Flower Show. First held
+                    in 1829, the Philadelphia Flower Show has grown to be the world's largest indoor
+                    flower exhibition. Proceeds from the Philadelphia Flower Show support the
+                    Pennsylvania Horticultural Society's urban greening program, Philadelphia Green,
+                    which supports the development and ongoing care of community gardens,
+                    neighborhood parks and high-profile public green spaces in Philadelphia. In
+                    1975, the Pennsylvania Horticultural Society launched the City Gardens Contest,
+                    in which Philadelphia residents compete in several gardening categories. The
+                    Pennsylvania Horticultural Society is also home to the McLean Library, a
+                    collection of over 15,000 books on gardening and plant care, botany, and urban
+                    greening.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of slides (and some photographs) falls into four main groupings:
+                    the Philadelphia Flower Show and other shows produced by the Pennsylvania
+                    Horticultural Society; Pennsylvania Horticultural Society's urban greening
+                    programs and city gardening projects and contests; Pennsylvania Horticultural
+                    Society educational slide shows and garden tour slides; and Pennsylvania
+                    Horticultural Society meetings, staff, and publicity material. Many of the
+                    slides were donated to the archives by the PHS public relations department.
+                    Slides documenting the Philadelphia Flower Show, from the early 1940s to the
+                    late 1990s, comprise roughly 24 linear feet. The images include displays of
+                    major exhibitors, individual entries of plants and floral arrangements, show
+                    attendees and staff, awards, and show construction. Some sections of the Flower
+                    Show slides are arranged by topic, and are more loosely arranged by year. These
+                    materials include a photo and slide album of the construction and set-up of the
+                    show, and transparencies of individual arrangements and blooms from the 1983 and
+                    1989 shows. Other Pennsylvania Horticultural Society shows documented in the
+                    collection are the Junior Flower Show (1981 to 1995), the Harvest Show (1982 to
+                    1994), and the Chrysanthemum Show. Images of the society's urban greening
+                    programs and Philadelphia garden projects make up approximately 37 linear feet
+                    of the collection and include an album of slides of Philadelphia Green projects,
+                    gardens in Norris Square, at City Hall, and the Azalea Garden in Fairmount Park.
+                    The City Gardens contest images document contest entries from 1990 to 1997. The
+                    slides are arranged alphabetically by the name of the contestant, and then
+                    chronologically. There are also slides of gardens featured in "Portraits of
+                    Philadelphia Gardens" by Louise and James Bush-Brown. The collection includes
+                    several slide shows (about 1 linear feet of material), some with lecture notes.
+                    Topics include garden tours conducted by members of the Pennsylvania
+                    Horticultural Society in South Africa, the Pacific Northwest, and the Caribbean.
+                    The history of the Philadelphia Flower Show is documented in a slide show
+                    created by Ed Lindemann (the show's designer from 1984 to 2000). There is also a
+                    slide show on the art of botanical illustration created by Tina Henry. Finally,
+                    there are roughly two linear feet of slides and photographs documenting the
+                    society's institutional activities and staff, including images of annual
+                    meetings, the McLean Library, staff photographs, and a selection of slides
+                    documenting a variety of the society's programs, events, members, and staff
+                    assembled for publicity purposes.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="611">Philadelphia Flower Show.</corpname>
+                <corpname encodinganalog="610">Philadelphia Green (Program)</corpname>
+                <subject encodinganalog="650">Botanical illustration.</subject>
+                <subject encodinganalog="650">Flower shows--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Gardens--Pennsylvania--Philadelphia Region.</subject>
+                <subject encodinganalog="650">Horticulture--Societies, etc.</subject>
+                <subject encodinganalog="650">Urban renewal--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: Philadelphia Flower Show photographs and slides.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

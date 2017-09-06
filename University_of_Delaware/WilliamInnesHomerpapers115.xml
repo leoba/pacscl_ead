@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Innes Homer papers <date type="inclusive">1887-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Innes Homer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC115</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>25.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1887-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Art historian William Innes Homer is H. Rodney Sharp Professor Emeritus of Art
+                    History at the University of Delaware. His research includes work on American
+                    painters Albert Pinkham Ryder and Thomas Eakins, and Photo Secessionists Alfred
+                    Stieglitz, Gertrude Käsebier, Clarence White, and others.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of William Innes Homer, which document Homer’s
+                    research on art, design and photography in the early decades of the twentieth
+                    century. Materials in the collection include correspondence, research notes,
+                    slides, programs, and a copy of Homer’s Portrait of My Life: a Work in Progress.
+                    Artists and movements represented include Clarence S. White, Gertrude Käsebier,
+                    Alfred Stieglitz and the Photo Secessionists, Albert Pinkham Ryder, John Sloan,
+                    Chagall, Dufy, Leger, and Beaux Arts architects. Notable items in the collection
+                    include: a 1914 publisher's prospectus from Galerie Vollard for work by Paul
+                    Cezanne; a 1913 prospectus for the Albert and Charles Boni magazine The Glebe; a
+                    brochure, with commentary by Gertrude Traubel, for a 1919 painting and sculpture
+                    exhibition at the Macdowell Club in New York; and a small collection of books
+                    and periodicals related to the history and technology of photography.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of William Innes Homer.</p>
+                <p>Accession number: 04-04; 04-119; 05-46; 06-103; 02-38; 01-49; 00-20; 99-55;
+                    04-63; 04-69; 04-13</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/homer.htm">http://www.lib.udel.edu/ud/spec/findaids/homer.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

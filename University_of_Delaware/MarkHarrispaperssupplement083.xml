@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mark Harris papers supplement <date type="inclusive">1958-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mark Harris papers supplement</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC083</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.0 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mark Harris was born in Mount Vernon, New York, in 1922. After serving in the
+                    Armed Forces during World War II, Harris worked as a journalist in New York
+                    City, St. Louis, and Chicago before enrolling at the University of Denver, from
+                    which he received a Master's degree in 1951. He obtained a Ph.D. in American
+                    Studies from the University of Minnesota in 1956 and went on to teach at several
+                    universities, eventually settling at Arizona State, where he was a professor of
+                    English and taught in the creative writing program from 1980 to 2001. Harris was
+                    best known for a quartet of novels about baseball players: The Southpaw (1953),
+                    Bang the Drum Slowly (1956), A Ticket for a Seamstitch (1957), and It Looked
+                    Like Forever (1979). In 1956, Bang the Drum Slowly was adapted for an
+                    installment of the dramatic television anthology series The United States Steel
+                    Hour; the production starred Paul Newman as Wiggen and Albert Salmi as doomed
+                    catcher Bruce Pearson. The novel also became a major motion picture in 1973,
+                    with a screenplay written by Harris, directed by John D. Hancock and featuring
+                    Michael Moriarty as Wiggen and Robert DeNiro as Pearson.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection is a supplement to the Mark Harris papers. Materials include:
+                    correspondence, screenplays, typescripts, bills and receipts, books, magazines,
+                    articles, and genealogies. The collection also includes records relating to a
+                    lawsuit between Harris and Arizona State University over a matter of tenure.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02-34; 02-15</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/harriss.htm">http://www.lib.udel.edu/ud/spec/findaids/harriss.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

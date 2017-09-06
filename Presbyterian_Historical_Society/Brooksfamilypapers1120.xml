@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Brooks family papers <date type="inclusive">1919-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Brooks family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1120</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Adin Paul Brooks (1892-1987) was a missionary in India from 1923 to 1958. He held
+                    a Master's in chemistry from George Washington University and served in the
+                    Chemical Warfare Service, Research Division of the U.S. Army before beginning
+                    his missionary service. He retired in 1962. Marian Easter (Skinner) Brooks
+                    (1893-1924) was the first wife of Adin Brooks. She was a missionary in India
+                    from 1923 to 1924. Eleanor Nix-James Brooks (1904-1981), Brooks's second wife,
+                    was born in Calcutta, India, and returned to that country in 1950 as a
+                    missionary after marrying Brooks. Eleanor Brooks was a registered nurse and
+                    midwife. Hattie Estella Brooks (1894-1979) was the sister of Adin Brooks. She
+                    held bachelor's degrees from the from University of Illinois (in education and
+                    psychology) and the University of Maryland (in home economics). She served as a
+                    teacher of Home Economics at Allahabad Agricultural Institute.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Brooks family. Materials include:
+                    correspondence; photographs and negatives; manuscripts; reminiscences; reports;
+                    and clippings of Adin Paul Brooks, Marian Easter (Skinner) Brooks, Eleanor Mary
+                    Nix-James Brooks, and Hattie Estella Brooks, relating to mission work at
+                    Agricultural Institute of Allahabad, India. The collection also includes: a
+                    diary of Hattie Brooks, 1945 and 1947; a 1918 letter written on a thin sheet of
+                    aluminum; several scientific articles by A. P. Brooks; recollections of the
+                    George P. Skinner family by A. P. Brooks; medical records of A. P. Brooks;
+                    information on the Extension Study Project at Allahabad; typescript interview
+                    with A. P. Brooks for Menaul Historical Society of Presbyterian Church; notes,
+                    presumably made by Brooks after a meeting with Gandhi; and postcards.
+                    Additionally the collection contains a number of photographs and negatives
+                    including: photos of activities at the Agricultural Institute; one photograph of
+                    Agricultural Institute students talking to Gandhi at Wardha in 1939; photos from
+                    a trip to Chinaand to Kashmir; and photographs of the Brooks family in India
+                    (group shots, landscapes, architecture, animals).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Hodgkinson, Darryl</p>
+                <p>Accession number: 96 0116, 96 1105a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

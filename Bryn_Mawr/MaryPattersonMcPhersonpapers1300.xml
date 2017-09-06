@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary Patterson McPherson papers <date type="inclusive">1968-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary Patterson McPherson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1300</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>82.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mary Patterson McPherson received her bachelor's and Doctor of Laws degrees from
+                    Smith College, her master's from the University of Delaware, and her Ph.D. from
+                    Bryn Mawr College. She has taught at the University of Delaware and served as
+                    professor and dean at Bryn Mawr before being appointed as president. She served
+                    as President of Bryn Mawr College from 1978-1997.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of President Mary Patterson McPherson.
+                    There are also some papers from her tenure as Dean of the College. Materials
+                    include: incoming and outgoing correspondence (1971-1997); administrative and
+                    professional subject files; committee files; speeches; and personal
+                    correspondence, photographs, and honorary degrees.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

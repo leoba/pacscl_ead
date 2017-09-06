@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thorsten Sellin papers <date type="inclusive">1792-1985</date>
+                        <date type="bulk"> 1920s-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thorsten Sellin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC2266</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>30.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1792-1985</unitdate>
+                <unitdate type="bulk"> 1920s-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thorsten Sellin (1896-1994) was a sociologist and one of the pioneers of
+                    scientific criminology. He came to prominence in the 1920s and 1930s for his
+                    studies in the use of criminal statistics at local, state, national and
+                    international levels, and helped draft the U.S. Uniform Criminal Statistics Act
+                    in 1944. He received his master's and doctoral degrees from the University of
+                    Pennsylvania. He taught at Penn from 1922-1967 and served as chair of the
+                    sociology department from 1944-1959. His books include Culture Conflict and
+                    Crime (1938) and The Death Penalty (1959).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Thorsten Sellin. Materials include
+                    correspondence with colleagues, publishers, and professional organizations;
+                    handwritten and typed manuscripts of articles and books, including Slavery and
+                    the Penal Code, The Death Penalty, and Crime and Treatment in the Legislation of
+                    1932; addresses and remarks; writings by other criminologists; minutes, notes,
+                    and reports of a number of professional organizations, including the
+                    International Association of Penal Law, the International Society of
+                    Criminology, and the Institute for Research on Crime and Delinquency; and
+                    reprints and pamphlets on prisons, delinquency, capital punishment, and many
+                    related topics. The collection also includes a small batch of correspondence of
+                    Amy J. Sellin; memorabilia, including photographs, cabinet cards, and ephemera
+                    from the opening of the Sellin Center in 1985; certificates and plaques; and a
+                    framed 1792 broadside in German. There are materials in Swedish, German,
+                    Italian, French, and Spanish.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

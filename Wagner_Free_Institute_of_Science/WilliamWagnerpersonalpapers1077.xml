@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Wagner personal papers <date type="inclusive">1834-1847</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Wagner personal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1077</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1834-1847</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Wagner (1796-1885) was a philanthropist and naturalist. At the age of 16,
+                    he was apprenticed to the financier Stephen Girard. In 1816 he was sent as an
+                    assistant supercargo on a two-year trading voyage, during which he collected
+                    many shell, plant, and fossil specimens. After leaving Girard's employ, he went
+                    into business as a shipping merchant with Charles A. Snowden. This partnership
+                    was dissolved in 1825, and Wagner continued as a merchant in his own firm. He
+                    retired from business in 1840. In 1847, he began to deliver lectures on
+                    scientific topics, and, finding that interest in these lectures was strong,
+                    founded the Wagner Free Institute of Science in 1855.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection chiefly concerns an 1847 memorial to the Pennsylvania State
+                    Senate and the House of Representatives. There is correspondence relating to the
+                    proposed incorporation of Penn Township into the City of Philadelphia lands, and
+                    a copy of the memorial that was signed by property owners in the township. The
+                    collection also includes an 1834 certificate recording William Wagner's life
+                    membership in the Franklin Institute, as well as two proof sheets of shell
+                    illustrations and other letters, one of which is in Italian.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 93-004</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

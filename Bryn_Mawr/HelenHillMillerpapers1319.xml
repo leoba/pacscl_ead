@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Helen Hill Miller papers <date type="inclusive">1966-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Helen Hill Miller papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1319</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1966-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Helen Hill Miller (1899-1995) was a 1921 graduate of Bryn Mawr College. She
+                    received her Ph.D. from the University of Chicago in 1928. She tutored at the
+                    Bryn Mawr Summer School for Women Workers in Industry in 1921, 1923 and 1926.
+                    She worked as a staff writer for the U.S. Department of Agriculture in the late
+                    1930s, then as a correspondent for The Economist and Newsweek. She was a
+                    contributing editor to The New Republic and a writer for Harper's and
+                    Esquire.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of corrected proofs for Miller's Realms of Arthur (1966)
+                    and records related to a Smithsonian study tour of King Arthur's England (1972).
+                    Book materials include galleys, slides and photographs for the book's
+                    illustrations, bibliographies, the book contract, and some correspondence.
+                    Materials for the study tour include Miller's preparatory notes, itineraries,
+                    suggested reading lists, and post-tour correspondence.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Schlesinger Library,
+                    Harvard University: Helen Hill Miller Papers, 1917-1977</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

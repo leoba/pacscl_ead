@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art W. P. Wilstach Collection records <date type="inclusive">1893-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art W. P. Wilstach Collection
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC766</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The W. P. Wilstach Collection of art was bequeathed to the city in 1892 following
+                    the probate of Anna H. Wilstach's will. Originally administered by the
+                    Commissioners of Fairmount Park and a Wilstach Committee, the PMA acquired
+                    custodianship in 1917 when Director Langdon Warner was appointed Curator of the
+                    Collection. Currently, the Commissioners continue to administer the collection
+                    while custody remains with the Museum.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The records comprise correspondence files (1893-1917), presumably of E.A. Shunk,
+                    Custodian of Paintings of the Wilstach Gallery, Memorial Hall. Correspondents
+                    include Commissioner John G. Johnson, Superintendent Jesse T. Vogdes,
+                    Superintendent Russell Thayer, and conservators G.B. Wilkinson and Pasquale
+                    Farina. Some of the letters are addressed to Miss Robbins. Materials includes a
+                    letterpress volume of outgoing correspondence of Dalton Dorr, Shunk, and Robbins
+                    to the Chairman of Committee and Commissioners of Fairmount Park. Correspondence
+                    relates to acquisitions, conservation and cleaning of paintings, hanging of
+                    paintings in the gallery, and building maintenance such as heating and humidity.
+                    Includes lists of holdings and new acquisitions. The collection also includes
+                    Hamilton Bell's correspondence related to the Wilstach Collection, largely with
+                    M. Knoedler and Company. These letters relate to the restoration and framing of
+                    paintings. (1918). Additional materials include clippings about the purchase of
+                    Sargent's "Lady Millicent Hawes" (1922), correspondence about the gift of the
+                    Sully portrait of William P.C. Barton, and an 1886 catalogue of paintings and
+                    works of art belonging to Mrs. A.H. Wilstach.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Fairmount Park Commission (Philadelphia,
+                    Pa.)</corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Wilstach
+                    Collection.</corpname>
+                <genreform encodinganalog="655">Catalogs.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 32</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=WIL">http://www.philamuseum.org/pma_archives/search.php?c=WIL</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Fiske Kimball Records, 1908-1955; R. Sturgis Ingersoll Records,
+                    1941-1964</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Cameron P. Hall papers <date type="inclusive">1945-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Cameron P. Hall papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC944</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.02 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1945-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Cameron Parker Hall (1898-1987) was educated at Union Theological Seminary and
+                    Edinburgh University. He was student pastor at the University of Wisconsin,
+                    after which he was named director of the Department of Church and Society of the
+                    United Presbyterian Church, USA. This position led to his selection as head of
+                    the Department of Church and Economic Life in the Federal Council of Churches.
+                    He remained in this post when the Federal Council was succeeded by the National
+                    Council of Churches in 1950, continuing until his retirement in 1968. He was the
+                    editor of the 11 volume series on Ethics and Economic Life published in the
+                    1950s. Cameron P. Hall called a conference and edited a small volume published
+                    by the National Council of Churches in 1963 titled On-the-Job Ethics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes sermons as well as drafts of speeches and articles,
+                    written in both his official capacity and out of personal interest, whose topics
+                    include industrial labor relations, social and economic change, religion and
+                    work, materialism, the People's Peace Movement, the arms race, and McCarthyism.
+                    There is a a small quantity of material related to the Division of Church and
+                    Economic Life of the National Council of Churches of Christ, including minutes,
+                    memoranda, reports, pamphlets and a small number of newspaper clippings. There
+                    are also photographs, an invitation to the inauguration of Lyndon Johnson and
+                    drafts and copies of wills, 1975. The collection also includes drafts of an
+                    autobiographical sketch by Hall from 1980.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 87 0727: Barnes, Roswell; accession 91 0306: Espy, R.
+                    Edwin</p>
+                <p>Accession number: 87 0727|91 0306</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Oral histories collection <date type="inclusive">1981-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Oral histories collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2509</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1981-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a a collection of audiocassette and DAT tapes of interviews from several
+                    oral history projects. Materials for the History of the Delaware River Basin
+                    Fisheries project, 1980s-1990s, directed by Charles Hardy, include interviews
+                    with shad fisherman, oystermen, boat builders, biologists, and others associated
+                    with fisheries. Other interviews include: Jack Eiman (on racing); Joe Miller and
+                    Fred Lewis (on Shad); Joe Reid (on boatbuilding); Douglas Berry (on
+                    boatbuilding); Lolly Beaton (on boatbuilding); Clem Sutton (on boatbuilding and
+                    oystering); and other interviews of individuals (tapes and some transcriptions).
+                    The collection also include an audiotape on a proposed Oystering project and
+                    several videos including "Community of Oscar A. Romero", 1998. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Audiocassettes.</genreform>
+                <genreform encodinganalog="655">Interviews.</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+                <genreform encodinganalog="655">Video recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

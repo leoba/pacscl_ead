@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Philosophical Society miscellaneous records <date type="inclusive">1912-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Philosophical Society miscellaneous
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1754</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1912-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1743 by Benjamin Franklin, the American Philosophical Society was the
+                    first learned society in the United States. For over 250 years, the Society has
+                    played an important role in American cultural and intellectual life. Until the
+                    mid-nineteenth century, the Society fulfilled the role of a national academy of
+                    science, national library and museum, and even patent office. Early members of
+                    the Society included Thomas Jefferson, David Rittenhouse, Benjamin Rush, Stephen
+                    Peter Du Ponceau, George Washington, and many other figures prominent in
+                    American history.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of miscellaneous records from several offices of the
+                    American Philosophical Society. The collection consists of: office files of
+                    Randolph S. Klein on various topics, including meetings, public relations and
+                    information requests, fundraising, and members (circa 1980-1990); office files
+                    of Jean T. Williams (assistant to the Executive Officer), including files on
+                    membership, fundraising, committees, and copies of newsletters (circa
+                    1986-1991); materials related to the Building and Endowment Fund (1912-1937),
+                    including a survey and plan of the campaign, ledger of subscriptions, and
+                    statements; information on renovations to the buildings owned by the Society;
+                    copies of the Society's pension plan (1957-1969); master copies of various
+                    American Philosophical Society forms, including applications and agreements for
+                    grant recipients and recommendation forms (circa 1940); an inventory of art and
+                    artifacts, including locations and conservation work performed; and records
+                    concerning a lawsuit filed by Gail Beckman against the Pennsylvania Historical
+                    and Museum Commission and APS, including court records, correspondence, and
+                    depositions (1966-1983).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Fund raising.</subject>
+                <subject encodinganalog="650">Learned institutions and
+                    societies--Administration.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Newsletters</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

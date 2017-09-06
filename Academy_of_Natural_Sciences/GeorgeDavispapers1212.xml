@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Davis papers <date type="inclusive">1964-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Davis papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1212</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. George Davis (b. 1938) was curator of the Department of Malacology at the
+                    Academy of Natural Sciences from 1972 until his retirement in 2000. In addition
+                    to his work at the Academy, which he joined in 1970, Davis served as an adjunct
+                    professor at the Universities of Pennsylvania and Delaware, and visiting
+                    professor at three Chinese institutions. Over his career, he has published more
+                    than 135 scientific articles, popular pieces, and book chapters on the
+                    systematics of freshwater snails. One focus of Davis's research has been the
+                    snails that transmit schistosomiasis and other parasitic diseases; this research
+                    has taken him to many field sites in Asia, South and Southeast Asia, as well as
+                    South and Central America and South Africa. His work has been funded by the
+                    National Institutes of Health as well as the National Science Foundation.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of George Davis. Materials include typescript
+                    drafts; illustrations (figures and photographs); reprints; manuscript notes,
+                    sketches, and tables; computer printouts of data; and incoming and outgoing
+                    correspondence between Davis and his colleagues (1964-1991). The collection also
+                    includes correspondence related to the financial situation of the Association of
+                    Systematics Collections (1983-1984), of which Davis was president; and a
+                    cassette recording of a 1986 radio debate between Davis and Luther Sutherland on
+                    creationism versus evolution.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:16; 94:01; 02:09</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Malacology
+                    Department records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

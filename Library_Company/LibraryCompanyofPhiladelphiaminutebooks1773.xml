@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Company of Philadelphia minute books <date type="inclusive">1731-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Company of Philadelphia minute books</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1773</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1731-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Library Company of Philadelphia is an independent research library
+                    concentrating on American society and culture from the 17th through 19th
+                    centuries. It was founded in 1731 by Benjamin Franklin as a subscription library
+                    supported by its shareholders, as it is to this day. Free and open to the
+                    public, the Library Company houses an extensive non-circulating collection of
+                    rare books, manuscripts, broadsides, ephemera, and works of art. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The minute books include meeting minutes and financial reports; and supporting
+                    materials including excerpts from annual reports, exhibition announcements,
+                    menus, and correspondence. The collection is composed of 19 volumes of minutes
+                    of the Directors of the Library Company (1731-1979); 15 volumes and two folders
+                    of rough minutes of Directors meetings; two reels of microfilm of the first
+                    three volumes of Director's minutes and one photostatic copy of first volume of
+                    Director's minutes; two volumes of Loganian Library minutes 1792-1936; two
+                    volumes of rough minutes of the Loganian Library 1853-1876; and one volume of
+                    minutes of the Committee for Fixing the Value of Lost Books 1785-1848.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

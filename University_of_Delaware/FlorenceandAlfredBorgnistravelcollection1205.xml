@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Florence and Alfred Borgnis travel collection <date type="inclusive">1967-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Florence and Alfred Borgnis travel collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1205</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alfred and Florence Borgnis of New Castle, Delaware, started traveling in 1952
+                    after ten years of marriage and two children. Alfred Borgnis was an auto
+                    mechanic and his wife Florence was a homemaker and school teacher. They pulled a
+                    31-foot house-trailer from New Castle to Yuma, Arizona. They lived in Yuma for
+                    six months and in Los Angeles for three months before pulling their trailer over
+                    the Rocky Mountains and returning home to New Castle a year later. On that trip
+                    they visited the Grand Canyon, Disneyland, and many other sites in the West. In
+                    1968, they took their first overseas trip, to Italy. In the following years,
+                    they visited every state and most of the countries of Europe. They also visited
+                    China, Australia, Columbia, Egypt, Greece, Turkey, Israel, the Soviet Union, the
+                    Caribbean Islands, Mexico, and the Panama Canal.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Florence and Alfred Borgnis travel collection consists of 13 boxes containing
+                    travel diaries and approximately 10,000 slides. These materials were created
+                    from 1967 to 1991 during their varied travels.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99-64</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/borgnis.htm">http://www.lib.udel.edu/ud/spec/findaids/borgnis.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

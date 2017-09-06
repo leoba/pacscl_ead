@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Ballet records <date type="inclusive">1963-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Ballet records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2076</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>94.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Ballet was established in 1963 by Barbara Weisberger through a
+                    Ford Foundation initiative to develop regional professional dance companies. The
+                    company performed in the national spotlight for the first time in 1968 at City
+                    Center in New York, a highly successful debut that led to a decade of national
+                    touring, appearances on PBS' acclaimed Dance in America series, and a stint as
+                    the official company of the Brooklyn Academy of Music during the 1970s. From
+                    1987 to 1989, Pennsylvania Ballet forged an alliance with Milwaukee Ballet in an
+                    unprecedented venture to create one company. The new organization, with 43
+                    dancers and a greatly expanded repertoire, was the first in the country to offer
+                    its dancers year-round employment. The premier classical ballet company in the
+                    Philadelphia region, Pennsylvania Ballet is currently comprised of 42 dancers.
+                    During the Company's 40-year history, it has commissioned original ballets from
+                    such choreographers as Merce Cunningham, Christopher d'Amboise, Trey McIntyre,
+                    Matthew Neenan, Kevin O'Day, David Parsons, Val Caniparoli, Christopher Stowell,
+                    Dwight Rhoden, Meredith Rainey, Kirk Peterson, and Lynne Taylor-Corbett, as well
+                    as the 40th Anniversary commission of Swan Lake by Christopher Wheeldon. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Pennsylvania Ballet Company. The
+                    collection comprises publicity materials and office records. Publicity materials
+                    include: season programs, playbills, posters, and announcements; scrapbooks of
+                    press clippings; and photographs and slides of dancers and productions;
+                    materials related to radio and television publicity; and press releases. Office
+                    records include copies of memoranda and fundraising records of the board of
+                    trustees; corporate donor lists; income statements; contracts and agreements
+                    with dancers and choreographers; biographical information on and photographs of
+                    corps members and guest artists; tour information, such as itineraries,
+                    schedules, and promotional materials; copies of Dance Magazine and other
+                    publications; and videos of PA Ballet dance performances. Names appearing in
+                    office files include Barbara Weisberger, Artistic Director, Robert Altman,
+                    Managing Director, and Benjamin Harkarvy, Associate Artistic Director. The
+                    collection also includes a costume jacket.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

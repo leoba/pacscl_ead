@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sigma Pi Phi Alpha Boule Chapter records <date type="inclusive">1908-1992</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sigma Pi Phi Alpha Boule Chapter records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2257</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1908-1992</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Sigma Pi Phi is generally considered to be the first African-American
+                    Greek-lettered organization. Sigma Pi Phi was founded in Philadelphia, in 1904.
+                    Sigma Pi Phi, also known as the Boulé ("council of noblemen"), has over 5,000
+                    members and 112 chapters throughout the United States and the West Indies.
+                    Unlike many other fraternities, it does not have any college chapters, and its
+                    members already have received college and professional degrees at the time of
+                    their induction. Shortly after the establishedment of the fraternity, the
+                    founders looked to other cities in which to expand the fraternity and thus
+                    establish a national organization. The Philadelphia chapter became known as
+                    Alpha Boulé, with subsequent chapters named Beta Boulé, Gamma Boulé, and so on.
+                    The founders of the fraternity include Henry M. Minton and Algernon B.
+                    Jackson.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains records related to the Alpha Boule chapter of the Sigma
+                    Pi Phi fraternity. Materials include: minutes (1956-1992, with some gaps);
+                    correspondence; annual reports; financial records; photographs; governance
+                    documents such as constitution and bylaws; guidelines for rituals and
+                    ceremonies; a scrapbook of early correspondence, minutes, and other documents;
+                    curriculum vitae of members; and Alpha Boule stationery. There is correspondence
+                    and other documents from: Henry M. Minton, Daniel B. Taylor, Jr., Melvin Chisum,
+                    and E. Theodore Jones. The collection also includes taped interviews of members
+                    of the fraternity conducted by Dr. Melvin J. Chisum from 1986-1988.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">African American fraternal organizations.</subject>
+                <subject encodinganalog="650">African Americans--Education (Higher)</subject>
+                <subject encodinganalog="650">Greek letter
+                    societies--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Bylaws</genreform>
+                <genreform encodinganalog="655">Constitutions</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Interviews</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+                <genreform encodinganalog="655">Sound recordings</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

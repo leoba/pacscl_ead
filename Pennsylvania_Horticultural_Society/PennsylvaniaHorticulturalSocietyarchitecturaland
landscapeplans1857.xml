@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Horticultural Society architectural and landscape
+                        plans <date type="inclusive">1963-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Horticultural Society architectural and
+                    landscape plans</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1857</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The
+                    Pennsylvania Horticultural Society offers lectures and workshops, publishes the
+                    magazine Green Scene, and hosts the yearly Philadelphia Flower Show. First held
+                    in 1829, the Philadelphia Flower Show has grown to be the world's largest indoor
+                    flower exhibition. Proceeds from the Philadelphia Flower Show support the
+                    Pennsylvania Horticultural Society's urban greening program, Philadelphia Green,
+                    which supports the development and ongoing care of community gardens,
+                    neighborhood parks and high-profile public green spaces in Philadelphia. The
+                    Pennsylvania Horticultural Society is also home to the McLean Library, a
+                    collection of over 15,000 books on gardening and plant care, botany, and urban
+                    greening.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of architectural and landscape plans. Included are building
+                    schematics and floor plans for two locations of the Pennsylvania Horticultural
+                    Society offices; plans of proposed gardens in Norris Square and at 30th and Page
+                    Streets; plans of the layout of the Philadelphia Flower Show exhibition space;
+                    and plans of the Victorian gardens at the Ebenezer Maxwell Mansion in
+                    Philadelphia.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="611">Philadelphia Flower Show.</corpname>
+                <subject encodinganalog="650">Horticulture--Societies, etc.</subject>
+                <genreform encodinganalog="655">Architectural drawings.</genreform>
+                <genreform encodinganalog="655">Blueprints (Reprographic copies)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

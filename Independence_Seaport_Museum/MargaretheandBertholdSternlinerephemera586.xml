@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Margarethe and Berthold Stern liner ephemera <date type="inclusive">1911-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Margarethe and Berthold Stern liner ephemera</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC586</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Margarethe (b.1908) and Bertold Stern (b.1900) were married in 1930 in Germany.
+                    For their honeymoon, they sailed on the Norddeutscher Breman. In 1933, they
+                    immigrated to the United States. They became citizens in 1939. Margarethe's
+                    father, Louis Liebmann (b.1873), immigrated to the US and applied fro U.S.
+                    citizenship in 1937. Berthold Stern was an allergist and a Captain in the US
+                    Army. He was on active duty from 1943 to 1946 and from 1946 to 1953 he was in
+                    the officers reserve corps.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal papers, photographs, and ephemera of Margarethe
+                    and Berthold Stern and Margarethe's father, sister, and brother Louis, Lore, and
+                    Fritz Liebmann. Personal papers include: passports and immigration forms and
+                    naturalization certificates for Louis, Margarethe, and Lore Liebmann; divorce
+                    papers for Lore Leibmann Serlin; identity card of Fritz Liebmann; certificates
+                    of appreciation to Berthold Stern for his work for the Selective Service, 1940s;
+                    and US Army service records for Berthold Stern. Other items in the collection
+                    include: Margarethe's autograph book, 1927; a scrapbook of Lore Liebmann
+                    Serlin's wedding and honeymoon; loose, framed, and mounted family photographs;
+                    photo albums, including a photo album from trip to Yugoslavia, undated, and a
+                    photo album of a trip on the SS Bremen; photo album of Fritz M. Liebmann with
+                    photos and postcards from Germany, England, and the United States; souvenir
+                    photographs from Bremen, Darmstadt, Yosemite National Park, New York City,
+                    Pike's Peak, and other destinations; and a panoramic photo of Berthold Stern's
+                    medical training group (24th officer's training battalion) in Carlisle, PA Liner
+                    materials include Hamburg-Amerika Line: traveler's checks, luggage stickers, and
+                    a letter. A printed guide to the Western Pacific issued to members of the Army,
+                    Navy, and Marine Corps </p>
+            </scopecontent>
+
+            <controlaccess>
+                <famname encodinganalog="600">Liebmann family.</famname>
+                <genreform encodinganalog="655">Autograph albums.</genreform>
+                <genreform encodinganalog="655">Certificates.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1997.26</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

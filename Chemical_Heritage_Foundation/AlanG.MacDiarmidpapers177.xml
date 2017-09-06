@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alan G. MacDiarmid papers <date type="inclusive">1944-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alan G. MacDiarmid papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC177</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>90 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alan Graham MacDiarmid ONZ (b.1927) is Blanchard Professor of Chemistry at the
+                    University of Pennsylvania and James Von Ehr Chair of Science and Technology at
+                    the University of Texas, Dallas. In 2000 he was awarded the Nobel Prize in
+                    Chemistry for his work on conductive polymers, more commonly known as
+                    "synthetic metals." In 2001 he was awarded the Order of New Zealand. He
+                    studied at Victoria University of Wellington (New Zealand), and holds Ph.D.s
+                    from the University of Wisconsin and the University of Cambridge. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of MacDiarmid's correspondence, reprints, University of
+                    Pennsylvania files and research files. Records include: documentation of
+                    lectures, conferences, and honors ceremonies; correspondence (emails, letters,
+                    and telephone messages) with colleagues, students, and friends; copies of
+                    students' work; committee paperwork; lecture notes, texts, and overhead sheets;
+                    research notes, graphs, and diagrams; correspondence, itineraries, letters of
+                    congratulation, publicity, and other documents related to the Nobel Prize;
+                    reprints of MacDiarmid's articles and those of others; and other miscellaneous
+                    papers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: A.M.</p>
+                <p>Accession number: 05:017</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

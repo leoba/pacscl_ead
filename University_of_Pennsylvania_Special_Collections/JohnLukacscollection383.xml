@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Lukacs collection <date type="inclusive">1947-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Lukacs collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC383</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1947-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Lukacs (b. 1924) was born in Budapest and came to the United States in 1946.
+                    Until his retirement, he taught history at Chestnut Hill College near
+                    Philadelphia. He also held visiting professorships at Columbia, Johns Hopkins,
+                    Tufts, and the University of Pennsylvania. A prolific writer, Lukacs's
+                    best-known works include The Duel, Five Days in London, The End of the Twentieth
+                    Century and the End of the Modern Age, A Thread of Years, and Historical
+                    Consciousness.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of manuscripts, correspondence and photographs related to
+                    Lukacs's life and work. There are typescripts and uncorrected and corrected
+                    proofs for a number of Lukacs's books, articles, and reviews, including The Last
+                    European War, Outgrowing Democracy, Philadelphia: Patricians and Philistines,
+                    and Budapest, At the End of An Age. There is correspondence with colleagues and
+                    fellow historians, publishers and editors (1947-2006). A portion of the
+                    correspondence is in Hungarian, with a few letters in German and French. There
+                    are also a small number of photographs of notable Philadelphians.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 153</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

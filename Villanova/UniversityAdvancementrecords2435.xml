@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>University Advancement records <date type="inclusive">1875-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">University Advancement records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2435</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University traces its origins to old Saint Augustine's Church in
+                    Philadelphia, which the Augustinians founded in 1796, and to its parish school,
+                    Saint Augustine's Academy, established in 1811. Villanova University has been
+                    sponsored by the Augustinian Order since its founding in 1842. Today, the
+                    University is comprised of five colleges: Liberal Arts and Sciences (Villanova
+                    College), Engineering, School of Business (formerly known as the College of
+                    Commerce and Finance), Nursing and the School of Law. Institutional Advancement
+                    at Villanova is responsible for a range of activities which provide the
+                    framework for building strong support and lasting relationships with a variety
+                    of University constituencies, including alumni, parents, friends, and members of
+                    the community.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to University advancement and includes
+                    records from several departments. Records for the Vice President for
+                    Institutional Advancement consist of three series: Correspondence, News Media,
+                    and Reports. Correspondence makes up the bulk of the materials. This series
+                    includes general correspondence (1968-1985) and materials related to the Higher
+                    Education Facilities Authority Act (1968-1969); the Master Plan for Higher
+                    Education (1966-1969); the Pennsylvania Association of Colleges and Universities
+                    (1966-1971); and Citizens for Educational Freedom-Pennsylvania Federation
+                    (1969-1970). Other correspondence relates to public relations and public
+                    hearings on tax reforms. News Media consists of clippings about the Master Plan
+                    for Higher Education (1963-1967). The collection also includes a printed
+                    proposal by the Pennsylvania Association of Colleges and Universities (1971).
+                    Records related to communications and public affairs include press releases,
+                    calendars, fact sheets, visitor’s guides, and campus maps. The series also
+                    includes 30 scrapbooks of newspaper clippings on Villanova students, faculty,
+                    campus, events, and athletics, 1930-1955 and 1954-1993. Development records
+                    include: correspondence, minutes, and reports of the Development Council;
+                    correspondence, minutes, charter and by-laws, and brochures of the Development
+                    Foundation; Handbook for Faculty and Staff on Foundations, 1968; newspaper
+                    clippings; printed brochures, and reports. Materials related to the Alumni
+                    Association include: minutes of the Alumni Association Board of Governors;
+                    minutes of the Alumni Association Long-Range Planning Committee; annual reports;
+                    resource guide; correspondence; and papers related to the Alumni Association
+                    Constitution. The collection also includes programs for inaugurations of endowed
+                    chairs, 1992-2006.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Fund raising.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

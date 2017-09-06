@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Dickens collection <date type="inclusive">1846-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Dickens collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2342</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1846-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Dickens (1812-1870) was one of the most popular English novelists of the
+                    Victorian era as well as a vigorous social campaigner. Hablot Knight Browne
+                    (1815-1882) was an English artist, famous as Phiz, the illustrator of the
+                    best-known books by Charles Dickens, Charles Lever and Harrison Ainsworth in
+                    their original editions. Dickens met George Cruikshank (1792-1878) through the
+                    publisher John Macrone, who suggested that Dickens should put together a book
+                    with illustrations by Cruikshank. The result was Sketches by Boz published in
+                    1836. Cruikshank would later illustrate Dickens' Oliver Twist and was an actor
+                    in some of the plays done by Dickens' amateur company. George Cattermole
+                    (1800-1868), was a Dickens friend and illustrator, collaborating with Browne
+                    (Phiz), on Master Humphrey's Clock and the novels The Old Curiosity Shop and
+                    Barnaby Rudge. Cattermole's specialty was interior and exterior architectural
+                    illustration rather than character drawings.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of original drawings for Dickens by Hablot Knight Browne
+                    (Phiz), George Cattermole, and George Cruikshank. The collection contains
+                    pencil, charcoal, and several pencil and pen drawings by Browne for David
+                    Copperfield, Domby and Son, and Bleak House. The collection also includes pencil
+                    sketches by Cruickshank including a study for "Bumble" from Oliver Twist;
+                    letters from Kate Perugini, Dickens's daughter, addressed to Mr. Charles
+                    Sessler; several issues of The Bookman magazine with presentation plate
+                    portraits of Charles Dickens (1910-1912); a set of 12 hand-colored extra
+                    illustrations to the Pickwick Papers, by Charles E. Brock, 1921; lithographic
+                    portrait of Charles Dickens by H. Blackburn Hart; and two engravings, one by
+                    Darley and the other by Cruickshank. The collection also contains greeting
+                    cards, Christmas cards, and postcards featuring illustrations from Dickens
+                    (1905-1965); and postcards of the Dickens house and other Dickens-related
+                    images.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia, Print and Picture Collection: Rutter collection of Dickens
+                    illustrations.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph F. Larkin papers <date type="inclusive">1953-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph F. Larkin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC599</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The SS United States (also known as "The Big U") is an ocean liner built in
+                    1952 for the United States Lines. At 53,329 gross tons, she is the largest ocean
+                    liner to date built entirely in the United States and still holds the record for
+                    the fastest westbound transatlantic crossing. In 1952, on her maiden voyage as
+                    the new flagship of the United States Lines, the United States captured the Blue
+                    Riband with the fastest eastbound and westbound transatlantic crossings on
+                    record. The entry of the United States marked the first time a U.S.-flagged ship
+                    held the Blue Riband, surpassing European speed records which had stood for
+                    decades. The United States lost the eastbound record in 1990, but still holds
+                    the westbound record. The United States plied the transatlantic with passenger
+                    service until 1969. The ship is currently docked in Philadelphia. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Joseph Larkin related to the SS United States.
+                    Materials include: correspondence from the public relations department of the
+                    United States Lines company, related to Larkin's model of the SS United States
+                    and a visit made by the Larkin family to the ship; a photo of the Larkin family
+                    with Commodore Anderson during their 1954 visit to the ship; photographs of
+                    Larkin working on a model of the SS United States, 1953; and a Popular
+                    Mechanics, Jan. 1953, featuring part 2 of an article on building a 36" model of
+                    the SS United States; plans for a model of the USS United States; and a plan for
+                    the rowboat Snuffy. Memorabilia in the collection includes: a brochure; a menu;
+                    paper napkins; envelopes; postcards; visitor's pass; a news release listing
+                    notable passengers on a 1954 sailing; and a Westinghouse brochure featuring an
+                    image of the SS United States on the cover. Other items in the collection
+                    include: a copy of The Superliner United States, Rand McNally, 1953; newspaper
+                    clippings, 1991-1999, about efforts to refurbish the SS United States; and a
+                    handwritten address by Larkin about his model of and visit to the ship, 1996.
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1999.29; 1999.29.14</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

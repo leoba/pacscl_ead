@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rush family papers <date type="inclusive">1748-1876</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rush family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1696</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1748-1876</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Benjamin Rush began his lengthy career as a Philadelphia physician by studying at
+                    the College of Philadelphia, then the University of Edinburgh. He returned home
+                    in 1769 to teach and practice, and to promote his system of medicine wherein all
+                    diseases were the result of spasms of the blood vessels. Rush worked tirelessly
+                    during the Yellow Fever epidemics which swept the city in the 1790s, and he
+                    devoted much study to finding its causes. Rush was an early proponent of
+                    scientific and humane treatment for the insane. His popularity as a teacher
+                    caused his reputation to spread, especially in the South and West, although his
+                    blood-letting treatment was so controversial that his practice could not support
+                    his large family. He therefore sought and received appointment as Treasurer of
+                    the U. S. Mint, a position he held from 1797 to his death. Rush's active
+                    involvement in politics was brief: he served only long enough on the Continental
+                    Congress to sign the Declaration of Independence, and campaigned in favor of the
+                    U. S. Constitution in 1787 and the PA state constitution in 1789. Rush was
+                    particularly interested in social reform movements, for which he wrote numerous
+                    articles and acted as sponsor. He condemned capital punishment and advocated
+                    prison reform; he supported a system of schooling to be partially financed by
+                    public funds, the education of women, and teaching subjects with practical
+                    applications. Rush was a founding trustee of Dickinson College and president of
+                    the Pennsylvania Society for Promoting the Abolition of Slavery. He was a
+                    proselytizer for temperance. James Rush, following in the footsteps of his
+                    father, was educated as a doctor, but practiced and taught only occasionally.
+                    Having married Phoebe Anne Ridgway, heiress to a large Philadelphia fortune, he
+                    followed primarily literary and scientific pursuits. The only work to receive
+                    any public recognition was his first, "The Philosophy of the Human Voice,"
+                    published in 1827. By the time of his death, Rush was considered a penurious,
+                    reclusive, eccentric grouch.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Rush Papers consist primarily of incoming correspondence and medical papers
+                    of Benjamin Rush and his son James Rush. BENJAMIN RUSH SECTION, (1762-1828). The
+                    largest portion of the Benjamin Rush section consists of incoming correspondence
+                    [2,700 items in 26 volumes, alphabetically arranged] from doctors, patients, and
+                    students concerning medicine, giving case histories, and requesting advice on
+                    treatment. Rush's response is sometimes noted on the letter. Among the
+                    correspondents in this series are: Ashton Alexander, James M. Anderson, Jr.,
+                    Edward Fisher, Nathaniel Potter, Benjamin Vaughan, John Vaughan. Some of the
+                    letters have been separated into special groups and are of a more personal
+                    nature, relating to private affairs and interests of Rush and his
+                    correspondents, and reform activities, as well as medicine. The major
+                    correspondents here are: Jeremy Belknap, Edward and Charles Dilly, Elizabeth
+                    Graeme Ferguson, James E. B. Finley, Thomas Hall, David Hosack, John Coakly
+                    Lettsom, Edward Miller, David Ramsay, Jacob Rush, James Rush reporting on his
+                    studies in Edinburgh (this is in a different series altogether), Richard Rush,
+                    Granville Sharp, and Noah Webster. There are some of the Rush's own letter
+                    drafts. Subject groupings are: Dickinson College, consisting of Rush's
+                    correspondence with John Montgomery, Charles Nisbet, John Armstrong and others
+                    relating to the establishment and administration of the college; Northumberland
+                    County land papers containing Rush's letters to William Plunkett; Yellow Fever
+                    correspondence with letters from patients and reports from other doctors on the
+                    onset, progress, and cure of outbreaks outside of Philadelphia; letters and
+                    papers relating to Rush's disputes with Elias Boudinot and others. Many of
+                    Benjamin Rush's drafts for his medical lectures are here including courses in
+                    the practice of medicine, physiology, pathology, and fevers [8 boxes]. There are
+                    also drafts of "Lectures on Natural Philosophy, Chemistry, and Medicine for the
+                    Young Ladies Academy." Several of Rush's medical commonplace books are among
+                    the papers, with a special series of diaries kept as a record of epidemic
+                    diseases, 1779-1813 [5 volumes]. In addition to medical subjects, there are
+                    personal memoranda books of letters and reminiscences among which are notes on
+                    the Continental Congress and volume 9 of Rush's autobiography. (The other
+                    volumes are at the American Philosophical Society). Dr. Rush's professional
+                    account books, 1769-1815, consist of daybooks [9 volumes], journals [9 volumes],
+                    and ledgers [5 volumes]. There are personal receipt books, 1794-1802, 1807-1828
+                    [3 volumes], continued by Julia Rush after Benjamin's death. Miscellaneous
+                    papers are comprised of notes on Dr. William Cullen's lectures while Rush was
+                    attending the University of Edinburgh, 1766-1768, dissertations by some of
+                    Rush's students and other third party essays and notes, mostly concerning
+                    medical matters. JAMES RUSH SECTION, 1802-1869 The incoming correspondence [900
+                    items in 6 volumes, alphabetically arranged] of James Rush is a miscellany of
+                    letters from friends, orators and elocutionists, patients, and beggars. In a
+                    separate series are letters from Benjamin and Julia Rush to their son while he
+                    attended Princeton. A small selection of James Rush's own letters are found in a
+                    volume of first copies of letters, 1835-1843. There are some scattered diaries:
+                    1809, while studying in Scotland; 1838-1844; 1845-1847, while traveling in
+                    Europe. Rush's commonplace books [20 volumes] contain notes on medicine,
+                    literature, doodles, and memos for construction of his Chestnut St. house. There
+                    are notes, drafts, and printer's copies for James Rush's published works: "The
+                    Philosophy of the Human Voice," 1827; "Hamlet, A Prelude in Five Acts," 1834;
+                    "Brief Outline of an Analysis of the Human Intellect," 1865; "Rhymes and
+                    Contrast on Wisdom and Folly," 1869; and drafts and notes for an unpublished
+                    study "Hints for a New System of Medicine," 1835-1843. Additional material in
+                    this section are grocery accounts, 1859-1867; invitations; and visiting cards.
+                    RUSH FAMILY MISCELLANEOUS, 1811-1876 [5 volumes]. Cassie Murray Rush diary,
+                    1876, with description of visits to the Centennial. [Provenance unknown]. Phoebe
+                    Anne Rush music book, presented to her in 1820 by Frank Johnson, a black
+                    Philadelphia musician. Richard Rush letter book, 1811, as Attorney General of
+                    Pennsylvania. [Provenance unknown]. Richard Rush "Memoranda of a Residence at
+                    the Court of London" from November, 1817 to January, 1819, written in 1833,
+                    containing recollections of official and personal activities of Rush's first
+                    year as U. S. minister to Great Britain. [Purchased, 1963]. William Rush,
+                    "Examinations on Materia Medica," 1832, given by him as lecturer on materia
+                    medica and therapeutics at the Philadelphia School of Medicine.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bequest of James Rush (except otherwise noted in abstract)</p>
+                <p>Year acquired: 1869</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

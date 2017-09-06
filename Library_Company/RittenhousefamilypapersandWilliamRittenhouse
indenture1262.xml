@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rittenhouse family papers and William Rittenhouse indenture <date type="inclusive">1690-1988</date>
+                        <date type="bulk"> 1690-1899</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rittenhouse family papers and William Rittenhouse
+                    indenture</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1262</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1690-1988</unitdate>
+                <unitdate type="bulk"> 1690-1899</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Rittenhouse family were paper-makers in Germany and Holland. In 1687 or 1688,
+                    William Rittenhouse (1644-1708) (originally called Wilhelm Rittinghausen), his
+                    sons Claus (1666-1734) and Garret (1674-1742), and his daughter Elizabeth (b.
+                    ca. 1670) emigrated to the United States. By 1689 they were established in the
+                    Philadelphia area. In 1690, William Rittenhouse, together with William Bradford,
+                    the printer, and two other investors, Robert Turner and Thomas Treese, opened
+                    the first American paper mill, on Wissahickon Creek in Roxborough, Pennsylvania.
+                    The descendants of William Rittenhouse, including his son Claus, his grandson
+                    William 2nd, his great grandson Jacob and another relative, possibly also a
+                    great-grandson, Nicholas Rittenhouse, continued to operate the mill until the
+                    mid 19th century. William's great-grandson, David Rittenhouse (1732-1796), was a
+                    mathematician and astronomer and, during the Revolution, he was in charge of the
+                    Safety Committee in Philadelphia, which was responsible for recruitment.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Rittenhouse family. Documents related to
+                    William Rittenhouse and his sons Claus and Jacob include indentures, receipts,
+                    and correspondence. Of note is the 1706 indenture for the property on which the
+                    Rittenhouse paper mill was built, a plan for the new mill (undated), and the
+                    last will and testament of Claus Rittenhouse. The collection also includes
+                    correspondence between Nicholas Rittenhouse and his son Josiah, and invitations
+                    and certificates related to various Civil War memorials belonging to Nicholas
+                    Martin Rittenhouse.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: unaccessioned</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American
+                    Philosophical Society: Rittenhouse family papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

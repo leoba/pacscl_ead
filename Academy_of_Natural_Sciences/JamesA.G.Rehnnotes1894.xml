@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James A. G. Rehn notes <date type="inclusive">1864-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James A. G. Rehn notes</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1894</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1864-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J.A.G. Rehn (1881-1965) was an entomologist at the Academy of Natural Sciences of
+                    Philadelphia. He first joined the Academy in 1900 as a student. He became
+                    curator of the insect collection in 1933 and continued in that role until his
+                    death in 1965. He was very active in the American Entomological Society, serving
+                    as the organization's president (1942-1946 and 1952-1953) and treasurer
+                    (1930-1959) as well as serving on several committees. He published extensively
+                    and was an expert on Orthoptera. He also participated in several of the
+                    Academy's expeditions, including those to Africa, Costa Rica, and Brazil.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a small collection of correspondence, notes, and photographs of J.A.G.
+                    Rehn. Materials include: professional correspondence (1904-1965) related to the
+                    exchange of specimens, arrangements for international collecting expeditions,
+                    taxonomy, and requests for the return of borrowed specimens; notes, possibly for
+                    a talk, entitled "Basic Faunistic Aspects of the Orthoptera of North America,"
+                    and handwritten extracts from published materials on geology, and zoogeography;
+                    slides of landscapes, insects, and drawings of insects; photographs and
+                    negatives; and newspaper clippings about Rehn. The collection also includes
+                    African artifacts, including a bow, arrows and a quiver, textiles, and a length
+                    of rope. These items were presumably collection by Rehn on the George Vanderbilt
+                    Africa Expedition in 1934. The collection also contains records related to
+                    Rehn’s father, William J. Rehn, including a discharge from the Grand Army of the
+                    Republic (1895), the D.C. Volunteers (1864), and the US Army (1865).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Entomology
+                    Department records and J.A.G. Rehn correspondence and papers (collections 682,
+                    743, 738, 734).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

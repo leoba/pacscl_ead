@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>United States Shipping Board Emergency Fleet Corporation records
+                            <date type="inclusive">1918-1919</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">United States Shipping Board Emergency Fleet Corporation
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC521</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1918-1919</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Because of the need during World War I to build ships rapidly, on 16 April 1917
+                    the U.S. Shipping Board incorporated the Emergency Fleet Corporation to build,
+                    own, and operate a merchant fleet for the U.S. government. It performed these
+                    functions until 11 February 1927, when Congress changed its name to the Merchant
+                    Fleet Corporation. In 1916 the shipbuilding industry completed only 300,000
+                    deadweight tons of ships, whereas the United States during war needed an annual
+                    output of 6 million to 10 million deadweight tonnage. To meet this emergency the
+                    Fleet Corporation first requisitioned the 431 steel ships being built in
+                    American yards for foreign operators. Second, the corporation built three great
+                    steel shipyards and invested in many other yards. To speed up construction,
+                    yards assembled "fabricated" ships of standard design out of plates and parts
+                    made in factories as far west as Kansas.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Collection of records of the United States Shipping Board Emergency Fleet
+                    Corporation. Materials include: bound set of charts of shipyard locations and
+                    plans of plant layouts of facilities building vessels for the Emergency Fleet
+                    Corporation; information for bidders on the fabrication of the steel work for
+                    7500 ton class A vessel at Hog Island, to be constructed by the American
+                    International Shipbuilding Corporation; a wage scale for employees in shipyards;
+                    and lists of vessels being built for the Emergency Fleet Corporation, including
+                    vessel name, class, hull number, builder, and location. Other items in the
+                    collection include: vessel registration cards; an application for leave; a pass
+                    property issued to L. Snyder; two published volumes prepared by the Emergency
+                    Fleet Corporation: Hull Specifications and Fastening Specifications; and pay
+                    packets from the American International Shipbuilding Corporation, agent for the
+                    Emergency Fleet Corporation. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American International Shipbuilding
+                    Corporation.</corpname>
+                <corpname encodinganalog="610">United States Shipping Board Emergency Fleet
+                    Corporation.</corpname>
+                <subject encodinganalog="650">Shipbuilding--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Architectural drawings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1993.37, 1994.97.1-6, 1982.156.42-52; 88.20, 87.41, 90.49, and
+                    non-acc.</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

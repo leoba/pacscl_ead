@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pusey &amp; Jones business papers <date type="inclusive">1905-1921</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pusey &amp; Jones business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC454</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1905-1921</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pusey and Jones Corporation was a major ship and equipment manufacturer from
+                    1846 to 1959. Ship building was the primary focus from 1853 until the end of
+                    World War II, when the company converted the shipyard to production of paper
+                    manufacturing machinery. During the operation of the shipyard over 500 ships
+                    were produced ranging from large cargo vessels, to small warships and yachts,
+                    including “Volunteer” the winner of the 1887 America’s Cup. The company began in
+                    1848, with the partnership between Joshua L. Pusey and John Jones in the
+                    operation of a machine shop in space rented from a whaling company, in
+                    Wilmington, Delaware. The shipyard was located between the Christina River and
+                    the main line of the Pennsylvania Rail Road. In 1851 Edward Betts and Joshua
+                    Seal, who were operating an iron foundry in Wilmington purchased an interest in
+                    the business, and the name of the company then became Betts, Pusey, Jones &amp;
+                    Seal. From Wikipedia</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Pusey and Jones. Materials in the collection
+                    include: Photographs and/or specifications for hulls #82-323 (not complete);
+                    survey of vessels, 1910-1921, listing ships by type, with valuation of vessels
+                    when first built and present valuation; preliminary specifications for twin
+                    screw and paddle wheel steamers; miscellaneous articles, memos, and technical
+                    specifications for WWI and WWII ship construction; and two illustrated
+                    catalogues of iron and steel ships produced by Pusey and Jones, early 1900s. The
+                    collection also includes engineering logs of H.H. Thayer Jr., 1894-1908. Logs
+                    list construction specifications and data, weight summaries, notes on engine
+                    performance,and information on materials, displacement, and other naval
+                    engineering topics. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Notebooks.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1982.139; 1992.4</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

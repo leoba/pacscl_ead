@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Hosmer papers <date type="inclusive">1906-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Hosmer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2067</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1906-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James B. Hosmer (1911-2001) was a flutist and composer of "Rhapsody for flute
+                    and string quartet." Hosmer studied with Georges Barrere and played with the
+                    Indianapolis Symphony from 1937 to 1942.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of scores for flute. The materials include: printed and
+                    manuscript scores; fingering charts; manuscript notes and corrections; a small
+                    number of programs and clippings of reviews; and a small amount of information
+                    on copyright. Many of the scores are for music composed or arranged by Hosmer.
+                    Other composers represented in the collection are Debussy, Ravel, Hamm, Kuhlau,
+                    Hohler, Reinecke, and Silvius.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

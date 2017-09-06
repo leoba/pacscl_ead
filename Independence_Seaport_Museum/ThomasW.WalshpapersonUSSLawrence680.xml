@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas W. Walsh papers on USS Lawrence <date type="inclusive">1960-1962</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas W. Walsh papers on USS Lawrence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC680</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1962</unitdate>
+            </did>
+
+            <bioghist>
+                <p>USS Lawrence (DDG-4), the fifth ship named for Captain James Lawrence USN
+                    (1781-1813), was a Charles F. Adams-class destroyer commissioned in 1962, and
+                    serving until 1994. The ship's motto was "Don't Give Up The Ship" Commander
+                    Thomas W. Walsh (b. 1921), was a graduate of the United States Naval Academy,
+                    the United States Naval Post-Graduate School (Naval Intelligence), and the Armed
+                    Forces Staff College. Walsh served during World War II aboard the USS Nevada and
+                    participated in the invasions of Normandy, Southern France, Iwo Jima, and
+                    Okinawa. After the war he served on the USS Joseph P. Kennedy, as Executive
+                    Officer of the USS Dortch, and Commanding Officer of USS Tweedy. He also served
+                    in several staff appointments, including as Head of Cold War Intelligence
+                    Section in the Office of the Chief of Naval Operations. In 1961 he reported at
+                    New York Shipbuilding Corporation, Camden, NJ under orders to commission and
+                    command Lawrence. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to the launch, commissioning, and
+                    shakedown cruise of USS Lawrence, 1960-1962. Materials include: correspondence,
+                    including letters of appreciation to Walsh as commander of USS Lawrence from
+                    various naval officers, politicians, and business figures; launch invitations,
+                    programs, and photos; brochures and pictorial booklet for commissioning;
+                    transcript of remarks by Cdr. Walsh given at the commissioning of USS Lawrence;
+                    newspaper clippings about the visit of the USS Lawrence to Quebec, Cleveland,
+                    Detroit, Buffalo, Toronto, Montreal, and Halifax; press releases; and an
+                    itinerary for the commissioning ceremony and the Great Lakes Cruise. Other items
+                    in the collection include: portraits of the ship and photos of launching,
+                    commissioning ceremony, crew at work, and officers; reel-to-reel audio; reel of
+                    movie film; an ash tray; and a pennant. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Lawrence (Guided Missile Destroyer)</corpname>
+                <genreform encodinganalog="655">Artifacts.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Motion pictures.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+                <genreform encodinganalog="655">Speeches.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2007.008</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

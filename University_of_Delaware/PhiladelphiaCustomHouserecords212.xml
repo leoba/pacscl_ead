@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Custom House records <date type="inclusive">1779-1930</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Custom House records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC212</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>30 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1779-1930</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The United States Customs Service (1789-1927) processed paperwork for the import
+                    and export of goods into and out of the country. Customs officials also assessed
+                    and collected customs fees and penalties. Past functions of the Customs Service
+                    included administration of navigation aids and lighthouses, and functions
+                    relating to the protection of seamen, and to revenue cutters. In 1927 the
+                    Customs Service became the Bureau of Customs.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the United States Customs Service of the Port
+                    of Philadelphia, illustrating commercial and shipping interests, as well as
+                    foreign trade relations, of Colonial America and of the United States. The
+                    records include: official Customs House records, liquidation entries,
+                    affidavits, foreign invoices, general correspondence, consular authentications,
+                    and abstracts of duties. There are also four microfilm reels of documents within
+                    the collection, 1790-1869, categorized by topic, such as metalwork, clothing,
+                    textiles, ceramics, other craftsmen, artists, and occupations. In addition,
+                    there is a set of printouts of the U.S. Customs Service archives.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. and Mrs. Barry Moyerman.</p>
+                <p>Year acquired: 1972</p>
+                <p>Accession number: 07-109</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

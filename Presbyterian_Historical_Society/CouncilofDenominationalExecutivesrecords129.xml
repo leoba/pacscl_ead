@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Council of Denominational Executives records <date type="inclusive">1967-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Council of Denominational Executives records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC129</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>These papers appear to come from Dr. William V. Longbrake (born in 1909) who was
+                    clerk of the Permanent Judicial Commission in 1978. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains reports and related records, 1967-1969. Included are
+                    minutes of the Council of Denominational Executives; reports, agendas,
+                    questionnaires, and program proposals from a variety of other urban, civic, and
+                    ecumenical organizations including: the Council for Community Responsibility,
+                    the Center for Civic Initiative, the Ecumenical Urban Cadre, Greater Milwaukee
+                    Conference on Urban Affairs, and the Wisconsin Council of Churches. The group
+                    was working towards an interdenominational strategy for addressing problems and
+                    challenges of urban life. Includes discussions of training of church members
+                    (clergy and laity) to work for justice in metropolitan Milwaukee.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Synod of Lakes and Prairies</p>
+                <p>Accession number: 05 0428u</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

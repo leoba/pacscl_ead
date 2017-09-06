@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Bible Society records <date type="inclusive">1808-1876</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Bible Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC074</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1808-1876</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The first formal meeting of the Pennsylvania Bible Society was held on December
+                    12, 1808. The first president was Bishop William White and the first Vice
+                    President was Dr. Benjamin Rush, signer of the Declaration of Independence. In
+                    1812, the Society, now known as the Bible Society of Philadelphia published the
+                    first Bible printed in the U.S. from Stereotype plates. In 1840, the Bible
+                    Society of Philadelphia became the Pennsylvania Bible Society. The mission of
+                    the Pennsylvania Bible Society is to "distribute Holy Scripture without note or
+                    comment to all who want to hear it, at an affordable price, or free of charge to
+                    those unable to pay".</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of minutes of the Pennsylvania Bible Society, 1808-1819,
+                    including a 1963 typed transcription of minutes, 1812-1819 (3 vols.); Executive
+                    Committee minutes, 1827-1830 and 1836-1843 (3 volumes); and Distribution
+                    Committee minutes, 1842-1876 (2 volumes). The minutes are monthly (and in some
+                    cases semimonthly) and include reports on the distribution of bibles, reports of
+                    committees, financial statements, discussion of interactions with other Bible
+                    Societies, and discussions of printing and publication matters. The collection
+                    also includes minutes of the Philadelphia Young Men's Bible Society,
+                    1842-1854.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Pennsylvania Bible Society</p>
+                <p>Accession number: 02 1214b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

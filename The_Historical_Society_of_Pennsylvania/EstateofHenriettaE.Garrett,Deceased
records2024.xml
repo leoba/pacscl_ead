@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Estate of Henrietta E. Garrett, Deceased records <date type="inclusive">1936-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Estate of Henrietta E. Garrett, Deceased
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2024</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>88 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>These volumes are the records of Clinton Sowers, Esq., who was appointed an
+                    examiner to the proceedings of the claims against the estate of Henrietta E.
+                    Garrett, held in the Orphan's Court of Philadelphia County. Garrett died a widow
+                    on Nov. 16, 1930. Her will provided for a bequest of $62, 500 to several
+                    individual and the surviving legatees were paid. However, the total value of
+                    Garrett's estate was more than $17 million. In 1931, the Commonwealth of PA
+                    filed a claim alleging that Garrett died without leaving next of kin surviving
+                    her and that the estate should pass to the Commonwealth by escheat. Because of
+                    the size of the estate the case received world-wide publicity and as a result
+                    numerous claims flooded the Master's office. Approximately 25,800 claims were
+                    made, coming from people in every state but Arizona and several foreign
+                    countries. In 1936, a master and two examiners were appointed to exam and render
+                    a decision to these claims. These records document this 15 year proceeding. The
+                    Masters and the Examiners held approximately 2,000 hearings, at which the
+                    tesimony of more than 1100 witnesses was taken. More than 7700 exhibits were
+                    received in evidence. On December 18, 1950, the Master, Robert Brigham, issued
+                    his report on the case. He ruled that Henrietta E. Garrett left to survive her
+                    no husband, no children, no parents, no grandparents, no siblings, no nieces or
+                    nephews, and no aunts or uncles. Her nearest next of kin were Howard S.
+                    Kretschmar and Herman A. Kretschmar, maternal first cousins, and Johann Peter
+                    Christian Schafer I, a paternal first cousin.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the following volumes: Volume "A"-- bound copies of
+                    the hearing transcripts before the Orphans' Court of Philadelphia Co.--322
+                    volumes (Vol. #285 is missing); Exhibit Books--67 volumes; Volume "D"--
+                    transcripts of depositions--196 volumes (Vol. #71 missing); Volume "I" --
+                    Investigations--163 volumes (Vol. #75 missing); Volume "K"--Kohler
+                    investigation -- 128 volumes (Vol. #125 missing); Volume "O"--abstracts of
+                    testimonies--21 volumes; Index of Exhibits (general and sup.1-11)--30 volumes;
+                    Index of Dates (general and sup.1-10) --43 volumes; Index, alphabetical--164
+                    volumes; Master's Report--3 volumes; Adjudication--1 volume; Other various
+                    volumes, including copy of court record, Sowers deposition/report on Garrett's
+                    birthdate--13 volumes</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

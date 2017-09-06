@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Helen, Ira, and Michael Wolfert papers <date type="inclusive">1924-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Helen, Ira, and Michael Wolfert papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC728</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>37 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1924-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ira Wolfert (1908-1997) was a writer and journalist. In 1930, he received a
+                    bachelor's degree from the Columbia University School of Journalism. He worked
+                    for the North American Newspaper Alliance in the 1930s and 1940s; he was a war
+                    correspondent during World War II, and in 1943 he received a Pulitzer Prize for
+                    a series of articles he wrote about a sea battle off Guadalcanal. He also wrote
+                    fiction, and was the author of the acclaimed 1943 novel Tucker's People. His
+                    wife, Helen X. Herschdorfer Wolfert (1901-1985) was a poet. She was a graduate
+                    of Hunter College, and taught in the New York City schools for ten years. Her
+                    works include two volumes of poems: Landlady and Tenant and Music, as well as
+                    articles, poems, and reviews published in magazines such as Poetry, Harper's
+                    Bazaar, the New Republic, and The Nation. The couple's son, Michael Wolfert
+                    (1936-2001), was a novelist.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Helen and Ira Wolfert and of their son Michael
+                    Wolfert. Helen and Ira Wolfert materials include: typed and handwritten
+                    manuscripts of stories, poems, plays, novels, and reviews; notes for writings;
+                    articles and clippings; copies of published articles, reviews, and poems;
+                    personal and professional correspondence; financial materials; diaries;
+                    photographs and negatives. Of note are letters between the Wolferts during Ira
+                    Wolfert's time as a war correspondent. Michael Wolfert materials include
+                    typescripts; handwritten notes for writings; diaries; clippings and extracts of
+                    news items; financial materials; and a small amount of correspondence.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 244</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

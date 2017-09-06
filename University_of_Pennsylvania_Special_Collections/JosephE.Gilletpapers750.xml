@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph E. Gillet papers <date type="inclusive">1920-1955</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph E. Gillet papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC750</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="spa"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1920-1955</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Eugene Gillet (1888-1958) was born in Belgium, and received his Ph.D. in
+                    1910 from the University of Liege. He emigrated to the United States in 1913 and
+                    became a citizen in 1918. He worked as an instructor in German at the University
+                    of Wisconsin from 1913 to 1915 and served in the infantry during World War I.
+                    After the war, he worked in the Foreign Service Department of the National City
+                    Bank in New York where he learned Spanish. He traveled to Spain to further his
+                    study of the language and while there he became interested in Spanish drama.
+                    From 1921 to 1924 he was assistant professor of romance languages at the
+                    University of Minnesota. In 1924 he joined the faculty of Bryn Mawr College, as
+                    an associate professor and head of the department of Spanish. He directed
+                    doctoral dissertations at Bryn Mawr and at the University of Pennsylvania. He
+                    retired from Bryn Mawr in 1949.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of research materials and papers of Joseph E. Gillette.
+                    Materials include: photostats of Spanish texts, some with typed transcriptions
+                    and translations; handwritten research notes; correspondence with colleagues,
+                    mostly relating to his publication on Torres Naharro; reviews of his work on
+                    Torres Naharro; and a photograph and a memorial of Archer Huntington of the
+                    Hispanic Society of America.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 270</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

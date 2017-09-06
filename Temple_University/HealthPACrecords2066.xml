@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Health/PAC records <date type="inclusive">1960-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Health/PAC records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2066</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>77.3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Health PAC is the Health Policy Advisory Center of the Institute of Policy
+                    Studies. It began in mid-1967 as a result of concern for the state of urban
+                    health affairs in New York City. People felt the need for an advisory and
+                    technical assistance center for the general public and for all concerned groups
+                    wanting a more advanced and publicly accountable health service system. It
+                    served with an advisory center, a data center, a social analysis lab and
+                    development center, a technical assistance center, and a communications
+                    center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The archives of Health PAC consist of subject files on all topics of health,
+                    reports on different hospitals in New York City and other urban locations,
+                    studies of health care systems in foreign countries, articles and reports on
+                    financial and medical accountability; information on national health institutes;
+                    Department of Health statistics; meeting minutes of various health care planning
+                    and advisory committees; bibliographic files; proposals; articles in rough
+                    draft; book reviews; position papers; pamphlets and flyers; newsletters and
+                    publications from community and national organizations; financial records; and
+                    correspondence. Major topics include free clinics, costs of medical care,
+                    insurance and HMOs, medical education, patients' rights, mental health, and
+                    aging.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

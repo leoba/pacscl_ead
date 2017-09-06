@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>C. Everett Koop M.D. collection <date type="inclusive">1968-1999</date>
+                        <date type="bulk"> 1980-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">C. Everett Koop M.D. collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2291</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-1999</unitdate>
+                <unitdate type="bulk"> 1980-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Everett Koop (b. 1916) graduated from Dartmouth College in 1937 and
+                    received his M.D. from Cornell Medical College in 1941. After serving an
+                    internship at the Pennsylvania Hospital, he pursued postgraduate training at the
+                    University of Pennsylvania School of Medicine, Boston Children's Hospital and
+                    the Graduate School of Medicine, University of Pennsylvania, from which he
+                    received the degree of Doctor of Science (Medicine) in 1947. Koop was named
+                    Professor of Pediatric Surgery, School of Medicine, University of Pennsylvania
+                    in 1959 and Professor of Pediatrics in 1971. Koop was appointed Deputy Assistant
+                    Secretary for Health, U.S. Public Health Service (PHS) in February 1981, and
+                    sworn in as Surgeon General on November 17, 1981. He was appointed Director of
+                    the Office of International Health in May 1982. Dr. Koop is a member of the
+                    American Surgical Association, the Society of University Surgeons, the American
+                    Pediatric Surgical Association, and other professional societies. He is a Fellow
+                    of the American College of Surgeons and the American Academy of Pediatrics. He
+                    also holds membership in many international organizations. He is the author of
+                    more than 200 articles and books on the practice of medicine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of memorabilia related to C. Everett Koop. The collection
+                    includes loose, framed, and mounted certificates, citations, and awards;
+                    photographs; magazines and magazine covers featuring stories about or interviews
+                    of Koop; posters and placards related to health issues; political cartoons;
+                    letters regarding the awarding of honors; and a series of Time-Life videos on
+                    health. The collection also includes a copy of Koop and a small amount of
+                    publicity material for the book. The certificates and awards are from a wide
+                    variety of medical and educational organizations and institutions, from the
+                    United States and abroad.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: National Institute of
+                    Health/National Library of Medicine: C. Everett Koop papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

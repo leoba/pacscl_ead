@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Pyros papers on Dramatika <date type="inclusive">1952-1985</date>
+                        <date type="bulk"> 1970-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Pyros papers on Dramatika</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2080</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>18 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-1985</unitdate>
+                <unitdate type="bulk"> 1970-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Pyros is a teacher, writer, and founder, editor, and publisher of Dramatika,
+                    an alternative drama and fiction periodical. Dramatika published the work of
+                    non-mainstream poets and playwrights during the late 1960s and 1970s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of John Pyros. Materials include: correspondence;
+                    manuscripts of poems, short stories, and plays; posters and flyers; playbills;
+                    photographs; book catalogs; newspaper clippings; and invoices. The archives
+                    contain manuscripts submitted for publication and correspondence related to
+                    publication and production of plays written by the following individuals: Steve
+                    Abbott, Aram Boyajian, Geoffrey Cook, Morris Gest, Solomon J. Leon, Barry
+                    Litvack, Tommie Mew, Ruth A. Wantling, and William Wantling.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

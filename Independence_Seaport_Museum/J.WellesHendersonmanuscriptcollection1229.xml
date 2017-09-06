@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. Welles Henderson manuscript collection <date type="inclusive">1761-1909</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. Welles Henderson manuscript collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC1229</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1761-1909</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. Welles Henderson (d. 2007) was the founder and former Chairman of the Board of
+                    Independence Seaport Museum. Henderson was a graduate of Princeton University
+                    and Harvard Law School. After graduating Harvard Law School and establishing
+                    himself as an admiralty attorney in Philadelphia, Mr. Henderson began collecting
+                    maritime artifacts, amassing an extraordinary collection of maritime books,
+                    paintings, and assorted artifacts. A majority of the Independent Seaport
+                    Museum's collection was either donated to the Museum by Mr. Henderson or given
+                    by donors he cultivated. In 1960, Mr. Henderson drafted the charitable trust
+                    document that founded the Museum. In 1961, the U.S. Treasury Department
+                    accredited the Museum's tax-exempt status. French Spoliation Claims, demands
+                    made upon the U.S. government by American merchants for shipping losses incurred
+                    at the hands of the French between 1793 and 1800. The American merchant vessels
+                    were sunk by the French, after the U.S. had been charged by France with
+                    violating the terms of a commercial treaty concluded between the two countries
+                    in 1778, during the American Revolution. The spoliation claims were settled when
+                    the U.S. government effectuated the Louisiana Purchase in 1803 and, in addition,
+                    assumed the claims of the American merchants against the French to the amount of
+                    $3,750,000. Between 1800 and 1850, approximately 50 legislative bills to
+                    reimburse the claimants or their descendants came before Congress.
+                    Appropriations were voted on two occasions but were vetoed by Presidents James
+                    Polk and Franklin Pierce. Finally, in 1885, the claims were adjudicated and the
+                    descendants of the original claimants were awarded $4.8 million. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Manuscripts in this collection include invoices and shipping documents from
+                    various merchants (late 1700s-late 1800s); an 1802 manuscript of references to
+                    the plan of the Navy Yard in Washington; printed broadsides and advertisements;
+                    a copy of minutes of an 1800 meeting of the Board of Property of Philadelphia in
+                    the hand of Tench Coxe, along with an obituary of Coxe; a small number of
+                    business financial documents related to Stephen Girard; and issues of American
+                    Military Magazine, 1839-1842); and miscellaneous newspapers 1761-1868. A portion
+                    of the materials relate to "French Spoliation," legal claims for payment for
+                    lost or seized goods and vessels. Materials include: correspondence between
+                    claimants and lawyers; indentures and shipping papers; powers of attorney;
+                    statements. A number of the papers relate to the lawyers Lawrence Lewis, Jr. and
+                    John Gerhard (1880s). The collection also includes records of a spoliation case
+                    handled by William Meredith regarding a ship captured by the Spanish (1797).
+                </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">French spoliation claims.</subject>
+                <genreform encodinganalog="655">Broadsides.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Legal documents.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Powers of attorney.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: When processing this collection, we may want to re-integrate material
+                    from (1969.120 and others?) that is in the Maritime Document Collection, but was
+                    donated by Mr. Henderson.</p>
+                <p>Accession number: L94.64; L94.64.1; 1969.120</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

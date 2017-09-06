@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jay S. Rogers papers <date type="inclusive">1918-1983</date>
+                        <date type="bulk"> 1918</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jay S. Rogers papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC618</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1918-1983</unitdate>
+                <unitdate type="bulk"> 1918</unitdate>
+            </did>
+
+            <bioghist>
+                <p>USS Olympia (C-6/CA-15/CL-15/IX-40) was a protected cruiser in the United States
+                    Navy during the Spanish-American War. She is most notable for being the flagship
+                    of Commodore George Dewey at the Battle of Manila Bay. The cruiser continued in
+                    service throughout World War I and was decommissioned in 1922. As of 2008,
+                    Olympia is a museum ship at the Independence Seaport Museum in Philadelphia,
+                    Pennsylvania. Jay S. Rogers served as a junior officer aboard the Olympia for
+                    six months in 1918 when she was escorting a convoy to Murmansk.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Journal kept by Ensign Jay S. Rogers during his service aboard USS Olympia, April
+                    28, 1918 to October 30, 1918. In the rear of the journal there is a hand drawn
+                    map of the movements of Olympia and several poems. Photo postcards illustrate
+                    many of the places and things described in the journal, and include photos of
+                    Olympia sailing in heavy weather, images of Olympia's crew members, images of
+                    USS San Diego, the British cruiser Cornwall, and other vessels, and images of
+                    Murmansk. The collection also includes a photograph of Rogers aboard USS Olympia
+                    in 1983 and a transcription of the journal.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Olympia (Cruiser) </corpname>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2001.26</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

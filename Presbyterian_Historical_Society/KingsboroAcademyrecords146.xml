@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kingsboro Academy records <date type="inclusive">1831-1863</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kingsboro Academy records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC146</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1831-1863</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Kingsboro Academy was formed by members of the Presbyterian Church in
+                    Gloversville, New York. A plot of land was provided by David Potter in 1831, and
+                    money was raisied for the construction of a building. The school opened in 1832.
+                    Mr. Waldo was the Academy's first principal. In 1837, Horace Sprague became
+                    principal, and Mrs. Sprague was his assistant and also taught at the Academy.
+                    The school was incorporated by the Regents of the University of the State of New
+                    York in 1839.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of minutes of the Trustees of the Kinsgboro Academy,
+                    1831-1863. The volumes include annual reports and minutes of several special
+                    meetings. Annual reports include descriptions of Academy grounds and building,
+                    inventories of volumes in the library, inventories of "philosophical
+                    apparatus," financial statements of divisions of the Academy, annual revenue
+                    and expenditures, tuition rates, numbers and salaries of teachers, subjects of
+                    study and textbooks used, and numbers of students.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Presbytery of Albany</p>
+                <p>Accession number: 05 0520r</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

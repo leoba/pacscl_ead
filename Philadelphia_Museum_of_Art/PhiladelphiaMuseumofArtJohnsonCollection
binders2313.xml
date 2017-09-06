@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Johnson Collection binders <date type="inclusive">1917-2008</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Johnson Collection
+                    binders</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC2313</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>47.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1917-2008</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Corporate lawyer and art collector John G. Johnson amassed a seminal collection
+                    of over 1,200 European paintings and sculptures between the early 1880's and his
+                    death in 1917. In Johnson's will, he left his art collection and his home at 510
+                    South Broad Street to the City of Philadelphia, and named the Pennsylvania
+                    Company for Insurances on Lives and Granting Annuities as trustee of his
+                    residual estate. A 1917 codicil of Johnson's 1912 will mandated that the
+                    collection remain installed in his home unless an extraordinary situation should
+                    arise making a move necessary. As early as 1919, only 2 years after Johnson's
+                    death, legal proceedings began, and by 1921 an official petition was placed
+                    before the Orphans' Court of Philadelphia for permanent relocation of the
+                    Collection and the sale of the 510 S. Broad St. property. The plea was grounded
+                    in the fact that the cost of renovation that the property would necessitate in
+                    order to safely house the Collection would be in excess of the available funds.
+                    The petition was dismissed, and the City proceeded with renovation projects to
+                    the extent afforded by the limited budget. By 1933, the Depression had added an
+                    overwhelming burden to the maintenance of the deteriorating property. An
+                    informal proposition to display the Collection at the Philadelphia Museum of Art
+                    was then approved by the Court. Subsequently, the property was sold and the
+                    Trustee of the Collection entered into a lease agreement with the Museum. The
+                    Johnson Collection was to be displayed and stored at the Museum in concordance
+                    with Museum hours and operations. The Trustee was responsible for rent payments
+                    and providing guardianship for the Collection as well as paying maintenance
+                    costs, including contributions to the general Restoration Fund of the Museum.
+                    The Trustee would continue its role as custodian and administrator of the
+                    Collection. In 1926, Henri Marceau was appointed assistant curator of the
+                    Johnson Collection. Two years later he was promoted to curator. He also
+                    maintained a position as an assistant professor at University of Pennsylvania's
+                    School of Fine Arts from 1925 until 1929, when he took on the additional role of
+                    Curator of Fine Arts at the Philadelphia Museum of Art. In 1933 his position at
+                    the Museum was revised to Curator of Paintings, and then to Chief, Department of
+                    Paintings and Sculpture in 1937. At this time Marceau also became Associate
+                    Director, and then took on full directorship of the Museum from 1955 to 1964.
+                    Marceau maintained his role as Curator of the Johnson Collection throughout
+                    these various appointments, and beyond them, until his death. Under the auspices
+                    of the Pennsylvania Company, and with the assistance of Barbara Sweeny, Marceau
+                    oversaw the relocation and installation of the Collection in the allocated
+                    galleries and storage spaces at the Philadelphia Museum of Art. Marceau and
+                    Sweeny organized several exhibitions featuring works from the Johnson Collection
+                    including "Flemish Painting," "Vienna Art Treasures" and "Flanders in the
+                    15th Century," as well as overseeing reinstallations of the Johnson galleries.
+                    The team also oversaw the revision of the original Italian and Dutch and Flemish
+                    catalogues, published in 1966 and 1972 respectively, and the production of a
+                    Book of Illustrations in 1953. They continued together as the curator and
+                    associate curator of the Johnson Collection until Marceau's death in 1969, upon
+                    which Sweeny assumed Marceau's position of curator until 1972.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Materials include: photographs, catalog descriptions with curator's notes,
+                    exhibitions, publication, and provenance information, correspondence, permission
+                    to publish requests, research and reference materials including, offprints,
+                    extracts and xeroxes of articles, and conservation and restoration files. One
+                    lateral drawer of photos used as proofs in Italian Paintings 1250-1450, in the
+                    John G. Johnson Collection and the Philadelphia Museum of Art, by Carl B.
+                    Strehlke. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

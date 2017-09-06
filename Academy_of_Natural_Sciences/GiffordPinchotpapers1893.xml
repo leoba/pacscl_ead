@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Gifford Pinchot papers <date type="inclusive">1929-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Gifford Pinchot papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1893</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Gifford Pinchot (1865-1946) was the first Chief of the United States Forest
+                    Service (1905-1910) and twice the Governor of Pennsylvania (1923-1927,
+                    1931-1935). He is famous for reforming the management and development of forests
+                    in the United States and for advocating conservation of the nation's forest
+                    reserves by planned use and renewal. He coined the term conservation as applied
+                    to natural resources.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of glass and film negatives documenting Pinchot's
+                    expeditions to the Galapagos and the Caribbean. Photos show Pinchot, Cornelia
+                    Bryce Pinchot, Dr. Henry A. Pilsbry, and other expedition members. Photo sleeves
+                    are labeled, and there is also a typed description of some of the images. The
+                    collection also includes letters (typescript) written by his wife, Cornelia
+                    Bryce Pinchot, describing a trip to Iran in 1949, including interactions with
+                    other Western visitors, and an audience with the Shah. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

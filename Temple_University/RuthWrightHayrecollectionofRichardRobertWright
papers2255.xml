@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ruth Wright Hayre collection of Richard Robert Wright papers <date type="inclusive">1840-1971</date>
+                        <date type="bulk"> 1920-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ruth Wright Hayre collection of Richard Robert Wright
+                    papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2255</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1840-1971</unitdate>
+                <unitdate type="bulk"> 1920-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richard Robert Wright, Jr. (1878-1967) was a bishop of the African Methodist
+                    Episcopal (A.M.E.) Church. He served as editor of the Christian Recorder,
+                    business manager of the A.M.E. Book Concern, and president of Wilberforce
+                    University. He was well known for his literary works in A.M.E. Church history
+                    and American sociology. Ruth Wright-Hayre (1910-1998), the daughter of R.R.
+                    Wright, Jr., was the first full-time African American teacher in the
+                    Philadelphia public school system, the first African American senior high school
+                    principal, as well as the first female president of the Philadelphia Board of
+                    Education. For her advocacy programs in support of urban teenagers in
+                    Philadelphia, Ms. Hayre received honors and awards from dozens of local and
+                    national organizations, including the University of Pennsylvania and the NAACP.
+                    Her memoir, written with Alexis Moore and Ed Bradley, is entitled Tell Them We
+                    Are Rising: A Memoir of Faith in Education.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection documenting the career of R.R. Wright, Jr. as a bishop of
+                    the A.M.E. Church and as a professor and president of Wilberforce University and
+                    to his involvement in politics. Materials in the collection include: newspaper
+                    articles by and about Wright (1936-1966), scrapbooks of news clippings, and
+                    printed material related to church activities and to the presidential campaigns
+                    of 1936 and 1940; a photo album from Wilberforce University and miscellaneous
+                    photographs; printed programs, reports, brochures, newsletters and magazines;
+                    bound copies of the Christian Recorder (1943-1947); announcements for church,
+                    cultural, and political programs and events; correspondence related to and from
+                    R.R. Wright and the General Board of the church, related to church activities
+                    and finances; a small number of financial records, including receipts, check
+                    stubs, and a ledger; The collection also includes movies from South Africa,
+                    Haiti, Cuba, St. Croix, and Santo Domingo.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">African Methodist Episcopal Church.</corpname>
+                <corpname encodinganalog="610">Wilberforce University.</corpname>
+                <persname encodinganalog="600">Wright, Richard R. (Richard Robert), b.
+                    1878.</persname>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

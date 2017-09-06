@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Paul Burgess papers <date type="inclusive">1912-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Paul Burgess papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1109</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1912-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Paul Burgess (1886-1958) and Dora McLaughlin Burgess (1887-1962) were appointed
+                    as missionaries to Guatemala by the PCUSA in 1912 and served there until their
+                    retirement in 1956. In 1932, Paul and Dora Burgess resigned their positions and
+                    amidst considerable controversy, decided to commence work with the Quiche
+                    Indians, a large but generally neglected segment of the Guatemalan population.
+                    They reduced the Quiche language to a modern written form, learned it and began
+                    producing Christian literature in it. In 1940, against the advice of the
+                    Presbyterian Mission, they founded one of the pioneer ecumenical projects in
+                    Latin America, the Quiche Bible Institute. This institution was established to
+                    provide spiritual training for the more than 300,000 Quiche Indians living in
+                    Guatemala. Paul Burgess also founded in 1915 El Noticiero Evangelico, a monthly
+                    magazine featuring local and world church news, and edited from 1922-23 El
+                    Mensajero Evangelico. The Burgesses also translated a number of materials into
+                    the Spanish and Quiche languages, including the New Testament, hymnals and
+                    miscellaneous Sunday School literature.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence of Paul and Dora Burgess, dating from 1912
+                    to 1950. The letters, outgoing and some incoming, relate to the Burgesses'
+                    missionary work in Guatemala. Correspondents include supporters, fellow
+                    missionaries, Guatemala Mission staff, staff of the Board of Foreign Missions,
+                    and friends and family members. Some of the correspondence is in Spanish. The
+                    collection also includes reports, typed manuscripts of articles by Paul Burgess,
+                    and a newspaper clipping about the Burgesses from 1960.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Dahlquist, Anna Marie</p>
+                <p>Accession number: 95 1206</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Burgess family papers (RG 201).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

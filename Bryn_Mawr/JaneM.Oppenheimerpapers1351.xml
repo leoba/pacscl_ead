@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jane M. Oppenheimer papers <date type="inclusive">1849-1981</date>
+                        <date type="bulk"> 1934-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jane M. Oppenheimer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1351</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1849-1981</unitdate>
+                <unitdate type="bulk"> 1934-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The embryologist and historian of science Jane M. Oppenheimer (1911-1996) was a
+                    graduate and long term member of the faculty at Bryn Mawr College. Her research
+                    centered on the early development of the killifish Fundulus heteroclitus and on
+                    the history of embryology. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Jane Oppenheimer. Included are correspondence,
+                    reports, and newspaper clippings related to NASA experiments, drafts of
+                    articles, lecture notes on Von Baer, course grade books, and awards and
+                    certificates. The collection also contains various reprints, including a two
+                    volume bound set of Oppenheimer's writings (1934-1963).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: American
+                    Philosophical Society: Jane M. Oppenheimer papers. </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

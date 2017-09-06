@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Collab records <date type="inclusive">1970-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Collab records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC749</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1970-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Originally known as the Inter-Society Committee for 20th Century Decorative Arts
+                    and Design, Collab is a group of design professionals formed under the
+                    leadership of Calvin Hathaway in 1970. Its aim is to enrich the collection of
+                    20th century decorative arts at the Philadelphia Museum of Art. Collab supports
+                    a wide range of educational programming at the Museum, including exhibitions,
+                    publications, lectures, symposia, and a citywide, college-level Student Design
+                    Competition, as well as a distinguished annual Design Excellence Award. Collab
+                    is made up of members representing the American Institute of Architects, the
+                    American Society of Interior Designers, the Interior Design Council of
+                    Philadelphia,the National Home Fashions League, the Industrial Design Society of
+                    America, the Philadelphia Museum of Art, and other organizations. In 1971 the
+                    Inter-Society Committee held its first fund raising event, called COLLAB. In
+                    1976 the group changed its name officially to Collab 20th Century, Inc. Its
+                    headquarters are maintained in the Department of Decorative Arts after 1700, at
+                    the Philadelphia Museum of Art.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These are the minutes and correspondence of Collab, from its creation in 1970 to
+                    1982. The minutes include lists of members of the Committee, agendas,
+                    treasurer's reports, lists of acquisitions and desiderata, event and fundraising
+                    planning, and lists of committee and subcommittee assignments. The collection
+                    also includes correspondence of Calvin Hathaway, 1970, related to the group's
+                    launch party; Hathaway's list of desiderata for the Museum collection; and
+                    photographs taken at Collab events, 1974 and 1975.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Collab. </corpname>
+                <subject encodinganalog="650">Decorative arts.</subject>
+                <subject encodinganalog="650">Design, Industrial.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 27</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=COL">http://www.philamuseum.org/pma_archives/search.php?c=COL</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Decorative Arts Department Records 1917-1978</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

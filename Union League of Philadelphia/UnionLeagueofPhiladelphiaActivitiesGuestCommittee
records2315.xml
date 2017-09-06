@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia Activities/Guest Committee records
+                            <date type="inclusive">1865-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia Activities/Guest Committee
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2315</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>55.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. The Guest Committee
+                    was one of the original committees listed in the 1872 annual report. Over time,
+                    the Guest and House Committees were responsible for arranging programs. In 1979
+                    the Guest Committee formed an Entertainment sub-committee, and in 1984 the Guest
+                    Committee was renamed Activities Committee.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series has been arranged into six subseries: Affinity/Recreation, Armed
+                    Services, Entertainment, Junior Committee, Ladies Luncheon, and Public
+                    Affairs/Guest Speakers. The subseries within the Activities series are based on
+                    1998 subcommittee assignments. Most of the subseries contain chronological files
+                    related to a particular group's activities. The files in most of the subseries
+                    consist primarily of printed materials for events, such as announcements,
+                    invitations, programs, and tickets. Some files include minutes, correspondence,
+                    clippings, member directories, newsletters, or menus. Within the Public
+                    Affairs/Guest Speakers subseries, many of the items are autographed by the
+                    speakers. There are some printed addresses for Lincoln Day festivities. Files
+                    related to Union League anniversaries and events surrounding the U.S.
+                    Bicentennial include committee correspondence and printed materials. The Ladies
+                    Luncheon Committee contains financial information including bank statements,
+                    canceled checks and invoices. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

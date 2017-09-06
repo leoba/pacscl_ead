@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Barnett collection of manuscripts <date type="inclusive">1663-1888</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Barnett collection of manuscripts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2534</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1663-1888</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Andrew Cock (Cox) was a farmer and land owner who lived in Kingsess, in the
+                    County of Philadelphia in the 18th century. He was the son of Valentine Cock and
+                    brother of Otter Cox. Newesingh, or Navisink, was a piece of marshland near the
+                    Schuylkill River. The land was granted in 1669 by the Dutch governor, Peter
+                    Stuyvesant of New York to Peter Cock, and confirmed to him in 1681 by Governor
+                    Francis Lovelace (1621-1675) of New York, and reconfirmed by William Penn after
+                    his arrival.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscript deeds, mortgages, indentures, receipts, and
+                    wills dating from the 17th to the 19th century. A number of the items are
+                    related to Andrew Cox (or Cock), to his father Valentine Cock and his brother
+                    Otter Cox. Of note are an inventory of land, goods, and chattel of Valentine
+                    Cock (1725); other Valentine Cock estate papers; a bond between Andrew Cock and
+                    Nicholas Scull (1728/9); and the will of Otter Cox (1744). Other materials
+                    include a 1663 deed for a parcel of land (Newesingh or Boon's Island) to Maes
+                    Hanssen; a 1672 patent, signed by Francis Lovelace; a 1826 fire insurance policy
+                    for a house at 208 High Street in the name of Catherine Regli; a fragment of a
+                    list of marriages and births of the Springer and Ferré families; three
+                    memorandum books of stocks bought and sold, 1863-1888; and small amount of
+                    correspondence and miscellaneous manuscripts.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift off Mr. and Mrs. Benjamin H. Barnett, 1974</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

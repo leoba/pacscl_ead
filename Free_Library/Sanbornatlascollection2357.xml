@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Sanborn atlas collection <date type="inclusive">1916-2007</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Map Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Sanborn atlas collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2357</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Map Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>77 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-2007</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Sanborn Map Company Insurance Maps of Philadelphia consist of a uniform
+                    series of large-scale maps, depicting the commercial, industrial, and
+                    residential sections of Philadelphia. The maps were designed to assist fire
+                    insurance agents in determining the degree of hazard associated with a
+                    particular property and therefore show the size, shape, and construction of
+                    dwellings, commercial buildings, and factories as well as fire walls, locations
+                    of windows and doors, sprinkler systems, and types of roofs. The maps also
+                    indicate widths and names of streets, property boundaries, building use, and
+                    house and block numbers. They show the locations of water mains, giving their
+                    dimensions, and of fire alarm boxes and hydrants.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Sanborn Map Company Insurance Maps of Philadelphia,
+                    Pennsylvania volumes. Volumes include: 1916-2004 set: original Philadelphia
+                    volumes, with all updates through 2004; 1958 set for Philadelphia; 1956-1967 set
+                    for Philadelphia; and volumes, mostly from the 1960s (1956-1967), for Chester
+                    County, Delaware County, Montgomery County, Berwyn, Conshohocken, Willow Grove,
+                    Camden (New Jersey). The collection also includes microfilm for several sets
+                    held by the Library of Congress and others covering Pennsylvania, Delaware, New
+                    Jersey, and Maryland; punch cards with microfilm shots of the changes to pages
+                    in the Philadelphia volumes, 1980-2002; and digital updates for 2005/2006 and
+                    2007.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

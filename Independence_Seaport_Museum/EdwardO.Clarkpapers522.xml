@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward O. Clark papers <date type="inclusive">1840-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward O. Clark papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC522</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1840-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edward O. Clark (1918-1994) was a marine historian and photographer. Clark was
+                    born in New York and later lived in Chalfont, Pennsylvania. Clark traveled
+                    across the country pursuing interesting vessels, ports of call, and documenting
+                    the vanishing heritage of American steam navigation. He was a member of the
+                    Steamship Historical Society of America.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials concerning Delaware River steamboats, assembled
+                    by Edward O. Clark. The bulk of the collection consists of photographs of
+                    vessels, engines, and engine components. There are also some photographs of
+                    interiors of vessels, passengers, and shipyards. Photographs are roughly grouped
+                    by vessel, line, or builder. There is a large collection of images related to
+                    the Wilson line. Many of the photographs in the collection were taken by Clark.
+                    Also included in the collection are histories and chronologies of vessels and
+                    lines; clippings on vessels and lines; illustrations of engine and wheel plans;
+                    lists of vessels; lists of engines and machinery by builder; several school
+                    papers by Clark on propulsion machinery for shallow draft vessels, including his
+                    1940 college thesis; correspondence with Edward T. Francis, 1984-1990; other
+                    research and general correspondence; newsletters from steamship and engineering
+                    history societies; files related to the sale of two Horace Pippin paintings
+                    owned by Clark; index card files of Delaware steamboats, ferries, and lines; an
+                    index of engines; notes on engines and other nautical equipment; and notes on
+                    machine and iron works. The collection also includes records on and photographs
+                    of railroad engines, steam whistles, and organs, and an 1840 map of the
+                    Baltimore Union Line.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Wilson Line (Wilmington, Del.)</corpname>
+                <subject encodinganalog="650">Paddle steamers.</subject>
+                <subject encodinganalog="650">Steam engineering.</subject>
+                <subject encodinganalog="650">Steamboat lines.</subject>
+                <subject encodinganalog="650">Steamboats.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Maps.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Registers (lists)</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1993.57</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Camden County
+                    Historical Society: Edward O. Clark's Steamboats on the Delaware collection;
+                    Steamship Historical Society: Edward Clark photographs (available online through
+                    the Society's Image Porthole, but currently there is next to no metadata for the
+                    images).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

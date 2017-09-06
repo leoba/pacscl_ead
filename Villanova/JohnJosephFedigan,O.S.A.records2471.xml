@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Joseph Fedigan, O.S.A. records <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Joseph Fedigan, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2471</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Father John Joseph Fedigan (1842-1908) was born in Rathbran, Ireland. He studied
+                    at Saint Mary’s College in Wilmington, Delaware, before entering the Augustinian
+                    novitiate at Ghent, Belgium. He was ordained to the priesthood in 1868. During
+                    his forty years as a priest, Father Fedigan held many positions in the Province
+                    of Saint Thomas of Villanova. In 1874, he was the first Augustinian to serve in
+                    Carthage, New York, and became the first Rector there. He was also elected
+                    Definitor for American Augustinians at several chapters. Father Fedigan served
+                    as president of Villanova College from 1878 to 1880, and in 1887 he was elected
+                    Provincial. In this position, he raised more than $275,000 to erect a new
+                    college building and Augustinian Monastery at Villanova. These buildings were
+                    completed in 1900 and 1901, respectively. From 1902 to 1906, he served as Prior
+                    at Our Mother of Good Counsel, Bryn Mawr, Pennsylvania, after which he returned
+                    to the monastery at Villanova. Fedigan Hall, a residence building at Villanova
+                    University, is named in his honor.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The John Joseph Fedigan papers consist of flyers for fundraising campaigns for
+                    the Villanova University. One requests funds for the erection of a new college
+                    building and Augustinian Monastery. The other flyer requests funds for the
+                    erection of a marble statute of St. Augustine and a grotto in honor of the
+                    Blessed Mother. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Fedigan, John Joseph.</persname>
+                <subject encodinganalog="650">College presidents</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

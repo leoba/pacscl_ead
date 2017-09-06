@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hugh Ivan Evans papers <date type="inclusive">1910-1958</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hugh Ivan Evans papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC842</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1958</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rev. Dr. Hugh Ivan Evans (1887-1958) was born in Ohio and was pastor of the
+                    Westminster Church in Dayton for 26 years. Evans received his B.D. from
+                    Princeton Theological Seminary in 1912 and D.D. from the College of Wooster in
+                    1925. He was Moderator of the General Assembly of the Presbyterian Church in the
+                    U.S.A., 1950-1951; President of Board of Trustees of Lane Theological Seminary;
+                    trustee of the College of Wooster; trustee of McCormick Theological Seminary;
+                    and trustee of Ohio Presbyterian Homes.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes sermons, 1921-1953; notebooks from Princeton Theological
+                    Seminary, 1910-1912; addresses and articles by Evans as Moderator; 1955-1958;
+                    correspondence of Evans related to Westminster Church; and folders on various
+                    pastorates, including correspondence. There are also scrapbooks on Evans' career
+                    from 1912-1958 that include newspaper and magazine clippings, photographs,
+                    bulletins and programs, invitations, and announcements. Specific volumes
+                    include: 1950-1951 travel to Cuba, Latin America, and Alaska; 1915 election as
+                    Moderator; retirement volume of correspondence; 1934 clippings of writings
+                    during trip to Europe and Russia; and a post-war photo album of Germany,
+                    Switzerland, and the Netherlands. Other items include correspondence of Mrs.
+                    Evans related to Rev. Evans' death; an "in memoriam" volume; a published
+                    history of Westminster Church (1949); and a reel to reel audio tape of a 1955
+                    tribute program for Evans. Travel-related materials include printed "Letters
+                    from Dr. Evans" from a trip to Chile in 1950, a motion picture film of trip to
+                    South America, and miscellaneous travel brochures, maps and correspondence
+                    related to overseas visits.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown 1.00 cu. ft. received 8/25/77 from W. MacGregor Princeton
+                    notebooks given by Wm. Schram (according to note on container in collection)</p>
+                <p>Accession number: 68 0287</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

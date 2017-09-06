@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Brisbane-Popovic family papers <date type="inclusive">1939-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Brisbane-Popovic family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2193</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1939-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of materials related to the Brisbane and Popovic
+                    families, compiled primarily by Daniel J. Popovic. Family members lived in
+                    Philadelphia, Ohio, New York, and New Jersey. A series of wire bound notebooks
+                    function as scrapbooks, with personal correspondence and correspondence related
+                    to genealogical research, greeting cards, and ephemera. Many items include
+                    additional annotations. The collection also includes notes on the genealogy of
+                    Captain John Brisbane (1730-1822) of Pennsylvania and his descendants, including
+                    narrative and pedigrees, and extensive commentary by the author. Sources are
+                    generally indicated and include vital records, obituaries, and newspaper
+                    clippings. There is also documentation related to Daniel Popovic's work as a lay
+                    minister and cantor in the Catholic Church, including writings on religious
+                    topics. There is also a good deal of photographic documentation, including two
+                    large photograph albums and a number of smaller albums. The albums mainly
+                    contain family photos, but several albums consist of photos of the artwork of
+                    Beverly Rae Brisbane Popovic (1925-1999). Most photos are identified.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

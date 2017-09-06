@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Association for Clinical Chemistry records <date type="inclusive">1949-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Association for Clinical Chemistry
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1161</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1949-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Henry Wabnitz (1916-2004) was a biochemist at the Nichols General
+                    Veterans Administration Hospital in Louisville, Kentucky, before becoming the
+                    Clinical Chemist at the laboratory of the Jewish Hospital in Louisville, where
+                    he worked until his retirement. He became a member of the The American
+                    Association for Clinical Chemistry (AACC) in 1949, about a year after the
+                    association was organized.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This small collection consists of Wabnitz's application form and acceptance
+                    letter from the AACC, a 1950 AACC member directory, and several pieces of
+                    correspondence from the organization to its members.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: J.W.</p>
+                <p>Accession number: 97:08</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: American Association for Clinical Chemistry records
+                    (97:08;01:07;02:02).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lea family papers <date type="inclusive">1803-1968</date>
+                        <date type="bulk"> 1803-1900</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lea family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1248</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1803-1968</unitdate>
+                <unitdate type="bulk"> 1803-1900</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Isaac Lea (1792-1886) was an American conchologist, geologist, and business man,
+                    born at Wilmington, Delaware. In 1821, Isaac Lea married Frances Anne Carey
+                    (1799-1873), the daughter of Mathew Carey. He entered his father-in-law's
+                    publishing firm, and soon became Carey's partner. Henry Charles Lea (1825-1909),
+                    Isaac Lea's son, worked for the firm until 1880, when he retired to focus on his
+                    scholarly studies. He published numerous articles on various scientific matters
+                    from medicine to marine biology, but is best known for his work on medieval
+                    history. Isaac Lea's other son, Mathew Carey Lea (1823-1897), undertook a career
+                    in law, but abandoned it after several years to pursue a second career in
+                    chemistry. His particular interest was in photographic chemistry, and he was
+                    influential in laying the foundations for the science of photography.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of volumes and documents related to the Lea family.
+                    Materials include: a Lea family commonplace book consisting of prose and verse,
+                    some in Latin, with copies of notices and extracts from "Journal of the House
+                    of Commons" (1641); Eliza Lea album of verse (some in French) with watercolors,
+                    and several papercuts. Includes inscriptions by Robert Owen and the Marquis de
+                    Lafayette, dated 1826-1827; Anna C. Jaudon commonplace book, 1845-1848; several
+                    scrapbooks on the Lea family, containing correspondence (Henry Charles Lea,
+                    Isaac Lea, Mathew Carey, Frances Ann [Fanny] Lea, Maria Carey, Lizzie Lea, J.
+                    Henry Lea, and Anna C. Jaudon), typed copy of a travel journal of Thomas Gibson
+                    Lea, family trees, obituaries, biographical sketches, travel writings, and
+                    pamphlets; Isaac Lea membership certificates and diplomas in various scientific
+                    and historical societies and institutions. 1815-1877; Isaac Lea European travel
+                    diaries, 1852-53; documents related to the printing business of Mathew Carey,
+                    including insurance survey, business correspondence, and book lists; and stamps,
+                    medals, and pamphlets.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: no number, 13897.Q, unaccessioned, 104851.D</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Eliza Lea commonplace book (Am .8223).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

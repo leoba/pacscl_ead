@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hope Emily Allen papers <date type="inclusive">1915-1956</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hope Emily Allen papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1325</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1915-1956</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hope Emily Allen (1883-1960), noteworthy medieval scholar, is best known for her
+                    research on the 14th century English mystic Richard Rolle and for her discovery
+                    of the Book of Margery Kempe. Allen received her bachelor's and master's degrees
+                    from Bryn Mawr College. She later did graduate work at Radcliffe and Cambridge.
+                    Allen described herself as an "independent scholar," and she never accepted an
+                    academic teaching appointment. Her writing falls into three overlapping groups:
+                    her early work on the Ancrene Riwle, her insight into the study of Richard
+                    Rolle, and her research on the cultural background of the Book of Margery
+                    Kempe.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers consist primarily of research notes by Allen, typescripts of medieval
+                    manuscripts (some in translation), photostats of printed medieval texts, and
+                    professional correspondence. Topics include the Book of Margery Kempe, Julian of
+                    Norwich, the Ancrene Riwle,and Richard Rolle. The collection also includes a set
+                    of scrapbooks of clippings about the discovery of the Book of Margery Kempe.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">Julian, of Norwich, b. 1343.</persname>
+                <persname encodinganalog="600">Kempe, Margery, b. ca. 1373.</persname>
+                <persname encodinganalog="600">Rolle, Richard, of Hampole, 1290?-1349.</persname>
+                <subject encodinganalog="650">Monasticism and religious orders--Rules.</subject>
+                <subject encodinganalog="650">Mysticism--England.</subject>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.brynmawr.edu/Library/speccoll/guides/allen.shtml">http://www.brynmawr.edu/Library/speccoll/guides/allen.shtml</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Hope Emily Allen collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

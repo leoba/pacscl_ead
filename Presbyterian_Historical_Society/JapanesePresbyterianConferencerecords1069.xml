@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Japanese Presbyterian Conference records <date type="inclusive">1977-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Japanese Presbyterian Conference records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1069</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1977-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Japanese Presbyterian Conference is an informal organization of Japanese
+                    American Presbyterian churches in the United States. Founded in 1905, the
+                    Conference engages in activities such as lobbying the General Assembly,
+                    supporting social justice campaigns and education, and sponsoring cultural
+                    seminars. The Conference also works with churches and denominational agencies to
+                    develop specialized curriculum, liturgy, and programs for the Japanese American
+                    community.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of anniversary booklets for member churches of the Japanese
+                    Presbyterian Conference. The collection includes booklets for the Parkview
+                    Presbyterian Church, Sacramento, California; the Ogden Japanese Christian
+                    Church, Ogden, Utah; the Cortez Presbyterian Church, in Cortez, California; the
+                    Calvary Presbyterian Church, Stockton, California; the Union Church of Los
+                    Angeles, California; and the Japanese Church of Christ, Salt Lake City,
+                    Utah.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Japanese Presbyterian Conference, Sumio Koge</p>
+                <p>Accession number: 93 0929</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

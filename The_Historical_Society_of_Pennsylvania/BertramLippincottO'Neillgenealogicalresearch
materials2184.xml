@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bertram Lippincott O'Neill genealogical research materials <date type="inclusive">1907-1989</date>
+                        <date type="bulk"> 1967-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bertram Lippincott O'Neill genealogical research
+                    materials</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2184</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1907-1989</unitdate>
+                <unitdate type="bulk"> 1967-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bertram Lippincott O'Neill (1919-2002) lived in Philadelphia, Pennsylvania. He
+                    worked in his family's insurance business, W. C. O'Neill Sons, for over 20
+                    years, then served as a vice president of Aluminum Biclimatic Corporation. He
+                    also owned a retail store called La Boutique. He served on the boards of The
+                    Historical Society of Pennsylvania, the Genealogical Society of Pennsylvania,
+                    the Pennsylvania Academy of Fine Arts, and the U.S. Court Tennis Association.
+                    His was married to Jane O'Neill and they had a son, Bertram, Jr.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of genealogical research on the Lippincott family and
+                    allied families such as Reeves, Biddle, Selous, Coles, Goodwin, Crawford, and
+                    Wharton. Materials include: divorce decrees, marriage announcements, marriage
+                    licenses, birth certificates, and other vital and legal records; copies of
+                    newspaper clippings; correspondence related to the research; personal and
+                    genealogical correspondence with family members; photographs; personal
+                    memorabilia and printed materials from organizations and clubs in which family
+                    members participated; family charts; and obituaries.Information was compiled
+                    from various archives and public records offices, as well as other family
+                    members.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Bertram Lippincott O'Neill papers (coll. 3011).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

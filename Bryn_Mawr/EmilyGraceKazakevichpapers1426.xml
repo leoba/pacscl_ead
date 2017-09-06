@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Emily Grace Kazakevich papers <date type="inclusive">1935-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Emily Grace Kazakevich papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1426</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Emily Grace was a graduate of Bryn Mawr College, receiving her BA in 1933 and her
+                    master's in 1934. She received a doctorate from Yale on the literary sources for
+                    the history of Sparta in the 3rd century BC. In 1949 she and her husband,
+                    Vladimir Kazakevich, moved to Moscow, where she worked for the Institute of
+                    Ancient History at the Academy of Sciences of the USSR, and continued her own
+                    work on 4th and 5th century Greek law. She returned to the US in 1986 and took a
+                    fellowship at Bryn Mawr. She died in 1987.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of an unpublished manuscript and notes for a monograph
+                    entitled "The non-citizen offenser in attic and platonic Homicide Law" written
+                    by Emily Grace. The work is in English and Russian. The papers include: index
+                    card research notes in Greek, English, Russian, and German; manuscript chapters
+                    with annotations; and correspondence with other scholars. The collection also
+                    contains English and Russian reprints of Grace's articles, correspondence with
+                    family, and a small collection of correspondence between Virginia Grace and
+                    Michael Jameson about Grace's work.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

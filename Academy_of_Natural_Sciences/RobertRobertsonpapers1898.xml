@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Robertson papers <date type="inclusive">1954-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Robertson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1898</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Robertson is a malacologist and Emeritus Curator in the Department of
+                    Malacology of the Academy of Natural Sciences of Philadelphia. He is a
+                    specialist in marine gastropods. Robertson received his Ph.D. in biology from
+                    Harvard University in 1960, after which he joined the Academy staff. He was
+                    Pilsbry Chair of Malacology from 1969 to 1972. A. Myra Keen (1905-1986) was a
+                    professor of paleontology at Stanford University, and curator of malacology at
+                    the University. She published 14 books and many scientific papers on malacology.
+                    She retired in 1972.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Correspondence between Robert Roberson and A. Myra Keen, 1954-1976. The letters
+                    cover a broad range of topics, including their research, teaching and
+                    supervision of students, publications, colleagues, and personal matters. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Malacology
+                    Department records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

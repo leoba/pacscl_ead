@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Anderson P. Jones papers <date type="inclusive">1875-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Anderson P. Jones papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC657</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Notley Jones (1809-1887), began practice in Hebron, West Virginia, in
+                    1840. His son, Anderson Porter Jones (1852-1933), was a physician in Hebron and
+                    Pennsboro, West Virginia. A. P. Jones studied medicine at the College of
+                    Physicians and Surgeons in Baltimore, Maryland, and at St. Louis Physicians and
+                    Surgeons School. He did not graduate from either school, but joined his father,
+                    William Notley Jones, in his practice in Hebron in 1897. In the early 1900s, A.
+                    P. Jones moved his practice to Pennsboro. A. P. Jones had two children: Oda
+                    (1880-1954) and Latimer (1884-1956). Latimer studied at the College of
+                    Physicians and Surgeons in Baltimore and worked with his father in the practice
+                    in Hebron. Latimer's son, James P. Jones (1810-1974), received his M.D. from the
+                    University of Maryland Medical School in 1937, and joined the family practice in
+                    1938.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of medical and family papers of three generations of the
+                    Jones family (Anderson P. Jones, Latimer P. Jones, and James P. Jones).
+                    Materials include: daybooks (1896-1952); physician's logbooks (1938-1968);
+                    account and billing ledgers; file cards for patients; bills and receipts for
+                    medical supplies and pharmaceuticals; prescription registers; delivery records
+                    (1941-1944); pharmaceutical and medical supply catalogs, circulars, price lists,
+                    and advertisements; and several printed works on anatomy, first aid, and
+                    childbirth. Other materials include lecture notes from medical courses, 1879 and
+                    1936; correspondence from James P. Jones to Elizabeth (his wife), 1937-1938;
+                    other family letters, including letters from William Notley Jones to A. P Jones;
+                    and several photographs of family members, homes, and medical offices. The
+                    collection also includes a series of vinyl recordings on cardiac
+                    auscultation.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2005-003</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

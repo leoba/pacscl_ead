@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>R. Tucker Abbott papers <date type="inclusive">1979-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">R. Tucker Abbott papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC2044</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1979-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Tucker Abbott (1919-1995) was a noted American conchologist and
+                    malacologist. He graduated from Harvard University in 1942, where he had studied
+                    with William James Clench. After his service in World War II, he worked at the
+                    National Museum of Natural History, Smithsonian Institution (1944-1954) in the
+                    Department of Mollusks. During this time, he earned his Master's and Ph.D. at
+                    George Washington University. He then joined the Academy of Natural Sciences in
+                    Philadelphia (1954-1969). He was chair of the Department of Mollusks, and held
+                    the Pilsbry Chair of Malacology. During that time he went on a number of
+                    shelling expeditions to the Indo-Pacific region. He also started his own
+                    journal, "Indo-Pacific Mollusca," and an active editor on "The Nautilus." In
+                    1969, Abbott accepted the DuPont Chair of Malacology at the Delaware Museum of
+                    Natural History. He also headed the Department of Mollusks, and was Assistant
+                    Director. In 1971 he became editor-in-chief of "The Nautilus." He was the
+                    author of American Seashells, 1974, Seashells of the World, 1962, and The
+                    Kingdom of the Seashell, 1972. He was an active member of the American
+                    Malacological Union and Conchologists of America.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of illustrations for and a copy of Monographs of Marine
+                    Mollusca, number 3, 1985, edited by R. Tucker Abbott. Illustrations include line
+                    drawings, maps, charts, and photographs. The collection also includes one black
+                    and white slide of Robert Robertson, dated 1979. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

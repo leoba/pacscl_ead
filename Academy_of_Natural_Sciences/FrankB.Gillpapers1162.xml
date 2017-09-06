@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frank B. Gill papers <date type="inclusive">1969-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frank B. Gill papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1162</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1969-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frank Gill (1941- ) joined the Academy of Natural Sciences shortly after
+                    receiving his Ph.D. in zoology from the University of Michigan in 1969. He held
+                    several positions, including Curator of Ornithology (1969-1995), Chairman of the
+                    Department of Ornithology, Chairman of the Department of Vertebrate Biology, and
+                    Director of the Division of Systematic and Evolutionary Biology. He was also an
+                    Adjunct Associate Professor at the University of Pennsylvania. Gill did
+                    fieldwork in several parts of the world, including Costa Rica and Africa, and
+                    led Academy member trips. His research interests were avian systematics, DNA
+                    sequencing, Allozymes, restriction site analysis of mitochondrial DNA, and
+                    DNA-DNA hybridization.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains data and manuscripts for research projects, including:
+                    the Hermit Hummingbird flight patterns (1980s); East African Sunbird project
+                    (1970s); Physiology and Biology of High Montane Nectar-feeding Birds; and Birds,
+                    Bees and Passion Flowers. Documents in the collection include: annotated
+                    typescript drafts; reprints; negatives and photo prints of birds, data graphs,
+                    and other figures; data and research notes; reviewer comments; equipment lists
+                    and expense reports from expeditions; and expedition notebooks. There is
+                    correspondence in the collection between Gill and his colleagues, discussing his
+                    research projects; and there are letters between Gill and editors discussing the
+                    review and publication of the studies. The collection also includes unidentified
+                    audio tapes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 97:09</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia
+                    Ornithology Department records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

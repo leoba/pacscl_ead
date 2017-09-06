@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Natalie Saxe Randall papers <date type="inclusive">1923-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Natalie Saxe Randall papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC650</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>22.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1923-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Natalie Saxe Randall graduated from the Philadelphia High School for Girls in
+                    1941 and the University of Pennsylvania in 1944. At the age of 24, she became
+                    Director of the Committee for Philadelphia, which spearheaded the reform
+                    movement led by the city's great post-WWII reform Democrats Joseph Clark (Mayor
+                    1952-1956) and Richardson Dilworth (Mayor 1956-1962) against the legendarily
+                    corrupt Republican machine. Saxe remained head of the Committee until Dilworth
+                    took office as mayor in January 1956, served concurrently on the Democratic
+                    State Committee 1950-1954, and was the self-labeled "Advance Man" during
+                    Dilworth's first unsuccessful campaign for governor (1950). When Dilworth
+                    resigned his position as mayor to run again for governor in 1962, she remained
+                    his Executive Assistant and served as the chief coordinator of his campaign.
+                    When Dilworth was appointed President of the Philadelphia Board of Education in
+                    1965 by Mayor James Tate (whose campaign Saxe helped direct), Saxe again served
+                    as Dilworth's Executive Assistant until he resigned in 1971 rather than work in
+                    any way with Frank Rizzo. Following Dilworth's retirement from pubic life, Saxe
+                    worked as a government affairs consultant and lobbyist for a Philadelphia
+                    consortium of cultural institutions (including the Pennsylvania Academy of Fine
+                    Arts and the Academy of Natural Sciences) and Lincoln University. She also
+                    worked to perpetuate the memory of Richardson Dilworth and his reform work by
+                    assisting in the attachment of his name to Philadelphia City Hall's Dilworth
+                    Plaza and the airport's Dilworth International Terminal.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Natalie Saxe Randall. Materials include:
+                    typed incoming and outgoing correspondence (originals and retained copies,
+                    respectively); notes and memoranda; drafts; typed and typeset reports; newspaper
+                    articles; photographs; address books; daily memoranda; and travel diaries. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2004.058</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rhys Carpenter papers <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rhys Carpenter papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1285</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>From Wikipedia: "Rhys Carpenter (born 1889 Cotuit, Massachusetts; died January
+                    2, 1980 Devon, Pennsylvania) was a classical art historian and professor at Bryn
+                    Mawr College. Carpenter took his B.A. in Classics at Columbia University in
+                    1909. Carpenter won a Rhodes scholarship at Oxford, studying at Balliol College.
+                    There he published his own poetry and earned a second B.A. (1911) and an M.A.
+                    (1914). He spent the year 1912-13 at the American School of Classical Studies in
+                    Athens. The president of Bryn Mawr College, Martha Carey Thomas (1857-1935)
+                    invited Carpenter to establish a department of classical archaeology at the
+                    college, which he did while completing his own graduate work at Columbia
+                    University; he completed his Ph.D. in 1916 with a dissertation on The Ethics of
+                    Euripides. By 1918 he was already a full professor at Bryn Mawr. In 1918
+                    Carpenter married Eleanor Houston Hill. In 1926 Carpenter became professor at
+                    the American School of Classical Studies in Athens, and established the school's
+                    journal, Hesperia in 1932. He also was instrumental in the planning of the
+                    American excavations of the agora in Athens. He returned to teaching at Bryn
+                    Mawr College and also delivered the Martin Classical Lectures at Oberlin
+                    College, which appeared in print as The Humanistic Value of Archaeology (1933).
+                    He delivered the Sather lectures in 1946 on "Folk tale, fiction, and saga in
+                    the Homeric epics." He retired in 1955. In retirement he held visiting
+                    professorships at the University of Pennyslvania (1960), was Andrew W. Mellon
+                    professor at the University of Pittsburgh (1961-62), and visiting scholar at the
+                    University of Washington (1963-64). He was awarded the Gold Medal of the
+                    Archaeological Institute of America in 1969. Carpenter was unconventional as a
+                    scholar. He analyzed Greek art from the standpoint of artistic production and
+                    behavior. He argued for dating the Greek alphabet to the eighth century B.C.
+                    Bryn Mawr College dedicated their newly built archaeology library in Carpenter's
+                    name and memory in 1997."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Teaching - Archaeology mainly publications and lectures</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

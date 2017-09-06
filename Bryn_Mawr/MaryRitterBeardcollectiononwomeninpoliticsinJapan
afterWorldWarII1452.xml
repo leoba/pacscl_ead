@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary Ritter Beard collection on women in politics in Japan after
+                        World War II <date type="inclusive">1946-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary Ritter Beard collection on women in politics in Japan
+                    after World War II</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1452</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1946-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Mary Ritter Beard (1876-1958) was an historian and a campaigner for women's
+                    suffrage. She was the author of Women's Work in Municipalities (1915), A Short
+                    History of the American Labor Movement (1921), On Understanding Women (1931),
+                    America Through Women's Eyes (1933), and Women as Force in History (1946), among
+                    other publications. She also collaborated with her husband, economic historian
+                    Charles A. Beard, to produce The Rise of American Civilization (1927), a
+                    celebrated two-volume history of the United States. Ethel B. Weed, a lieutenant
+                    in the Supreme Commander of the Allied Forces Civil Information and Education
+                    Office in Japan, provided research assistance to Beard for a proposed book on
+                    Japanese women's history.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of documentation Beard and Weed compiled on the
+                    activities of women in politics in Japan after World War II. Materials include
+                    reports from the General Headquarters of the Supreme Commander of the Allied
+                    Forces: Civil Information and Education Section on the women's bureaus of
+                    Japan's political parties and on the individual elected women members of Japan's
+                    Diet. Activities of a group of these politicians, under the name the Women's
+                    Representatives Club, are documented in reports and newspaper articles. The
+                    collection also includes a series of statements by and interviews of various
+                    Japanese women on the subject of women's involvement in politics.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Sophia Smith
+                    Collection, Smith College: Mary Ritter Beard papers; Depauw University: Charles
+                    &amp; Mary Beard Papers 1874-1976.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

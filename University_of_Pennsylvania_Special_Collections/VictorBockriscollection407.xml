@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Victor Bockris collection <date type="inclusive">1970-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Victor Bockris collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC407</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1970-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Victor Bockris (b.1949) is an English-born, U.S.-based author, primarily of
+                    biographies of artists, writers, and musicians. He graduated from the University
+                    of Pennsylvania in 1971. While in Philadelphia, he founded Telegraph Books. He
+                    moved to New York City in 1973 and became an associate of Warhol and Burroughs.
+                    He worked for Warhol at the Factory and published many pieces in Warhol's
+                    magazine Interview, often in collaboration with Andrew Wylie, now best known as
+                    a literary agent. He has written about Lou Reed (and The Velvet Underground),
+                    Andy Warhol, Keith Richards, William S. Burroughs, Terry Southern, Blondie,
+                    Patti Smith, and Muhammad Ali. He also helped write the autobiographies of John
+                    Cale and Bebe Buell.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Victor Bockris. Materials include:
+                    correspondence with writers and others, including Kenneth Bluford and Patti
+                    Smith; issues of many small poetry zines and publications, mainly from Red Room
+                    Books and Angel Hair Books; manuscripts for Finished: A Novel by Bockris;
+                    "Electric Generation" columns; and a Patti Smith interview. The collection
+                    includes several photographs of Patti Smith.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 176</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Rare Book and Manuscript Library: Telegraph Books collection</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

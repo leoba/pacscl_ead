@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lucy Shoe Meritt papers <date type="inclusive">1898-2003</date>
+                        <date type="bulk"> 1920s-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lucy Shoe Meritt papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1297</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>23 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-2003</unitdate>
+                <unitdate type="bulk"> 1920s-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lucy Taxis Shoe Meritt (1906-2003) was an archeologist, scholar, teacher, and
+                    editor. She received her bachelor's degree from Bryn Mawr College in 1927, her
+                    master's in 1928 and her doctorate in 1935. From 1929 to 1934, she studied at
+                    the American School of Classical Studies in Athens. During those years she
+                    visited many classical sites in Greece and Asia Minor and made the drawings of
+                    the mouldings that appeared in her book, Profiles of Greek Mouldings, published
+                    in 1936. She taught at Mount Holyoke College from 1937-1950. As a Fellow at the
+                    American Academy in Rome in 1937 and 1950, she investigated architectural
+                    mouldings in Italy. Her research was later published in two volumes, Profiles of
+                    Western Greek Mouldings (1952) and Etruscan and Republican Roman Mouldings
+                    (1965). When the American School of Classical Studies in Athens established a
+                    publications office at Princeton, she was named Editor of Publications, a post
+                    she held from 1950-1972. In 1972 Dr. Meritt returned to the family home in
+                    Austin, Texas and was a Visiting Scholar in the Department of Classics at the
+                    University of Texas at Austin from 1973 until her death.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the personal and professional papers of Lucy T. Shoe
+                    Meritt, dating from 1898 to 2003. Records include: correspondence with family
+                    members, other scholars and personal friends, including Rhys Carpenter, Homer A.
+                    Thompson, Francis Henry Bacon, Katherine Donaldson and Dorothy Kent Hill;
+                    publications, reviews, and lectures; records from her work at the American
+                    School of Classical Studies at Athens; high school and college notebooks,
+                    academic reports, and diplomas; photographs of family members, colleagues,
+                    architectural sites, and artifacts; and diaries and travel journals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Alexander
+                    Architectural Archive, University of Texas at Austin: Lucy Shoe Meritt
+                    collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

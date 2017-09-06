@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George Sims papers <date type="inclusive">1666-1924</date>
+                        <date type="bulk"> 1873-1924</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George Sims papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1764</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1666-1924</unitdate>
+                <unitdate type="bulk"> 1873-1924</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George Robert Sims (1847-1922) was an English journalist, dramatist, and poet. In
+                    1874, Sims was invited to join the staff of Fun, a downmarket Punch, to replace
+                    Tom Hood. In 1876, employing the pseudonym Dagonet, he began to write "Mustard
+                    and Cress," a weekly column for the Referee that appeared without fail until
+                    the week of his death forty-six years later. His reports of some of his forays
+                    into the worst of London slums, commissioned by Pictorial World, were
+                    subsequently published as How the Poor Live (1883). Sims's first play, Crutch
+                    and Toothpick, was produced at the Royalty Theatre in April 1879, and was
+                    followed by a number of plays of which he was author or part-author. After long
+                    runs at West End houses, many of these became stock pieces in suburban and
+                    provincial theaters. His most famous melodramas were The Lights of London, In
+                    the Ranks, and Harbour Lights.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the correspondence of George Robert Sims. Included in the
+                    collection are letters from J.M. Barrie, Jerome K. Jerome, Hall Caine, Ingleby
+                    Oddie (on the subject of Arthur Conan Doyle and spiritualism), Lillie Langtree,
+                    Andrew Chatto, H.B. Irving, and others. Many of the letters discuss Sims'
+                    journalism and plays, social work, and appointments. The collection also
+                    includes letters from Sims to Clement Scott, a dramatic critic (mainly for the
+                    Daily Telegraph) and playwright. In addition the collection contains a small
+                    batch of playbills, cabinet cards, postcards, menus, tickets, and clippings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

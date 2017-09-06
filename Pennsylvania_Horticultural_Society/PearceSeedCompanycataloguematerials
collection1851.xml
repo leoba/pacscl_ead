@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pearce Seed Company catalogue materials collection <date type="inclusive">1937-1961</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pearce Seed Company catalogue materials
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1851</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1961</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rex D. Pearce was a seedsman and nurseryman with operations in Merchantsville and
+                    Moorestown, New Jersey. His company specialized in rare seeds, bulbs, and
+                    plants. The nursery and seed company flourished between the 1920s and the
+                    1960s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of botanical illustrations, many produced for the Pearce
+                    Seed Company seed catalogues. The illustrations are preserved in a variety of
+                    stages of production, from pencil sketches and inked drawings to printed
+                    versions. There is a series of over 100 illustrations of individual species
+                    drawn by R.M. DonDero, accompanied by typescript or manuscript descriptions and
+                    cultivation information. Other artists represented in the collection include
+                    Elmer H. Kreps and Eleanor B. Acker, who created cover illustrations for the
+                    Pearce Seed Company catalogs.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Botanical illustration.</subject>
+                <subject encodinganalog="650">Seeds--Catalogs.</subject>
+                <genreform encodinganalog="655">Drawings.</genreform>
+                <genreform encodinganalog="655">Illustrations.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: Seed Catalogs collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

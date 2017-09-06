@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Hanley papers <date type="inclusive">1971-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Hanley papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1445</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.125 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Hanley (1901-1985) was a British novelist. Born in Dublin, he went to sea
+                    at a young age, joining the Canadian Expeditionary Forces during World War I.
+                    His early writing focused on the lives of men who work on the sea. His novels
+                    were critically acclaimed, but most of them did not sell very well. Frank
+                    Harrington was a book collector who collected Hanley's works and corresponded
+                    extensively with the author. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of correspondence and manuscripts of James Hanley,
+                    collected by Frank Harrington. Many of the letters are between Hanley and
+                    Harrington, written primarily in the 1970s and 1980s. This correspondence
+                    relates to the publication of Hanley's works, his life in Great Britain, his
+                    family, and the authors and poets that he enjoys reading. There is additional
+                    correspondence between Hanley and Sven Tackmark about the publication of
+                    Hanley's works and production of a play in Scandinavia, and correspondence from
+                    Harrington about his collection of Hanley's works as well as of other writers.
+                    The collection also includes reviews of Hanley's books, photographs, a
+                    biographical essay on Hanley, and clippings. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: National Library of
+                    Wales, Aberystwyth: James Hanley papers; Senate House Library, University of
+                    London: James Hanley collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harry W. Trudell papers <date type="inclusive">1904-1953</date>
+                        <date type="bulk"> 1922-1953</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harry W. Trudell papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1051</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1904-1953</unitdate>
+                <unitdate type="bulk"> 1922-1953</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Harry W. Trudell (1880-1964) was an amateur mineralogist and botanist. He was a
+                    member of the American Mineralogy Society, and the Business Manager of the
+                    American Mineralogist journal. Trudell took courses from Edgar T. Wherry at the
+                    Wagner Free Institute of Science, and also accompanied him on plant-collecting
+                    trips.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes correspondence with James G. Manchester, William Parish,
+                    Nicola D'Ascenzo, and Peter Zodac as well as pamphlets, newspaper clippings,
+                    advertisements, a typescript draft of Trudell's review of The minerals of New
+                    York City and its environs by J.G. Manchester for Rocks and Minerals (1931) as
+                    well as separates, reprints, and catalogues.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 92-017</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: this collection contains reprints of some articles by Samuel George
+                    Gordon. Additional Gordon material is in the Samuel George Gordon papers
+                    (90-020, 92-013 and 92-014). Some correspondence with Trudell is in the Paul and
+                    Hilde Seel papers (90-025, 92-012, 92-016, and 92-019).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

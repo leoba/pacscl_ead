@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edgar M. Dilley manuscripts <date type="inclusive">1911-1922</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edgar M. Dilley manuscripts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC761</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1922</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edgar M. Dilley (1874-1960) graduated from the University of Pennsylvania in
+                    1897. After college, he worked as a reporter on a number of papers in
+                    Philadelphia, New York, Chicago, and St. Louis. He was the author of "Ave, Penn
+                    Charter," a school song for his preparatory school; Red Fox's Son (a novel),
+                    and "Hail, Pennsylvania," the alma mater of the University of
+                    Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of typed and handwritten manuscripts of Edgar M. Dilley. The
+                    manuscripts include drafts of Dilley's musical compositions, including
+                    "Pennsylvania," screenplays, stories, plays, essays, and comic operas.
+                    Manuscript titles include "The Idol's Eye," "A Pair of Kings," "Why Men
+                    Don't Go to Church," "The Forbidden Trail: An Historical Romance of Oregon,"
+                    and "The Drummer Boy: A Civil War Opera."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 31</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Archives and Records Center: Edgar Meck DIlley papers (UPT 50
+                    D578).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Chakerian papers <date type="inclusive">1934-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Chakerian papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1108</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1934-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Chakerian (1904-1994) was a professor at McCormick Theological Seminary,
+                    a sociologist, and an ordained Presbyterian minister. He taught for over 50
+                    years and was also involved in children’s welfare and social work. He was a
+                    consultant for both the Church World Service and Christian Children’s Fund. He
+                    retired from McCormick Seminary in 1971. In 1975, while working with
+                    Presbyterian Volunteer Services, Chakerian went to Taiwan to teach at the Tainan
+                    Presbyterian College and Seminary. He stayed in that post for eight years, and
+                    then worked for two years helping to organize the First Graduate Institute of
+                    Social Work in Taiwan at Tunghai University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes papers related to Chakerian's work with the Christian
+                    Children's Fund and the Church World Services, including reports on Korea,
+                    Vietnam, Brazil, Mexico, India, Taiwan, Laos, and other locations; material
+                    related to CCF's Family Helper Project; reports and articles on inter-country
+                    adoption; policy statements; meeting minutes from CCF; printed works by
+                    Chakerian on topics related to Church social services; magazine clippings; and a
+                    small number of travel notes and lecture notes. Materials from the Hartford
+                    Seminary Foundation include articles by Chakerian on Church social work and
+                    other topics, bulletins of the Greater Hartford Community Council, Connecticut
+                    State Planning Board reports, and reports on Presbyterian Settlement Houses.
+                    There is a small amount of correspondence and reports from his time at the
+                    McCormick Seminary.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Chacerian, Juanita R.</p>
+                <p>Accession number: 95 1011</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

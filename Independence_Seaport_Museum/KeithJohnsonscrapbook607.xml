@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Keith Johnson scrapbook <date type="inclusive">1949-1964</date>
+                        <date type="bulk"> 1960-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Keith Johnson scrapbook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC607</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1949-1964</unitdate>
+                <unitdate type="bulk"> 1960-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The second USS Thresher (SSN-593) was the lead ship of her class of
+                    nuclear-powered attack submarines in the United States Navy. Her loss at sea
+                    during deep-diving tests in 1963 is often considered a watershed event in the
+                    implementation of the rigorous submarine safety program SUBSAFE. The contract to
+                    build Thresher was awarded to Portsmouth Naval Shipyard on 15 January 1958, and
+                    her keel was laid on 28 May 1958. She was launched on 9 July 1960, was sponsored
+                    by Mrs. Frederick B. Warder (wife of the famous Pacific War skipper), and was
+                    commissioned on 3 August 1961, with Commander Dean L. Axene in command. Keith
+                    Johnson was a Torpedoman Third Class, Silent Service and a member of the crew of
+                    the USS Thresher until his wife convinced him not to reenlist when his
+                    enlistment was up. Shortly after he left the ship, it was lost in the Atlantic
+                    Ocean while performing deep sea diving tests. After the accident, extensive
+                    searching was undertaken by the bathyscaphe Trieste, the oceanographic ship
+                    Mizar and other ships. The remains of the vessel were finally located some 8400
+                    feet below the surface.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Disbound scrapbook of clippings on the nuclear submarine Thresher, including
+                    articles about its commissioning, sea trials, and its sinking in 1963 and the
+                    resulting search efforts. The bulk of the items in the collection are newspaper
+                    clippings. There are also clippings from magazines, a photograph of the
+                    Thresher, and envelopes bearing a USS Thresher rubber stamp; an invitation for
+                    the commissioning; and several letters to the crew about the shock acoustical
+                    trials. The collection also includes several certificates and a submarine
+                    qualification card belonging to Keith Johnson.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2000.133</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

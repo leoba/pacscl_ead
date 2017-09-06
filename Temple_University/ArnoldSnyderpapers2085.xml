@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Arnold Snyder papers <date type="inclusive">1953-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Arnold Snyder papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2085</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>69.76 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Arnold Snyder was born in Philadelphia and attended Temple University, preparing
+                    for a career in journalism. Snyder worked as a news writer and producer at WTTM,
+                    ABC radio in Trenton, N.J., before joining ABC-TV News in 1955. Snyder covered
+                    the major news events of the 1960s and 1970s, and went on to design and
+                    implement STAIRS (Storage, Tracking, and lnformation Retrieval System), a system
+                    for organizing and accessing news footage on videotape.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this prominent news broadcaster are comprised primarily of
+                    videotapes, but also include correspondence, typescripts, news releases, and
+                    reports. The typescripts for a news show, "It Looks To Me," come primarily
+                    from 1953-1954 when Snyder worked for WTTM Radio in Trenton, N.J. The
+                    correspondence and press releases reflect Snyder's interest in politics, which
+                    includes press materials from the 1964 Democratic Convention. The collection
+                    also contains 426 3/4-inch videotapes from network news shows such as Nightline
+                    and PBS shows such as Nova, Frontline, and Bill Moyers Journal, 1981-1986. There
+                    is a videotape explaining STAIRS (Storage Text &amp; Information Retrieval
+                    Systems), a library system initiated by Snyder for ABC News. The collection does
+                    not contain many materials associated with Snyder's prominent television career.
+                    The typescripts of Snyder's radio broadcasts focus on New Jersey politics and
+                    Cold War politics.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

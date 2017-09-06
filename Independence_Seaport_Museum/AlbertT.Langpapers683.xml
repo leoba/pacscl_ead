@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Albert T. Lang papers <date type="inclusive">1899-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Albert T. Lang papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC683</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1899-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Albert Theodore Lang (1881-1956) was an Oiler on the USS Olympia and a member of
+                    the ship's baseball team. He wife was Emilie Pauline Lang. Their son, Charles
+                    Lang, served in the U.S. Navy during World War II.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Albert Lang. Materials include: correspondence
+                    and other documents of Albert Lang and Emilie Lang from the Navy Department
+                    related to retirement and veteran's benefits; service records including orders,
+                    appointments, changes of duty, and discharges, 1914-1947, including a
+                    certificate of appointment to the USS Olympia as Oiler, 1909; correspondence
+                    between Albert Lang and his sister, 1899 and 1921; Albert and Emilie Lang's
+                    marriage certificate; correspondence from the Cruiser Olympia Association; and
+                    clippings related to the Olympia, circa 1959. Photos in the collection include:
+                    portrait photographs, cabinet card photos, and photo postcards of Albert Lang
+                    and other sailors, World War I period; reproduction photographs of the USS
+                    Olympia baseball team (Lang was a member of the team); photos of a war-damaged
+                    town (World War I period, unlabeled); panoramic photo of Company 1328 Civilian
+                    Conservation Corps at Sunnamahoning, Pennsylvania, 1933; panoramic photo of the
+                    crew of the USS New Jersey, 1913; and commemorative photos of ships USS Indiana,
+                    USS New Hampshire, and others. Other materials in the collection include:
+                    programs, menus, and other ephemera from events on board various ships,
+                    including the USS New Hampshire, the USS Nebraska, and the USS Pennsylvania; and
+                    miscellaneous printed volumes and souvenir booklets. The collection also
+                    includes a letter related to Albert's son, Charles, attempt to enroll in the
+                    U.S. Naval Academy and a copy of a report of physical examination.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Cabinet photographs.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Military records.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2008.3</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

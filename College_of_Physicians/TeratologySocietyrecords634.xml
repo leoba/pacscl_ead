@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Teratology Society records <date type="inclusive">1964-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Teratology Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC634</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Teratology Society was founded by Drs. F. Clarke Fraser, Josef Warkany and
+                    James G. Wilson in 1960 with the first annual meeting in 1961. The purpose of
+                    the society was to foster exchange of information relating to congenital (birth)
+                    defects including their nature, cause, mechanism and prevention. Members are
+                    drawn from a wide range of scientific fields including pediatrics, anatomy,
+                    epidemiology, pharmacology and industrial toxicology, developmental biology,
+                    obstetrics, pathology, genetics and dentistry. The Society through its officers
+                    and council members plans the annual meetings and carries out the business
+                    related to the interests of its members. A number of committees aid the society
+                    in such areas as elections, education, publications, student affairs,
+                    legislative affairs and other mostly ad hoc groups. Symposia and refresher
+                    courses are included in the annual meeting. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Teratology Society. Materials include
+                    photographs, slides, and postcards from meetings; meeting agendas and programs;
+                    council notebooks from 1992 to 1994, which include minutes and committee
+                    reports; information on the history of the Society, including reprints of
+                    articles from the journal Teratology; items used in an exhibit at the 2003
+                    meeting; an article entitled "Historical Reflections."; a supplement from the
+                    third teratology workshop, 1966; and an administrative report from the 1964
+                    workshop.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003-007 and 2003-015</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of
+                    Physicians: Teratology Society records (MSS 3/0015-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

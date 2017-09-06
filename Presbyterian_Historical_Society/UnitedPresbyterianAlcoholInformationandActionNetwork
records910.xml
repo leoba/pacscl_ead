@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>United Presbyterian Alcohol Information and Action Network records
+                            <date type="inclusive">1975-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">United Presbyterian Alcohol Information and Action Network
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC910</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The United Presbyterian Alcohol Information and Action Network was formally
+                    organized and granted chapter 28 status by the General Assembly in 1978. It was
+                    formed to encourage the UPC to educate its membership in the responsible use of
+                    alcoholic beverages, to raise awareness about the pressures in society which
+                    result in the abuse of alcohol, and to urge groups and individuals within the
+                    church to participate in the treatment of alcoholics and their families.
+                    Margaret Fuad and William Ailes were elected co-presidents of the
+                    organization.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the United Presbyterian Alcohol Information
+                    and Action Network. Materials include: correspondence related to the group's
+                    formation; newsletters and brochures; materials related to an ecumenical
+                    conference on alcohol problems in the church; and the appearance of the Network
+                    at the Youth Triennium in 1980. The collection also includes: by-laws;
+                    pamphlets; copies of papers and articles from other church organization an
+                    alcohol use and abuse; results of a 1979 questionnaire of church members about
+                    alcohol usage; and a small number of organizational records, including
+                    information on fundraising, treasurer's reports, and agendas for meetings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: United Presbyterian Alcohol Information and Action Network (given by
+                    William B. Ailes)</p>
+                <p>Accession number: 84 1003</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

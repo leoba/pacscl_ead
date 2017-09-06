@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bruce Bredin papers <date type="inclusive">1958-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bruce Bredin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1858</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>J. Bruce Bredin was born in Wilmington, Delaware. Bredin attended the University
+                    of Delaware and the College of William and Mary, as well as the Wharton School
+                    of the University of Pennsylvania. In 1957 Bredin joined the University of
+                    Delaware's Board of Trustees and served as its chairman from 1982-1988. During
+                    his tenure on the board, he chaired the Executive Committee, the Honorary
+                    Degrees and Awards Committee and the Art and Humanities Committee and served on
+                    the committees on Grounds and Buildings, Student Personnel Services and Welfare,
+                    Education and Training, Nominating and Physical Education, Athletics and
+                    Recreation. In 1991 Bredin was awarded an honorary doctor of humane letters
+                    degree from the University of Delaware.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the personal and professional papers of Bruce Bredin,
+                    including materials related to the Bredin Foundation, Unidel Foundation, and the
+                    Winterthur Board of Trustees. Materials include: business and personal
+                    correspondence; bylaws, and articles of incorporation of the Bredin Foundation;
+                    minutes and financial statements of the Bredin Foundation (1958-1993); and files
+                    on a variety of subjects including the University of Delaware, William and Mary
+                    College, the Historical Society of Delaware, and the Bredins' travel and other
+                    interests.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

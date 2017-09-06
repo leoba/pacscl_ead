@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia and surrounding area atlas collection <date type="inclusive">1858-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Map Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia and surrounding area atlas
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2356</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Map Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>76 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1858-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Map Collection of the Free Library of Philadelphia provides researchers and
+                    explorers with more than 130,000 current and historical maps, as well as other
+                    geographical resources, covering every part of the world. The collection is
+                    especially strong in Philadelphia and Pennsylvania maps and atlases, and an
+                    extensive collection of aerial photos of the Delaware Valley provides a
+                    fascinating view of the development of our region over the past 70 years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of atlases of Philadelphia and vicinity. Materials include:
+                    Hexamer &amp; Locher Maps of the City of Philadelphia, 1857, 7 vols; Hexamer and
+                    Son fire insurance maps, 1873-1920, vols. I-XXXV. (these comprise roughly half
+                    of the collection; multiple copies of many volumes); G.M. Hopkins &amp;. Co.
+                    fire insurance maps, 7 vols. (1870s-1880s); Atlas of the city of Philadelphia.
+                    From actual surveys and official plans of the Survey Department, by Geo. W.
+                    &amp; Walter S. Bromley. (1880s-1920s), 13 vols.; and Atlas of properties on
+                    Main Line Pennsylvania Railroad: from Overbrook to Paoli, from actual surveys
+                    and official plans / by George W. and Walter S. Bromley. G.W. Bromley &amp; Co.,
+                    1926. The collection also includes atlases for the Pennsylvania Mainline and the
+                    Reading Mainline, Bucks, Chester, Delaware, Lancaster, and Montgomery counties,
+                    including volumes for towns and cities; atlases of the Franklin Survey Company
+                    (greater Northeast Philadelphia area); and a 1865 map of the Fair Hill Estate of
+                    Joseph Parker Norris.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

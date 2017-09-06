@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Oak Knoll Books records <date type="inclusive">1958-2003</date>
+                        <date type="bulk"> 1976-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Oak Knoll Books records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC100</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1958-2003</unitdate>
+                <unitdate type="bulk"> 1976-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Oak Knoll Books was founded in 1976 by Robert D. Fleck, and in 1978 Oak Knoll
+                    Press was founded as an extension of the business. Today, Oak Knoll Books
+                    maintains an inventory of approximately 18,000 titles, and the press has
+                    published approximately 950 books. Oak Knoll specializes in books concerning
+                    book collecting, book selling, bibliographies, libraries, publishing, private
+                    press printing, fine printing, bookbinding, book design, book illustration,
+                    calligraphy, graphic arts, marbling, papermaking, printing, typography and type
+                    specimens. Oak Knoll is also the exclusive distributor of books published by the
+                    American Antiquarian Society, the Bibliographical Society, the Bibliographical
+                    Society of the University of Virginia, The John Carter Brown Library, and many
+                    others. Oak Knoll Books is located in historic New Castle, Delaware.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The archives of Oak Knoll Books consists of material spanning the dates
+                    1930-2003. It includes books, correspondence, shipping logs, paper sample books,
+                    prospectuses, purchasing files, advertisements, financial files, speeches, and
+                    newsletters and periodicals pertaining to the business of collecting,
+                    publishing, and selling books. The collection also includes catalogs and price
+                    lists, as well as materials related to Oak Knoll Fest, an annual book festival
+                    produced by Oak Knoll Books.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Robert Fleck</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: 03-56; 02-35; 01-42; 99-3; 98-3; 97-36; 97-19c; 96-18c</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/oakknoll.htm">http://www.lib.udel.edu/ud/spec/findaids/oakknoll.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

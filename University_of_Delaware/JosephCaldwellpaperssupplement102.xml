@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Caldwell papers supplement <date type="inclusive">1949-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Caldwell papers supplement</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC102</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1949-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Novelist and playwright Joseph K. Caldwell was born on October 2, 1928, in
+                    Milwaukee, Wisconsin. His education included studies at Marquette University,
+                    Columbia University, and three years in the graduate program of the School of
+                    Drama at Yale University. Caldwell's plays have been produced off-Broadway, as
+                    well as being transformed into television scripts. New York productions of his
+                    plays include Cockeyed Kite at the Actors' Playhouse, The Downtown Holy Lady at
+                    the Greenwich Mews Theatre, and Jack Fallon, Fare Thee Well by the Joseph
+                    Jefferson Theatre Company. The School of Drama at Yale University produced two
+                    of his plays, namely, The Bridge and Clay for the Statues of Saints. Caldwell
+                    may be more widely known for his four novels, published between 1978 and 1992.
+                    In Such Dark Places (1978), for which Caldwell was awarded an American Academy
+                    in Rome Fellowship in Creative Writing in 1979, was his first novel. Following
+                    In Such Dark Places, Caldwell wrote Deer at the River (1984), Under the Dog Star
+                    (1987), and The Uncle From Rome (1992). Caldwell's most recent novel, Bread for
+                    the Baker's Child, was published by Sarabande Books in 2002.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Joseph Caldwell. Materials include:
+                    typescripts of The Cockeyed Kite, Bread for the Baker's Child, Mystery of the
+                    Body, The Idiot's Tale, The Pig Did It, The Pig Comes to Dinner, and several
+                    short stories; autograph pages from Bread for the Baker's Child and Mystery of
+                    the Body; articles, and plays; and a producer's copy of The Cockeyed Kite.
+                    Correspondence includes letters to Caldwell from friends, family, colleagues,
+                    and publishers, as well as a few letters from Caldwell to others. The
+                    correspondence includes letters from Yaddo and the MacDowell colony. Other
+                    materials in the collection include: drafts of works by other writers, including
+                    Andrew Kappel, Jess Grett, and Allan Gurganus; photographs; awards; programs,
+                    calendars and appointment books; contracts and documents related to copyright;
+                    magazines in which Caldwell's writings appear; records related to writing
+                    courses taught by Caldwell; reviews; posters; sheet music; and Caldwell's
+                    will.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Joseph Caldwell</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: 03-96; 03-89; 03-90; 03-09; 07-15; 04-103; 06-25</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

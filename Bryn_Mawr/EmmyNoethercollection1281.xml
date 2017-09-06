@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Emmy Noether collection <date type="inclusive">1927-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Emmy Noether collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1281</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Amalie Emmy Noether (1882-1935) was a German-born, Jewish mathematician,
+                    described by Albert Einstein at the time of her death as "the most significant
+                    creative mathematical genius thus far produced since the higher education of
+                    women began." She was known for her important, and controversial, work in
+                    abstract algebra and number theory. Although she was a highly regarded scholar
+                    and teacher, Noether's academic career in Germany was hampered by sexism and
+                    racism. She fled to the United States in 1933 to escape a Nazi edict which
+                    prohibited her from teaching. She joined the faculty at Bryn Mawr College with
+                    assistance from the Emergency Committee to Aid Displaced German Scholars, but
+                    died two years after her arrival in the United States.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of documents related to Emmy Noether. Materials include:
+                    letters from Noether to R. Brauer in German (1927-1934); English translations of
+                    those letters; correspondence regarding Noether's appointment at Bryn Mawr;
+                    correspondence about a memorial service for Noether; bibliographies of Noether's
+                    collection of reprints; and books and reprints on Noether's contributions to
+                    mathematics. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

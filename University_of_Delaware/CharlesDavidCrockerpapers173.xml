@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles David Crocker papers <date type="inclusive">1829-2001</date>
+                        <date type="bulk"> 1960-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles David Crocker papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC173</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1829-2001</unitdate>
+                <unitdate type="bulk"> 1960-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles David Crocker (1917-2004) was an agronomist for the U.S. Agency for
+                    International Development (USAID) from 1957 to 1972. He received his degree in
+                    agronomy from the University of Delaware in 1938, and afterwards worked in soil
+                    conservation and with the Civilian Conservation Corps in Maryland. He was an
+                    officer in the U.S. Navy, and served in the Pacific during World War II and
+                    worked in intelligence during the Korean War. In his work for USAID, he
+                    contributed to soil conservation, reforestation, and crop improvement programs
+                    in Korea (1957-1961), Cambodia (1961-1963), Vietnam (1963-1965 and 1969-1972),
+                    Turkey (1965-1966), and Ghana (1966-1968). After his retirement from USAID,
+                    Crocker sold real estate in Arlington, Virginia (1972-2000).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Charles David Crocker. Materials include:
+                    photographs and slides, printed reports and articles documenting his work in
+                    Cambodia, Vietnam, Turkey, and Ghana; school notebooks; agricultural and rural
+                    development booklets and reports; correspondence; bibles and religious books;
+                    and certificates and plaques.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Linda Crocker Simmons</p>
+                <p>Year acquired: 11/19/2004</p>
+                <p>Accession number: 05-82</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

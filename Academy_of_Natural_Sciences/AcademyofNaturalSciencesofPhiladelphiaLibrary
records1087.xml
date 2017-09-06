@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Library records <date type="inclusive">1837-2004</date>
+                        <date type="bulk"> 1925-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Library
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1087</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>32.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1837-2004</unitdate>
+                <unitdate type="bulk"> 1925-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences Library and Archives were established at the
+                    founding meeting of the Academy in 1812 to support the Academy's work. The
+                    Academy Library is named in honor of Ewell Sale Stewart (1924-1987), a longtime
+                    friend and benefactor. The Library is used by the staff of the Academy of
+                    Natural Sciences, Academy members, scientists, historians, artists, graduate
+                    students, corporations, and members of the public with advanced interests in the
+                    natural world.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Library of the Academy of Natural
+                    Sciences. Materials include: library correspondence (1925-1931); catalogues of
+                    the Library's holdings, 1837; accession books. 1944-1968; acquisitions lists
+                    1967-1995; mid-20th century registers of publication exchanges; minutes of the
+                    Library Committee, 1937-1974; correspondence with and invoices from book
+                    dealers; documents related to planning, moving the collection to the new stack
+                    building, and other library projects; materials related to Library's involvement
+                    in projects with the Philadelphia Area Consortium of Special Collections
+                    Libraries (PACSCL) and The Associated Natural Science Institutions (TANSI);
+                    correspondence and notes related to the guide to manuscript holdings created by
+                    Venia Phillips; correspondence related to the publication of the guide to
+                    microfilms; administrative records, including procedures, budgets, time sheets,
+                    departmental activity reports, interlibrary loans, records of gifts, personnel
+                    files, records of a 1966 binding survey; and reprints. This collection includes
+                    papers from Carol Spawn, Janet Evans, Earle Spamer, Sylva S. Baker, Karen
+                    Stevens, and William J. Fox. The collection also includes materials related to
+                    Harold Shalit's survey of ornithology records in the archives.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 93:10; 97:20; 97:23; 00:12; 01:19; 02:02; 02:17; 03:02; </p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Collections 591, 434, 726 (History, Correspondence,
+                    Policies), plus a number of other processed collections listed in the Manuscript
+                    and Archives Guide.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

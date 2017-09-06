@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Capnerhurst Hall journal <date type="inclusive">1777-1779</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Capnerhurst Hall journal</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1740</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.083 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1777-1779</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Capnerhurst Hall was the nephew of John Hall. Hall adopted the boy and paid
+                    for his education in England, in return for which he took Hall's name and
+                    dropped his original surname. He worked for Boulton and Fothergill near
+                    Birmingham as a sort of trouble shooter for the steam engines the firm licensed,
+                    installed, and repaired. He emigrated to the United States in 1783 (before his
+                    uncle) and set up a foundry at Mount Hope, New Jersey.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a journal of John Capnerhurst Hall kept between 1777 and 1779. The volume
+                    includes notes on his mechanical work, drawings of equipment, and chemical
+                    tables and mathematical formulae, as well as descriptions of conversations,
+                    excursions, and other events. The journal includes an index to entries.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: John Hall diaries. </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

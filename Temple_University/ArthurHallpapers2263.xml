@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Arthur Hall papers <date type="inclusive">1955-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Arthur Hall papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2263</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1955-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Arthur Hall (1934-2000) was an internationally known dancer and choreographer. He
+                    founded the Afro-American Dance Ensemble in Philadelphia in 1958, and was its
+                    artistic director for thirty years. He also founded the Ile Ife Black
+                    Humanitarian Center on Germantown Avenue in 1968. He was a movement specialist
+                    for the National Endowment for the Arts and an instructor of dance at Dartmouth
+                    College. Hall's major works include his direction of the ballet Orpheus, A City
+                    Called Heaven, Aida, Fat Tuesday &amp; All That Jazz, and Eulogy for John
+                    Coltrane, which was staged at Dartmouth College, where he was an adjunct
+                    professor. He also choreographed What's Going On, a ballet set to the music of
+                    Marvin Gaye. Late in his life, Arthur Hall moved to Camden, Maine, where founded
+                    and served as the artistic director of Ile Ife Films and the Arthur Hall
+                    Collection and International Dance Center.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a small collection of materials related to Arthur Hall's career as a
+                    dancer and to his Afro-American Dance Ensemble. Materials include: a scrapbook
+                    of correspondence, press releases, and programs (1969-1972); an album of
+                    photographs of Hall and other dancers, primarily from the mid-1950s; catalogs
+                    and brochures related to the arts in Philadelphia; articles about Hall and the
+                    Afro-American Dance Ensemble; copies of Dance Magazine Annual from 1975 and
+                    1977; newsletters of the Ile Ife Center for the Arts and Humanities (1976-1977);
+                    and playbills and posters.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Arthur Hall Afro-American Dance Ensemble.</corpname>
+                <subject encodinganalog="650">African American dancers.</subject>
+                <subject encodinganalog="650">Dance companies--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Ile Ife Foundation:
+                    Arthur Hall Collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

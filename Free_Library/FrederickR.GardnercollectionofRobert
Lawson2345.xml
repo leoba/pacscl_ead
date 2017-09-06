@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frederick R. Gardner collection of Robert Lawson <date type="inclusive">1910-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frederick R. Gardner collection of Robert
+                    Lawson</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2345</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Lawson (1892-1957) was an American artist and children's book author. He
+                    did some illustrations for The Century Magazine in 1919, and in 1922 he produced
+                    illustrations for his first book, Little Prince Too Fat. He won the Taylor Arms
+                    Prize of the Society of American Etchers in 1931, and was the first person to
+                    receive both the Newbery Medal (Rabbit Hill, 1945) and Caldecott Medal (They
+                    Were Strong and Good, 1940).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of drawings, etchings, books, and papers of Robert Lawson
+                    collected by Frederick Gardner. Materials include original drawings, book jacket
+                    designs, designs for title pages, and chapter heading devices for Ben and Me,
+                    The Tough Winter and many other works illustrated (and some written and
+                    illustrated) by Robert Lawson. The collection also includes a “dummy” for Munro
+                    Leaf’s The Story of Ferdinand and 31 early etchings by Lawson. Papers of Robert
+                    Lawson include: correspondence from readers and publishers; newspaper clippings;
+                    articles by and about Lawson; typescripts of speeches; biographical sketches;
+                    and manuscripts of The Great Wheel, Refugees, Joney, and several shorter works
+                    (some unpublished). Other Lawson materials include: greeting and Christmas cards
+                    designed by Lawson; advertisements and announcements for books; photographs of
+                    Lawson and Marie Abrams Lawson; photo albums of the Lawsons and Rabbit Hill;
+                    several copies of Young Wings, a children's book club magazine; and a copy of
+                    Frederick Gardner's Robert Lawson on My Shelves. Additional materials in the
+                    collection include incoming and some outgoing correspondence of Frederick
+                    Gardner, with publishers, collectors, and dealers, related to his collecting of
+                    Lawson materials. Margaret G. Otto is a significant correspondent and the
+                    collection contains a sales ledger kept by Otto listing sales of Lawson's
+                    prints.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota: Robert Lawson papers; University of Southern Mississippi: Robert
+                    Lawson papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Francis F. Rosenbaum papers <date type="inclusive">1932-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Francis F. Rosenbaum papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC471</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1932-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Francis Frazier Rosenbaum (b. 1912) was a cardiologist and professor of medicine
+                    at the University of Michigan and the Medical College of Wisconsin. Rosenbaum
+                    received his M.D. from the University of Michagan in 1936. In 1946 he joined the
+                    staff of Marquette University School of Medicine. Rosenbaum was an attending
+                    physician at Columbia Hospital, Milwaukee Hospital, Milwaukee Children’s
+                    Hospital, and Milwaukee County General Hospital.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Francis F. Rosenbaum. Materials include:
+                    incoming and outgoing correspondence with fellow physicians regarding patient
+                    referrals; correspondence with professional organizations, publishers; office
+                    files and correspondence with vendors of medical and office machinery and
+                    supplies; personal correspondence; lecture notes from medical school and college
+                    yearbooks; a small amount of juvenilia, including drawings and a spelling book;
+                    manuscripts and illustrations for articles and speeches; reprints; patient
+                    medical and billing records; appointment books; business and personal financial
+                    records; and awards, certificates, and diplomas</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of James G. Rosenbaum.</p>
+                <p>Year acquired: 1987</p>
+                <p>Accession number: 1987-19</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

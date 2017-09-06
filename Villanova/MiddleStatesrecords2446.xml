@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Middle States records <date type="inclusive">1950-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Middle States records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2446</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Villanova University was first accredited by the Middle States Commission on
+                    Higher Education in 1921. The Commission is the unit of the Middle States
+                    Association of Colleges and Schools that accredits degree-granting colleges and
+                    universities in the Middle States region, which includes Delaware, the District
+                    of Columbia, Maryland, New Jersey, New York, Pennsylvania, Puerto Rico, the U.S.
+                    Virgin Islands, and several locations internationally. The Commission is a
+                    voluntary, non-governmental, membership association that defines, maintains, and
+                    promotes educational excellence across institutions with diverse missions,
+                    student populations, and resources. It examines each institution as a whole,
+                    rather than specific programs within institutions.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Middle States record group consist of the following series: Correspondence,
+                    Minutes, Reports, Administrative, Legal, News Media, and Printed. Materials in
+                    the collection include correspondence related to Task Forces, an Implementation
+                    Team, and a Liaison visit. Minutes include Middle States Periodic Review
+                    Committee, 1995-1996, and Middle States Self Study Committee, 1959, 1969-1979,
+                    and 1989. The Reports series consists mainly of Middle States Self-Study
+                    Questionnaires from a number of University departments. Materials in the
+                    Administrative series include financial statements, 1999, 2000 and
+                    organizational charts, 1998. Printed materials in the collection include Designs
+                    for Excellence: Handbook for Self-Study and a University Senate (Directory),
+                    2000-2001.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Middle States Association of Colleges and
+                    Schools.</corpname>
+                <subject encodinganalog="650">Universities and colleges--Curricula</subject>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

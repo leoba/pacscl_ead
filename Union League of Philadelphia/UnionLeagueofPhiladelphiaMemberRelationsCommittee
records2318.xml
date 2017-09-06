@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia Member Relations Committee records
+                            <date type="inclusive">1885-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia Member Relations Committee
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2318</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>32.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1885-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. In an effort to boost
+                    declining membership, a Membership Development Committee was appointed in 1982.
+                    This Committee became a part of a newly established Standing Committee in 1988,
+                    Member Relations, which was responsible for: recruiting new members,
+                    facilitating assimilation of new members, monitoring member usage, targeting
+                    areas for improvement and enhancements to stem resignations, and encouraging
+                    spousal use. It also became responsible for oversight of Clubs Tables and all
+                    communications, including marketing, public relations, and the Bulletin/Banner.
+                    Its work overlapped with the Activities Committee through its encouragement of
+                    Club Tables as well as Junior member activities. The Banner was also the
+                    responsibility of Activities at one time, and also the House Committee. The
+                    House Committee shared some entertainment responsibilities with Member
+                    Relations. Member Relations worked closely with the Admissions Committee, which
+                    is separately appointed according to the By-Laws.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The series has been arranged into three subseries: General, Club Tables, and
+                    Bulletin/Banner. The Club Tables subseries consists primarily of information on
+                    the different club tables; the amount of documentation varies by club. These
+                    materials include correspondence, meeting minutes, printed announcements, member
+                    information and directories, attendance reports, financial records (such as bank
+                    statements, receipts, and reports), club histories, menus, and ephemera. The
+                    subseries also contains some information related to club tables in general,
+                    including statistics and announcements. The Member Relations subseries contains
+                    bound volumes of member directories, files dedicated to membership development
+                    (which include printed information about the Union League), an outside study
+                    looking at the communications of the Union League, some minutes, and committee
+                    memoranda. The Bulletin/Banner is a comprehensive run of the monthly publication
+                    from 1944 through May 2008.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

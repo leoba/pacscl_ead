@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Planned Parenthood of Delaware records <date type="inclusive">1931-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Planned Parenthood of Delaware records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC029</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1931-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1931, Planned Parenthood has changed and expanded its services in
+                    response to social, legal, and medical developments over the twentieth century.
+                    The early Birth Control League of Delaware was established by a group of
+                    socially prominent women to address social and economic hardships of families in
+                    Wilmington. It was modeled after Margaret Sanger's American Birth Control
+                    League. Their objective was "to make available to every family in Delaware good
+                    medical advice and proper supplies in the fields of contraception and fertility;
+                    and to educate the general public to the idea of using scientific knowledge to
+                    improve the quality of family life." To this end, they counseled patients on
+                    contraceptive practices, and the benefits of child spacing for family growth,
+                    and provided health care to new mothers and babies with a post-partum clinic and
+                    a visiting new mothers program. In 1942, adhering to the nation's wartime focus
+                    on family unity, the Birth Control League changed its name to the Delaware
+                    League for Planned Parenthood. In the 1950s, the League sponsored lectures for
+                    interns, residents, and practical nurses at Delaware Hospital and, with a Clergy
+                    Advisory Committee, developed "education for marriage" programs. Marriage
+                    lectures were presented to young women at the University of Delaware and
+                    Delaware State College. Unwed mothers were not served by the Delaware League
+                    until 1961; American married couples were not legally protected in efforts to
+                    obtain birth control until 1965; the right purchase contraceptives was extended
+                    to unmarried persons in 1972; and in 1973, the U.S. Supreme Court extended a
+                    woman's right to privacy to her decision to terminate a pregnancy. In addition
+                    to continuing birth control, family planning, and infertility services, the
+                    League expanded over time to provide sex education, abortion services, surveys
+                    and research, cancer screening, HIV testing, and AIDS counseling. Planned
+                    Parenthood of Delaware's outreach has been widely diverse as it has developed
+                    special programs for the inner-city poor of Wilmington, rural women in southern
+                    Delaware, prisoners, migrant workers, teenagers, college students, clergy, and
+                    medical professionals. The League has worked from its earliest days to
+                    collaborate with general social service programs, working with social workers
+                    and social agencies for referrals, and publicity. Some of its first audiences
+                    for public relations efforts were Parent Teacher Association (PTA) assemblies,
+                    women's clubs, and groups of Polish and Italian immigrant women in Wilmington.
+                    Source: Newsletter of the University of Delaware Library Associates. March 1997,
+                    no. 32.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Archives of Planned Parenthood of Delaware consist of material dating from
+                    1931-1999. In particular it documents the early history of the organization, its
+                    administration, and the variety of services Planned Parenthood has provided in
+                    Delaware over the years. The Archives includes Board minutes and reports,
+                    bylaws, budgets, clipping files, newsletters, promotional material, anniversary
+                    and benefit program files, and photographs. This archives is a valuable source
+                    to tell the history of this organization and the community it serves.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 01-53; 96-53c</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/planned.htm">http://www.lib.udel.edu/ud/spec/findaids/planned.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

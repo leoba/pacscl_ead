@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Mary West collection of RTC Shipbuilding Company records <date type="inclusive">1936-1947</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Mary West collection of RTC Shipbuilding Company
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2528</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1947</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1940, Leroy M. Robinson (president), George R. Taylor (Vice-president), and
+                    John P. Carson (secretary and treasurer) formed RTC Shipbuilding Company in
+                    Camden, New Jersey. All three men were former executives at J. H. Mathis
+                    Company. Subsequent to the death of Robinson and the retirement of Taylor in
+                    1946, Carson became the firm's president and assumed sole ownership. Prior to
+                    World War II, the yard produced two oil barges, one tugboat, and six oil
+                    tankers. During World War II, 28 self-propelled oil tankers were built for the
+                    U.S. Navy. For excellence in workmanship and its high rate of production, the
+                    company received two Army-Navy "E" awards, each with four stars. After the
+                    war, the yard returned to commercial work and developed the largest trade in
+                    repair of medium size work boats and naval vessels in the Delaware Valley Area.
+                    Mary West is the granddaughter of George R. Taylor.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs and other materials related to RTC
+                    Shipbuilding Co. Subjects of photographs in the collection include: George
+                    Taylor and Leroy Robinson; launches, including a launch where Mary West's mother
+                    was the sponsor; "E" award ceremony; ships built by RTC and Mathis; and
+                    workers. Other items in the collection include: a plan of plant layout; 1940
+                    newsletter "Maritime Reports Activity"; and a letter and certificate of
+                    commendation of George R. Taylor from the Bureau of Ships, Navy Department,
+                    1947.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">RTC Shipbuilding Co. (Camden, N.J.)</corpname>
+                <genreform encodinganalog="655">Architectural drawings.</genreform>
+                <genreform encodinganalog="655">Certificates.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

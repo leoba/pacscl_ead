@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jerry Hoytt Boles papers <date type="inclusive">1954-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jerry Hoytt Boles papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC847</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1954-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jerry Hoytt Boles (1907-1986) was a Presbyterian minister who was active in the
+                    Synod of Texas. He was a 1932 graduate of McCormick Theological Seminary. He was
+                    pastor of several churches in Texas and served as the Moderator of the Synod of
+                    Texas from 1950 to 1951. During the same year, he was Chairman of the National
+                    Staff of the Board of National Missions. In 1945 he became Executive of Synod of
+                    Texas, serving until 1968.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence (incoming and outgoing) and subject files
+                    of Jerry Hoytt Boles as Executive of the Synod of Texas. Correspondents include
+                    pastors and staff of churches in the Texas Synod, staff of local and national
+                    offices of the UPCUSA, church members, and others. Subject files include
+                    materials related to the Texas Synod Council of United Presbyterian Men, the
+                    Office of New Church Development and Building Aid, Moderator visits, meetings of
+                    Executives, and various committees. These subjects files consist of
+                    correspondence, agendas, minutes, reports, and memoranda. The collection also
+                    includes some personal correspondence with family and friends.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown (appears to have been transferred from Trinity University in
+                    1973)</p>
+                <p>Accession number: 68 0292</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

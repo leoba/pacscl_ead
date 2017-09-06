@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ceres journal <date type="inclusive">1841-1843</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ceres journal</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2499</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1841-1843</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wilmington Whaling Company was organized pn November 23, 1833. In 1835 the
+                    company purchased the whaleship Ceres in New Bedford, and she became the pioneer
+                    of the fleet. The Ceres, sailed in April, 1835 and was absent two and a half
+                    years. Ceres (second voyage) sailed December 1, 1837, and absent forty months
+                    with profitable results. The Ceres made another unprofitable voyage afterwards.
+                    The whaling industry then declined, and the company sold its property in 1846
+                    and went out of existence. Bernard Bradley was a teacher of mathematics at
+                    Riley's College. He made the voyage on the Ceres for his health.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Journal of Bernard Bradley, Wilmington Whaling Co., kept during his voyage aboard
+                    the Ceres in 1841-1843. Bradley describes life on board, stops in ports for
+                    provisioning, and the taking of whales. Later passages appear to be in another
+                    hand, possibly that of William Eakins. Some pages at the end of the volume were
+                    used as a writing exercise book.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Diaries.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

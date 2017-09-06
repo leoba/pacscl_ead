@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Theodore Friend presidential papers <date type="inclusive">1926-1982</date>
+                        <date type="bulk"> 1963-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Theodore Friend presidential papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC1486</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>17.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1982</unitdate>
+                <unitdate type="bulk"> 1963-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Theodore Friend was president of Swarthmore College from 1973 to 1982. He is a
+                    teacher, historian, and novelist. His books include Indonesian Destinies
+                    (Harvard University Press, 2003) and Between Two Empires: The Ordeal of the
+                    Philippines (Yale University Press, 1965). He is president emeritus of the
+                    Eisenhower Fellowship and a senior fellow of the Foreign Policy Research
+                    Institute.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records from the office of President Theodore Friend. The
+                    collection consists primarily of topical files related to: faculty, staff, board
+                    members, and non-Swarthmore figures; minutes and correspondence related to the
+                    Board of Managers; campus and student activities and issues; facilities and
+                    college services, such as the health center; development, grants, and
+                    scholarship funds; political and governmental issues, such as divestment from
+                    South Africa, equal opportunity employment, and affirmative action policies;
+                    minutes and correspondence related to committeees such as the Council on
+                    Educational Policy and the Curriculum Committee; minutes of meetings of the
+                    "Three Colleges" from 1949 to 1972; staff meeting minutes; notes for a 1982
+                    course on South East Asia; and photocopies of Friend's research notes on Japan,
+                    Indonesia, and the Philippines.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Swarthmore College--Administration.</corpname>
+                <corpname encodinganalog="610">Swarthmore College--Curricula.</corpname>
+                <corpname encodinganalog="610">Swarthmore College--Presidents.</corpname>
+                <subject encodinganalog="650">Investments--Moral and ethical aspects.</subject>
+                <subject encodinganalog="650">Universities and colleges--Pennsylvania--History--20th
+                    century.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Research notes</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>Access to this collection is restricted; please contact the holding
+                        institution for details.</p>
+                </accessrestrict>
+
+                
+            </admininfo>
+
+            <add>
+
+
+
+
+                <otherfindaid>
+                    <p>An online finding aid is available at <extref href="http://www.swarthmore.edu/Library/friends/ead/6d11thfr.xml">http://www.swarthmore.edu/Library/friends/ead/6d11thfr.xml</extref>.</p>
+                </otherfindaid>
+
+
+
+            </add>
+
+        </archdesc>
+    </ead>

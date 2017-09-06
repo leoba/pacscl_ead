@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Donald Grey Brownlow papers <date type="inclusive">1959-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Donald Grey Brownlow papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC744</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Donald Grey Brownlow (1923-2006) was a history teacher and author. He served in
+                    U.S. military intelligence during World War II and earned a Purple Heart and
+                    Bronze Star. He was also awarded the Croix de Guerre from the French government.
+                    He earned bachelor's and master's degrees from the University of Pennsylvania.
+                    He taught at the Haverford School from 1951-2006 and authored 10 books on
+                    military history, including Checkmate at Ruweisat: Auchinleck’s Finest Hour
+                    (1977) and The Life and Times of Horst Wessel (1996).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence and interviews recorded by Donald
+                    Brownlow. The collection contains recordings of interviews and conversations
+                    with eminent people, including Grossadmiral Karl Donitz, Jean Paul Sartre,
+                    Admiral Husband E. Kimmel, Field Marshal Sir Claude Auchinleck, Otto von Bulow,
+                    and Albert Speer. The collection also contains over 1500 signed letters, whose
+                    correspondents include Captain Eddie Rickenbacker, Herbert Hoover, Eleanor
+                    Roosevelt, Stirling Moss, John L. Lewis, Hasso von Manteuffel, Captain P.C.
+                    Crosley, and Richard O'Connor, among many other state, military leaders, and
+                    public figures. A number of the letters are addressed to Dr. and Mrs. Marion
+                    Brownlow or to Marion Brownlow. Most of the letters are arranged in a series of
+                    31 scrapbooks, dating from 1959 to 1972. There is also a card file index of the
+                    correspondence in the scrapbooks, listing sender, date, and a brief description
+                    of the letter's contents; photographs of German, British and American military
+                    figures and politicians; scrapbooks of photos and clippings on Leni Riefenstahl;
+                    a scrapbook of correspondence, pamphlets, clippings, and photographs of Gus
+                    Hall; drafts of chapters of Brownlow's book on Auchenleck (The Auk), and
+                    corrections and suggestions by Lt. Gen. Sir Neil Ritchie.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 266 and no acc. number</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

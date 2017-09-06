@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clifford Merrill Drury papers <date type="inclusive">1910-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clifford Merrill Drury papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC900</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clifford M Drury (1897-1894) was an historian and bibliographer of Presbyterian
+                    history and history of the Protestant missions of the Pacific Northwest. He was
+                    born in Iowa and received his B.D. from San Francisco Theological Seminary in
+                    1922 and Ph.D. from the University of Edinburgh in 1932. He was pastor of
+                    churches in California, Shanghai, and Idaho, and a professor of church history
+                    at San Francisco Theological Seminary, 1938-1963. From 1944-1956 he was the
+                    official historian of the U.S. Navy, Chaplain Corps.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains many volumes of sermons by Drury. There are also
+                    published and manuscript copies of Drury's writings, including chapters of his
+                    autobiography; diaries with entries from 1938 and 1962-1964, 1968-1979; personal
+                    and professional correspondence; some photographs, postcards and artwork from
+                    Drury's travels in Asia and other countries and some historical information
+                    about the U.S. Navy Chaplain Corps, as well as correspondence and annual reports
+                    Drury wrote about his Chaplain activities during World War II. Also included are
+                    clippings about Drury and awards; citations; honorary degrees and personal
+                    memorabilia (passports, marriage and birth certificates, papers related to his
+                    home); tax returns; and one audiocassette from a talk Drury gave in 1981 titled
+                    "Following the trail of the Whitman."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 83 0630</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Eastern Washington
+                    State Historical Society/Northwest Museum of Arts &amp; Culture: Clifford M.
+                    Drury Collection (Ms 17).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

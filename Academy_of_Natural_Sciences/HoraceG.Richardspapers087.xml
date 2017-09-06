@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Horace G. Richards papers <date type="inclusive">1928-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Horace G. Richards papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC087</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>82 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1928-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Horace G. Richards (1906-1984) was a geologist at the Academy of Natural Sciences
+                    of Philadelphia. He received his Ph.D. in zoology and paleontology from the
+                    University of Pennsylvania in 1932. He worked at the Smithsonian Institution and
+                    at the New Jersey State Museum before joining the Academy in 1937 as a research
+                    fellow. He became Chairman of the Department of Geology and Paleontology in 1960
+                    and served in that capacity until his retirement in 1974. He published more than
+                    260 scientific papers and was the author of six books on earth science and
+                    marine fossils. He was an authority on the geologic formations of the Atlantic
+                    coastal plain, and spearheaded the Academy's Atlantic Coastal Plain Project in
+                    1947 to collect and study fossils and well samples from the Coastal Plain.
+                    Richards was also president of the Shorelines Commission of INQUA (the
+                    International Union for Quaternary Research). </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of personal and professional papers of Horace G. Richards.
+                    Materials in the collection include: Academy correspondence; trip reports,
+                    itineraries, and expense records; records of the Atlantic Coastal Plain Project
+                    (grant proposals, correspondence, reports) ; records of his work for the
+                    International Union for Quaternary Research; records of his activities as a
+                    member of professional societies, including the Philadelphia Geological Society;
+                    scrapbooks containing announcements and programs for Richard's lectures and
+                    newspaper clippings about his work and that of other Academy staff; publications
+                    (books, reprints, magazine articles); interviews and scripts for radio and
+                    television science programs; records of courses taught and some papers by his
+                    students; maps of Cape Island, Cape May County, NJ.; notebooks; Richards’
+                    master's thesis and other student papers; and diplomas. The collection also
+                    includes photo albums, film and glass slides, and negatives taken on journeys
+                    throughout the world. There are also indexes of travel photos and indexes of
+                    photos of specimens. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02:01</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia Geology and Paleontology Department records, Academy of
+                    Natural Sciences of Philadelphia Malacology Department records, and H.G.
+                    Richards papers (collection 697).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

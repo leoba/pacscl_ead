@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas Clinton Pears papers <date type="inclusive">1927-1943</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas Clinton Pears papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC871</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1943</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Clinton Pears, Jr. was educated at Princeton University, graduating in
+                    1907, and at Western Theological Seminary, graduating in 1910. He served in
+                    pastorates in West Virginia and Pennsylvania before becoming manager of the
+                    Department of History of the Presbyterian Church in 1933. He remained in that
+                    position until his death in 1943. Dr. Pears' published and lectured on the
+                    history of the Presbyterian Church. Francis Alison was born in Ireland in 1705.
+                    He studied at the University of Glasgow before traveling to America in 1735. In
+                    1737 he became pastor of Pennsylvania's New London Presbyterian Church. Ten
+                    years later he opened an academy in New London. Students of the academy included
+                    three signers of the Declaration of Independence and the Secretary of the Second
+                    Continental Congress. In 1752 Alison moved to Philadelphia to take charge of the
+                    Philadelphia Academy. He was later appointed Vice-Provost of the newly
+                    established University of Pennsylvania, as well as Professor of Moral
+                    Philosophy. He was also assistant minister at the First Presbyterian Church.
+                    Alison died in 1779.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of research materials on Francis Alison collected by Thomas
+                    Clinton Pears, Jr. Included are typed and manuscript notes and extracts from
+                    books, lectures, minutes, diaries, newspapers and other sources; photostatic and
+                    photographic reproductions of manuscripts; typescripts of several of Pears'
+                    lectures and articles on Alison, including drafts of "Fra. Alison, a Catholic
+                    Divine"; and a small amount of correspondence related to Pears' research.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Klett, Guy S.</p>
+                <p>Accession number: 77 0106b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Thomas Clinton Pears papers (RG 30) and Francis Alison
+                    papers (RG 294).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

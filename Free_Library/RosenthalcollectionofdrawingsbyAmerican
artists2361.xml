@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rosenthal collection of drawings by American artists <date type="inclusive">1777-1909</date>
+                        <date type="bulk"> 1840-1909</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rosenthal collection of drawings by American
+                    artists</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2361</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1777-1909</unitdate>
+                <unitdate type="bulk"> 1840-1909</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Albert Rosenthal (1863-1939) was a painter, etcher, and lithographer from New
+                    Hope, Pennsylvania. Albert was the son of Max Rosenthal with whom he worked and
+                    studied from an early age. Formally he also studied at the Pennsylvania Academy
+                    of Fine Arts, the Ecole des Beaux-Arts in Paris with Gerome, and later in
+                    Munich. The brothers Max, Louis, and Simon Rosenthal were trained as
+                    lithographers and lived and worked in Poland. Max Rosenthal emigrated to the
+                    United States in the late 1840s. He worked for P.S. Duval in Philadelphia. Later
+                    the Rosenthal brothers, now all living in the United States, opened their own
+                    business. In 1884, Max Rosenthal retired and his son Albert took control of the
+                    company. The firm was noted for their work in the development of
+                    chromolithography.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of over 840 drawings by American artists from the late
+                    eighteenth to the early twentieth century. Works are in a variety of media,
+                    including pencil, ink, charcoal, chalk, crayon, gouache, watercolor, and pastel.
+                    Subjects include portraits, landscapes, cityscapes, vignettes, cartoons, and
+                    illustrations. The collection is largely made up of the work of illustrators
+                    such as C.E.H. Bonwill, F.O.C. Darley. Louis M. Glackens, and Edward H.
+                    Potthast. Other artist represented in the collection include John Singleton
+                    Copley, Asher B. Durand, Winslow Homer, George Innes, Eastman Johnson, Christian
+                    Schuessele, Thomas Sully, John Trumball, and Benjamin West. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

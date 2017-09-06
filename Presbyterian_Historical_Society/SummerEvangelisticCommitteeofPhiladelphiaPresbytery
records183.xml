@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Summer Evangelistic Committee of Philadelphia Presbytery records
+                            <date type="inclusive">1900-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Summer Evangelistic Committee of Philadelphia Presbytery
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC183</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1900-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Summer Evangelistic Committee (SEC) was organized in 1899 by the Presbytery
+                    of Philadelphia and the Presbyterian Social Union to " present the Gospel of
+                    the Lord Jesus Christ throughout the metropolitan area of Philadelphia each year
+                    during the months of June to September." Members of the Summer Evangelistic
+                    Committee represented the PCUSA Presbytery of Philadelphia, the PCUSA Presbytery
+                    of Philadelphia North, and the Presbyterian Social Union.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Summer Evangelistic Committee. Materials
+                    include: seven volumes of minutes, 1900-1924 (4 volumes) and minutes from
+                    1969-1970, 1972-1974, and 1983-1985; printed annual reports, 1917-1988
+                    (incomplete); and brochures, early 2000s. Minutes include reports from
+                    committees, treasurer's reports, occasional annual reports, lists of committee
+                    members and attendance records. Committees include Open Air, Equipment, Wayside
+                    Mission, Industrial Area, Radio and TV, Children's Work, and Tents and Places of
+                    Worship. Volumes 1 and 2 include copies of the Committee's constitution and
+                    by-laws. The collection also includes photographs, probably made and exhibited
+                    for the 50th Anniversary of the SEC in 1949, although the photographs may have
+                    been made much later.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 06 1212b: Russell, Arthur, past-president of the SEC;
+                    accession 05 0429b: Unknown</p>
+                <p>Accession number: 06 1212b|05 0429b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Eighth Street Wayside Mission records (accession 89
+                    0105b).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

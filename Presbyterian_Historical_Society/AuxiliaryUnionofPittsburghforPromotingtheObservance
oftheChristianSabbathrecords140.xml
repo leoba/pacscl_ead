@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Auxiliary Union of Pittsburgh for Promoting the Observance of the
+                        Christian Sabbath records <date type="inclusive">1830-1867</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Auxiliary Union of Pittsburgh for Promoting the Observance
+                    of the Christian Sabbath records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC140</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1830-1867</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Auxiliary Union of Pittsburgh and Vicinity of the General Union for Promoting
+                    the Observance of the Christian Sabbath held its first meeting on March 2, 1830.
+                    "The great means employed by this society to effect their design shall be the
+                    influence of personal example, of moral suasion, with arguments drawn from the
+                    oracle of God, from the existing laws of the country, appeals to the heart and
+                    conscience of men and fervent supplication to the Lord of the Sabbath."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a volume of minutes of monthly meetings of the
+                    Auxiliary Union of Pittsburgh and Vicinity of the General Union for Promoting
+                    the Observance of the Christian Sabbath, 1830-1832. The volume includes the
+                    organization's constitution, and receipts, 1835 to 1867, for moneys given by
+                    Daniel Elliott and other members of the General Assembly's Board of Education to
+                    students at the Western Theological Seminary.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Pittsburgh Theological Seminary</p>
+                <p>Accession number: 05 0520d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

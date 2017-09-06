@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Peninsula Horticultural Society Collection <date type="inclusive">1953-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Peninsula Horticultural Society Collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC191</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ed Kee is a vegetable crop specialist for the University of Delaware Cooperative
+                    Extension Service. He is the author of Saving Our Harvest: The Story of the
+                    Mid-Atlantic Region's Canning and Freezing Industry. Kee also serves on the
+                    Delaware Heritage Commission, and the board of the Delaware Agriculture Museum.
+                    The Peninsula Horticultural Society, was established in 1886, to encourage
+                    horticulture in the Delmarva peninsula.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Peninsula Horticultural Society.
+                    Records include: meeting minutes (1956-1988); annual reports; correspondence;
+                    and photographs. The collection also includes copies of the Delmarva Vegetable
+                    Marketing Guide and the Fruit and Vegetable Forecast.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Ed Kee</p>
+                <p>Accession number: 06-63</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

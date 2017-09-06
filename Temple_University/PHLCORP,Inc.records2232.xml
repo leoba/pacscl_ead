@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>PHLCORP, Inc. records <date type="inclusive">1901-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">PHLCORP, Inc. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2232</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>PHLCORP is a Philadelphia-based holding company formed out of the remains of
+                    Baldwin United Corporation, a bankrupt insurance company. Companies owned by or
+                    merged into the Baldwin United Corporation include: Baldwin Piano and Organ
+                    Company, College Park Corporation, Family Leisure Centers, Inc., Ellington Piano
+                    Company, Gresch Musical Instruments Company, Offshore Marine Corporation, and
+                    the Sperry and Hutchinson Co. These companies were primarily U.S. based, and
+                    operated in the areas of transportation, insurance, musical instrument
+                    manufacturing, and trading stamps.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Documents and corporate records of the predecessors of PHLCORP (namely Baldwin
+                    Piano Company and United Corporation), of their various transformations, and of
+                    companies owned and merged. Materials include: minute books of shareholder and
+                    board meetings; stock certificates; articles of incorporation and by-laws;
+                    financial volumes, such as accounts payable and check registers; appraisals of
+                    manufacturing facilities; legal documents such as trust agreements and leases; a
+                    scrapbook for the Baldwin Piano Company, including notices of meetings,
+                    advertisements, memoranda, and board resolutions.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

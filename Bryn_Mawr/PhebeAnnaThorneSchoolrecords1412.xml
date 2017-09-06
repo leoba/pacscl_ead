@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Phebe Anna Thorne School records <date type="inclusive">1911-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Phebe Anna Thorne School records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1412</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Phebe Anna Thorne Model School of Bryn Mawr College was founded in 1910;
+                    school facilities opened in 1913. Educating students ages 10 and older, the
+                    school was cited by John Dewey of Columbia University as one of the "schools of
+                    tomorrow," but closed in 1931. In 1952, Katharine Elizabeth McBride, then
+                    president of Bryn Mawr, reopened it as a laboratory nursery school for the
+                    Graduate Department of Education. The school promotes active participation of
+                    parents in play-tutoring and advanced methods of child development. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to the two incarnations of the Phebe Anna
+                    Thorne School. Materials include correspondence, student records, curricula and
+                    pedagogical guides, publications, publicity materials, correspondence on
+                    scholarship funding, files on various school activities and projects. There are
+                    also reports from research projects conducted at the school. There is some
+                    material related to Bryn Mawr students' engagement with the school. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

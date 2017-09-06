@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Anthony Joseph Drexel Biddle family papers <date type="inclusive">1912-1961</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Anthony Joseph Drexel Biddle family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC1972</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1912-1961</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Anthony Joseph Drexel Biddle, Jr. (1896-1961) was very active in Democratic
+                    politics, including serving as associate secretary of the Democratic National
+                    Convention in 1936. His activity in the political arena led to several
+                    appointments as a diplomatic officer. He served as minister to Norway, 1935-37,
+                    and ambassador to Poland, (1937-Sept. 9, 1939). After the invasion of Poland by
+                    the Germans, Biddle accompanied the Polish government to France, where he served
+                    as interim ambassador to France and A. E. and P of the United States to the
+                    governments of Poland, Belgium, Netherlands, Norway, Greece, Yugoslavia,
+                    Czechoslovakia, and the M. E. and P to Luxembourg. He resigned from diplomatic
+                    service in 1944, and then served in various positions such as adjutant general
+                    (with rank of major general) to Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes correspondence, speeches, newspaper clippings,
+                    photographs, scrapbooks, awards, commendations, and other miscellaneous
+                    material. The papers relate primarily to his service as a diplomatic officer and
+                    positions thereafter.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

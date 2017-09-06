@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Howard Childs Carpenter slide collection <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Howard Childs Carpenter slide collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2307</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Howard Childs Carpenter (1878-1955) received his M.D. from the University of
+                    Pennsylvania Medical School in 1900. In 1914 Carpenter founded the Department
+                    for the Prevention of Disease at the Children’s Hospital of Philadelphia. He was
+                    appointed Professor of Pediatrics, Graduate School of Medicine, University of
+                    Pennsylvania in 1929. He was a member of the Philadelphia Pediatric Society, the
+                    Philadelphia County Medical Society, The American Pediatrics Society, and many
+                    other societies and associations. Carpenter was elected a fellow of College of
+                    Physicians in 1925.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains approximately 250 glass lantern slides, measuring 3.25 x
+                    4". Most of the slide are in black and white. The diverse images relate to
+                    child healthcare, nutrition, and disease prevention. Subjects include: the
+                    activities of the Department of Prevention of Disease; foreign children; infant
+                    care; sanitary kitchens and farms; portraits of physicians; cartoons; and graphs
+                    and diagrams. These slides probably accompanied lectures given by Carpenter to
+                    community groups, mothers attending clinics at the Department for Prevention of
+                    Diseases, and students attending the Pennsylvania School of Social and Health
+                    Work.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Samuel Radbill?</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

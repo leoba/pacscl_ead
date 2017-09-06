@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ceil Smith Thayer papermaking and watermark collection <date type="inclusive">1857-1980</date>
+                        <date type="bulk"> 1950-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ceil Smith Thayer papermaking and watermark
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1057</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1857-1980</unitdate>
+                <unitdate type="bulk"> 1950-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ceil Smith Thayer was a graduate of the Fawcett School of the Industrial Arts and
+                    a postgraduate student at the New York School of Fine and Applied Arts. She held
+                    various production positions in advertising agencies and department stores in
+                    New York City from 1922-1928. After that, she held positions involving art in
+                    the corporate and publishing worlds. Later, Thayer collected boxes of material
+                    relating to watermarks toward her research on a book on the subject.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of research materials collected by Ceil Smith Thayer related
+                    to papermaking and watermarks. Materials include; research notebooks, slides,
+                    paper and watermark samples, typescripts and printed articles, and
+                    correspondence. Of particular interest is the correspondence with Kathryn and
+                    Howard Clark of Twinrocker.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 92-60</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/thayer.htm">http://www.lib.udel.edu/ud/spec/findaids/thayer.htm</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Thomas Gravell watermark collection and Paulette Greene paper
+                    collection; Rochester Institute of Technology: Ceil Thayer Smith collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

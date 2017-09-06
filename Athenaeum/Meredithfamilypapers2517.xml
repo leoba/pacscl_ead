@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Meredith family papers <date type="inclusive">1820-1868</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Meredith family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2517</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1820-1868</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Meredith (1772-1844) was a Philadelphia attorney and president of the
+                    Schuylkill Bank. He was the third son of Jonathan Meredith, a tanner who
+                    immigrated to the United States from England in the 1750s. In 1795, William
+                    Meredith married Gertrude Gouverneur Ogden, a respected writer. The couple's
+                    eldest son was William Morris Meredith (1799-1873), who followed his father into
+                    the legal profession but made his most significant contributions as a
+                    Pennsylvania state representative (1824-1828), as the secretary of the treasury
+                    in the cabinet of Zachary Taylor (1849-1850), and as the Pennsylvania attorney
+                    general (1861-1867).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of account books kept by William Meredith and his son,
+                    William Morris Meredith. The William Meredith volume is an account book of
+                    income and expenses, 1820-1825. Payments include personal expenses, such as
+                    tuition and pew rents, and fees paid for labor and services. Of note is a
+                    payment to "W. Strickland for draughting plan of Mr. Manigault's House" (Jan.
+                    19, 1825). Income entries include dividends, rents, and payments on loans. The
+                    William Morris Meredith volume is an account book kept between 1867 and 1868.
+                    This brief volume lists transactions by account for items such as coal,
+                    interest, sundries, and chattels and fixtures.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Meredith family papers. Collection 1509. </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

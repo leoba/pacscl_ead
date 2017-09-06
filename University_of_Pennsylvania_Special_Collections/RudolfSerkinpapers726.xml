@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rudolf Serkin papers <date type="inclusive">1922-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rudolf Serkin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC726</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>62 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1922-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rudolf Serkin (1903-1991) was a renowned pianist and teacher. He was born in
+                    Bohemia and made his public debut at 12 with the Vienna Philharmonic. From 1918
+                    to 1920 he studied composition with Arnold Schoenberg. Throughout the 1920s and
+                    early 1930s he lived in Berlin and performed throughout Europe. With the rise of
+                    the Nazi party, Serkin left Berlin for Switzerland. In 1935, he married Irene
+                    Busch. In 1936 he launched his solo concert career in the U. S. with the New
+                    York Philharmonic under Arturo Toscanini. Shortly after the onset of World War
+                    II in 1939, the Serkins and the Busch family emigrated to the United States,
+                    where Serkin joined the Curtis Institute of Music in Philadelphia as a piano
+                    professor. From 1968 to 1976 he served as Director of the Curtis Institute. In
+                    1951, Serkin and Adolf Busch founded the Marlboro Music School and Festival, and
+                    Serkin served as its artistic director from 1952 to 1991. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional and personal paper of Rudolf Serkin. The
+                    professional papers in the collection relate to his performing career as well as
+                    his teaching and administrative work at the Curtis Institute of Music and the
+                    Marlboro Festival. Materials related to Serkin's performing career include:
+                    programs and reviews (1930s-1980s); correspondence with colleagues, program
+                    organizers, fellow musicians, record companies, and fans; itineraries and tour
+                    information; appointment calendars; royalty records; and publicity photos and
+                    press releases. Curtis Institute materials include: correspondence from faculty,
+                    students, and board members; schedules; memos about student and school matters;
+                    budgets; programs; and a copy of a commencement speech by Serkin. Materials from
+                    the Marlboro Festival include: correspondence; programs and schedules; planning
+                    documents, budgets and financial reports; and applications and invitations to
+                    perform at the Festival. There are also minutes and memos from professional and
+                    cultural organizations with which Serkin was involved, including the American
+                    Academy of Arts and Sciences. Among the correspondents in the collection are
+                    cellist Pablo Casals, violist Alexander Schneider, violinist Adolf Busch,
+                    artistic manager Arthur Judson, and recording executive Goddard Lieberson.
+                    Personal papers include: correspondence from friends and family, including his
+                    son Peter Serkin; drawings by Serkin's grandchildren; family snapshots; birthday
+                    greetings; records related to his farm; household budgets; and financial
+                    records. Some of the personal correspondence is in German.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 243</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

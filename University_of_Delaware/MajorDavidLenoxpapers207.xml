@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Major David Lenox papers <date type="inclusive">1782-1832</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Major David Lenox papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC207</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1782-1832</unitdate>
+            </did>
+
+            <bioghist>
+                <p>David Lenox was the United States Marshall for the Pennsylvania District Court
+                    during the Whiskey Rebellion. Lenox also served as the President of the Bank of
+                    the United States, and was a businessman and land speculator. His wife was Tacy
+                    Lukens.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of David Lenox. Materials include:
+                    correspondence relating to Lenox's career subsequent to the Revolution (land
+                    speculation, duties in the Whiskey Rebellion, executorship of the estates of
+                    John Lukens and Joseph Prowell, and banking); personal business and household
+                    receipts; and records related to the settlement of his estate. Included in the
+                    collection is Alexander Hamilton's and Richard Peters's letter of November 11,
+                    1794, thanking Lenox for his government service, but urging him to the bedside
+                    of his sick wife. Also included are letters from Robert and William Pulsford
+                    advising Lenox on the financial affairs of the Washington Plantation. These
+                    letters contain discussions of the sale of slaves. Other correspondents include
+                    Horace Binney, William Bradford, George Fisher, Alexander Graydon, Robert Lenox,
+                    Levi Lincoln, various members of the Lukens family, various members of the
+                    Prowell family, and Forsyth Smith &amp; Co.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Anna D. Moyerman.</p>
+                <p>Year acquired: 1972</p>
+                <p>Accession number: 07-104</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania State
+                    Archives: Lukens-Lenox papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

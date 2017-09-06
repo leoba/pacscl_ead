@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Physicians of Philadelphia Council records <date type="inclusive">1868-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Physicians of Philadelphia Council
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC547</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1868-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The College of Physicians of Philadelphia, founded in 1787, is the oldest
+                    professional medical organization in the country. The College is home to the
+                    Mütter Museum and the Historical Medical Library. The Council of the College of
+                    Physicians was established in 1863 to provide supervision over the affairs of
+                    the College. The Council consists of officers of the College, chairmen of
+                    standing committees, ex-presidents of the College, and the executive
+                    director.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a small collection of records of the Council of the College of Physicians
+                    of Philadelphia. Materials include: a Council resolution regarding unsuitability
+                    of women physicians, 1868; rough meeting minutes of the Council (typed and
+                    manuscript), 1896-1909; a set of rules of the Council, 1958; minutes of the
+                    Council (1976-1988), and miscellaneous offprints of articles.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1995-035</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

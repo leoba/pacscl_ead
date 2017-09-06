@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Trimble Rothrock papers <date type="inclusive">1864-1923</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chester County Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Trimble Rothrock papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CCHSp.ACC2389</unitid>
+                <repository label="Repository">Chester County Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1864-1923</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Trimble Rothrock (1839-1922), physician, botanist, forester, was born in
+                    McVeytown, Mifflin County, Pa. He graduated from Harvard University in 1864 with
+                    a degree in botany, having studied under Asa Gray and Louis Agassiz. He studied
+                    medicine with his father, Dr. Abraham Rothrock, later earning his M.D. from U.
+                    of Pennsylvania in 1868. In that same year, Rothrock became professor of botany
+                    at Pennsylvania State Agricutlrual College. In 1873 he joined the Wheeler survey
+                    as botanist and surgeon. From 1877 to 1904, he was professor of botany at the U.
+                    of Pennsylvania. An opportunity to study botany at the U. of Strassburg left him
+                    much impressed with German forest conservation policies. He was one of the
+                    founders of the Pennsylvania Forestry Association and its president by 1886.
+                    Govenor Pattison appointed Rothrock to a commission to study the state's forests
+                    in 1893, and in 1901 Rothrock was appointed the first commissioner of the newly
+                    created state forestry department.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of approximately 3,000 letters as well as other
+                    manuscripts of Rothrock's lectures on botany and forestry, published articles,
+                    scrapbooks, diaries, newspaper clippings and photographs. Correspondence
+                    includes family letters as well as letters related to his involvement in
+                    Pennsylvania forestry. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of his granddaughter, Eleanor Cleves Rothrock.</p>
+                <p>Year acquired: 1958</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Various related items
+                    located in other collections - see list in finding aid.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

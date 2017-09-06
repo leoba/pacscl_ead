@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Fringe Festival records <date type="inclusive">1997-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Fringe Festival records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2238</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>15 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1997-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Fringe Festival was founded in 1997 by Nick Stuccio, a former
+                    corps member of Pennsylvania Ballet and independent arts producer, and Eric
+                    Schoefer, a choreographer and performance artist. The first Festival took place
+                    in September of 1997 and featured 60 performance groups. The Philadelphia Live
+                    Arts Festival and Philly Fringe currently present sixteen days of performing
+                    arts events each year, beginning on the Labor Day holiday weekend.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials from the Philadelphia Fringe Festival,
+                    1997-2003. Materials include video, audio, and DVD submissions of dance, drama,
+                    and musical performances; posters, flyers, postcards, banners, festival guides,
+                    and one t-shirt; several scripts for plays; ticket stubs; and artist participant
+                    lists (1997-1999).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

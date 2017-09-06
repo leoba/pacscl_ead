@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Patriotic Order of the Sons of America Washington Camp No. 554
+                        minute book <date type="inclusive">1896-1903</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Patriotic Order of the Sons of America Washington Camp No.
+                    554 minute book</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1925</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1896-1903</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Order of the Junior Sons of America was founded in 1847 in Philadelphia,
+                    Pennsylvania, by Dr. Reynell Coates (1802-1886). Dr. Coates was a surgeon,
+                    scientist, statesman, naturalist, teacher, poet, lecturer and essayist, and
+                    wished to found a fraternity for American boys to serve as a "High School of
+                    American Patriotism." The organization was open to American boys aged 16 to 21
+                    years of age. Upon turning 21, their membership would be transferred to the
+                    United Sons of America, the parent organization of the Junior Sons. The first
+                    meeting of the Junior Sons of America was conducted on December 10, 1847, on
+                    Ridge Road, near Spring Garden Street in Philadelphia. Towards the conclusion of
+                    the Civil War, a convention was held by several Brothers of the Junior Sons of
+                    America in Norristown, Pennsylvania, to reorganize the Order. It was at this
+                    time that the name was changed to the Patriotic Order of the Sons of America
+                    (P.O.S. of A.) and the age limit of 21 was discontinued.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of a minute book of weekly meetings of the Patriotic
+                    Order of the Sons of America from 1896 to 1903. Many of the entries include
+                    brief financial statements.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Order of the U.S.A. Pennsylvania Camp No. 1 minute book and Junior
+                    Sons of America minute book.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

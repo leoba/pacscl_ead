@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Evaline Ness papers <date type="inclusive">1964-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Evaline Ness papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2429</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Evaline (Michelow) Ness (1911-1986) was a children's book author and illustrator.
+                    In addition to her own books, Ness illustrated books for such well-known
+                    children's writers as Lloyd Alexander and Stephen Kroll. She was a runner-up for
+                    the Caldecott Medal for three straight years before she won it in 1967 for her
+                    book Sam, Bangs and Moonshine. In addition to the Caldecott Medal, Ness won ALA
+                    Notable Book, Horn Book Honors, and the Hans Christian Anderson Award for books
+                    produced from the 1950s to the 1970s. In 1938 Evaline married FBI agent Eliot
+                    Ness. They divorced in 1946. She married Arnold Bayard in 1959.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of illustrations by Evaline Ness. The collection includes
+                    finished art for her book Old Mother Hubbard and Her Dog. The bulk of the
+                    collection, however, consists of her illustrations for books by Lloyd Alexander.
+                    Materials include dummies, color separations, preliminary art for book jackets,
+                    title page drawings, and maps. The Lloyd Alexander books documented here are
+                    Coll and His White Pig, The Truthful Harp, The Book of Three, The Black
+                    Cauldron, The Castle of Llyr, The High King, and Taran Wanderer.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Philadelphia Children's Literature: Lloyd Alexander papers; University of
+                    Minnesota, Children's Literature Research Collections: Evaline Ness papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

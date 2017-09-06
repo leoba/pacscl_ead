@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>W.D. Snodgrass papers <date type="inclusive">1939-2007</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">W.D. Snodgrass papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1266</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>55.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1939-2007</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Poet W. D. Snodgrass was born William De Witt Snodgrass on January 5, 1926, in
+                    Wilkinsburg, Pennsylvania. He attended Geneva College prior to graduating from
+                    the University of Iowa with a B.A. in 1949, an M.A. in 1951, and a M.F.A. in
+                    1953. He also holds an honorary Doctor of Letters from Allegheny College. W. D.
+                    Snodgrass's first book, a collection of poetry titled Heart's Needle (New York:
+                    Knopf, 1959) was awarded the 1960 Pulitzer Prize for Poetry. Since that
+                    publication Snodgrass has produced over thirty books of poetry, translations,
+                    and criticism. In addition to Heart's Needle, the poet's other published
+                    collections of poetry include After Experience (1968), the Fuhrer Bunker: A
+                    Cycle of Poems in Progress (1977), Remains (1970), and The Death of Cock Robin
+                    (1989). In addition to the Pulitzer Prize, the poet has been honored with such
+                    awards as the Hudson Review Fellowship (1958), the Longview Award (1959), the
+                    Poetry Society of America Special Citation (1960), the Guinness Award (1961),
+                    the Ingram Merrill Foundation Award (1968), and the Centennial Medal of Romania
+                    (1977). Snodgrass was elected to the National Institute of Arts and Letters in
+                    1972, and was made a Fellow of the Academy of American Poets in 1973. Following
+                    faculty assignments at Cornell University (1955-1957), University of Rochester
+                    (1957-1958), Wayne State University (1959-1967), Syracuse University
+                    (1968-1977), and Old Dominion University (1978-1979); W. D. Snodgrass joined the
+                    faculty at the University of Delaware in 1979. He currently holds the position
+                    of Distinguished Professor of Creative Writing and Contemporary Poetry.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of W.D. Snodgrass represent the entire career of the poet and author,
+                    from his elementary school days and early poems at the Writers Workshop to the
+                    most recent drafts of his current work. The collection consists of numerous
+                    drafts of poetry manuscripts (in autograph, typescript, and electronic format),
+                    translations, plays, essays, criticism and other writing, personal and
+                    professional correspondence, calendars and travel plans, papers for seminars and
+                    classes, publishing proofs, books and journals, interviews, clippings,
+                    photographs, artwork, video and audio recordings, and awards. The correspondence
+                    includes exchanges with notable authors such as Anne Sexton, Donald Hall, James
+                    Merrill, Robert Lowell, John Berryman, Richard Wilbur, Donald Justice, Mona
+                    Thurston, Hortense Caslisher, and many others.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Most purchased from W.D. Snodgrass</p>
+                <p>Year acquired: various</p>
+                <p>Accession number: various</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/snodgras.htm">http://www.lib.udel.edu/ud/spec/findaids/snodgras.htm</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: W. D. Snodgrass Correspondence with Daniela Gioseffi (Mss 272), W. D.
+                    Snodgrass Letters and Manuscripts to Jerome Mazzaro (Mss 273), and W. D.
+                    Snodgrass Collection (Mss 274).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

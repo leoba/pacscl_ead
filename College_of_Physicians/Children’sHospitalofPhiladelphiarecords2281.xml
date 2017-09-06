@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Children’s Hospital of Philadelphia records <date type="inclusive">1855-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Children’s Hospital of Philadelphia records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC2281</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>102 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Children's Hospital of Philadelphia was founded in 1855. The first location
+                    of the original Children's Hospital was a small building on Blight Street (now
+                    Watts St). The hospital consisted of 12 beds and a dispensary. That year they
+                    recorded 67 inpatient admissions and 306 outpatient visits. Children’s Hospital
+                    was relocated to 22nd Street between Locust and Walnut Sts after the American
+                    Civil War. This hospital consisted of 35 beds and a dispensary. Construction
+                    adjacent to the 2nd hospital was begun in 1913 and the first unit was opened in
+                    1916 extending toward 18th and Bainbridge Sts. In 1919 the hospital became
+                    affiliated with the University of Pennsylvania School of Medicine. The
+                    affiliation became steadily closer over the next 17 years, with the Children's
+                    Hospital becoming identical to the pediatric department of the school of
+                    medicine, with most of the attending physicians appointed jointly to both
+                    institutions. Construction of the new hospital at a new site on the west side of
+                    the Schuylkill River at 34th Street and Civic Center Boulevard, adjacent to the
+                    campus of the University of Pennsylvania, was begun in 1969 and the first
+                    building was opened in 1974. This present Children's Hospital complex occupies
+                    part of the site of the old Philadelphia General Hospital and Blockley
+                    Almshouse. CHOP has over 430 beds, 40 percent of which are allocated to
+                    neonatal, cardiac, and pediatric intensive care. Each year the hospital admits
+                    more than 15,000 children and more than 600,000 are seen in the emergency and
+                    outpatient departments.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes administrative records, historical items, and
+                    audiovisual, visual and printed materials relating to the Children's Hospital of
+                    Philadelphia. In addition to records of committees, departments, workshops,
+                    symposia, and fundraising events, there is information on strategic planning
+                    efforts and building projects. The collection contains substantial documentation
+                    of public relations and advertising efforts, and includes: correspondence; press
+                    kits; fact sheets; news releases; newspaper clippings; reports and memoranda;
+                    and copies of brochures. The collection contains some audiovisual materials, as
+                    well as numerous photographs and negatives, some of which have been scanned.
+                    Printed CHOP materials include Annual Reports (1856-2003), Pediatric Pioneering,
+                    CHOP Notes, Children's Times, Children's View, and other periodicals. There is a
+                    set of biographical files on physicians, officers, board members and staff
+                    including consisting of audiocassettes and transcripts of interviews, CVs,
+                    biographical sketches, clippings, and other materials. The collection includes
+                    some patient records (1876-1920) and slides of patients. There are a number of
+                    artifacts and framed awards in the collection.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Children--Hospitals.</subject>
+                <subject encodinganalog="650">Hospital Administration.</subject>
+                <subject encodinganalog="650">Hospitals--Pennsylvania.</subject>
+                <subject encodinganalog="650">Hospitals--Public relations.</subject>
+                <genreform encodinganalog="655">Annual reports</genreform>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Interviews</genreform>
+                <genreform encodinganalog="655">Medical records</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Press kits.</genreform>
+                <genreform encodinganalog="655">Publications.</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+                <genreform encodinganalog="655">Slides (Photographs)</genreform>
+                <genreform encodinganalog="655">Video recordings</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Children's Seashore House records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

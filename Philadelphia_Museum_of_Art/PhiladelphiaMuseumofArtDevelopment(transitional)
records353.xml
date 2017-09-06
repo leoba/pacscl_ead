@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Development (transitional) records <date type="inclusive">1960-1996</date>
+                        <date type="bulk"> 1967-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Development (transitional)
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC353</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>24.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1996</unitdate>
+                <unitdate type="bulk"> 1967-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In addition to cultivating and soliciting donors and other funding sources, a
+                    development office establishes the suitability between such funding and an
+                    institution's strategic planning. Over the Museum's history, the responsibility
+                    for a development program has fluctuated between corporate officers, committees,
+                    and personnel from various offices, departments and divisions of operation. At
+                    times, one director or manager has been assigned to administer both a
+                    development and membership program. In the 1964-1965 Annual Report, a Museum
+                    staff person was listed for the first time in connection with the Fund Office.
+                    Madeleine S. de Miège, who was secretary to the Museum President, also served as
+                    Fund Office Secretary and Assistant. In 1967, the Museum hired Robert Safrin as
+                    its first Manager of the Development and Membership departments. Other than a
+                    Membership Secretary, Safrin was the sole staffer of these departments. His
+                    position was listed as part of the Museum's Administration division. Both Safrin
+                    and de Miège held their positions through 1971. The following year appears to
+                    have been a turning point in the way the Museum intended to cultivate its
+                    development and membership programs. As noted in the 1970-1971 Annual Report
+                    (which included a list of staff as of April 1972), a Development and Membership
+                    Department, separate from Administration, was listed. Noble Smith was the
+                    department's Acting Manager, overseeing Jane Custer, membership supervisor, and
+                    Cathey McClain, annual fund-giving coordinator. A Development Steering Committee
+                    was also initiated that year. The next year, Development and Membership became
+                    separate departments, each operating with the same staff positions of annual
+                    giving coordinator and supervisor, respectively. The management position for
+                    development, however, once again became part of Administration, with the
+                    appointment of Philip Thompson as Assistant Director for Development, who
+                    replaced Noble Smith. Thompson remained in that position through 1977, and in
+                    1979 Noble Smith returned to the Museum, replacing his replacement. For 1980 and
+                    1981, Smith's responsibilities expanded to include membership and public
+                    relations in addition to development. As indicated in the 1980-1981 Annual
+                    Report, the Museum revised its overall staff structure, so that each office and
+                    department was categorized under one of three divisions: corporate, curatorial,
+                    and programs and supporting services. In 1980, Noble Smith's Administration
+                    position became a Corporate one. And for the first time, a director was
+                    appointed to oversee the Development Department, which was classified within the
+                    latter division. Maria Giliotti assumed that position, which put her in charge
+                    of staff responsible for annual giving, major gifts, grants, and planned giving.
+                    Although the organizational structure of the Museum would continue to fluctuate
+                    in the following decade, in 1982 the Development Department, as well as
+                    Membership began operating as it does today, independent of any corporate
+                    supervision. When Maria Gilliotti assumed the position of Development Director
+                    in 1982, the department was categorized under the "Programs and Supporting
+                    Services" division within the Museum's organizational structure. ("Corporate"
+                    and "Curatorial" were the other divisions). Gilliotti's staff that year
+                    included Terry Hoff as annual giving coordinator, Daphne Smith as major gifts
+                    coordinator, Susan Stuchlak as grants coordinator, and Carol Maloney as planned
+                    giving administrator. In 1989, Elizabeth S. Ketcham temporarily replaced
+                    Gilliotti as Acting Development Director, overseeing a smaller staff consisting
+                    of coordinators for an Associate Member program and for grants. In 1990 the
+                    Museum made a significant change in its organizational structure, bringing
+                    Development once again under its corporate division and designating it as an
+                    administration office. Developmental activities were now administered by the
+                    Office of the Vice President for Development, with Alexandra Q. Aldridge joining
+                    the Museum as V.P. (Interestingly, the offices of Membership and Public
+                    Relations remained part of the Programs and Supporting Services division. In
+                    1995, however, the Museum did establish an Office of Vice President for
+                    Marketing and Public Relations.) Aldridge's staff coordinated programs devoted
+                    to corporate partners, Associate museum members, grants, and annual giving. Over
+                    the next three years, additional personnel were hired to broaden and refine the
+                    Museum's development strategies, such as a campaign manager, writer and
+                    researcher, a foundation relations coordinator, and a
+                    communications/publications and telemarketing manager. By June 1994, the
+                    Development office grew to a staff of 17. (As a point of comparison, the Office
+                    of President and Director had 7.) That year, in addition to having personnel in
+                    charge of corporate, associate, and annual giving programs, a Deputy Director
+                    and a Director of Foundation and Grant Relations were added. Katharine Wilson
+                    Gotwals, who began in 1991 as a part-time campaign manager in Development,
+                    assumed the former position, and Linda Jacobs, who came to the Museum in 1992 to
+                    work on government grants, was promoted to the latter. In 1996, both Gotwals and
+                    Ketcham were named Deputy Directors. Gotwals left the following year; Ketcham
+                    continued through 1999. The Second Century Fund was initiated in 1977 in
+                    response to a federal grant challenge. The National Endowment of the Humanities
+                    would grant the Museum $900,000 over a three-year period if the Museum could
+                    match that amount each of the three years. The title of the campaign referred to
+                    the Museum beginning its 101st year (1977). The goal of the Landmark Renewal
+                    Fund, was to raise $50 million through private funding over a five-year period,
+                    1986-1991. Specifically, the funds were intended to enhance the presentation of
+                    the Museum's collections, make necessary restorations and repairs to the
+                    "landmark" building, and reinforce the institution's financial basis.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Museum’s Development Department. Materials
+                    include: form letters, records of gift funds, office accounts and photographs,
+                    as well as an outline of development and membership activities during the 1970s;
+                    records related to gifts to the Museum made by trustees and associates through
+                    at least 1995; planning documents related to a 1981 symposium on planned giving;
+                    fund reports; monthly calendars of special exhibitions and events, and members
+                    newsletters. The collection also includes records related to activities and
+                    events sponsored by the Museum’s Friends and Young Friends to raise funds for
+                    Museum acquisitions. These records document the planning of benefit parties held
+                    approximately from 1989 to 1997 at noted Philadelphia venues such as the
+                    Horticultural Center and Ritz-Carlton. Photographs of events and members are
+                    also included. Materials related to special fundraising initiatives, designed to
+                    meet specific goals within a specified period of time include: the Second
+                    Century Fund which contains a scrapbook of reports, mailings, press releases and
+                    clippings, and ephemera; and documentation of the Landmark Renewal Fund which
+                    traces the campaign's progress, and contains pre-campaign proposals and
+                    feasibility studies, material from previous programs, drafts of programs and
+                    solicitation proposals, minutes of various committee meetings, publicity and
+                    reference material, including videotapes, and a campaign summary.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Development and
+                    Membership Department. </corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Development Department. </corpname>
+                <subject encodinganalog="650">Fund raising.</subject>
+                <subject encodinganalog="650">Museum finance. </subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Press releases.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+                <genreform encodinganalog="655">Videotapes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 13</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=DM">http://www.philamuseum.org/pma_archives/search.php?c=DM</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Development and Membership Department Records (ADV) and Development
+                    Department Records (DEV).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

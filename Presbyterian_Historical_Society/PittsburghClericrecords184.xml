@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pittsburgh Cleric records <date type="inclusive">1964-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pittsburgh Cleric records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC184</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.92 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>"The Cleric" of Pittsburgh, PA, and vicinity first met in 1894. The object was
+                    "the development of Christian fellowship and culture among the members of the
+                    Cleric."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains minutes from 1965-2001, which include originals,
+                    photocopies and transcriptions. There are also treatises 1980-2001. Some of the
+                    titles include: "Multiple Intelligences and Communicating the Good Word,"
+                    "The Black Idiom in the Music of America," "The Electronic Great Awakening,"
+                    "Uncreative Conflict: the Creationist-Evolutionist Controversy," and "Judo,
+                    the Gentle Way." In addition, there are rosters, 1965-2001 (listing programs
+                    for each meeting and members of the Cleric), and attendance records and
+                    constitutions, 1964, 1984, and 1990.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Pittsburgh Cleric c/o Rev. Calvin Wilson</p>
+                <p>Accession number: 06 1212d</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

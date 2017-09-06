@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Fairmount Park Commissioners records <date type="inclusive">1913-1933</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Fairmount Park Commissioners records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC755</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1913-1933</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Historically, the Philadelphia Museum of Art was a legacy of the great Centennial
+                    Exposition of 1876 held in Fairmount Park. In March 1873, an act of the
+                    Pennsylvania State Legislature set in motion plans for the construction of
+                    Memorial Hall—a permanent building to be designed by Hermann J.
+                    Schwarzmann—which was to serve as the art gallery of the exposition. At the
+                    conclusion of the Centennial celebrations, Memorial Hall was to remain open as a
+                    Museum of Art and Industry "for the improvement and enjoyment of the people of
+                    the Commonwealth." By the turn of the century, it became increasingly apparent
+                    that larger quarters were needed to house the Museum's growing collections. A
+                    vast new building on the site of a former reservoir on the hill of Fairmount was
+                    first projected in 1907 as the spectacular terminus for the new parkway being
+                    planned as a diagonal link between City Hall and Fairmount Park. The dedicated
+                    efforts of Eli Kirk Price, Vice-President of the Fairmount Park Commission (who
+                    was later to serve as the Museum's President from 1926 to 1933), helped to set
+                    the wheels in motion for the new building. Construction was begun in 1919 by the
+                    Commissioners of Fairmount Park, with funds provided by the city. The architects
+                    retained by the Park Commission to design the new Museum were Horace Trumbauer
+                    and the firm of Zantzinger, Borie, and Medary. Julian Abele, one of the first
+                    African American architects to come to prominence in the United States, served
+                    as chief designer for Trumbauer during this crucial period. By 1923, the
+                    terracing of the granite hill at Fairmount had been completed and the
+                    foundations of the building, as well as the broad steps leading up to it from
+                    street level, had been laid. Designed as a vast Neoclassical temple with wings
+                    embracing an open court, the Museum's two outlying pavilions were constructed
+                    first in order to ensure a continued flow of city funds to complete the
+                    connecting central structure. The Museum's design echoes the simpler
+                    Neoclassicism of the little group of buildings by the Schuylkill River to the
+                    northwest, which were built in the 1820s to house the city's waterworks. Even
+                    before the shell of the building was finished, temporary galleries had been
+                    opened in 1924 on the schedule imposed by the wills of George W. Elkins and his
+                    father, William, and that of John H. McFadden. They had bequeathed magnificent
+                    painting collections on the condition that suitable galleries in the projected
+                    building be prepared within a reasonable period of time following their deaths.
+                    On March 26, 1928, the first finished section of the new Museum's interior,
+                    devoted to British and American art, was formally opened to the public.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of five scrapbooks documenting the planning,
+                    construction, and opening of the Philadelphia Museum of Art building on the
+                    Benjamin Franklin Parkway. The majority of the clippings are articles appearing
+                    in Philadelphia newspapers (the Philadelphia Inquirer, Public Ledger, Evening
+                    Ledger, Evening Bulletin, and Record) between 1913 and 1933. The collection
+                    includes a copy of the 1928 Pennsylvania Museum Bulletin for the inaugural
+                    exhibition at the new building in 1928. The notations and note within the latest
+                    dated scrapbookappear to be in Fiske Kimball's hand.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Fairmount Park Commission (Philadelphia,
+                    Pa.)</corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <subject encodinganalog="650">Art museum architecture--Pennsylvania--Philadelphia. </subject>
+                <geogname encodinganalog="651">Philadelphia (Pa.)--Buildings, structures, etc. </geogname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 28</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=FPC">http://www.philamuseum.org/pma_archives/search.php?c=FPC</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

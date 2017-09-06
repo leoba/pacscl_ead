@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Taylor family papers <date type="inclusive">1744-1965</date>
+                        <date type="bulk"> 1825-1940s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Taylor family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC828</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>9.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1744-1965</unitdate>
+                <unitdate type="bulk"> 1825-1940s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George Washington Taylor (1803-1891) was born in Radnor, Pennsylvania, son of
+                    Jacob and Elizabeth Richards Taylor. He worked in the cause of temperance, and
+                    was publisher of the periodical The Non-Slaveholder and a peace paper The
+                    Citizen of the World. Taylor was a member of the 12th Street (Philadelphia)
+                    Meeting. Francis Richards Taylor (1884-1947) was a lawyer and minister in
+                    Cheltenham Monthly Meeting. Hubert Taylor (1916-1992) was the son of Francis
+                    Richards Taylor and Elizabeth Richie Taylor. Anne Taylor Bronner and Esther Hunt
+                    Taylor (Marshall) were Francis Richards Taylor's daughters.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of papers of several members of the Taylor family.
+                    Materials include: correspondence of Francis R. Taylor, George Washington
+                    Taylor, Jacob Taylor, Hubert Taylor, Elizabeth H. Roberts Richie, Anne Bronner,
+                    and Anne Richie; genealogical information on the Taylor family; clippings and
+                    other subject files compiled by Francis R. Taylor; minutes and miscellaneous
+                    records of the Abington Meeting; newspaper clippings of Francis R. Taylor; a
+                    notebook of Elizabeth Taylor; high school and college papers of Esther Hunt
+                    Taylor; diaries of Hubert Taylor; and other personal documents, such as
+                    passports, school records, postcards, and legal documents. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Abington Monthly Meeting of the Religious Society of
+                    Friends.</corpname>
+                <persname encodinganalog="600">Bronner, Anne Taylor, 1918-</persname>
+                <famname encodinganalog="600">Ritchie family.</famname>
+                <persname encodinganalog="600">Taylor, Elizabeth Richie.</persname>
+                <persname encodinganalog="600">Taylor, Esther Hunt.</persname>
+                <persname encodinganalog="600">Taylor, Francis Richards, 1884-1947.</persname>
+                <persname encodinganalog="600">Taylor, George Washington, 1803-1891.</persname>
+                <subject encodinganalog="650">Quakers--Correspondence.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Diaries</genreform>
+                <genreform encodinganalog="655">Family papers</genreform>
+                <genreform encodinganalog="655">Genealogies</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 6398, 6675, 6762, 6996</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

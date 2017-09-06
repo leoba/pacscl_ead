@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>WPA collection <date type="inclusive">1935-1943</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">WPA collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2369</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1943</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1935, President Franklin Delano Roosevelt established the Works Progress
+                    Administration (the name was changed to Work Projects Administration in
+                    September of 1939), as part of his New Deal program to put millions of
+                    unemployed Americans back to work. In July of 1935, Federal Project Number One
+                    (Federal One) was established within the WPA as a central administration for the
+                    arts-related projects. Federal One provided funds specifically for artists,
+                    musicians, actors, and writers through the Federal Art Project (FAP), the
+                    Federal Music Project, the Federal Theatre Project, and the Federal Writer's
+                    Project. FAP employed more than five thousand artists in various art projects
+                    including the many poster divisions that were created throughout the United
+                    States. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The WPA Collection contains about 1,400 prints and drawings created by artists
+                    hired by the federal government to work in the Philadelphia Graphic Arts
+                    Workshop during the Great Depression. Among the artists represented are Julius
+                    Block, Sam Brown, Claude Clark, Mildred Elfman, Michael Gallagher, Hubert
+                    Mesibov, Raymond Steth and Roswell Weidner. A variety of printing techniques are
+                    included, such as lithography, woodblock, carborundum prints, and etching.
+                    Drawing media include graphite, charcoal, conte crayon, and gouache.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: WPA Posters and Prints (collection V. 99); Illinois State Museum:
+                    Works Progress Administration collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

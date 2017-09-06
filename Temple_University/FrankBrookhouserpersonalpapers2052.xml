@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frank Brookhouser personal papers <date type="inclusive">1929-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frank Brookhouser personal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2052</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frank Brookhouser was born in 1912 and attended high school in Ford City, Pa.
+                    where he began his career in journalism as editor of the high school newspaper.
+                    Brookhouser took a degree in journalism from Temple University and began working
+                    for the Philadelphia Inquirer in 1939. In 1952 Brookhouser moved to the
+                    Philadelphia evening bulletin where he penned a column entitled "Man About
+                    Town," which ran until 1973. He wrote six books and over 400 short stories,
+                    many of which were reprinted in the O. Henry Award and other anthologies.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this Philadelphia newspaperman include materials related to his
+                    columns in the Philadelphia Inquirer and the Philadelphia Evening Bulletin,
+                    spanning his 50 year career which began in Ford City, Pennsylvania. This part of
+                    the collection includes clippings and typescripts. The second part of the
+                    collection documents Brookhouser's career as a short-story writer, which
+                    includes correspondence, manuscripts, pamphlets, photographs, and tear sheets.
+                    Prominent correspondents include Nelson Algren, Joan Crawford, Frank Sinatra,
+                    Dave Garroway, James Michener, Allan Swallow, and Cornel Wilde.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

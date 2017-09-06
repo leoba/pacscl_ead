@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lyn Lifshin papers <date type="inclusive">1953-2007</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lyn Lifshin papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2071</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>277 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-2007</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lyn Lifshin was born in Burlington, Vermont, in 1942 and published her first book
+                    of verse in 1968. Since then Lifshin has published over 40 books of poetry and
+                    several anthologies. Her focus is on feminism and the institution of
+                    marriage.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this contemporary American feminist poet consist of voluminous
+                    correspondence, notebooks, card files, manuscripts, newspaper clippings, and
+                    audio recordings. The collection includes draft manuscripts for many works,
+                    including an anthology, Ariadne's Thread: A Collection of Contemporary Women's
+                    Journals, and Tangled Vines: A Collection of Mother and Daughter Poems. One
+                    prominent correspondent is Toni Ortner-Zimmerman. The collection includes
+                    printed materials, such as announcements, newsletters, and flyers for many
+                    poetry organizations and publications, particularly women's poetry
+                    organizations. There is a small amount of juvenilia and documentation related to
+                    Lifshin's school years.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

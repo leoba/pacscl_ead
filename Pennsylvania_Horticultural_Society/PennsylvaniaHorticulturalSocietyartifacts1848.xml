@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Horticultural Society artifacts <date type="inclusive">1851-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Horticultural Society artifacts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1848</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1851-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The
+                    Pennsylvania Horticultural Society offers lectures and workshops, publishes the
+                    magazine Green Scene, and hosts the yearly Philadelphia Flower Show. First held
+                    in 1829, the Philadelphia Flower Show has grown to be the world's largest indoor
+                    flower exhibition. Proceeds from the Philadelphia Flower Show support the
+                    Pennsylvania Horticultural Society's urban greening program, Philadelphia Green,
+                    which supports the development and ongoing care of community gardens,
+                    neighborhood parks and high-profile public green spaces in Philadelphia. The
+                    Pennsylvania Horticultural Society is also home to the McLean Library, a
+                    collection of over 15,000 books on gardening and plant care, botany, and urban
+                    greening.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of artifacts and memorabilia related to the Pennsylvania
+                    Horticultural Society and the Philadelphia Flower Show. Items include: a
+                    Pennsylvania Horticultural Society member's ceramic mug from 2006; a 1995 18th
+                    Century Garden ornament and two 1994 Poinsettia glass Christmas ornaments,
+                    accompanied by advertisements from Green Scene describing the ornaments; sets of
+                    notecards depicting plates from Robert Thornton's Temple of Flora and other
+                    horticultural images; and a seal of the Pennsylvania Horticultural Society.
+                    Flower Show artifacts include: two seals from Philadelphia Flower Show, Inc.; a
+                    brass plaque from the Flower Show; a cloth banner from the 175th anniversary
+                    Flower Show in 2004; two keepsake ceramic rose figurines made by Boehm for the
+                    Philadelphia Flower Show; and a silver cup awarded by the Pennsylvania
+                    Horticultural Society to Jonathan Sherwood for his Camellia Isabell Hartley and
+                    a published biography of Sarah Palmer Sherwood The collection also includes
+                    approximately 25 medals awarded to individuals by the society for horticultural
+                    achievements and by other gardening associations to the Pennsylvania
+                    Horticultural Society. Medal recipients include Caleb Cope and James Boyd.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="611">Philadelphia Flower Show.</corpname>
+                <subject encodinganalog="650">Horticulture--Societies, etc.</subject>
+                <genreform encodinganalog="655">Artifacts.</genreform>
+                <genreform encodinganalog="655">Awards.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

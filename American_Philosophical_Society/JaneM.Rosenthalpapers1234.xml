@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Jane M. Rosenthal papers <date type="inclusive">1971-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Jane M. Rosenthal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1234</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Jane M. Rosenthal (1925-2004) was a linguist and teacher. She received her
+                    bachelor's degree in journalism from Indiana University, where she also met her
+                    husband, Robert Rosenthal. After college, she worked as a reporter for the daily
+                    newspaper in Bedford, Indiana. After their marriage, the couple moved to
+                    Chicago, where Robert Rosenthal attended the Graduate Library School at the
+                    University of Chicago. He later became the head of the University's manuscript
+                    and archives collections. Jane Rosenthal taught English and citizenship to
+                    immigrant adults for several years, and then began graduate work in linguistics
+                    at the University of Chicago, earning her master's degree in 1971. Her
+                    specialization was the Aztec language. She then taught English language and
+                    linguistics at Chicago State University, Roosevelt University, and the National
+                    College of Education, where she was Coordinator of the Language Institute. While
+                    she taught, she continued her research in Nahuatl and Uto-Aztecan languages and
+                    Mexican history and culture, and pursued additional graduate coursework at the
+                    University of Chicago.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of Jane M. Rosenthal. Materials
+                    include: notes and drafts of Rosenthal's articles; copies of articles and
+                    manuscripts by others; conference and lecture handouts and notes; clippings;
+                    correspondence, much of it related to conferences; notebooks and index cards
+                    containing lexicons and glossaries; transcriptions and copies of classical texts
+                    in Spanish; and photographs and negatives. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Linguistics.</subject>
+                <subject encodinganalog="650">Nahuatl language.</subject>
+                <subject encodinganalog="650">Uto-Aztecan languages.</subject>
+                <genreform encodinganalog="655">Lecture notes</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: M2004-31</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

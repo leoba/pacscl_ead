@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John M. Keating correpondence <date type="inclusive">1888-1893</date>
+                        <date type="bulk"> 1891-1893</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John M. Keating correpondence</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC621</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1888-1893</unitdate>
+                <unitdate type="bulk"> 1891-1893</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John M. Keating (1852-1893) was Professor of Obstetrics in the Jefferson Medical
+                    College. He graduated with a medical degree from the University of Pennsylvania
+                    in 1873. He was Physician to Blockley Hospital and Lecturer on the Diseases of
+                    Children in the University of Pennsylvania. Keating was the editor of Cyclopedia
+                    of Diseases of Children, and contributed to a number of other volumes on
+                    obstetrics pediatrics. He was the editor of Archives of Pediatrics, the
+                    International Clinics, and the Climatologist, and was president of the American
+                    Medical Association Section on Diseases of Children.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of correspondence of John M. Keating, from 1891 and 1893.
+                    Most of the letters concern medical publishing and Keating's role as editor and
+                    as reviewer. Other topics include the Pan-American Medical Congress of 1893.
+                    Correspondents include William Osler, Charles Penrose, Judson Daland, J.M. Da
+                    Costa, W.B. Saunders, Charles Lea, and John Wanamaker.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2002-02</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

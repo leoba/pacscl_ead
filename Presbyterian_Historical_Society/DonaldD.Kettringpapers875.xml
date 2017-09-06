@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Donald D. Kettring papers <date type="inclusive">1962-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Donald D. Kettring papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC875</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Donald Kettring (1907-1981) received a Master's in Sacred Music from Union
+                    Theological Seminary in 1931 and a B.D. from Union in 1944. He was
+                    organist-director at First Congregational Church in Columbus, Ohio, from 1945 to
+                    1948 and organist-director at East Liberty Presbyterian Church, Pittsburgh, from
+                    from 1948 to 1972. From 1958, he was also an associate minister at East Liberty
+                    Church.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Donald Kettring, related to his work on the
+                    Hymn Selection Committee. The papers date from 1962 to 1974, and include
+                    minutes, memoranda, reports, correspondence, expense reports, lists of hymns,
+                    sheet music, and lyrics. The correspondence discusses selection of hymns,
+                    arrangement, lyrics, and copyright matters. The collection also includes card
+                    file indexes of worship book songs, arranged by title and composer.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Kettring, Donald</p>
+                <p>Accession number: 77 1027</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

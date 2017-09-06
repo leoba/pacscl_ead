@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ruth J. Snowdon collection of travel slides <date type="inclusive">undated</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ruth J. Snowdon collection of travel slides</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1135</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>31 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">undated</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ruth Anna Johnson Snowdon, was the wife of Charles Leidy Snowdon Jr., and the
+                    mother of Elizabeth Snowdon Hoopes. Snowdon traveled extensively during the
+                    1960s and 1970s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Ruth J. Snowdon collection of Travel Slides consists of material dating from
+                    the 1960s and 1970s. It is a collection of over 7,000 3-D color slides which
+                    depict Mrs. Snowdon's worldwide travels to Egypt, Greece, Israel, Haiti, Ceylon,
+                    Japan, Italy, Mexico, Bali, Burma, Cambodia, Ceylon, Denmark, Guatemala, India,
+                    Java, Jordan, Korea, Qumran, Portugal, Lebanon, Spain, Singapore, Switzerland,
+                    Taiwan, Morocco, Philippines, Sicily, Thailand, Yugoslavia, France, and the
+                    United States. Each slide is numbered and labeled as to content. An extensive
+                    index to the collection includes subject headings and cross-references. Most of
+                    the slides are grouped by country, with some series including subheadings, such
+                    as cities or regions within a country. Other series include subject groupings
+                    such as plants and trees, gardens, children, agriculture, transportation,
+                    religion, architecture, or industry. The collection also includes five hand-held
+                    3D slide viewers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 96-33c</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.lib.udel.edu/ud/spec/findaids/snowdon.htm">http://www.lib.udel.edu/ud/spec/findaids/snowdon.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

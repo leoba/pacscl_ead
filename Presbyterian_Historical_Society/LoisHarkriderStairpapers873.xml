@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lois Harkrider Stair papers <date type="inclusive">1967-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lois Harkrider Stair papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC873</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.02 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lois Harkrider (1923-1981) was born in Waukesha, Wisconsin. She earned her BA at
+                    Smith College in 1944. She married Ralph Martin Stair of Waukesha; they had two
+                    sons. In 1957 Stair was ordained a ruling elder of the First Presbyterian Church
+                    of Waukesha. She was a commissioner to the 171st General Assembly (UPCUSA)
+                    (1959) and was elected secretary to the Standing Committee on Theological
+                    Education. She became Vice-Moderator of Milwaukee Presbytery in 1965 and was
+                    subsequently the first person to serve two successive terms as moderator of that
+                    presbytery. In 1968 she was named vice-moderator of Wisconsin Synod and
+                    moderator the year after that. In 1971 Stair became the first woman to be
+                    elected Moderator of the General Assembly of the United Presbyterian Church in
+                    the U.S.A., in the face of a storm of controversy which had begun only days
+                    before. An agency of the Church had set up a $10,000 fund to support the defense
+                    of African-American militant Angela Yvonne Davis, who was charged with
+                    conspiracy and murder. Over 7,000 church members from across the country
+                    protested the fund, but Moderator Stair held firm in defense of it, stating that
+                    "Angela Davis may be the symbol of the Black's fight for justice." Stair
+                    maintained her involvement with the Presbyterian Church after her term as
+                    moderator ended, working with the Council on Church Union until her death in
+                    1981.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Lois Harkrider Stair. Materials include:
+                    personal and professional correspondence; press coverage; printed materials
+                    related to speeches and appearances by Stair during and after her tenure;
+                    schedules and itineraries; and awards, citations and memorabilia related to
+                    Stair's tenure as moderator. The collection also contains topical files related
+                    to Stair’s activities. Subjects include: theological education, Council on
+                    Church Union Education Committee Work, Carroll College Trustee papers, United
+                    Presbyterian Foundation, General Assembly material prior to and after 1974,
+                    various seminaries and presbyteries, Moderators Conference, and the Ghost Ranch
+                    Foundation. Additional materials in the collection include: correspondence to
+                    her husband, Ralph Stair, from others; one audiocassette, "UPW Area Cons., Aug.
+                    1971"; a folder containing legal information, including wills for Ralph Stair
+                    and Lois Stair, family trusts, and the estate of Lola B. Harkrider; bills and
+                    receipts; and copies of the publication "Presbyterian Laymen."</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 77 0729: Stair; accession 96 0923: Roche, Barbara</p>
+                <p>Accession number: 77 0729|96 0923</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Lois Harkrider Stair records (RG 97).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

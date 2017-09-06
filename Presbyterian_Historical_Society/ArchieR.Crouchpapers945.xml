@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Archie R. Crouch papers <date type="inclusive">1936-1982</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Archie R. Crouch papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC945</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1982</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Archibald Roy Crouch (b. 1909) received his B.Th. from Princeton Theological
+                    Seminary in 1933. He also received a master's degree from Corness University and
+                    a Ph.D. in sociology from the University of Southern California. He was Pastor
+                    in churches in California and Minnesota and began Missionary work in China in
+                    1936. He taught English in Ningpo and performed emergency war work there, 1938
+                    and 1939-1941. He also taught English in Shanghai from 1938 to 1939. In 1946 he
+                    returned to the United States, where he helped raise the Restoration Fund of the
+                    Presbyterian Church, and organize the National Council of Presbyterian Men along
+                    the Pacific Coast. Crouch was also Secretary for Communications of the COEMAR of
+                    the UPCUSA. From 1950 to 1952 he was director of the Westminster Foundation at
+                    the University of California in Berkeley. He published weekly columns in The
+                    Cambrian and The Morro Bay Sun.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes labor activity reports written in Crouch's capacity as a
+                    missionary. Activity reports include lists of meetings and speaking engagements;
+                    summary statistics of meeting attendance; and staff hours and financial
+                    statements, 1942-1969. There are reports of the Furlough Fellowship, 1942-1947;
+                    the National Council of Presbyterian Men, 1949-1950; Westminster Foundation,
+                    1950-1952; the Western Area Office (of which Crouch was Secretary) of the
+                    Commission on Ecumenical Mission and Relations (COEMAR), 1952-1960; and from the
+                    communications office of COEMAR, 1961-1969. The collection also includes a
+                    number of academic articles by Crouch on various topics related to his work in
+                    China and Chinese history, philosophy, and religion (1940s-1980s). These include
+                    guides to China mission resources in archives and libraries in Pennsylvania and
+                    the United States, and "Dragon Scales," a series of Crouch's radio talks on
+                    China, aired in 1941-1944. There are also pamphlets and printed materials on
+                    Chinese history, politics, and religion; newsletters; a scrapbook related to his
+                    work in China, including clippings, correspondence, and photographs; and a
+                    scrapbook of clippings of Crouch's "Ricksha Rambles" column, published in The
+                    Cambrian (Cambria Pines, California), 1937-1941 and 1944-1946.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Crouch, Archie R.</p>
+                <p>Accession number: 87 0915</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Mildred Orr Tanner papers (RG 374) include a scrapbook of
+                    Crouch's writings.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

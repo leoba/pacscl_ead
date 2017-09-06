@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herman Beerman and Thomas Hart collections of Sherlockiana <date type="inclusive">1908-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herman Beerman and Thomas Hart collections of
+                    Sherlockiana</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC951</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1908-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herman Beerman (1901-1995) was one of the founders of the Society for
+                    Investigative Dermatology, which established the Annual Herman Beerman Lecture
+                    in 1960. He was also a founder and early president of the American Society of
+                    Dermatopathology, and chaired the Department of Dermatology at the University of
+                    Pennsylvania from 1949 to 1967. Beerman was an eminent dermatologist and an
+                    enthusiastic Sherlockian, and he combined his two worlds by founding The Sir
+                    James Saunders Society for dermatologists who shared his enjoyment of the Canon.
+                    Sherlock Holmes is a famous fictional detective of the late nineteenth and early
+                    twentieth centuries, who first appeared in publication in 1887. He is the
+                    creation of Scottish-born author and physician Sir Arthur Conan Doyle.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Sherlockiana collected by Herman Beerman and Thomas
+                    Hart and given to the Athenaeum. The Beerman materials include: a framed thank
+                    you note signed by A. Conan Doyle; a color illustration of Sherlock Holmes; a
+                    silhouette of Holmes by Ben Wolf; Beerman's membership certificate to the Baker
+                    Street Irregulars; a bank check featuring an image of Sherlock Holmes; and a
+                    plaque awarded to Herman Beerman as Consultant to the Sir James Saunders
+                    Society, 1984. Other items collected by Beerman include: a meerschaum pipe; an
+                    audiocassette tape of Dvorak's 8th Symphony; an audiocassette tape of
+                    Sherlockian esoterica; swizzle sticks; ballpoint pens; a medal featuring the
+                    image of Arthur Conan Doyle; business cards of Sherlock Homes, Mycroft Holmes,
+                    and Professor Moriarty; a soap sculpture of Sherlock Holmes; a small pewter
+                    silhouette of Holmes; a ceramic plate depicting John Watson; a tin cannister;
+                    35mm slides of Sherlockian meetings, movie stills, and illustrations of Holmes
+                    tales; and a Sherlock Holmes wooden nutcracker. The collection also includes a
+                    framed certificate belonging to Thomas Hart given to him by the Sons of the
+                    Copper Beeches, 1958.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 87.5</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

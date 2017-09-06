@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Doris Hastings Darnell papers <date type="inclusive">1926-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Doris Hastings Darnell papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1432</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>30.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Doris Hastings Darnell (b. 1916) and May Shanfeng Chow were both 1939 graduates
+                    of Bryn Mawr College. Darnell was a librarian at the Westtown School Library,
+                    also working briefly at Bryn Mawr and Haverford. She worked for the American
+                    Friends Service Committee in the personnel department from 1964 to 1978. May
+                    Chow returned to China after graduating from Bryn Mawr. She was an English
+                    teacher. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the papers of Doris Darnell. Materials include
+                    correspondence, family photographs, school records, documents relating to her
+                    jobs at the Bryn Mawr, Haverford, the Westtown School libraries, financial
+                    records, documents relating to her work in the Personnel Department of the
+                    American Friends Service Committee, correspondence from her children, Betts,
+                    John, and Eric, and travel journals and photographs. Of note is her sixty-year
+                    correspondence with May Chow, a fellow Bryn Mawr graduate. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

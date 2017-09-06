@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Beatrice Schenk De Regniers papers <date type="inclusive">1962-1967</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Beatrice Schenk De Regniers papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2426</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1967</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Beatrice Schenk de Regniers (1914-2000) was a writer of children's books. She was
+                    trained in social work and held a Master's in Education from Winnetka Graduate
+                    Teachers' College. During the 1950s she began writing for children, and The
+                    Giant Story (illustrated by Maurice Sendak) appeared in 1953. In addition, she
+                    wrote articles and stories for adults. In 1961, she became the first editor of
+                    Scholastic Book's "Lucky Book Club." Twenty years later she retired to write
+                    for the theater. Her first production appeared in 1986, based on her book
+                    Everyone Is Good for Something. She wrote more than 50 children's books, some
+                    using the pseudonym Tamara Kitt, and was the recipient of many awards and
+                    honors.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts, notes, and correspondence of Beatrice de
+                    Regniers. Documentation is present for The Little Girl and Her Mother, Willy
+                    O'Dwyer Jumped in the Fire, May I Bring a Friend?, and The Abe Lincoln Joke
+                    Book. Materials include production notes and correspondence with editors;
+                    annotated manuscripts; galley proofs; dummies; blurb text; and notes by the
+                    author on the creation of Willy O'Dwyer.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Beatrice Schenk de
+                    Regniers papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

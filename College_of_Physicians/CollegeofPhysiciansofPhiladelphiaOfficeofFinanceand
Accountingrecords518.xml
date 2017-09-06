@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Physicians of Philadelphia Office of Finance and
+                        Accounting records <date type="inclusive">1909-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Physicians of Philadelphia Office of Finance and
+                    Accounting records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC518</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>64.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1909-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The College of Physicians of Philadelphia, founded in 1787, is the oldest
+                    professional medical organization in the country. The College is home to the
+                    Mütter Museum and the Historical Medical Library. Through its program of
+                    lectures, workshops, and conferences, as well as through the C. Everett Koop
+                    Community Education Center and PhillyHealthInfo.org, an online health
+                    information resource, the College provides a place for both medical
+                    professionals and the general public to learn about medicine as both a science
+                    and as an art.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records from the Office of Finance and Accounting of
+                    the College of Physicians of Philadelphia. These materials include files from
+                    the Comptroller's office, accounting records, systems records, and files from
+                    the Office of Development. Comptroller's and accounting records date from 1909
+                    to 1997, and include budgets, general ledgers (1909-1992), cash receipt books
+                    (1960s and 1990s), accounts of operating and special funds, payroll summaries,
+                    employee benefits information, bank statements, accounts payable and receivable,
+                    tax records, records of calendar sales, telephone usage reports, audit reports
+                    (1947-1981), and minutes and reports from the Committee on Budget and Finance.
+                    Systems records consist of files of Kevin Crawford and Margy Brumbacker and
+                    include instructions and files on telephone and voicemail systems, the computer
+                    network, accounting software, and office equipment. Records of the Office of
+                    Development include correspondence and reports related to fundraising from
+                    individual donors and institutions (with files for individuals events and
+                    projects, as well as related to overall development initiatives such as annual
+                    giving), forms related to routine functions including data entry, tracking logs,
+                    photographs from events, and printed materials from other organizations.
+                    Development records also contain materials from the Committee on Development,
+                    including meeting minutes, memoranda, agendas, and correspondence. These
+                    materials include files of Antonia Oberthaler, Monica McCray, Ben Pierce, and
+                    others. The collection also includes records of facility rentals from 1996 to
+                    2000. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1993-013; 1995-059</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

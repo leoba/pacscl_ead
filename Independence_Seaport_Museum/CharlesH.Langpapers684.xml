@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles H. Lang papers <date type="inclusive">1941-1992</date>
+                        <date type="bulk"> 1941-1945</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles H. Lang papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC684</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-1992</unitdate>
+                <unitdate type="bulk"> 1941-1945</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Henry Lang (1922-1995) of Norristown, Pennsylvania, was an Aviation
+                    Mechanic's Mate, 2nd Class in the US Navy. Lang served in the Pacific during
+                    World War II, and was stationed at Tinian Island air base. Lang also served in
+                    the Merchant Marine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs and papers of Charles Lang. Photographs and
+                    photo postcards from Tinian, 1944, include: images of Charles Lang and his crew
+                    mates (candid shots of the men sleeping, working out, drinking, swimming, and
+                    goofing around); photographs of damaged Japanese planes and crashes; photographs
+                    of "plane art" and "truck art"; and USMC photos of the Marines' invasion of
+                    Tinian. Subjects of photographs taken on Okinawa include Lang and crew mates,
+                    planes, battle damage, and aerial shots. Other photos include: photographs from
+                    Hawaii, including several color prints; several group shots of crew and
+                    officers, possibly during training; and a framed photograph of Lang's class at
+                    Aviation Mechanics School. Other materials in the collection include: Lang's
+                    notebooks from engineering courses, and training course certificates; printed
+                    photographic record of VJ-7 Squadron activities; copies of Atlantic Fleet News
+                    (publication of SIU Atlantic Tanker Fleet Organizing Committee - AFL), 1953; a
+                    copy of Uncle Sam's Army, How It Fights, 1943; military issue currency; a
+                    document in Japanese; a US Naval Reserve ID card, 1952; a photo album of 1992 VS
+                    50 reunion; and several newspaper clippings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Notebooks.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2008.4</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

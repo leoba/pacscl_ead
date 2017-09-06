@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George T. Reynolds papers <date type="inclusive">1952-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George T. Reynolds papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1239</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>George T. Reynolds (1917-2005) was a leading research director in the fields of
+                    cosmic rays, high energy particle physics, and biophysics. Reynolds graduated
+                    from Rutgers University in 1939 and earned his Ph.D. from Princeton in 1943.
+                    During World War II, Reynolds worked on the Manhattan Project as a blast effect
+                    specialist and was sent to Japan to conduct bomb damage analysis. He returned to
+                    Princeton in 1946 as an assistant professor, and by 1959 he was a full
+                    professor. He gained emeritus status in 1987. From 1948 to 1970, Reynolds was
+                    director of the High Energy Physics Program at Princeton. Reynolds' later
+                    research focused on applying image intensification techniques to biological
+                    observations, including bioluminescence and X-ray diffraction. This work led to
+                    an appointment as a member of the Corporation of the Marine Biological
+                    Laboratory in Woods Hole, Massachusetts, where he was a principal investigator
+                    during the course of 31 summers. He was also an adjunct scientist at the Woods
+                    Hole Oceanographic Institution.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of George T. Reynolds, much of it
+                    related to his work on image intensification techniques. Materials include:
+                    technical reports, research proposals, dissertations, reprints and drafts of
+                    articles by Reynolds and others; subject files on topics within physics and
+                    other branches of science; proposals, reports, and financial records for grants
+                    from the National Science Foundation, the Department of Energy, and other
+                    funding organizations; lab notes; notes and programs for conferences and
+                    symposia; problem sets and questions for senior comprehensive examinations at
+                    Princeton; and photographs, negatives, slides, and technical drawings.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Bioluminescence.</subject>
+                <subject encodinganalog="650">Green flash.</subject>
+                <subject encodinganalog="650">X-rays--Diffraction.</subject>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: M2006-12</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

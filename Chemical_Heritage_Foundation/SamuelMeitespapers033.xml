@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel Meites papers <date type="inclusive">1976-1989</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel Meites papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC033</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1976-1989</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Meites was Professor of Pediatrics at the Ohio State University College of
+                    Medicine and head of Clinical Chemistry at Children's Hospital of Columbus,
+                    Ohio. He was the chair of the History Division of the American Association for
+                    Clinical Chemistry (AACC). In 1989, his biography of Otto Folin was published by
+                    the AACC. Otto Folin (1867-1934) was a biochemist and professor. He was Hamilton
+                    Kuhn Professor of Biological Chemistry at Harvard. More than any individual, he
+                    provided the modern practical approach to the microanalysis of blood and other
+                    body fluids by introducing new or improved quantitative methods and using them
+                    to make systematic studies of metabolism, health, and disease.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of typed manuscript and published copies of Meites's
+                    biography of Folin and materials relating to the AACC. The AACC records include:
+                    several editions of Clinical Chemistry News (the AACC newsletter); profiles of
+                    AACC members written by Louise Simonson and correspondence with Simonson;
+                    letters responding to a request for testimonials and biographical sketches of
+                    AACC members; and AACC press releases.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Dr. Sam Meites</p>
+                <p>Accession number: 01:02</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: American Association for Clinical Chemistry records
+                    (97:08;01:07;02:02).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

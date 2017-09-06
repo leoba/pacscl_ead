@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Focus archives <date type="inclusive">1973-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Focus archives</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC758</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1973-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1974, a group of women from the Philadelphia area organized a three-month long
+                    festival that was comprised of various events throughout the city, all
+                    celebrating women in the arts. Promoted as FOCUS "Philadelphia Focuses on Women
+                    in the Visual Arts," this ambitious project included more than 100 exhibitions,
+                    lectures and conferences. Among the artists who lectured or exhibited works were
+                    Agnes Denes, Yayoi Kusama, Louise Bourgeois, Judy Chicago, Niki de Saint Phalle,
+                    Elaine de Kooning, and Edna Andrade. Two of the organizers had ties to the
+                    Museum. Penny Balkin Bach, who headed the Museum's Urban Outreach department,
+                    was one of the participating artists. A member of the Museum's Library
+                    Committee, Nessa Forman was also involved in the event. At the time, Forman was
+                    the arts and culture editor for the now defunct Philadelphia Bulletin. Held at
+                    the Philadelphia Civic Center, "Women's Work: American Art, 1974," was one of
+                    the major exhibitions and featured nearly 100 works of art by contemporary
+                    American women artists. "In Her Own Image" examined how women were depicted by
+                    major women artists and was held at the Fleisher Art Memorial. The Pennsylvania
+                    Academy of Fine Arts presented an exhibition that took an historical look at its
+                    women alumni. For its part, the Philadelphia Museum of Art organized three
+                    special events during April and May of that year. Bringing together more than 45
+                    paintings, prints and drawings from its collection, the Museum exhibited
+                    "Images of Women in the Performing Arts." That the artists featured were all
+                    men, such as Degas, Eakins, Manet and Sloan, lent an interesting if not ironic
+                    commentary to the show. The Division of Education presented a "Femmes Fatales"
+                    series of films that starred several of Hollywood's iconic leading women.
+                    "Mistress and Muse" was a series of six lectures that examined women's
+                    contributions to the arts.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records pertaining to various organizing committees for
+                    the festival as well as to planning of the Civic Center exhibition. The records
+                    include minutes, memoranda, agendas, and member lists for the Steering, Program,
+                    Public Relations, and Finance Committees. Records related to artist invitations
+                    and lecture planning include: information on artists, including biographies and
+                    resumes, proposals, and photographs of works; proposals for programs and
+                    lectures; correspondence with artists, gallery owners, staff of cultural
+                    institutions, and lecturers; and exhibition checklists. Publicity material
+                    includes: printed materials, such as catalogs, invitations, brochures, and
+                    posters; press releases and newspaper and journal clippings; photographs of
+                    artworks, slides of artists and speakers, film of public service announcements,
+                    and photographic negatives and reel-to-reel audio recordings of panel
+                    discussions. Financial records include budgets, fundraising records, and
+                    reports. The collection includes some documentation about the exclusion of
+                    Judith Bernstein's "Horizontal" from the show, in the form of correspondence
+                    and clippings. The work was removed from the exhibition after objections to the
+                    painting's subject were made by Philadelphia Civic Center Executive Director
+                    John Pierron.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">FOCUS. Philadelphia Focuses on Women in the Visual
+                    Arts.</corpname>
+                <subject encodinganalog="650">Art--Exhibitions.</subject>
+                <subject encodinganalog="650">Feminism and art. </subject>
+                <genreform encodinganalog="655">Biographies.</genreform>
+                <genreform encodinganalog="655">Catalogs.</genreform>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Posters.</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 29.5</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=FOC">http://www.philamuseum.org/pma_archives/search.php?c=FOC</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

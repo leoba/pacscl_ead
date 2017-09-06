@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clarence Brigham scrapbook <date type="inclusive">1933-1938</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clarence Brigham scrapbook</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC328</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1938</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clarence S. Brigham (1877-1963) was a librarian, historian, and bibliographer. He
+                    was the librarian of the American Antiquarian Society from 1908 to 1930. He was
+                    appointed director of the Society in 1930, and served as its president from 1954
+                    to 1959. In 1913 he began publishing in the Proceedings his state-by-state lists
+                    that would finally be published in 1947 as the History and Bibliography of
+                    American Newspapers, 1690-1820, and in 1954 he published Paul Revere's
+                    Engravings.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a scrapbook from a trip to Cuba taken by Clarence Brigham and Elizabeth
+                    Brigham in 1933. Items include passenger lists, postcards, snapshots, meal
+                    tickets, jai-alai and horse racing programs, and menus and wine lists. The
+                    scrapbook also includes mementoes from another trip Brigham took to Cuba in
+                    1938.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 106827.O</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

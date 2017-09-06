@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Margaret Hill Collins papers regarding Suburban Fair Housing and
+                        Community Support Corporation <date type="inclusive">1926-2006</date>
+                        <date type="bulk"> 1950s-1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Swarthmore College, Friends Historical Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Margaret Hill Collins papers regarding Suburban Fair
+                    Housing and Community Support Corporation</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">SCFSp.ACC668</unitid>
+                <repository label="Repository">Swarthmore College, Friends Historical Library<address>
+                        <addressline>Swarthmore, Pennsylvania 19081-1399 U.S.A.</addressline>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-2006</unitdate>
+                <unitdate type="bulk"> 1950s-1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Margaret Hill Collins (1908-2006) was educated at Sarah Lawrence College and the
+                    University of California at Berkeley, and later received a master's degree in
+                    social work from Bryn Mawr College. She was a member of Haverford Meeting. In
+                    1956, Collins formed Friends Suburban Housing, a real estate agency that worked
+                    to integrate housing on the Main Line. In 1963, its name was changed to Suburban
+                    Fair Housing (SFH). Collins was executive secretary of the company, which ended
+                    operation in 1976 as fair housing laws were strengthened. Later, Collins worked
+                    with the Community Support Corporation (CSC) to rehabilitate houses for
+                    low-income families. She also produced a three-volume genealogy of the Collins
+                    family.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Margaret Hill Collins related to her work with
+                    Community Support Corporation and Suburban Fair Housing. Materials include:
+                    correspondence, minutes, and financial records of the CSC; documentation of
+                    projects performed at individual houses, including estimates, bills and
+                    receipts, plans, and bills of sale; drafts of proposals for several cooperative
+                    housing initiatives in the early 1950s; typed articles and prayers by Collins;
+                    memorial booklets; newspaper clippings; awards and certificates of appreciation;
+                    brochures of SFH; and photographs of houses sold through SFH. The collection
+                    also includes a small amount of genealogical material and poems and writings of
+                    Collins's cousin Hilda Worthington Smith.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Community Support Corporation.</corpname>
+                <corpname encodinganalog="610">Fair Housing Council of Suburban
+                    Philadelphia.</corpname>
+                <persname encodinganalog="600">Smith, Hilda Worthington.</persname>
+                <corpname encodinganalog="610">Suburban Fair Housing, Inc.</corpname>
+                <subject encodinganalog="650">Discrimination in housing.</subject>
+                <subject encodinganalog="650">Housing--Religious aspects--Society of
+                    Friends.</subject>
+                <subject encodinganalog="650">Low-income housing.</subject>
+                <subject encodinganalog="650">Minorities--Housing--United States.</subject>
+                <subject encodinganalog="650">Quakers--Race relations.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+            <admininfo>
+                <accessrestrict>
+                    <p>The collection is open for research.</p>
+                </accessrestrict>
+
+                <acqinfo>
+                    <p>Provenance: Gift of Polly Aird (Niece).</p>
+                    <p>Year acquired: 2006</p>
+                    <p>Accession number: 2006-009</p>
+                </acqinfo>
+            </admininfo>
+
+            <add>
+
+
+
+
+
+
+                <relatedmaterial>
+                    <p>Related material may be found in the following collections: Friends
+                        Historical Library, Swarthmore College: Fair Housing Council of Suburban
+                        Philadelphia (RG4/112); Bryn Mawr College: Hilda Worthington Smith
+                        papers.</p>
+                </relatedmaterial>
+
+            </add>
+
+        </archdesc>
+    </ead>

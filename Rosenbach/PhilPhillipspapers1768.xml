@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Phil Phillips papers <date type="inclusive">1944-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Phil Phillips papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1768</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philip Phillips (1900-1994) was an American archaeologist and an amateur Joyce
+                    scholar. He graduated from Williams College in 1922 and received his master's
+                    degree in architecture in 1927 from the graduate School of Design at Harvard
+                    University. In 1930, he returned to Harvard to study under Professor Alfred M.
+                    Tozzer in the department of anthropology, receiving his doctorate in 1940. He
+                    began work at the Peabody Museum in 1937 as an assistant curator of southeastern
+                    archaeology, was named curator of southeastern archaeology in 1949, and held
+                    this post until 1967, when he was named honorary curator. He was an avid student
+                    of literature, with a profound knowledge of Proust and Joyce.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Philip Phillips papers related to James Joyce. Materials
+                    include; correspondence from Horace Middleton to Phillips (1946-1961), along
+                    with copies of various iterations of textual fragments from Finnegan's Wake;
+                    black and white photographic prints of Joycean locations in Dublin and
+                    elsewhere, including some photos of Horace Middleton; photocopies of Finnegan’s
+                    Wake in various states -- some annotated (possibly made from microfilm at
+                    British Museum); notes and drafts by Philips for a proposed book on Finnegan’s
+                    Wake; book reviews and newspaper articles about Joyce scholarship collected by
+                    Phillips; and record albums of Joyce readings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

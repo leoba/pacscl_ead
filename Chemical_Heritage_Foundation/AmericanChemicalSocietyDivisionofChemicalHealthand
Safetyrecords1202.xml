@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Chemical Society Division of Chemical Health and Safety
+                        records <date type="inclusive">1981-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Chemical Society Division of Chemical Health and
+                    Safety records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1202</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1981-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Chemical Society (ACS), founded in 1876, is a self-governed
+                    individual membership organization that consists of more than 158,000 members at
+                    all degree levels and in all fields of chemistry. The Division of Chemical
+                    Health and Safety (CHAS) is one of the 33 technical divisions within the ACS.
+                    The division has over 1500 members, including chemists, health and safety
+                    professionals and other scientists working to promote the responsible use of
+                    hazardous chemicals. The division's main interest is in "technical research
+                    about the hazards and management of these chemicals as they are used in the
+                    laboratory, the general workplace and the economy as a whole."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of the ACS Division of Chemical Health and
+                    Safety. Records include: financial records (1984-1994); programs from national
+                    meetings (1978-1992); loose copies and a bound volume of the CHAS Notes
+                    newsletter (1982-1999); copies of the Chemical Health and Safety journal
+                    (1994-1999); membership and committee lists; bound "Extended Abstracts" from
+                    papers given at national meetings (1992-1994); guidelines for public policy
+                    statements and communications; and miscellaneous correspondence. The collection
+                    also includes a set of commemorative CHAS wine glasses. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: “CHAS Notes” donated by Ruth Hathaway (see ACS Div. of Health and
+                    Safety donor file) . Originally from Malcolm Renfrew.</p>
+                <p>Accession number: 99-13</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

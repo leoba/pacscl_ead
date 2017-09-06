@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Clement Biddle letterbooks <date type="inclusive">1795-1800</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Clement Biddle letterbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2525</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.39 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1795-1800</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Clement Biddle (1740-1814) was the second son of John and Sarah Biddle. He was
+                    born in Philadelphia and entered his father's shipping and importing business at
+                    an early age. Business was interrupted by the onset of the Revolutionary War,
+                    when in 1765, Clement and his brother, Owen, signed the non-importation
+                    agreement and pursued patriotic activities in Philadelphia. In 1775, Clement
+                    Biddle helped to organize a Philadelphia volunteer regiment, the "Quaker
+                    Blues." In July 1776, he was appointed deputy quartermaster-general by
+                    Congress, holding the rank of colonel. Clement participated in the battles of
+                    Trenton, Brandywine, Germantown, and Monmouth, and he served under both
+                    Washington and General Greene. After the Revolutionary War, he was the first
+                    U.S. Marshal (1789-1793) for Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of two letterbooks of Clement Biddle, 1795-1797 and
+                    1797-1800. The letters discuss business matters, such as stocks, insurance,
+                    payments on accounts, and real estate. Some of the letters include statements of
+                    accounts. Notable correspondents include George Washington, Col. William
+                    Deakins, Robert Morris, Jonathan Dayton, Benjamin Stoddert, and the firms
+                    Armstrong &amp; Barnewall and LeRoy, Bayard, &amp; McEvers. Several letters from
+                    1797 discuss the effects of the yellow fever epidemic on business affairs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. and Mrs. Peyton Biddle, 1973</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Historical Society of
+                    Pennsylvania: Biddle family papers, 1776-1876, collection # 1792H (includes
+                    Clement Biddle business correspondence).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

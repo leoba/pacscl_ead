@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Delaware Valley Ornithological Club records <date type="inclusive">1915-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Delaware Valley Ornithological Club records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1213</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1915-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded January 23, 1890, at 1624 Arch Street by Spencer Trotter, William L.
+                    Baily, J. Harris Reed, George S. Morris and Samuel N. Rhoads, the Delaware
+                    Valley Ornithological Club has flourished ever since. Through most of its
+                    existence its headquarters have been at the Academy of Natural Sciences and its
+                    collections eventually were donated to that institution. Its official organ is
+                    "Cassinia," where much of historic and biographical interest to ornithologists
+                    has been published.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes: Spring roundups (annual bird counts), 1933, 1940-1991;
+                    DVOC newsletters (Larus), 1950-1996 (incomplete); minutes of the DVOC,
+                    1976-1988; membership list from the 1990s; financial reports, 1990-1994;
+                    photographs and slides of DVOC activities and members; video of a 1925 trip to
+                    the Pine Barrens; audiocassette with an interview of George Reynard; a copy of
+                    the constitution of the DVOC; and a small amount of correspondence. There are
+                    also two binders containing correspondence and artwork from the Julian Potter
+                    collection: letters to Potter from Witmer Stone (1916-1937), programs and
+                    newsletters, and program booklets from the Ludwick Lecture Series (1926-1943,
+                    not all years represented); heavily illustrated letters, postcards, and
+                    Christmas cards from Conrad Roland (1918-1955); and biographical information and
+                    a CD of the two Julian Potter binders.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:17; 00:01</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia
+                    Ornithology Department records, C. Chandler Ross papers, Stephen T. Harty
+                    papers, Delaware Valley Ornithological Club papers (collection 74), and Delaware
+                    Valley Ornithological Club scrapbook (collection 570).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

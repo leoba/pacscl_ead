@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Sunday-School Union records <date type="inclusive">1821-1990</date>
+                        <date type="bulk"> 1821-1940</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Sunday-School Union records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC060</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.98 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1821-1990</unitdate>
+                <unitdate type="bulk"> 1821-1940</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Sunday School Union was organized in Philadelphia in 1817 as the
+                    Sunday and Adult School Union. In 1824 its name was changed to the American
+                    Sunday School Union. The Union drew from the Sabbath schools in Great Britain
+                    founded by Robert Raikes, Esq. in 1782. Its purpose was two fold - to educate
+                    children and adults and teach them to read through the use of booklets published
+                    by the Union, and to send missionaries out to remote areas to bring Christ to
+                    the frontier.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records and printed material from the American
+                    Sunday-School Union. Included are financial records, records of the work of ASSU
+                    committees, publications records, and copies of pamphlets and periodicals
+                    printed by the Union. Financial and inventory records of the ASSU from the
+                    nineteenth century to the early twentieth century include: check and cash books;
+                    monthly and quarterly financial reports; sales records; inventories; and cost
+                    books for publications. Other record books include: indexes to contents of
+                    Sunday School journals and lesson helps; and lists of Sunday School men and
+                    those authorized to borrow documents from the ASSU, as well as delegates to the
+                    ASSU. The collection also includes assorted ASSU legal documents, including
+                    deeds, wills, and copyrights. Minute books of meetings of the ASSU and its
+                    committees from the nineteenth century to the mid twentieth century include:
+                    minutes of annual meetings, 1825-1914; Board of Managers minutes, 1824-1832 and
+                    1854-1910; Board of Officers and Managers minutes, 1845-1930; Accounts Committee
+                    minutes, 1826-1829; Building Committee minutes, 1825-1856; Depository Committee
+                    minutes, 1832-1860; Executive Committee minutes, 1836-1936; Finance Committee
+                    minutes, 1860-1943; Missions Committee minutes, 1829-1962; and Publication
+                    Committee minutes, 1825-1949. Other Committee records include: Missions
+                    Committee salaries and expenses of agents and missionaries, 1833-1837; Missions
+                    Committee schedule of missionaries and their support, 1888-1892; Publication
+                    Committee binding records, cost books, letterbooks, registers of cuts, book and
+                    manuscript lists, and a scrapbook containing cuts and articles used in
+                    publications; and Union Bible and Prayer League Committee records, 1916-1927.
+                    The collection includes a large number of books, pamphlets, periodicals, and
+                    newsletters published by the ASSU. In addition, there are two copies of The
+                    Harvey Boys, an 1837 ASSU publication for the blind, printed in large, embossed
+                    English letters (rather than Braille); bound issues of Sunday-School at Home,
+                    the ASSU Home Department quarterly; and American Missionary Fellowship
+                    newsletters from the 1980s and 1990s. Other ASSU materials include: a lantern
+                    slideshow for children; textile maps and a wall chart of the Holy Land;
+                    scrapbooks of clippings; a scrapbook of facsimiles of Sunday school tickets (in
+                    German); and photographs and engravings of ASSU staff and officers, circa
+                    1850-1940.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accession 02 0705a, 02 0705: ASSU accession 05 0812m: ASSU? accession
+                    90 1012, 94 0715d, 88 0407a, 98 0911c, 97 0306n, 97 0620, 98 0922, 98 0921, 94
+                    1111f, 92 1116a: Transferred from the library accession 99 0105: United
+                    Methodist Church, General Commission on Archives and History</p>
+                <p>Accession number: 02 0705a|02 0705|90 1012|94 0715d|05 0812m|88 0407a|98 0911c|97
+                    0306n|97 0620|98 0922|99 0105|98 0921|94 1111f|92 1116a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: American Sunday-School Union records (RG 73) and
+                    Philadelphia Sunday and Adult School Union records (accession 05 0603i).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

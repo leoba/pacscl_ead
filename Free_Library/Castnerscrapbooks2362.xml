@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Castner scrapbooks <date type="inclusive">1845-1962</date>
+                        <date type="bulk"> 1880s-1940s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Castner scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2362</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1845-1962</unitdate>
+                <unitdate type="bulk"> 1880s-1940s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Castner, Jr. (1843-1929), was born in Philadelphia. He was president of
+                    the firm Castner, Curran &amp; Bullitt, coal operators, and was a director of
+                    the American Dredging Company. He was a member of the Historical Society of
+                    Pennsylvania, a president of the Catholic Historical Society, and a member of
+                    the Union League. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This richly illustrated collection of scrapbooks was assembled by Samuel Castner,
+                    Jr. Most items date to the 19th century, though a few items, dating up to 1962,
+                    were added after the scrapbooks were donated to the Free Library. The scrapbooks
+                    contain various items of Philadelphiana: photographs, prints, watercolors,
+                    drawings, postcards, booklets, newspaper and magazine clippings, and other
+                    printed and manuscript materials. The scrapbooks are organized by location,
+                    building type, or theme. Artists represented in the collection include William
+                    and Thomas Birch, Cephas G. Childs, Augustus Köllner, the Langenheim brothers,
+                    and Frank H. Taylor. The collection also includes photographic prints of
+                    selected images from volumes 2-22 and negatives of selected images from the
+                    entire run of scrapbooks.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

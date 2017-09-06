@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Dance Alliance records <date type="inclusive">1987-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Dance Alliance records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2248</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1987-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1971, Philadelphia Dance Alliance is a non-profit, organization whose
+                    membership includes dance artists, dance students, dance companies, independent
+                    choreographers, university and college dance departments, dance studios and
+                    dance aficionados. They provide a variety of programs and services to
+                    professional dancers and students of dance. DanceLINK, founded in 1994, is a
+                    consortium of dance organizations from Chicago, Florida, Minnesota, and
+                    Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials from Philadelphia Dance Alliance. Records
+                    include: newsletters (1995-2002); membership directories; flyers and programs;
+                    and photographs. Independent Choreographers Exchange materials include: minutes
+                    of meetings, reviews, programs, flyers, and printed promotional material, and
+                    contracts. There are also records related to PDA's participation in the
+                    DanceLINK consortium. These records include: grant applications; written and
+                    recorded assessments of applicants; and audio and video tapes of performances.
+                    Other arts alliances that are represented in the collection include:
+                    Neighborhood Dance Exchange, Philadelphia Dances, and Dance Advance.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

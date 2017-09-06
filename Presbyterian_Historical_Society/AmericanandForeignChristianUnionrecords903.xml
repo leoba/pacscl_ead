@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American and Foreign Christian Union records <date type="inclusive">1830-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American and Foreign Christian Union records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC903</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.64 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1830-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American and Foreign Christian Union was formed in 1849. The Union was
+                    comprised of three complementary missionary societies: the American Protestant
+                    Society, the Foreign Evangelical Society and the Christian Alliance. By 1860 the
+                    AFCU supported 73 workers in the U.S. and granted subsidies to help support 212
+                    foreign workers. Most AFCU officers were leading members of the clergy who were
+                    also active in other interdenominational benevolent societies. By 1884 the AFCU
+                    focused solely on the American Church in Paris, which it had founded earlier.
+                    The American Church in Berlin traces it roots to about 1865 when an American
+                    Chapel was founded. Changing its name to the American Church in Berlin in 1886,
+                    it made first contact with the AFCU in 1889. In 1914 the AFCU took on the
+                    responsibility for managing a fund to support the American Church in Berlin. The
+                    stated mission of the American and Foreign Christian Union is "to support the
+                    International, English speaking, ecumenical churches whose ministries bear
+                    witness to Jesus Christ. In partnership with our member churches, we will strive
+                    to develop and manage a strong financial base to further their programs. We will
+                    nurture and strengthen our alumni ties and lend support to the pastors,
+                    leadership and members of these churches through our care and prayers."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Included are minutes of AFCU annual meetings and executive and finance committee
+                    meetings, 1974-2006, with some gaps; financial records, 1997-1998; a 1999 report
+                    on the American Church in Berlin; budgets; reports; list of Board members; and
+                    the constitution, 1983-1996. The collection includes a photocopy of the deed for
+                    the 65 Quai d'Orsay property in Paris, dated 1925. Also included are research
+                    materials used to write a history of the American Church in Paris, including
+                    historical information about AFCU and the American Church in Paris; lists of
+                    Pastors of the American church; notes on newspaper articles about the AFCU;
+                    lists of materials in the archives of the American Church in Paris; photocopies
+                    and photostats of records and articles on the American Church in Paris and its
+                    clergy; as well as several bulletins and brochures from the American Church in
+                    Paris, 1940s. Additionally, the collection includes a constitution and by-laws;
+                    tax exemption forms; records of files at the Presbyterian Historical Society;
+                    historical background documents; copies of articles and printed materials on the
+                    American Church in Berlin and some about the American Church in Paris; AFCU
+                    minutes, 1966-1974; AFCU correspondence, 1974-1983; flyers; newsletters;
+                    programs for American Church in Paris events; reports; correspondence related to
+                    the American Church in Berlin; a cookbook of the American Church in Berlin; and
+                    a calendars of events.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Bumpas, W. M.; accession 01 0618: AFCU (via Richard E. Bright);
+                    accession 84 0626: Herman, Stewart W; accession 83 0831: Barnes, Dr. Roswell;
+                    accession 89 0907: Dixon, Mrs Roger</p>
+                <p>Accession number: 83 0831|96 0806|89 0907|84 0626|99 0727b|01 0618| 94 0707a|95
+                    0707b|</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: American and Foreign Christian Union records (RG 118); New
+                    York University: Papers of the American and Foreign Christian Union (MC 20).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

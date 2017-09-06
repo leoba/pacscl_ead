@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles W. Hart papers <date type="inclusive">1959-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles W. Hart papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1882</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1959-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>C. W. Hart, Jr. studied crustaceans and worked at the National Museum of Natural
+                    History, Smithsonian Institution.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of professional papers of C.W. Hart, Jr. Materials
+                    include incoming and outgoing correspondence regarding planning for a 1959 trip
+                    to Jamaica and 1962 trip to Puerto Rico; a notebook of "shrimp data" from the
+                    1959 Jamaica trip (entries give dates, locations, and brief habitat
+                    descriptions); correspondence regarding species identification and exchange of
+                    specimens; a small amount of data on water chemistry from Dominica, British West
+                    Indies; and a small amount of personal correspondence, a page from a
+                    bibliography of works by Hart and others, and a newspaper clipping about the
+                    Harts' honeymoon in Puerto Rico.The collection also includes five illustrations
+                    in pencil and eleven scanning electron micrographs used in "The Ostradoc family
+                    Entocytheridae (Monograph 18, Academy of Natural Sciences, 1974)) by Dabney G.
+                    Hart and C.W. Hart, Jr. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

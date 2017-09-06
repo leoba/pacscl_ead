@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Company of Philadelphia histories <date type="inclusive">1835-1995</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Company of Philadelphia histories</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1784</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1835-1995</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Library Company of Philadelphia is an independent research library
+                    concentrating on American society and culture from the 17th through 19th
+                    centuries. It was founded in 1731 by Benjamin Franklin as a subscription library
+                    supported by its shareholders, as it is to this day. Free and open to the
+                    public, the Library Company houses an extensive non-circulating collection of
+                    rare books, manuscripts, broadsides, ephemera, and works of art. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials documenting the history of the Library Company
+                    of Philadelphia. Items include: a typescript copy of Dorothy F. Grimm's doctoral
+                    dissertation "A History of the Library Company of Philadelphia, 1731-1835"
+                    (University of Pennsylvania, 1955); several printed histories (1835-1995) by
+                    various authors, including George M. Abbot, Austin K. Gray, and Edwin Wolf and a
+                    1867 manuscript history by John Meredith Read; scrapbook (1936-1971) of
+                    newspaper clippings, photographs, magazine articles, correspondence, exhibition
+                    signs and announcements; scrapbook (1920s) containing correspondence,
+                    photographs of Library Company buildings, paintings and furniture; two
+                    scrapbooks of newspaper clippings (1850s-1930 and 1933-1939), which include
+                    certificates from other institutions, event announcements, and maps.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

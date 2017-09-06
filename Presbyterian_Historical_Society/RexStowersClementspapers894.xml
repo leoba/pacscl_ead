@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rex Stowers Clements papers <date type="inclusive">1927-1974</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rex Stowers Clements papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC894</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1927-1974</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rex Stowers Clements (1902-1981) was a Presbyterian minister and administrator.
+                    He was assistant minister of the Fifth Avenue Presbyterian Church, New York from
+                    1931 to 1932; minister at the Presbyterian Church of the Covenant from 1932 to
+                    1937; Minister of the Bryn Mawr Presbyterian Church from 1937 to 1962; and
+                    President of the Board of Christian Education of the Presbyterian Church in the
+                    United States of America from 1941 to 1949. He also served as Executive
+                    Secretary of the Council on Theological Education of the United Presbyterian
+                    Church of the USA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Rex Stowers Clements. Materials include: church
+                    bulletins from Bryn Mawr Presbyterian Church, many with sermons attached
+                    (1937-1962); bulletins from the Church of the Covenant (First Presbyterian) in
+                    Boston; sermons preached at other churches (1960s-1970s); prayers, including a
+                    binder of "Prayers for Special Seasons in the Church Year"; articles written
+                    by Clements at Yale University (1927-1929); programs from "Church of the Air"
+                    radio sermons preached by Clements (1963); and a small number of materials
+                    related to the Council on Theological Education, including minutes and
+                    speeches.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 81 0601</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

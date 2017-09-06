@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bernard C. Carlitz bookselling archives <date type="inclusive">1946-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bernard C. Carlitz bookselling archives</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2054</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1946-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bernard Conwell Carlitz was a Philadelphia rare bookseller who served as
+                    president of the Antiquarian Booksellers of Philadelphia during the 1950s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers of this Philadelphia rare book dealer include invoices, receipts,
+                    ledgers, tax returns, a poster, three wooden advertising signs, an oil painting
+                    by Carolyn Fiedler, and a small amount of correspondence. These materials
+                    document business transactions conducted, from a number of Center City
+                    locations, by this Philadelphia book dealer over a forty year period. The
+                    financial records document business relationships with other book dealers and
+                    auctioneers during this time. There is an addition to this collection which
+                    includes a publishing contract between Prime Press and Herschel Levit and a
+                    pamphlet highlighting Levit's work, as well as some scattered files from the
+                    Antiquarian Booksellers of Philadelphia, an organization which Carlitz led
+                    during the 1950s. These materials include an organizational constitution, a
+                    number of their auction catalogs, and some notes and clippings pertaining to an
+                    exhibit of the organization put up during 1956. Additionally the collection
+                    contains several photographs of Carlitz.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

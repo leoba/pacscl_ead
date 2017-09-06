@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Barge Club records <date type="inclusive">1863-1935</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Barge Club records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC462</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1863-1935</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Barge Club was formed in 1862 (until 1865, the club operated
+                    under the name "Panola Barge Club"). It originally shared the boathouse of the
+                    Pennsylvania Barge Club, until it was able to purchase the boathouse of the
+                    National Boat Club in 1864. In 1870, the club moved into a newly constructed
+                    boathouse, which it shared with the University Barge Club. The Anchorage House
+                    was built in 1887 as an upriver house for the Philadelphia Barge Club. The
+                    club's flag (crimson chevron on white) was adopted in 1870. The club was
+                    absorbed by the University Barge Club in the 1930s. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Philadelphia Barge Club record books. Included in the
+                    collection are seven Anchorage House registers, 1888-1932, which record the
+                    social and athletic engagements of the club and their use of Anchorage as an
+                    upriver base where parties could be held. Typical entries in the Anchorage House
+                    Registers include the weather, name of rowers/coxswain, menus, and guest lists.
+                    A number of the volumes include sketches of rowing scenes, silhouettes of men
+                    and women, and humorous scenes, many of which center on the cook. Poems and
+                    ditties are also in evidence. Other collection materials include: two volumes of
+                    minutes of the Elective Committee, 1889-1932; six volumes of minutes of club
+                    meetings, 1862-1932 (the earliest volume covers the founding of the club); 20
+                    Log books, 1875-1932; a club history, 1915; a Coxswain's book, 1883-1912; and a
+                    Philadelphia Boat Club loan register, 1888-1912. Miscellaneous records include
+                    membership nomination forms; membership information, 1915; a newspaper clipping;
+                    a list of boats owned by the club, 1928; and lists of distances to various
+                    points on the river. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Rowing clubs--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Membership lists.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1984.75</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

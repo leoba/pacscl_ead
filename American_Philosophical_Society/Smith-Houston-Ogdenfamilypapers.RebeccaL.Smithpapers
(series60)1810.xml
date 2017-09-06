@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Rebecca L. Smith papers (series
+                        60) <date type="inclusive">1836-1914</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Rebecca L. Smith papers
+                    (series 60)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1810</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1836-1914</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rebecca Levis Wood (1837-1925) was the daughter of Margaret Garrett Levis and
+                    Joseph Wood. Margaret was a descendant of Samuel Levis (1649-1734), an early
+                    immigrant to Pennsylvania, where he settled in 1682. Rebecca married A. Lewis
+                    Smith (1831-1914) in 1859. The couple settled in Media, Delaware County,
+                    Pennsylvania and had four children. One son, Lewis Lawrence Smith, was the
+                    father of Lawrence M. C. Smith (1902-1975).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The papers include letters to Smith, especially from family members, household
+                    and personal account ledgers, newspaper clippings collected by Smith, copies of
+                    her will, and letters of condolence to Rebecca on the occasion of the death of
+                    her husband, A. Lewis Smith in 1914.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

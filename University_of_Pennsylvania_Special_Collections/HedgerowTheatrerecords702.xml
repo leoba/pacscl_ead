@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hedgerow Theatre records <date type="inclusive">1935-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hedgerow Theatre records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC702</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Hedgerow Theatre was founded in 1923 by Jasper Deeter in Rose Valley,
+                    Pennsylvania. Deeter’s creative energy drew many talented actors, playwrights,
+                    and directors to Hedgerow, earning Hedgerow an international reputation and the
+                    distinction of being the first resident repertory theatre in the country.
+                    Hedgerow became a meeting ground for major actors of stage and screen in the
+                    1920s and 1930s and is considered the precursor to such innovative theatre
+                    companies as People’s Light and Theatre Company and Freedom Theatre. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of photographic images and papers of the Hedgerow Theater
+                    Repertory Company. The bulk of the collection consists of negatives and
+                    photographs of actors, productions, sets, and the theater building. Photographs
+                    date largely from the late 1930s and early 1940s. This collection also includes
+                    a small number of publicity materials for the theater. Materials include program
+                    copy and press releases for various productions, including Candida, Twelfth
+                    Night, The Inheritors, and Beyond the Horizon.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 216 and 226</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

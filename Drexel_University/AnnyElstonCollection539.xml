@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Anny Elston Collection <date type="inclusive">1944-1972</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Anny Elston Collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC539</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-1972</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. Elston (nee Halpert) was a pediatrician born in 1895 and educated in Germany.
+                    She received her medical degree in 1920 and was married in 1922 to Friedrich
+                    (“Fritz” and “Fred”) Gustav Edelstein, an attorney. They had two sons in 1924
+                    and 1928. She had a practice in Berlin from 1924 until 1938 when “Racial Laws”
+                    prohibited her from practicing medicine. (Dr. Elston was Jewish, though she and
+                    her husband considered themselves “racial Jews” only, as they were members of
+                    the Lutheran Church. Her son Wolfgang says she didn’t have much of a practice in
+                    those years, though as she was raising her children. She did however, do some
+                    ground-breaking work at a pediatric institute in Berlin in the early 1920s.) In
+                    1938 she had her necessary legal documents translated into English at the
+                    American consulate. In 1939 they sent their sons (Gerhard - Gerd - and Wolfgang,
+                    or Wolf) to stay in a boarding school for refugees in England. She and Fritz
+                    immigrated to the U.S. in 1941. In 1942 she passed her NY state board exam and
+                    began work at the New York Infirmary for Women and Children. They had changed
+                    their name to Elston. Wolfgang and Gerhard came to the U.S. shortly before the
+                    end of the war. Wolfgang earned a Ph.D. at Columbia University. (He is currently
+                    Professor Emeritus at the University of New Mexico.) They lived at 242 E. 15th
+                    St. and owned two undeveloped lots in Montauk on Long Island. Fritz was teaching
+                    at Seton Hall College in New Jersey when he died in 1956. After her husband’s
+                    death, Dr. Elston moved to Gramercy Park (1962), continued to practice medicine
+                    and traveled extensively, throughout the world. (A significant portion of these
+                    materials are in German.)</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Two record cartons reflecting Dr. Elston's medical career in the United States.
+                    Patient records, appointments and receipts, documents regarding her training and
+                    background in Germany, correspondence regarding her work and credentials in New
+                    York.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Originally donated by Marie Louise Elston; later weeded and DOG
+                    issued to Wolfgang E. Elston.</p>
+                <p>Year acquired: 1994</p>
+                <p>Accession number: 1994.X.10</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

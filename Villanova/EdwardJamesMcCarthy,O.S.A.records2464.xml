@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward James McCarthy, O.S.A. records <date type="inclusive">1971-1996</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Villanova University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward James McCarthy, O.S.A. records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">VUSp.ACC2464</unitid>
+                <repository label="Repository">Villanova University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.83 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-1996</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Father Edward James McCarthy (1912-1996) graduated from Villanova College in 1934
+                    with a bachelor’s degree in philosophy. He pursued theological studies at
+                    Augustinian College, Washington, D.C., and was ordained a priest there in 1937.
+                    After ordination he earned an M.A. (1938) and a doctorate in history from the
+                    Catholic University of America. Father McCarthy’s first assignment after
+                    ordination was to Villanova College as a professor of history. In June 1946 he
+                    went to the Universidad de S. Tomas de Villanueva, Havana, Cuba, as Dean and
+                    professor of history. In 1947 he returned to his teaching position at Villanova
+                    College and was named first Dean of Arts and Sciences (1948-1950) and then Dean
+                    of the Graduate and Extension Schools (1950-1953). In 1953 he returned to the
+                    Universidad de Villanueva as Academic Vice President (1953-1957) and remained
+                    there until the Augustinians were expelled from Cuba in 1961. Upon his return to
+                    the United States, he became the first president of Biscayne College in Miami,
+                    Florida, where he remained until 1968. In 1968 he was named prior of Our Mother
+                    of Good Counsel Monastery at Merrimack College serving also as chairman of the
+                    Department of History (1968-1971). In 1971 he was elected president of Villanova
+                    University, a position he held until 1975. From 1975 to 1979 Father took up
+                    parochial ministry as pastor of Resurrection Parish in Dania, Florida, and
+                    later, from 1977 to 1979, as assistant of Saint Nicholas of Tolentine, Bronx,
+                    New York. From 1979-1981 he was Vice President for Academic Affairs at Merrimack
+                    College, North Andover, Massachusetts. In 1981 he was called to Villanova to
+                    serve on the governing board of the Augustinian Province of Saint Thomas of
+                    Villanova and was named Assistant Provincial. He was elected chairman of the
+                    Board of Trustees of Villanova University. In 1990 Father was assigned to Saint
+                    Augustine Church, Casselberry, Florida. In 1993, at the age of 81, he at the
+                    request of Archbishop McCarthy assumed the position of interim President of
+                    Saint Thomas University (formerly Biscayne College) serving until the new
+                    president was in place; he continued to work as a consultant at Biscayne until
+                    his death. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Edward J. McCarthy papers consist of administrative records, correspondence,
+                    legal records, news media, and reports. Administrative records include law
+                    school budgets and other financial information pertaining to the law school.
+                    Correspondence covers various academic and administrative topics, including
+                    Catholic education, commencement activities, and collective bargaining with the
+                    faculty. The files on collective bargaining include additional materials, such
+                    as minutes of a faculty assembly, and copies of handouts distributed at a
+                    National Labor Relations Board meeting held on campus in 1973. Legal papers
+                    largely relate to agreements and leases, but also include documentation of a
+                    patent for a test for Hepatitis developed at Villanova. The collection includes
+                    newspaper clippings about Father McCarthy from 1971 to 1996. Finally, the
+                    collection contains reports on topics such as the Commission on University
+                    Structures and Procedures (CUSP), Phi Beta Kappa, the Student Bill of Rights,
+                    tenure, and other University matters.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <persname encodinganalog="600">McCarthy, E. J. (Edward James), 1912-</persname>
+                <subject encodinganalog="650">College presidents</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Financial records.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Board of Directors of Horticultural Hall minutes <date type="inclusive">1866-1909</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Board of Directors of Horticultural Hall
+                    minutes</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1844</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1866-1909</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Pennsylvania Horticultural Society is America’s first horticultural society
+                    and was formed in 1827 as a not-for-profit membership organization. The
+                    Committee on a New Hall was established in 1865 by D. Rodney King, the president
+                    of the Pennsylvania Horticultural Society. This committee was charged with
+                    raising funds for the construction of the society's first Horticultural Hall. In
+                    1866, King appointed directors of the new Horticultural Hall. The board included
+                    King, W.L. Schaffer, and Henry A. Dreer. The first Horticultural Hall was lost
+                    to fire in 1881. A new hall was completed in 1882; this building burned down in
+                    1893. The society's third Horticultural Hall was completed in 1896. The third
+                    Hall was sold in 1917. Much of the work of the board was carried out by the
+                    Building and Finance committees, which reported their progress at monthly
+                    meetings of the board. There were annual meetings and special meetings for the
+                    stockholders of Horticultural Hall.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the minutes of the Board of Directors of
+                    Horticultural Hall, 1866-1881 and 1887-1909. The minutes document the monthly
+                    meetings of the board, which oversaw the planning, construction, and maintenance
+                    of the first Horticultural Hall. There are some minutes that relate to the
+                    second and the third Horticultural Halls. The minutes include reports from the
+                    Building committee, as well as some financial information about rental income
+                    for the hall and records of some of its expenses. In addition to minutes of
+                    monthly meetings, the first volume includes the group's by-laws and minutes of
+                    annual and special meetings of stockholders (1866-1876).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Exhibition buildings--Pennsylvania.</subject>
+                <genreform encodinganalog="655">Minutes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

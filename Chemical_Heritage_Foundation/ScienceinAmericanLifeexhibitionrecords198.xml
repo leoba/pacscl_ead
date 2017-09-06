@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Science in American Life exhibition records <date type="inclusive">1992-2006</date>
+                        <date type="bulk"> 1992-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Science in American Life exhibition records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC198</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1992-2006</unitdate>
+                <unitdate type="bulk"> 1992-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>C. Marvin Lang is Professor Emeritus of Chemistry at University of Wisconsin,
+                    Stevens Point. Lang has long been active in the affairs of the American Chemical
+                    Society (ACS) at the local, regional, and national level including six years
+                    service as an elected member of its Board of Directors (1989-1994). He has also
+                    served on the Board of Directors of the Chemical Heritage Foundation from 1991
+                    to 1997. In 1991, the ACS agreed to consult on and contribute funds to an
+                    exhibit entitled Science in American Life at the Smithsonian Institution's
+                    National Museum of American History (NMAH). Lang was a member of the ACS
+                    advisory committee for the Science in American Life exhibit from 1992 to 1993.
+                    The exhibit opened in 1994 and remained on view until 2006. The NMAH had control
+                    over the exhibit's content, and in the end, the ACS felt that the exhibit's
+                    portrayal of chemistry was very negative. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of documents relating to the Science in American Life
+                    exhibit. Materials include: correspondence about meetings of a task force on a
+                    proposal to create a traveling portion of the Science in American Life exhibit;
+                    preliminary outlines of the "hands-on" aspects of the exhibit; draft scripts
+                    of the exhibit; and public relations plans.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: C.M.L.</p>
+                <p>Accession number: 06:066</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: other Science in American Life exhibition records (97:12)</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

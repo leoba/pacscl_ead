@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Frederick Lewis collection of autographs of engravers <date type="inclusive">1721-1914</date>
+                        <date type="bulk"> 1775-1850</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Frederick Lewis collection of autographs of
+                    engravers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2339</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.43 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1721-1914</unitdate>
+                <unitdate type="bulk"> 1775-1850</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Free Library of Philadelphia was founded in 1891 as the city's first public
+                    library system. Its Rare Book Department, among the largest in American public
+                    libraries, exists to serve the people of Philadelphia, as well as the students,
+                    scholars, and researchers who use its collections. The Rare Book Department's
+                    holding span 5000 years, from cuneiform tablets to 20th century literary
+                    manuscripts. Among the many collecting areas of the department are incunabula,
+                    American, European, and Oriental manuscripts, art and artist's papers,
+                    children's books and manuscripts, manuscripts and correspondence of American and
+                    British authors, examples of calligraphy, and Pennsylvania German fraktur. The
+                    Rare Book Department has major collections of Oliver Goldsmith, Charles Dickens,
+                    Edgar Allan Poe, Horace editions, Beatrix Potter, Arthur Rackham, and Robert
+                    Lawson.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of letters, receipts, and other documents by British
+                    engravers. Most of the documents date from 1775 to 1850. Significant
+                    correspondents include William Bromley, R. H. Cromek, F. J. DuRoveray, Thomas
+                    Holloway, John Landseer, James Neagle, Luigi Schiavonetti, Edward Scriven, James
+                    Stow, Isaac Taylor, Charles Edward Wagstaff, and Charles Warren. The collection
+                    includes items from many other engravers, including Samuel Palmer, Jane Ireland,
+                    James Watson, J. P. Neale, and Benjamin West. Many of the letters discuss
+                    artistic matters and contain reference to well known engravings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

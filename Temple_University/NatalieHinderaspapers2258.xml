@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Natalie Hinderas papers <date type="inclusive">1953-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Natalie Hinderas papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2258</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Natalie Leota Henderson Hinderas (1927-1987) was a concert pianist and professor
+                    of music at Temple University. In 1945, Hinderas received her BS in Music from
+                    Oberlin Conservatory as their youngest student. She did her post-graduate work
+                    at the Julliard School of Music with Olga Samaroff and at the Philadelphia
+                    Conservatory with Edward Steuermann. In the 1950s and 1960s, Hinderas toured
+                    America, Europe, the West Indies, Africa, and Asia, and was signed by NBC to
+                    perform in recitals and variety shows at NBC-owned stations around the U.S. In
+                    1966 she joined the faculty of Temple University's College of Music, where she
+                    rose to the rank of full professor. In 1971, she became the first
+                    Afican-American to perform a subscription concert with the Philadelphia
+                    Orchestra. She also performed with the Los Angeles Philharmonic orchestra, the
+                    Cleveland, Atlanta, New York, San Francisco, and Chicago symphony orchestras.
+                    Throughout her career, she promoted and recorded works by black performers and
+                    composers, among them R. Nathaniel Dett, William Grant Still, John W. Work, and
+                    George Walker. She received a number of awards and degrees including the Martha
+                    Baird Rockefeller fellowship and an honorary doctorate degree from Swarthmore
+                    College.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers and audio recordings of Natalie Hinderas.
+                    Materials include: programs for performances, appearances, and competitions;
+                    correspondence related to her performing and recording career; family
+                    correspondence; music scores; audio tapes of performances by Hinderas and
+                    others; audio tapes of interviews with others; reviews of her performances;
+                    articles, clippings, and promotional materials on other performers and
+                    composers; articles on topics related to music; financial records; photographs
+                    of Hinderas, her performances and tours, her husband Lionel Monagas, her
+                    daughter Michele Monagas, and other artists; notebooks and appointment books; a
+                    1981 business diary related to Hinderas's work on "The Music Room" and
+                    selected performances; correspondence, notes and bibliographies related to
+                    "America Through Music"; a collection of postcards; and school records of
+                    Michele Monagas from kindergarten through high school.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Temple University. Faculty.</corpname>
+                <subject encodinganalog="650">African American musicians.</subject>
+                <subject encodinganalog="650">Pianists--United States.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Notebooks</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Scores</genreform>
+                <genreform encodinganalog="655">Sound recordings</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

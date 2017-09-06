@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Katherine Minehart Lewis Carroll collection <date type="inclusive">1932-2003</date>
+                        <date type="bulk"> 1967-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Katherine Minehart Lewis Carroll collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1767</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1932-2003</unitdate>
+                <unitdate type="bulk"> 1967-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Katherine "Kitty" Minehart was the director of the Germantown Theatre Guild.
+                    She was married to the actor and writer Dan Lounsbery, who died in 1993. In
+                    1963, the Germantown Theatre Guild staged a production of "Alice," a dramatic
+                    adaptation of Lewis Carroll's Alice in Wonderland. This production sparked
+                    Minehart's interest in Lewis Carroll and his characters, particularly Alice.
+                </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of Alice in Wonderland ephemera falls into two basic segments:
+                    theatrical adaptations of the Alice story and the use of images and themes from
+                    the story in media (advertising, greeting cards, cartoons, newspaper articles).
+                    The theater-related ephemera includes playbills, announcements, newspaper and
+                    magazine clippings of reviews and advertisements, posters, and a copy of Eva le
+                    Galienne's annotated script for her adaptation of "Alice in Wonderland." Other
+                    ephemera includes clippings, cartoons, advertisements, greeting cards, auction
+                    catalogs, magazines, announcements and catalogs for exhibitions, and programs
+                    and announcements from the Lewis Carroll Society of North America. The
+                    collection also includes several books, including a memorial tribute to Charles
+                    Dodgson, parodies of Alice in Wonderland and adaptations of the story.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

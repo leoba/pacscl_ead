@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>SS Philadelphia logbooks <date type="inclusive">1891-1902</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">SS Philadelphia logbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC444</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-1902</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The SS Philadelphia was built by William Cramp and Sons, Philadelphia. It was run
+                    by the Red D Line and transported passengers, goods, and mail between New York
+                    and Venezuela, stopping at various ports in between. Passenger services operated
+                    between New York, San Juan, Curacao, La Guaira and Puerto Cabello and returned
+                    to New York via Curacao and San Juan.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of three logbooks of the SS Philadelphia, 1891-1893,
+                    1900-1901, and 1902. The logbooks describe journeys from New York to Venezuela,
+                    noting weather, loading and unloading of cargo and passengers, customs
+                    activities, and sightings and interactions with other vessels. One volume
+                    includes several newspaper clippings (humorous, political, and
+                    shipping-related). Two of the volumes number the voyages: 171-179 and
+                    193-195.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. and Mrs. Calvin Hobbs</p>
+                <p>Accession number: 1974.51</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

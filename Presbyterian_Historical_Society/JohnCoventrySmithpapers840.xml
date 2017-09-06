@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Coventry Smith papers <date type="inclusive">1938-1970</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Coventry Smith papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC840</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-1970</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Coventry Smith (1903-1984) served as a missionary in Japan from 1929 until
+                    the outbreak of World War II. For a ten-year period both before and after the
+                    union of the Presbyterian Church in the USA, Smith was secretary for Japan,
+                    Korea, Philippines, and Thailand, and then was associate general secretary of
+                    what became the Commission on Ecumenical Mission and Relations (COEMAR). He
+                    became COEMAR's general secretary in 1959 and retired in 1970. From 1968 to
+                    1975, he was president of the World Council of Churches. In 1968, he was elected
+                    Moderator of the General Assembly of the United Presbyterian Church USA.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of John Coventry Smith. Papers related to the
+                    National Council of the Churches of Christ in the United States of America (NCC)
+                    include memoranda, correspondence, reports, and proposals. Many of the papers
+                    are from the General Board, the Executive Committee, the Division of Foreign
+                    Missions, and the Division of Overseas Ministries of the NCC, 1959-1969.
+                    Materials related to the World Council of Churches (WCC) include minutes,
+                    memoranda, reports, proposals, summaries, agendas, budgets, directories, a small
+                    amount of correspondence, and printed materials. Much of the material is related
+                    to the Executive Committee, the Division of World Mission and Evangelism, the
+                    Central Committee, and various Assemblies of the World Council of Churches,
+                    1949-1969. Papers from the International Missionary Council include reports,
+                    memoranda, correspondence, minutes (some printed), and discussion papers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 68 0284</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

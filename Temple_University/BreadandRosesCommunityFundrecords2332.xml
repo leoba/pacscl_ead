@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bread and Roses Community Fund records <date type="inclusive">1971-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bread and Roses Community Fund records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2332</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>52 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The People's Fund was founded in 1970 to raise money for Philadelphia area groups
+                    working for progressive social change. In 1977 the organization established the
+                    Bread &amp; Roses Community Fund as a nonprofit tax-exempt community fund. Bread
+                    &amp; Roses raises money from individuals to provide grants, technical
+                    assistance and leadership development to support community-based organizations
+                    in the Delaware Valley that are taking collective action to bring about social
+                    change. For fundraising, Bread and Roses conducts direct mail solicitations of
+                    individual contributions and organizes fundraising events.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains documentation related to various grant programs of the
+                    People's Fund and Bread and Roses, as well as organizational records and
+                    research files. Grant programs represented in the collection include Community
+                    Funding Board grants (1980-1994), Donor Advised grants (1977-1994), Emergency
+                    grants (1984-1989), and Discretionary grants (1986-1987). Grant files include
+                    accepted and rejected grant applications, contact information, grant agreements,
+                    reports, and supporting materials, such as newsletters, brochures, and meeting
+                    minutes from the grantee organizations. Other organizational records include:
+                    annual meeting minutes, 1978-1993; minutes, reports, and memoranda from the
+                    steering committee, selection committee, campaign committee, and other
+                    committees; press releases; planning files for special events; and printed
+                    material, including brochures, newsletters, pamphlets, appeal letters, and
+                    progress reports. There are also research files on socially responsible
+                    investing, 1979-1990, including newsletters, brochures, studies, articles,
+                    directories, and prospectuses.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

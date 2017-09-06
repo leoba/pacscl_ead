@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert A. Groff papers <date type="inclusive">1908-1977</date>
+                        <date type="bulk"> 1936-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert A. Groff papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC483</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>23 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1908-1977</unitdate>
+                <unitdate type="bulk"> 1936-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Armand Groff (1903-1975) earned his bachelor's degree in 1925, and M.D. in
+                    1928, from the University of Pennsylvania. Groff served on the faculties of
+                    Jefferson Medical College, Graduate Hospital, Presbyterian Hospital and the
+                    University of Pennsylvania. During World War II, Groff served in the 20th
+                    General Hospital in northeast India. He served as Chairman of Neurosurgery at
+                    the University of Pennsylvania from 1957-1968. Groff was the author of many
+                    scientific articles as well as the publication Manual of Diagnosis and
+                    Management of Peripheral Nerve Injuries. Groff was a Fellow of the College of
+                    Physicians of Philadelphia from 1941-1975.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Robert A. Groff. The materials in the
+                    collection are located both onsite at the College of Physicians of Philadelphia,
+                    and in offsite storage. The onsite collection includes: indices for offsite
+                    files; awards, plaques, medals, and memorabilia; portraits and family snapshots;
+                    surgical records of Groff and several other neurosurgeons from 1934-1949; some
+                    biographical information; a few manuscripts; a folder of news clippings; and
+                    papers from Groff's Army service in World War II, including data collected on
+                    nerve injuries. The collection contains case logs from 1938-1943 and 1949-1951,
+                    and case records from 1946-1951. Along with the collection is a box of patient
+                    records from the 1930s-1940s, and a box of billing records (1977) from the
+                    Graduate Hospital, which do not appear to be closely related to Groff. The
+                    portion of the collection held offsite contains 120 feet of primarily patient
+                    records and other miscellaneous, uncatalogued material.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mary A. Groff. Gift of UPenn Hospital Department of
+                    Neurosurgery.</p>
+                <p>Year acquired: 1982, 1987, 1989</p>
+                <p>Accession number: 1989-19, 1991-116</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, University Archives and Records Center: U.S. Army 20th General
+                    Hospital records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

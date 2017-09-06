@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union Benevolent Association records <date type="inclusive">1984-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union Benevolent Association records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC677</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>16.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1984-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union Benevolent Association was founded in 1831 in order to assist the
+                    suffering poor of Philadelphia during an unusually harsh winter. The Association
+                    soon began offering social services, including counseling and material aid, to
+                    families all around the city, regardless of race, religion, or nationality.
+                    Assistance was provided in the form of money, food, clothing, and medicine. The
+                    Association also helped many people find employment and encouraged parents to
+                    send their children to school. In 1958 the Association changed it's method of
+                    administering aid and began giving to other nonprofit organizations.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This addition to the records of the Union Benevolent Association is largely
+                    composed of grant applications and related materials. There are also board and
+                    allocation meeting minutes (1984 to 1991 and 1995 to 2000), correspondence,
+                    reports, financial records, resumes of prospective board members, printed
+                    materials, and other items.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Union Benevolent Association.</corpname>
+                <subject encodinganalog="650">Charities--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Social service--Finance.</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2006.030</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

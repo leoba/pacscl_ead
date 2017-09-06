@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Tudor Leber Jr. papers <date type="inclusive">1936-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Tudor Leber Jr. papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC954</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Tudor Leber, Jr. (1898-1959) was born in Baltimore, Maryland. He was
+                    educated at Johns Hopkins University (A.B 1920) and Princeton Theological
+                    Seminary (S.T.B. 1923).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These records consist of six notebooks; mimeographed travel letters from Leber in
+                    three-ring binders, 1936-1953, 1955 (3 binders, each with a table of contents by
+                    place), from India, Germany, Southeast Asia, China, United Kingdom, many to
+                    organizational bodies and groups of people ("Dear Friends"); an unfinished
+                    manuscript, from 1959 titled "Dynamic for Destiny: The Faith, Courage and
+                    Strategy of World Christians"; a publication by Leber titled "War Letters",
+                    published by the Board of National Missions, 1941; manuscripts for articles and
+                    radio broadcasts by Leber; a portrait photograph of Leber in a frame; and an
+                    obituary notice and messages upon Leber's death in 1959.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Program Agency</p>
+                <p>Accession number: 88 0309a</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

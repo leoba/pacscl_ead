@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Samuel Wagner collection relating to William Wagner and the early
+                        years of the Wagner Free Institute of Science <date type="inclusive">1815-1905</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Samuel Wagner collection relating to William Wagner and the
+                    early years of the Wagner Free Institute of Science</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC977</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1815-1905</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Samuel Wagner (1842-1937), nephew of William Wagner, assumed the presidency of
+                    the Wagner Free Institute of Science upon his uncle's death in 1885 and served
+                    in that role until 1921. From 1921 to 1937 he was President Emeritus of the
+                    Institute. Wagner was also a Trustee of the Free Library of Philadelphia and one
+                    of the founders of the Philadelphia Museum of Art. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is a small assemblage of papers from 1815 to 1905 relating to
+                    William Wagner's personal and business affairs and the founding of the Wagner
+                    Free Institute of Science, as well as materials relating to Samuel Wagner's
+                    archives as Trustee. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 89-060</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: other collections with William Wagner business papers include: Emma
+                    Garman's collection of William Wagner business papers and miscellaneous records
+                    of the Wagner Free Institute of Science (91-015), William Wagner business papers
+                    collections (89-001, 90-005, 90-035, 98-050), and William Wagner business and
+                    personal papers (98-051).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

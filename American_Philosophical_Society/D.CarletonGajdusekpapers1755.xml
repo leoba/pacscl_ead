@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>D. Carleton Gajdusek papers <date type="inclusive">1876-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">D. Carleton Gajdusek papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1755</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>125 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1876-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>A pediatrician and virologist trained at the University of Rochester and Harvard
+                    Medical School, Daniel Carleton Gajdusek became interested in epidemiological
+                    issues in "exotic and isolated populations" early in the 1950s, and while
+                    working as a visiting investigator at the Walter and Eliza Institute of Medical
+                    Research in Melbourne he had his first introduction to a neurological disorder,
+                    kuru, that was endemic among the Neolithic Fore of New Guinea. In an exemplary
+                    study, Gajudusek determined that kuru was not hereditary, as previously
+                    supposed, but was an infectious disease transmitted through the ritualistic
+                    consumption of the brains of deceased relatives. He was recognized for his
+                    achievements with the 1976 Nobel Prize in Physiology or Medicine.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional and personal papers of Carlton Gajdusek.
+                    Materials include: incoming and outgoing work-related correspondence, contracts,
+                    financial records, and performance appraisals; research materials related to the
+                    Middle Eastern Serum Study; family correspondence with his mother, Ottilia
+                    Mahtil Dobrosky Gajdusek (1893-1966), brother, Robert Elemer Gajdusek (b. 1925)
+                    and his children and grandchildren; school records of his adoptive children;
+                    biographical sketches of correspondents; and CVs and supporting materials. The
+                    collection also includes journals from 1937-1940 and 1951-1998 documenting his
+                    medical and epidemiological research (especially that on Kuru), pediatric
+                    studies, and human and population genetics work in Africa, Australia, Colombia,
+                    Guam, Indonesia, Libya, Melanesia, New Guinea, New Hebrides, Pacific Islands,
+                    Paraguay, Soviet Union, and the Western Caroline Islands; annotated typescripts
+                    and photocopies of the journals.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: National Library of
+                    Medicine: D. Carleton Gajdusek correspondence (MS C 565).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

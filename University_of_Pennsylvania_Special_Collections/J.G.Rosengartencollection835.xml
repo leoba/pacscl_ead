@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>J. G. Rosengarten collection <date type="inclusive">1763-1992</date>
+                        <date type="bulk"> 1763-1908 </date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">J. G. Rosengarten collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC835</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1763-1992</unitdate>
+                <unitdate type="bulk"> 1763-1908 </unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph George Rosengarten was born in 1835. He graduated from the University of
+                    Pennsylvania in 1852. In 1856 he was admitted to the bar, and in 1857 traveled
+                    to Heidelberg to study Roman law. During the Civil War Rosengarten served on the
+                    staff of General John F. Reynolds. He was the author of The German Soldier in
+                    the Wars of the United States and The Sources of German-American History.
+                    Rosengarten was a member of the Board of Trustees of the University of
+                    Pennsylvania and a chairman of the Trustee's Library Committee. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of manuscripts and correspondence by or collected by
+                    Rosengarten. Extra-illustrated bound works by Rosengarten include an interleaved
+                    copy of The German Soldier in the Wars of the United States, with documents and
+                    letters mounted, German Allied Troops in the War of Independence, General Count
+                    de Rochambeau and The Chateau de Rochambeau. Correspondence includes letters to
+                    Rosengarten, some related to manuscripts or letters sent to him (many are notes
+                    of thanks for copies of his book French Colonists and Exiles in the United
+                    States), and letters collected by Rosengarten -- most from the Revolutionary War
+                    period, in French, German, and English. Corespondents include: Madame de Stael,
+                    Tallyrand, Francois Chateaubriand, Frederick II of Prussia, James Hamilton,
+                    Francis Hopkinson, John Jay, and George Clinton. There is a bound manuscript
+                    copy of Popp’s Journal, 1777-1783 by Joseph G. Rosengarten and a bound
+                    collection of German manuscripts dealing with the Revolutionary War in the U.S.
+                    [1776-1782], including diaries of Caspar Recknagel, Andreas Wiederhold and
+                    reports on the Battle of Trenton, which include maps, illustrations, and charts
+                    (some of the maps have been removed and unfolded). The collection also includes
+                    a 1992 translation of The Diary of Caspar Recknagel (translation by Bruce E.
+                    Burgoyne) and negatives and photographs of manuscript pages, maps, and
+                    engravings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 66</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Archives and Records Center: Joseph G. Rosengarten papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

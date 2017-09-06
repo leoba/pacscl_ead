@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Fred B. Rogers papers <date type="inclusive">1944-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Fred B. Rogers papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC1243</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1944-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Fred B. Rogers (b. 1926) was Professor of Preventive Medicine at the Temple
+                    University School of Medicine. He received his M.M.S. in Internal Medicine from
+                    the University of Pennsylvania and his M.D. from Temple University. Rogers was
+                    the author of numerous articles and books on medical history. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Fred B. Rogers. Materials include; research
+                    notes, manuscripts, reprints, and related correspondence on a variety of
+                    scientific, biographical, and medical history topics; texts of addresses and
+                    related correspondence; course materials and lecture notes during his time at
+                    Temple Medical School; bound volumes of Rogers's medical school lab notes,
+                    lecture notes, and case reports; notebooks containing notes on patient visits
+                    and a prescription formulary (1948-1949); diplomas, awards, and certificates;
+                    transcriptions of interviews with Rogers; a small collection of letters to
+                    Lawrence H. Rogers (Fred Rogers's father); postcards from Rogers to his family
+                    written while he was in the Navy; a collection of handbills of faith healers and
+                    fortune tellers in Philadelphia, 1979-1989; a copy of Rogers's 1951 University
+                    of Pennsylvania thesis "Painless Myocardial Infarction"; and notes and
+                    correspondence related to the Victor Robinson lecture series at Temple
+                    University Medical School.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: many accessions</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lois M. Finney papers <date type="inclusive">1865-1951</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lois M. Finney papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC965</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.50 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1865-1951</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Lois M. Finney was a missionary at the American Mission in Egypt. She collected
+                    this material from the mission, though her term of service was later.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of mission meeting photos from the Zagazig School and the
+                    American Mission in Egypt. Group photographs include: staff of the American
+                    Mission in Cairo, 1910; 1951 annual Missionary Conference, New Wilmington,
+                    Pennsylvania; Zagazig class of 1931; 1900 Synod of the Nile; Missionary
+                    Association, 1897; Meeting of the Synod of the Nile, 1912; American Mission,
+                    1885; Egyptian Pastors of Cairo and six missionaries, 1929; Synod of the Nile,
+                    1900; wedding party of Mr. and Mrs. Robert W. Walker; and the last meeting of
+                    the Presbytery of Egypt, 1899. There are also shots of street scenes from Cairo,
+                    Luxor, and Mataria; photographic portraits and cartes de visites of missionaries
+                    and their families; as well as pictures of Theodore Roosevelt visiting the
+                    American College for Girls in Cairo. Additionally, there is a letter dated 1873
+                    from the Board (possibly the Board of Foreign Missions) regarding the possible
+                    complicity of members of the Egyptian Mission in slavery.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Finney, Lois M.</p>
+                <p>Accession number: 89 0609b</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Presbyterian
+                    Historical Society: Ralph C. McGill papers (accession 99 0920b) include
+                    photographs from American Mission in Egypt, 1904-1924.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

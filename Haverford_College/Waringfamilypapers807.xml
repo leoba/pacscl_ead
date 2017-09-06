@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Waring family papers <date type="inclusive">1798-1975</date>
+                        <date type="bulk"> 1860s-1930s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Waring family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC807</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1798-1975</unitdate>
+                <unitdate type="bulk"> 1860s-1930s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Waring family arrived in the United States in 1775. The first generation of
+                    Warings to settle in Cecil County, Maryland, included Thomas (1755-1842) and
+                    William (d. 1793). The Warings were founding members of the Colora, Maryland,
+                    Meeting. Thomas Waring's children included William Waring (1808-1884). William
+                    Waring had four sons: Thomas, Wilson (d. 1917), David, and William (1849-1934).
+                    The brothers Thomas and Wilson Waring organized the The Waring Fertilizer and
+                    Bone Mill Company in 1869 to bring "scientific agriculture" to Cecil County.
+                    Thomas Waring (the younger) was also a Superintendent of Cooper Hospital and the
+                    founder of the Waring Manufacturing Company and Waring Ink and Index. His
+                    children included Bernard Gilpin Waring (b. 1876).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of family papers of the Waring family, primarily of Thomas
+                    Waring (the younger) and Bernard G. Waring. Materials related to Thomas and
+                    William Waring (the elder generation) include legal documents, such as deeds,
+                    mortgages, and indentures. Materials related to Thomas Waring (the younger)
+                    include correspondence with family, especially his brother William; personal
+                    financial records, such as an expense book, check registers, bills, and
+                    receipts; financial records related to the Waring Manufacturing Company (1880s
+                    to early 1900s), such as correspondence, stock certificates, proxies, and
+                    agreements; records related to the Waring Ink and Index company, including a
+                    patent application, correspondence, bills, and receipts. Bernard Waring's papers
+                    consist of correspondence with family and friends from the 1920s to the 1930s.
+                    Also included in the collection are account books for a grocery business (1863
+                    to 1864), family photographs, and ephemera.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Cooper Hospital (Camden, N.J.)</corpname>
+                <genreform encodinganalog="655">Business records</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Family papers</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Patents</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 5716</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

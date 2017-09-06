@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Wharton Huber papers and photographs <date type="inclusive">1898-1943</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Wharton Huber papers and photographs</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC015</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13.6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1898-1943</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Wharton Huber (1877-1942) was an ornithologist and a mammalogist. He was
+                    assistant, and later associate, curator of the collection of birds and mammals
+                    at the Academy of Natural Sciences from 1920 to 1934. In 1934 he became curator
+                    of mammals, a post he held until his death in 1942. He was a three-time
+                    president of the Delaware Valley Ornithological Club, and also a staff member of
+                    the Wistar Institute of Philadelphia, where he assisted in making anatomical
+                    preparations. An enthusiastic collector and field man, he excelled in
+                    photographing birds and mammals in their native haunts.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of photographs and papers of Wharton Huber. Photographs make
+                    up the bulk of the collection and include glass and film negatives, contact
+                    sheets, and prints. Subjects Huber photographed include birds, animals, plants,
+                    landscapes, Apache Indians, and Huber's home and family. His photographs
+                    document his trips to Nicaragua, Cape Cod, the Pacific coast, and New Mexico.
+                    Papers in the collection include diaries from his trips to Nicargua (1922) and
+                    the Queen Charlotte Islands (1930); correspondence about the collection of skins
+                    and specimens; letters of introduction; brochures and announcements; and several
+                    pamphlets for the Ludwick Lecture Series.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Papers and diaries from John C. McMichael</p>
+                <p>Year acquired: 2005</p>
+                <p>Accession number: 00:16 and 07:02</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Wharton Huber correspondence and photographs
+                    (collection 755) and Huber-Stone correspondence (collection 186).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

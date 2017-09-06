@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Albert Croll Baugh papers <date type="inclusive">1914-1973</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Albert Croll Baugh papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC1244</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1973</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Albert Croll Baugh (1891-1981) was a scholar of English language and literature
+                    and medieval studies. He was educated at the University of Pennsylvania. He
+                    served on the faculty of the University of Pennsylvania, where he taught Middle
+                    English literature and Chaucer, and in 1946 was appointed to the Felix Schelling
+                    Memorial Professorship, a post he held until his retirement in 1961. He served
+                    as the chair of the English Department from 1944 to 1957. He was the author of A
+                    History of the English Language, the editor of A Literary History of England,
+                    and the compiler of Chaucer, among other publications. He was also an active
+                    member of the Modern Language Association, serving on its editorial board
+                    (1930-1941 and 1946-1951), its executive committee (1943-1946), and as its
+                    president (1952).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Albert Croll Baugh. Materials include
+                    manuscript and typescript scholarly notes; manuscripts, typescripts, and proofs
+                    of Baugh's writings; reprints and offprints; a collection catalog of Baugh's
+                    books and serials; a small amount of correspondence with colleagues regarding
+                    scholarly articles, editing, and research; one letter from his son, a professor
+                    at Princeton; notes for an English I course (presumably taught by Baugh); and
+                    microfilms, photographs, and photostats of texts. The collection also includes a
+                    bound transcript of Ancrene Riwle that was given to Hope Emily Allen.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: Ms. Coll. 689</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

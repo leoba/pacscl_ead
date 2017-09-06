@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ohio Student Volunteer Union records <date type="inclusive">1921-1940</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ohio Student Volunteer Union records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC076</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>0.04 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1921-1940</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Student Volunteer Union of Central and Southern Ohio was formed for the
+                    purpose of uniting groups of volunteers so they could provide mutual help and
+                    inspiration in their work. Some of the methods through which this was
+                    accomplished were conferences, councils for leaders, newsletters, and exchange
+                    visits between member groups. Colleges with volunteer groups represented in the
+                    Union included Oberlin, Wooster, Muskingum, Ohio State University, Ohio
+                    Wesleyan, Wittenberg, and Oxford College for Women. An earlier name of this
+                    organization was the Southern Ohio Student Volunteer Union.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a volume of minutes of the Student Volunteer Union of Central and
+                    Southern Ohio, 1921-1940. The minutes document fall council meetings, spring
+                    conferences, and other meetings held by the group at various colleges in Ohio.
+                    The minutes include reports of addresses and discussion groups, information on
+                    activities of Christian student organizations, treasurer's reports of dues and
+                    expenses, and the election of officers and other routine business. The volume
+                    includes a printed copy of the organization's constitution and several
+                    conference programs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 02 1218r</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

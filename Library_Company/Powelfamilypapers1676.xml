@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Powel family papers <date type="inclusive">1685-1884</date>
+                        <date type="bulk"> 1726-1843</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Powel family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1676</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1685-1884</unitdate>
+                <unitdate type="bulk"> 1726-1843</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>The volumes of accounts, letters, memoranda, and other records concern the
+                    personal professional business interests of four Powel family members of
+                    Philadelphia. The first represented here is Samuel Powel, colonial merchant, who
+                    apparently conducted his business in London from 1726 to 1727 and then continued
+                    in Philadelphia, trading with England and the West Indies, until his death. His
+                    merchant's account books, 1726-1747, include: day books (7 v.), journals (5 v.),
+                    ledgers (4 v., broken series), bills of lading (2 v.), and ship invoice book.
+                    His son Samuel Powel was elected mayor of Philadelphia in 1775, his tenure ended
+                    by the Revolution, and he was reelected in 1789. His personal financial accounts
+                    consist of ledger, 1760-1793; receipt books, 1771-1792 (9 v., broken series);
+                    miscellaneous account and memorandum book, 1786-1796. Elizabeth Willing Powel,
+                    Mayor Powel's wife, inherited his substantial estate including "Powelton" and
+                    other Philadelphia real estate. Her account books, 1793-1821 (6 v.), relate
+                    principally to finances concerning her property; there are also check stubs,
+                    1793-1803. Elizabeth and Samuel Powel had no heirs, and therefore Mrs. Powel
+                    adopted her nephew John Powel Hare who subsequently changed his name to John
+                    Hare Powel. Powel joined the counting house of Willing and Francis, 1803-1807,
+                    acting as supercargo on a voyage to Calcutta in 1806. He was secretary to the
+                    U.S. legation in London, 1809-1811, a colonel in the War of 1812, and
+                    Pennsylvania state senator, 1827-1830. He acted as agent in managing the
+                    property of the Elizabeth Powel estate, William Bingham estate, and Alexander
+                    Baring's Hope and Company lands in northern Pennsylvania. For most of his life,
+                    Powel's major occupation was as an agriculturist with particular interest in the
+                    improvement of livestock. The John Hare Powel papers include: letter book, 1806,
+                    on business conducted while in Calcutta; letter books, 1824-1853 (bulk,
+                    1824-1843) (5 v.), relating primarily to husbandry, but also concerning his land
+                    management activities on behalf of Baring and others, his interest in
+                    Pennsylvania Railroad construction, and the construction of his house at 13th
+                    and Locust; accounts and memoranda on Hope and Co. lands, 1824-1842 (2 v.);
+                    personal receipt book, 1825-1830; cattle record book, 1825-1829, including
+                    copies of letters from Jonathan Whitaker and George Coates; ledger of Elizabeth
+                    Powel estate rents, 1830-1836 (bulk 1830-1833); William Bingham shipping account
+                    book from Martinique, 176-1778; William Bingham estate account books, 1813-1830
+                    (7 v.) with memoranda and letters concerning Philadelphia property; receipt
+                    book, 1868-1884, of payments made from the John Hare Powel estate to Julia
+                    deVeaux Foulke and Ida Powel Morrell (later Johnson). There are some additional
+                    loose miscellaneous papers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. And Mrs. Harford Powel.</p>
+                <p>Year acquired: 1937</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

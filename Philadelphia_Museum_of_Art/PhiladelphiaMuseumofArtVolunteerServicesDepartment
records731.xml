@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Volunteer Services Department records
+                            <date type="inclusive">1961-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Volunteer Services Department
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC731</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1961-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Museum has a strong tradition of support from volunteers of all ages.
+                    Currently, there are approximately 500 volunteers from all over the community
+                    working in nearly every department at the Museum, providing services to visitors
+                    and assisting the professional staff behind the scenes. Museum Guides serve as a
+                    vital source of information, conducting daily tours of both the collections and
+                    selected special exhibitions. Admission to either the Weekday or Weekend Guide
+                    Program requires a two-year training commitment. Park House Guides are
+                    responsible for conducting tours through Fairmount Park and its fully restored
+                    historic houses. Membership Volunteers serve as liaisons between Membership and
+                    Visitor Services and Museum members. Duties include selling memberships and
+                    renewals and assisting members and visitors with information regarding the
+                    Museum, membership programs and events. In addition, Membership Volunteers serve
+                    as greeters during special exhibitions.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These records document the activities and procedures initiated over the last 40
+                    years by the Volunteer Services office to develop and guide their interactions
+                    with the public. The "Museum guides" series pertains to the weekend, weekday
+                    and graduate guides. Documentation includes extensive runs, from the mid-1960s
+                    to 2005, of the newsletters published for two of the guide groups; namely,
+                    "Guidelines" written for the weekday guides, and "Guideposts" for those who
+                    work the weekends. Both are monthly publications. Issues of the "Graduate
+                    Guidelines," published approximately six times a year, are also included for
+                    the years 1991 to 2003. The series also includes meeting minutes,
+                    correspondence, handbooks and training materials. The "Park House guides"
+                    series documents in varying degrees each of the seven colonial homes situated in
+                    Fairmount Park. There is correspondence and an inventory for each of the homes,
+                    except Laurel Hill, as well as folders documenting the special events and tours
+                    held in these homes, particularly the Yuletide tours. Materials assembled for
+                    reference, slide lectures and training programs, as well as lectures recorded on
+                    video and audio tapes, suggest the ongoing education of the guides. Other
+                    historic structures, such as Girard College, John Bartram house and garden, and
+                    the Waterworks, are also documented. Newsletters published from 1992 to 2006
+                    comprise most of the material in the "Membership volunteers" series. There is
+                    also material pertaining to training, policies and procedures, and finance, as
+                    well as to the Captain's and Executive Committees. The membership volunteer
+                    handbook, 2000-2001, is saved on a disk along with other miscellaneous items.
+                    Originally housed in scrapbooks, the papers comprising the final series were
+                    retained more as memorabilia rather than official records. Yet the service of
+                    the Museum's volunteer guides and the breadth of their work is well-recorded.
+                    The material consists primarily of letters of appreciation to the Museum's
+                    volunteer guides from individuals representing numerous organizations, school
+                    groups and institutions, including several City offices. The guides office
+                    dubbed the correspondence their "fan mail." A substantial amount of clippings
+                    are also included, featuring the work of the guides on behalf of the Museum as
+                    well as their personal collections and studies.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Fairmount Park (Philadelphia, Pa.) </corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art. Volunteer Services
+                    Department. </corpname>
+                <subject encodinganalog="650">Historic buildings--Pennsylvania--Philadelphia. </subject>
+                <subject encodinganalog="650">Volunteer workers in museums.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Manuals (Instructional materials)</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Sound recordings.</genreform>
+                <genreform encodinganalog="655">Video recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 25</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=VOL">http://www.philamuseum.org/pma_archives/search.php?c=VOL</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

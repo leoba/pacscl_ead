@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Museum of Art Schools records <date type="inclusive">1879-1966</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Museum of Art Schools records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC763</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1879-1966</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Originally entitled the Pennsylvania Museum and School of Industrial Art, the
+                    Museum was committed to maintaining schools for the training of young artists.
+                    The School of Industrial Art was incorporated with the Museum in 1876 and
+                    separated from the PMA in 1964. Currently its name is The Philadelphia College
+                    of Art. The Textile School was created in 1884 and severed ties in 1948. It was
+                    then called the Philadelphia Textile Institute, now the Philadelphia College of
+                    Textiles and Science.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to several schools maintained by the
+                    Philadelphia Museum of Art. Records include; bound volumes of School Circulars
+                    (1879-1953); minutes of the Board of Governors (1943-1964); and minutes of the
+                    Board of Governors, Philadelphia Textile Institute (1943-1949). The collection
+                    also includes: 1966 Manual for Trustees of the Philadelphia College of Art;
+                    receipts for purchase of looms and equipment for stamping cloth (and a
+                    manuscript description of the process of manufacturing cloth using the looms
+                    provided by the importing firm); a copy of the music to the school song of the
+                    PMSIA (signed by the composer, Robert Elmore, and the lyricist, Thornton
+                    Oakley); subscription book for purchase of the building at Broad and Pine, 1893;
+                    misc. records, including an inventory of school property, 1914; and a 1945
+                    commencement address by H. Wickliffe Rose. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Pennsylvania Museum and School of Industrial
+                    Art.</corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <subject encodinganalog="650">Art--Study and teaching.</subject>
+                <genreform encodinganalog="655">Catalogs.</genreform>
+                <genreform encodinganalog="655">Lecture notes.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Receipts (financial records).</genreform>
+                <genreform encodinganalog="655">Sheet music.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 31</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=SIA">http://www.philamuseum.org/pma_archives/search.php?c=SIA</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Leslie W. Miller Records (MIL).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

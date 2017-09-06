@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Alexander papers <date type="inclusive">1855-1859</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Alexander papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2521</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1855-1859</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Alexander (1808-1875) was a Philadelphia-born poet and graduate of the
+                    University of Pennsylvania, where he studied under Professor S. B. Wylie. His
+                    book of poetry and essays, The Poetical Works of William Alexander Including His
+                    Christiad, Dramas, and Minor Poems with Dissertations on Poetry and a Sketch of
+                    His Life, was published by Lippincott in 1847.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of two volumes of works by William Alexander given to
+                    the Athenaeum by the author. The first volume is a collection of minor poems
+                    dated 1855, the second volume is a manuscript presentation copy of the Christiad
+                    dated 1859. The Christiad volume also includes "Inez de Castro, a Tragedy,"
+                    and an engraving of Alexander.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Library Company of
+                    Philadelphia: William Alexander essays, 1859.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia President's Office
+                        records <date type="inclusive">1874-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia President's
+                    Office records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC927</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>140 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences of Philadelphia was founded in 1812 "for the
+                    encouragement and cultivation of the sciences, and the advancement of useful
+                    learning." Its collections, acquired through expeditions, gifts, purchases, and
+                    exchanges, contain over 17,000,000 specimens. The Academy opened its doors to
+                    the public in 1828, growing so rapidly that it outgrew its building three times
+                    in sixty years. In 1876, its present home was built at 19th and Benjamin
+                    Franklin Parkway. In 1948, with the establishment of the Environmental Research
+                    Division, the Academy broadened its research orientation to include applied
+                    research in aquatic ecosystems as well as the traditional systematics
+                    research--discovering and cataloguing organisms.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of several accessions of materials from the President's
+                    office from 1874-2003, with the bulk of the material dating from 1930s to the
+                    1990s. The records cover a wide range of topics, and include: correspondence;
+                    departmental reports; subject files; minutes of the board of trustees and its
+                    committees; minutes and notes from the Academy's participation in professional
+                    organizations and programs, such as The Associated Natural Science Institutions
+                    (TANSI) and the Wistar Institute; strategic planning, development, and marketing
+                    materials; documentation of exhibits; financial records; information on grants;
+                    personnel and hiring records; speeches of the president; and facilities and
+                    maintenance information. The collection also includes several cartons of data
+                    sheets from studies of the water and ecology of the Pawtuxent River (1960s and
+                    1970s), as well as some photographs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 85:?; 91:10; 92:06; 99:06; 95:?; 99:12; 00:08; 00:10; 87:02;
+                </p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

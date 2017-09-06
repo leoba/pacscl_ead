@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herman Skolnik papers <date type="inclusive">1948-1994</date>
+                        <date type="bulk"> 1960s-1980s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herman Skolnik papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC107</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-1994</unitdate>
+                <unitdate type="bulk"> 1960s-1980s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herman Skolnik (Ph.D. University of Pennsylvania) was a research chemist at
+                    Hercules, Inc. Research Center. He was editor of the American Chemical Society's
+                    Journal of Chemical Information and Computer Science for its first 22 years, and
+                    was the editor of the terpene chemistry section of Chemical Abstracts for more
+                    than 30 years. He was interested in chemical documentation, history of science,
+                    terpenes, heterocyclics, and azeotropy. Skolnik was the historian/archivist of
+                    the Delaware Section of the American Chemical Society, and lectured and
+                    published on the history and teaching of science.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes reprints of Skolnik's publications, company newsletters,
+                    clippings of journal articles, copies of the Del-Chem Bulletin (newsletter of
+                    the Delaware Section of the ACS), chemistry reference books, a company history
+                    of Hercules, Inc., audiocassettes of Skolnik's 1986 interview of Paul W. Morgan
+                    for the Chemical Heritage Foundation's Oral Histories project, slides to
+                    accompany lectures on chemistry and chemistry education, materials relating to
+                    the Scientists in Residence Program in the Delaware public school system, notes
+                    from meetings of ChemVets (a group of retired ACS members working to promote
+                    science education), and a wooden plaque of the Hercules Powder Company logo.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Susan Skolnik</p>
+                <p>Accession number: 03:621</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Delaware Chemical Bulletins collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David Rockwell Goddard papers <date type="inclusive">1962-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David Rockwell Goddard papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC424</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1962-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>David Rockwell Goddard (1908-1985) was a plant physiologist, educator, and
+                    university administrator. He joined the faculty of the University of
+                    Pennsylvania in 1946 as a professor of botany. He later became chair of the
+                    Botany Department, and was heavily involved in the creation of a Division of
+                    Biology in 1954, of which he became director. His active participation in the
+                    administration of the university led to him being named Provost in 1961, a
+                    position he held until 1970. He served a four-year term as home secretary for
+                    the National Academy of Sciences beginning in 1975. He had previously held a
+                    number of significant positions in the Academy, including participating in the
+                    Advisory Committee on Science Exchange with the USSR and Eastern Europe (member,
+                    1960-1968; chairman, 1966-1968).</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes papers related to Goddard's work on several panels,
+                    including the Life Sciences Panel, the Commission on Narcotics and Drug
+                    Addiction, the Pesticide Panel of the Federal Council for Science and
+                    Technology, and the National Academy of Sciences Advisory Committee on USSR and
+                    Eastern Europe. Materials include reports, memoranda, newsletters, pamphlets,
+                    meeting minutes, and newspaper clippings. There is also correspondence with
+                    fellow panel members and members of industry groups and the general public
+                    interested in the work of the panels. Goddard's records from the Advisory
+                    Committee on the USSR and Eastern Europe (1965-1968) include reports of
+                    scientists on visits to the Soviet Union and Eastern Bloc countries as well as
+                    proposals and invitations for visits by Soviet scientists to the United States.
+                    This section of the collection also includes a report of Goddard's 1966 trip to
+                    Hungary.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 192</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Pennsylvania, Archives and Records Center: David Rockwell Goddard papers (UPT 50
+                    G578).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

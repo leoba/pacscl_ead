@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John W. Haines genealogical research files <date type="inclusive">1782-1979</date>
+                        <date type="bulk"> 1931-1979</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John W. Haines genealogical research files</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2152</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1782-1979</unitdate>
+                <unitdate type="bulk"> 1931-1979</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Wesley Haines was a navy captain and professional genealogist. He lived in
+                    Medford Lakes, New Jersey.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of genealogical research related to projects for clients
+                    and on the Haines family. A set of surname files for a number of families
+                    contains copies of family charts, copies of printed materials, notes from
+                    published and primary sources (often cited), postcards, and incoming
+                    correspondence related to the research. There are also surname files
+                    specifically for Haines family members that include family charts,
+                    correspondence (much of it with family members regarding the research), and
+                    notes. The collection also includes manuscripts of publications by Haines on the
+                    Haines family, and notes, correspondence, and copies of original documents and
+                    published materials related to the research. There are a a few issues of the
+                    Haynes Eagle and a small number of documents from the 18th and 19th century,
+                    including deeds, receipts, and marriage certificates, and a few early 20th
+                    century school and birth certificates (mostly non-Haines, mainly Wagners).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Richardson Dilworth papers <date type="inclusive">1881-1991</date>
+                        <date type="bulk"> 1943-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Richardson Dilworth papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC639</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1881-1991</unitdate>
+                <unitdate type="bulk"> 1943-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Richardson Dilworth (1898-1974), was an American Democratic Party politician,
+                    born in the Pittsburgh area, who served as the 116th Mayor of Philadelphia,
+                    Pennsylvania from January 2, 1956 until his resignation in 1962 to run for
+                    Governor, a race in which he was defeated by William Scranton. Along with Joseph
+                    S. Clark and others, he was at the forefront of a post-World War II reform
+                    movement in Philadelphia which led to the adoption of a modern city charter that
+                    consolidated city and county offices and introduced civil service examinations
+                    on a broad scale to replace much of the existing patronage structure. During
+                    their tenures as mayor, Clark and Dilworth introduced a variety of reforms and
+                    innovations, including extensive high-rise public housing which, a generation
+                    later, was condemned by many as a breeding ground for poverty and crime.
+                    However, they also greatly strengthened the city planning function of
+                    Philadelphia city government. Both retained Edmund Bacon as Executive Director
+                    of the Philadelphia City Planning Commission, and this era is recognized as a
+                    high water mark for planning, the era when Center City Philadelphia's future as
+                    a commercial and residential center was rescued from decline. Dilworth's
+                    Administration made a priority of saving the city's historic and irreplaceable
+                    Society Hill district. Following his tenure as Mayor, he served as Partner in
+                    the Philadelphia-based law firm of Dilworth Paxson LLP, which bears his name. He
+                    also served as president of the Philadelphia school board, and in 1971 was
+                    appointed one of two bankruptcy trustees (along with Andrew L. Lewis, Jr.) for
+                    the Reading Company, the railroad company headquartered in Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Richardson Dilworth. Materials include:
+                    alphabetical subject files; public statements; files related to jury cases, jury
+                    charges, and law cases; subject files of Dilworth, mainly from the "Ps" --
+                    Prisons, Playgrounds, Police, and the Port of Philadelphia.; subject files
+                    including extensive correspondence and files on City planning, housing, the fire
+                    department, and "City Issues”. Other materials include: notes and short letters
+                    from Richardson Dilworth to his wife, Ann; check stub book from 12/30/1968 to
+                    11/7/69; 5"x7" black and white photograph of Richardson with two women just
+                    after deplaning (one is probably his wife Ann); photographs of Richardson
+                    Dilworth, including 6 originals and about 115 copy prints (some duplicates).
+                    There is also a small file of clippings about his daughter Deborah, and several
+                    about Dilworth. The collection also includes: several folders of Dilworth's
+                    correspondence with friends, 1944-1974, typescripts of speeches by Dilworth,
+                    1947-1951; undated negatives; letter and photograph about the Dilworth Memorial
+                    in Dilworth Plaza, 1985; papers related to the naming and dedication of the
+                    Richardson Dilworth International Terminal at Philadelphia International
+                    Airport; a typed copy of a Marine Corps citation given to Dilworth "for
+                    gallantry and intrepidity in action" in 1943; and an album of photographs
+                    documenting The Philadelphia Award dinner, April 15, 1968. Scrapbooks and photo
+                    albums include: a Richardson Dilworth memorial scrapbook (1974), Dilworth's
+                    student and war scrapbook (ca. 1915-1926), Lees family photographs, (ca. 1960),
+                    Dilworth memorials (1974), social events scrapbook (1881-1946), and "G.S.P.
+                    photo album (ca. 1925). </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2003.052; 2003.053; 2003.068; 2003.069; 2003.124; 2004.017;
+                    2004.033; 2004.102; 010718.5</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

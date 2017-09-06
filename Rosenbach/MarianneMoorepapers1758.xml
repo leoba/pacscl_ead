@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marianne Moore papers <date type="inclusive">1916-1980</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Rosenbach Museum &amp; Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marianne Moore papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">RM&amp;Sp.ACC1758</unitid>
+                <repository label="Repository">Rosenbach Museum &amp; Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>40 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1916-1980</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marianne Craig Moore (1887-1972) was an American poet. She graduated from Bryn
+                    Mawr College in 1909 as a biology major and then studied commercial subjects and
+                    taught them at the U.S. Indian School in Carlisle, Pennsylvania. Her first
+                    published work appeared in 1915 in the Egoist and in Harriet Monroe's Poetry
+                    magazine. After 1919, living in Brooklyn, New York, with her mother, Moore
+                    devoted herself to writing, contributing poetry and criticism to many journals
+                    in the United States and England. In 1921 her first book, Poems, was published
+                    in London by Hilda Doolittle and Winifred Ellerman (Bryher). In 1925, already
+                    well known as one of the leading new poets, she became acting editor of The
+                    Dial, an influential American journal of literature and arts, and she remained
+                    with The Dial until it was discontinued in 1929. Moore's Collected Poems
+                    appeared in 1951. A disciplined craftsman, Moore won the admiration of fellow
+                    poets throughout her long career. The poet and critic T.S. Eliot called her one
+                    of the few producers of durable poetry in her time.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers and ephemera of Marianne Moore. Materials include:
+                    a vertical file of newspaper clippings and magazine extracts on poets, writers,
+                    artists, politicians, and sports figures along with a variety of other topics;
+                    inscribed presentation copies of poems, speeches, art exhibition catalogues, and
+                    plays; clippings of reviews and articles about Moore; greeting cards; an
+                    extensive collection of (unsent) postcards; awards and honors; calendars; audio
+                    recordings of readings by Moore and others; corrected proofs of a collection of
+                    poems; scrapbooks; announcements and programs for Moore's poetry readings;
+                    passports of Moore and her mother, Mary Warner Moore; and obituaries of Moore
+                    and notices of readings done after her death. The collection also includes a
+                    small number of letters from Marianne Moore to Rev. Philip Magee, Marilouise
+                    Dormus, and Eleanor Glenn Wallis. Wallis was a poet, and Moore's letters to her,
+                    written between 1937 and 1959, discuss her poems, some writings of Wallis's son,
+                    and other literary and poetic subjects.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Marianne Moore papers; University of Rochester, Special Collections: Marianne
+                    Moore: Letters to Hildegarde Watson (1933-1964).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

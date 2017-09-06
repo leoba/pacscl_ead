@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Chemical Heritage Foundation publication records <date type="inclusive">1989-1999</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Chemical Heritage Foundation publication
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1295</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1989-1999</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1982, the Center for the History of Chemistry (CHOC) was launched as a pilot
+                    project of the University of Pennsylvania and the American Chemical Society
+                    (ACS). In 1987 CHOC was incorporated as a not-for-profit organization, now named
+                    the National Foundation for the History of Chemistry, by joint action of the ACS
+                    and AIChE, the Center's third sponsor. In 1992 the Chemical Heritage Foundation
+                    (CHF) assumed its present name to better reflect the interdisciplinary nature of
+                    the sciences and industries it serves and the widening public scope of its
+                    activities. CHF publishes a variety of books and other materials for readers
+                    interested in the history of the chemical and molecular sciences and
+                    industries.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records relating to the publications of the Chemical
+                    Heritage Foundation. The materials fall into three broad categories: records of
+                    the Chemical Heritage newsmagazine, administrative files from the publications
+                    department, and records of the American Chemical Society/Chemical Heritage
+                    Foundation book series from the files of series editor of Jeffrey L. Sturchio.
+                    Chemical Heritage records include: notes on layout and design; drafts of
+                    articles, reviews, and announcements; correspondence with authors; letters to
+                    the editor; requests for review copies of books; background reference articles;
+                    research on images for articles; and planning documents for future issues of the
+                    magazine. Publications department files include: monthly reports and
+                    inventories; guides to archives and corporate histories; publication information
+                    on CHF brochures, catalogues, and books; requests for back issues of magazines
+                    and brochures; slide requests; research material for possible use in future
+                    publications; and general office administrative files. ACS/CHF book series
+                    records include: Advisory and Editorial Board meeting minutes; series marketing
+                    materials; correspondence regarding publication and marketing; rejected
+                    proposals, and accepted proposals including drafts and correspondence; and an
+                    annotated proof copy of an ACS-CHF book on Nobel Laureates.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: Chemical Heritage Foundation staff files (Ted Benfey); Chemical
+                    Heritage Foundation printed materials.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James A. Gittings papers <date type="inclusive">1961-1969</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James A. Gittings papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC843</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1961-1969</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Gittings was born in 1927 and graduated from Juniata College in 1949,
+                    having interrupted his education to serve in the army during World War II. He
+                    obtained a Master's degree in Journalism from Columbia Graduate School of
+                    Journalism and also did graduate work at Pittsburgh-Xenia Theological Seminary.
+                    Appointed in 1957 by the Board of Foreign Missions of the former United
+                    Presbyterian Church of North America to served as a journalist in East Asia, he
+                    wrote for Presbyterian Life, United Presbyterian curriculum publications,
+                    Kerygma Features, and a variety of other publications. Gittings was the editor
+                    of the quarterly An Asian Notebook and director of the Office of Overseas
+                    Publicity IBC-COC.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of James A. Gittings. Materials include: subject
+                    files, including typed drafts of articles; newspaper and magazine clippings;
+                    photographs; programs; and correspondence. Also included are scrapbooks of
+                    Gittings' articles and publications (1964-1968) and a 1967 photo album of Japan,
+                    including photographs of religious services, street scenes, and individuals. In
+                    addition there is a book-length typed draft of "UP is an enemy" by Gittings
+                    (possibly unpublished).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 68 0288</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

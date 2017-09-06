@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Lesbian and Gay Task Force records <date type="inclusive">1978-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Lesbian and Gay Task Force records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2078</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>167 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1978-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Lesbian and Gay Task Force was a human rights advocacy
+                    organization focused on law, public policy, and the development of public
+                    education and mass media. Founded in 1978, the Task Force supported the rights
+                    of all oppressed minorities, with a particular focus on the civil and human
+                    rights of gay men and lesbian women and transgendered and/or bisexual people.
+                </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Philadelphia Lesbian and Gay Task Force.
+                    Materials include: incoming and outgoing correspondence; minutes, agendas, and
+                    planning documents of the board; financial records; policy and program
+                    recommendations; surveys, studies, and reports; speeches; various publications
+                    by the PLGTF, including the Bulletin (1980-1985); videos and audio cassettes of
+                    meetings and radio and television productions; legal briefings and court
+                    transcripts; and ephemera. The collection also documents PLGTF’s participation
+                    in the petition to deny license renewal applications of Philadelphia commercial
+                    and non-commercial radio and television stations (1989-1994).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Socialist Review records <date type="inclusive">1968-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Socialist Review records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2086</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>74.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1968-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Socialist Review is a left-wing political and cultural journal. It began
+                    publication in January 1970 as Socialist Revolution, led by New Left historian
+                    James Weinstein and edited by the collective Agenda Publishing Company in San
+                    Francisco. In 1977 the California collective merged with collectives in Boston
+                    and New York and the name of the periodical changed to Socialist Review. During
+                    this time editorial duties passed to David Plotke of Yale and Jeffrey Escoffier.
+                    Over time Nancy Chodorow, author of The Reproduction of Mothering and Howard
+                    Winant, co-author of Racial Formation in the United States, participated in the
+                    collective. In 2002 the journal's name was changed again, to Radical Society: A
+                    Review of Culture and Politics.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The archives of this 1970s leftist periodical includes correspondence,
+                    interviews, financial records, article drafts, newspaper clippings, and
+                    photographs. The materials represent both the Socialist Review and its
+                    predecessor, Socialist Revolution. The collection includes a detailed index of
+                    Numbers 1-96 and contributors, as well as unpublished manuscripts. The published
+                    manuscripts document issues such as feminism, gay rights, American labor laws
+                    and legislation, environmental protection, nuclear disarmament, socialism in the
+                    United States and France, and women's rights. The prominent correspondents
+                    include Nancy Chodorow, Noam Chomsky, Michel Foucault, Karl E. Klare, David
+                    Plotke, Albert Szymanski, James Weinstein, and Eli Zaretsky. There are also
+                    meeting minutes that note the editorial board's discussions of politics,
+                    strategy for the journal, and editorial decisions; financial documentation
+                    including budgets, grant proposals and reports, fundraising, insurance and tax
+                    information, and cash receipts and disbursements; copies of Socialist Revolution
+                    and Socialist Review (complete from vol. 1 #1, 1970, to vol. 19, # 3, 1989); and
+                    illustrations, and ad copy.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

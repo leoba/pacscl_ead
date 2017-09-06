@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Edward D. Fingerhood papers <date type="inclusive">1975-1998</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Edward D. Fingerhood papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC009</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.9 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1998</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edward Fingerhood (1937-1998) was an amateur ornithologist and philatelist. He
+                    served as vice president of the Valley Forge Audubon Society and a councillor of
+                    the Delaware Valley Ornithological Club. He was also a wildlife technician with
+                    the Pennsylvania Game Commission, monitoring the peregrine falcon population in
+                    the Philadelphia area.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the birding records and notes of Edward Fingerhood.
+                    Materials include: bird checklists, notes on and photocopies of general
+                    ornithological works and on specific topics, such as the sense of smell in
+                    vultures; a manuscript by Fingerhood of "Memorandum on the Chukar in
+                    Pennsylvania"; Fingerhood's annotations to the "Field List of the Birds of the
+                    Delaware Valley Region" by Brady, Bell, and Lipschutz; logs of peregrine and
+                    osprey sightings; bibliographic notes and lists; a card file of bird sightings
+                    by species; audio tapes of birdcalls from a variety of sources; and a small
+                    number of snapshots of birds.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 00:03</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>315th Infantry Association records <date type="inclusive">1920-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">315th Infantry Association records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC664</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1920-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The 315th Infantry Association was founded in 1920 by veterans of the 315th
+                    Infantry Regiment who served in France during World War I. The 315th, which was
+                    part of the 79th Division during World War I, consisted mostly of men from the
+                    Philadelphia area and was known as "Philadelphia's own."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the 315th Infantry Association.
+                    Materials include: minutes, 1920-1983; financial records; charter;
+                    correspondence; member and burial lists; association newsletters and other
+                    periodicals; and photos, clippings, pamphlets, and invitations. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">315th Infantry Association.</corpname>
+                <corpname encodinganalog="610">United States--Army--Infantry Regiment,
+                    315th.</corpname>
+                <subject encodinganalog="650">Fraternal
+                    organizations--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Retired military personnel--Periodicals.</subject>
+                <subject encodinganalog="650">World War, 1914-1918--Regimental histories--United
+                    States--Infantry--315th.</subject>
+                <subject encodinganalog="650">World War,
+                    1914-1918--Veterans--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">World War, 1914-1918--Veterans--United
+                    States.</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2005.098</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

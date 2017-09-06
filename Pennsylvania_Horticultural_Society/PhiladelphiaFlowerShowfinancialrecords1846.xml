@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphia Flower Show financial records <date type="inclusive">1926-1995</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphia Flower Show financial records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1846</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1995</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Philadelphia Flower Show, currently the world's largest indoor flower
+                    exhibition, was first held in 1829 in Masonic Hall on Chestnut Street. From 1927
+                    until the mid 1960s, management of the Flower Show was under the auspices of
+                    Philadelphia Flower Show, Inc., a professional group of nurserymen and growers.
+                    In 1964, Philadelphia Flower Show, Inc., because of difficulties locating an
+                    exhibition space, decided to halt production of the show for two years. The
+                    Pennsylvania Horticultural Society, under the direction of Ernesta D. Ballard,
+                    feeling that yearly continuity of the show was necessary, hosted the show in the
+                    23rd Street Armory. In 1968, the Pennsylvania Horticultural Society became the
+                    Flower Show's official producer.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of the financial records of the Philadelphia Flower
+                    Show, primarily from the period between 1927 and 1964 when the show was run by
+                    Philadelphia Flower Show, Inc. Materials include: five ledgers of Philadelphia
+                    Flower Show expenditures, arranged by type of expense, for the 1927-1936 and
+                    1953-1955 shows; two ledgers of Philadelphia Flower Show expenditures,
+                    chronologically arranged for the 1927-1934 shows (one of these volumes also
+                    includes information on prizes and space offered to vendors); one ledger of
+                    Philadelphia Flower Show, Inc., expenditures and income (1955-1983); one ledger
+                    of cash receipts and cash disbursements for Philadelphia Flower Show, Inc.
+                    (1965-1995); one ledger of Philadelphia Flower Show, Inc. investments
+                    (1939-1995) and auditor's reports to the board of directors of Philadelphia
+                    Flower Show, Inc. from 1931 to 1977.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Pennsylvania Horticultural Society.</corpname>
+                <subject encodinganalog="650">Flower shows--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Business records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Pennsylvania
+                    Horticultural Society: Philadelphia Flower Show minute books.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

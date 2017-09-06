@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith family papers <date type="inclusive">1678-1937</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1705</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>19 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1678-1937</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Section A (14 volumes and one box w/unpublished calendar for 12 of the vols.):
+                    John Smith, a member of a Quaker family of Burlington, New Jersey, came to
+                    Philadelphia in 1743 where he soon became a successful merchant in trade with
+                    the West Indies and London. During his residence in the city, he was active in
+                    civic affairs and served in the Pennsylvania Assembly, 1750-1752. In 1756 he
+                    retired to the family residence in Burlington. John Jay Smith, grandson of John
+                    Smith, first entered into business in 1818 with Solomon Temple as a wholesale
+                    drug merchant. The partnership ended in 1821, and after some further small
+                    efforts in commercial ventures, Smith's principal activity was in the literary
+                    field. He published Pennsylvania Gazette, 1827-1829, edited Waldie's Circulating
+                    Library, 1832-1845, Horticulturist, 1855-1860, and a variety of other literary,
+                    historical, and horticultural periodicals and books. From 1829 to 1851, Smith
+                    was Librarian of the Library Company of Philadelphia. He was an organizer and
+                    treasurer of the Athenian Institute, a group which arranged a series of public
+                    lectures. In 1850, Smith led efforts to bring portions of the London Exposition
+                    of Art and Industry to the United States. He was a founder and promoter of
+                    Laurel Hill Cemetery through which he developed an interest in landscape
+                    gardening. John Jay's mother's family is also represented in the family papers,
+                    mostly in regard to the management of the Richard Hill estate property by son
+                    Henry Hill and son-in-laws Samuel Preston Moore. Henry also took over his
+                    father's wine and commission business in Madeira which he carried on with his
+                    other brothers in-law Robert Bisset and Thomas Lamar. The earliest portion of
+                    these papers consists of sermons, epistles, testimonies, and other documents
+                    relating to the Society of Friends. Correspondence to John Smith in
+                    Philadelphia, primarily from his father Richard in Burlington, concerns both
+                    business and family matters. Later correspondence to John, after his return to
+                    Burlington, comes from Philadelphia Friends, William Logan chief among them,
+                    reporting on public and family affairs. There are Samuel Preston Moore and Henry
+                    Hill deeds, survey warrants, leases, releases, etc., including copies relating
+                    to the original William Penn land grants. Late 18th-century manuscripts are
+                    letters, bills, invoices, to Henry Hill concerning Hill, Lamar, &amp; Bisset's
+                    wine exportation from Madeira to America and London, as well as other mercantile
+                    and family business. The last section of the Smith family papers is
+                    correspondence to John Jay Smith, particularly from John Fanning Watson about
+                    historical matters; George Taylor on publishing the Pennsylvania Gazette; G. A.
+                    Shryock on paper manufacture; Dionysius Larnder on his U.S. lecture tour; A. J.
+                    Downing on horticulture, and miscellaneous correspondents concerning the London
+                    Exposition. Section B: John Smith manuscripts include accounts of personal
+                    business finances, 1743-77: wastebooks (4 v.), journal, ledgers (2 v.), invoice
+                    books--inward (2 v.); Smith's accounts with John Pole, 1763-71, and with Abel
+                    James, 1764; and other account books. John Smith's diaries, 1738-52, report
+                    primarily on meetings of the Friends, weather, and his social activities,
+                    particularly his courtship of Hannah Logan. Only occasional remarks on business
+                    and public affairs are made. Smith also made extensive notes of biographical and
+                    bibliographical information on Quaker ministers (2 v.). This section also
+                    includes Samuel Preston Moore's personal receipt books, 1758-81, as well as
+                    Pennsylvania provincial accounts, 1758-64, while he was serving as Provincial
+                    Treasurer. Henry Hill's account books, 1763-75 (2 v.), record mostly business
+                    transactions with Hill Lamar &amp; Bisset, while his receipt books, 1788-1802 (2
+                    v.) are mainly personal. There are College of Philadelphia accounts, 1789-91,
+                    Henry Hill, Treasurer. Deeds, leases, releases, powers of attorney and other
+                    documents relate to family property, mostly in Philadelphia and Bucks Counties.
+                    Section C: The bulk of this group of papers are of 19th century Smiths. John Jay
+                    Smith pays court to his future wife Rachel Pearsall in a series of letters,
+                    1820-21 (40 items); letters, 1850-51 (150 items), to him concern the efforts to
+                    bring the London exposition to Philadelphia or New York. There is some incoming
+                    correspondence on miscellaneous subjects. Horace John Smith, John Jay's son, was
+                    a man with occasional careers. During the Civil War, he was a member of the U.S.
+                    Christian Commission. He was a partner in a China business through the 1860's
+                    and in the following decade he was a general manager and treasurer of West
+                    Laurel Hill Cemetery. Much of his time was spent traveling in the American West
+                    and Europe. In his later years he and his wife settled in England. His papers
+                    are highly miscellaneous and only touch on his various activities. They include:
+                    letters to his wife Margaret Longstreth Smith giving some information on his
+                    work with the Christian Commission; incoming correspondence; personal and
+                    business accounts, especially for West Laurel Hill Cemetery; memoranda;
+                    scrapbooks. Among other family manuscripts are John Smith commonplace books (3
+                    v.); Hannah Smith diary, 1775-76, chronicling activities of NJ Society of
+                    Friends; letters of various family members touring Europe at various times;
+                    Elizabeth P. Smith notes and lessons for her Bible class, 1871-81; scattered
+                    letters of Logans and Pearsalls; poetry albums; and memorabilia.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Section A: Gift of Elizabeth P. Smith, Robert P. Smith, Horace J.
+                    Smith, and Lloyd P. Smith (1882). Section B: Gif of Elizabeth Pearsall Smith
+                    (n.d.). Section C: Gift of Arnold C. Satterthwaite (1945)</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

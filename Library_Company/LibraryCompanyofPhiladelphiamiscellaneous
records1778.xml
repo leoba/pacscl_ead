@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Company of Philadelphia miscellaneous records <date type="inclusive">1901-2006</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Company of Philadelphia miscellaneous
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1778</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-2006</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Library Company of Philadelphia is an independent research library
+                    concentrating on American society and culture from the 17th through 19th
+                    centuries. It was founded in 1731 by Benjamin Franklin as a subscription library
+                    supported by its shareholders, as it is to this day. Free and open to the
+                    public, the Library Company houses an extensive non-circulating collection of
+                    rare books, manuscripts, broadsides, ephemera, and works of art. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of miscellaneous materials related to the Library Company of
+                    Philadelphia. Materials include: awards and citations, including House of
+                    Representatives Citation from 1981, proclamation of James Logan Day (Oct 20th,
+                    1974), and a membership certificate from the Huguenot Society of London (1901);
+                    broadside reproductions; scrapbooks compiled by Herbert Harley on: Button
+                    Gwinnett, Henry Hudson, and Governor Johann Printz; several first day issues of
+                    stamps; 1988 Library Company Christmas party photos; a Library Company cookbook;
+                    non-Library Company posters and oversize reproductions, including maps of
+                    Philadelphia and a calligraphic list of contributors to the Edwin Wolf Fund;
+                    humorous broadside "A Quart of Millennium"; Ben Wolf poem, 1988; gifts
+                    presented to John Van Horne on his 1986 visit to Italy; magazines and books
+                    containing references to Library Company materials, including Antiques Magazine,
+                    American Heritage, and National Geographic; books edited by Library Company
+                    staff; and Library Company seals. The collection also includes photographs, a
+                    silhouette, and a cartoon of Edwin Wolf. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

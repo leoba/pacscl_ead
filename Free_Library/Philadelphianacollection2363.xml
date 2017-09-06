@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Philadelphiana collection <date type="inclusive">1832-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Philadelphiana collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2363</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>32 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1832-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Among the exemplary collections of the Free Library of Philadelphia is the Print
+                    and Picture Collection. Spanning the graphic arts from 1493 to the present time,
+                    the Free Library's Fine Art Prints and Photographs collection includes thousands
+                    of images. Initially representing only Philadelphia artists, the collection has
+                    been extended to include early masters as well as renowned modern printmakers
+                    and photographers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection of Philadelphiana consists of some 20,000 prints, drawings,
+                    photographs, clippings, and other materials documenting the history of the city
+                    of Philadelphia from its founding to the present day. The collection has been
+                    supplemented over the years by gifts from citizens of the area including John
+                    Eckfeld (pictures of the Haddington area), Douglas Macfarlan (Fairmount Park and
+                    West Philadelphia), and Charles Mills (Falls of the Schuylkill). The collection
+                    also includes the largest collection of photographs documenting the 1876
+                    Centennial Exhibition in Fairmount Park: 1,300 silver albumen mounted prints
+                    made by the Centennial Photographic Company in sizes ranging from
+                    half-stereoviews to 17 x 21 inch photographs. Other major events documented in
+                    the collection include the Sesquicenntennial Exhibition of 1926 (24 volumes of
+                    photographs) and the Bicenntennial in 1976. Subjects represented in the
+                    collection include buildings (businesses, churches, residences, and public
+                    institutions), bridges, fire departments and equipment, forts, parks, streets,
+                    strikes, trade cards, and views.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://libwww.freelibrary.org/CenCol/index.htm">http://libwww.freelibrary.org/CenCol/index.htm</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

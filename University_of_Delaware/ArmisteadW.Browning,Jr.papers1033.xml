@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Armistead W. Browning, Jr. papers <date type="inclusive">1960-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Armistead W. Browning, Jr. papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1033</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>31.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1960-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Born in 1938, Armistead Willis Browning, Jr., was a landscape architect,
+                    environmentalist, and teacher who dedicated his life to environmental
+                    preservation and education, and to his career as a landscape designer. Mr.
+                    Browning was the founder of Turtle Creek Designs, a landscape design consulting
+                    firm in Pocopson, Pennsylvania. The firm did residential work and large-scale
+                    environmental studies. Browning worked extensively with the Brandywine
+                    Conservancy in Chadds Ford and Pocopson Township, producing landmark studies of
+                    the scenic, historical, and natural features of the Brandywine Valley Region.
+                    From 1977 until his death in 1987, Browning taught courses in landscape design
+                    and native plant horticulture at the University of Delaware. His weekly column,
+                    "Notes from Turtle Creek," appeared in The Kennett Paper. He was also an
+                    accomplished and prolific photographer of landscape and the natural world.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The Armistead W. Browning, Jr., papers consist of material dating from 1960-1987.
+                    The papers contain lecture notes on landscape architecture and design, Japanese
+                    gardens, native plants and meadows, ecological and environmental topics;
+                    material relating to his work with the Brandywine Valley Association and Turtle
+                    Creek; notebooks and field books; and copies of his newspaper column, "Notes
+                    from Turtle Creek." Also included are approximately 200 plans and drawings for
+                    many of his landscaping assignments, and approximately 9,700 slides of gardens,
+                    flora, and landscapes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 91-40; 91-38</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0635.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0635.xml</extref>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

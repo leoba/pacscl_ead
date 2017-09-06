@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lubin Film Company records <date type="inclusive">1881-1984</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Rare Book Department</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lubin Film Company records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2347</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Rare Book Department<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1881-1984</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Siegmund Lubin came from Germany to set up an optical shop in Philadelphia. He
+                    eventually designed improvements for cameras and projectors, and began to market
+                    his "Life Motion Pictures" in 1897. The Lubin Film Company became one of the
+                    most profitable of the new motion picture industry. In 1912 Lubin built a state
+                    of the art glassed in studio and factory at 20th and Indiana Streets. Lubin's
+                    logo and motto, "Clear As A Bell," referred to the superior quality of his
+                    motion picture images. The company went out of business in 1916.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the the Lubin Film Company.
+                    Materials include: copies of printed Lubin Film Company Bulletins, 1913-1916;
+                    bound and unbound catalogs of films from 1905 and 1909; and seven scrapbooks
+                    (1911-1916) of newspaper and magazine clippings, playbills, advertisements, and
+                    flyers related to Lubin. The collection contains numerous photographs and a few
+                    negatives. Items include: film stills (8 x 10 and 5 x 7 black and white),
+                    candids, and portraits; images of the studio (20th &amp; Indiana and Betzwood);
+                    group shots of cast members and crew; pictures of theaters owned by Lubin;
+                    several larger format photographs; and photos of Lubin and of his family. There
+                    are also a small number of glass lantern slides of titles, stills, and a series
+                    of lighting test images. Miscellaneous papers include: color lithograph flyers
+                    for Gods of Fate and The Great Divide; posters; clippings and articles about
+                    Lubin; a biographical sketch of Lubin by his daughter Emma Lubin Lowry; lists of
+                    films; and records related to research done on the collection. Artifacts in the
+                    collection include a 1905 projector, the hood ornament from Lubin's car, and a
+                    glass paperweight. The collection also includes film slides and negatives made
+                    by the Free Library.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

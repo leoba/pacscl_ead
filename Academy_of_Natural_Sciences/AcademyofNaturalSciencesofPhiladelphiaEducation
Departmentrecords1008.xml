@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Education Department
+                        records <date type="inclusive">1935-2004</date>
+                        <date type="bulk"> 1960s-1990s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Education
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1008</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>84 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-2004</unitdate>
+                <unitdate type="bulk"> 1960s-1990s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Academy of Natural Sciences of Philadelphia was founded in 1812 "for the
+                    encouragement and cultivation of the sciences, and the advancement of useful
+                    learning." The Education Department conducts field trips and workshops, creates
+                    teacher resources on natural history topics, and runs special programs for a
+                    variety of audiences. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Education Department of the Academy of
+                    Natural Sciences of Philadelphia. The bulk of the records in the collection date
+                    from the 1960s to the 1990s and include papers from the offices of James
+                    McGonigle, Nancy Peter, and Colleen North. Administrative records include:
+                    budgets, personnel and hiring records, attendance logs, phone logs, accident
+                    reports, internal correspondence, department annual reports, and minutes from
+                    various committees. Program and exhibit records include planning documents,
+                    publicity, lesson plans, schedules, student enrollment sheets and surveys,
+                    accessibility surveys, photographs of member trips, records of traveling
+                    exhibits, and slides of several programs. Programs and activities documented by
+                    the collection include WINS (Women in Natural Science), SEEC (Science Enrichment
+                    Expansion Curriculum), SEUS (Science Enrichment for Underserved Students), Earth
+                    Week, EcoShow on the Road, Action/Motivation, Potentials, Expeditions for
+                    Everyone, and the Ludwick Lecture series. A smaller selection of papers date
+                    from the 1930s to the 1950s; these include departmental annual reports,
+                    brochures and announcements, and exhibit information.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 90:10; 97:11; 97:12; 97:13; 97:14; 97:15; 98:03; 02:19;
+                    07:11</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

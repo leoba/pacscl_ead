@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia records related to
+                        Richard Lamborn estate <date type="inclusive">1885-1929</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia records related
+                    to Richard Lamborn estate</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1950</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1885-1929</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert Henry Lamborn (1835-1895) was a civil engineer, railroad magnate, realtor,
+                    and financier. He was also an amateur naturalist. His interest in the Academy
+                    dated from his childhood association with his uncle Jacob Peirce, who was once
+                    its librarian. He was a well-known beekeeper and later a member of the Academy.
+                    Lamborn willed his entire estate of more than a million dollars to the Academy
+                    to be used for biological and anthropological purposes. The inheritance being
+                    questioned by other heirs at law, a long legal battle ensued and eventually the
+                    bequest was evenly divided between the Academy and the relatives. The assets
+                    consisted, in part, of real property in various sections of the country, namely
+                    Colorado, Montana, Minnesota, Michigan, Wisconsin, and Pennsylvania. The lands
+                    were held for some years, gradually being sold and the income used for
+                    research.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers related to the estate of Robert Henry Lamborn.
+                    Papers include: correspondence between representatives of the Academy and realty
+                    companies, lawyers, and others (1885-1929); invoices and receipts for rent,
+                    maintenance on properties, and legal work; financial statements of the estate,
+                    tax statements, and bank statements; indentures, land grants, leases, and copies
+                    of wills; and blueprints, plans, and maps. This collection includes some
+                    correspondence of George Vaux, Treasurer of the Academy from 1894 to 1927.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Treasurer
+                    records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

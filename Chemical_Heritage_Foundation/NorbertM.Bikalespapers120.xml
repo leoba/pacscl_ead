@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Norbert M. Bikales papers <date type="inclusive">1971-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Norbert M. Bikales papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC120</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1971-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Norbert M. Bikales was the head of the Europe Office of the National Science
+                    Foundation (NSF) from 1995 to 1998. Prior to assuming this position he was
+                    Director of the NSF Polymers Program for 19 years. He had previously been
+                    Professor of Chemistry and Director of Continuing Education in the Sciences at
+                    Rutgers University. He served as chairman of the American Chemical Society's
+                    Polymer Division in 1983. For over 15 years, he was a member of the
+                    International Union of Pure and Applied Chemistry (IUPAC) Commission on
+                    Macromolecular Nomenclature, serving as the Commission Secretary from 1977 to
+                    1987.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of Bikales's service with the American
+                    Chemical Society Division of Polymer Chemistry and IUPAC, particularly the
+                    Commission on Macromolecular Nomenclature. Materials include: American Chemical
+                    Society administrative records and correspondence from the period preceding,
+                    during, and following Bikales's chairmanship of the Division of Polymer
+                    Chemistry; minutes of meetings and other administrative documents of the IUPAC
+                    Commission on Macromolecular Nomenclature; and files relating to the preparation
+                    of reports of the Commission on Macromolecular Nomenclature. The collection also
+                    includes records of the Working Party on Recycling of Polymers, of which Bikales
+                    was chairman from 1993 to 1997.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: N.B.</p>
+                <p>Accession number: 04:025</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William Harold Henderson papers <date type="inclusive">1955-1958</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William Harold Henderson papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC963</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1955-1958</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William H. Henderson (b. 1910) was secretary of the Division of Vocation of the
+                    Board of Christian Education of the United Presbyterian Church in the U.S.A.
+                    Prior to this appointment he was university pastor and director of the
+                    Westminster Foundation at Iowa State University. In 1957, Henderson received a
+                    fellowship for a year's study, observation, and participation in student work in
+                    Latin America, under joint sponsorship of the Association of Presbyterian
+                    University Pastors, the Board of Christian Education, and the Commission on
+                    Ecumenical Mission and Relations. He received a B.D. from Yale University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers and slides from Henderson's trip to Latin America
+                    in 1957-1958. Materials include: slides of schools, villages and cities, farms,
+                    and people; correspondence between Henderson and missionaries and staff of the
+                    Board of Christian Education related to visit planning; itineraries and agendas;
+                    reports from Henderson from each country; programs, bulletins from various
+                    churches, schools, and hospitals; and travel brochures, informational pamphlets,
+                    and maps. There are materials in Spanish, Portuguese, and other languages.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Henderson, William</p>
+                <p>Accession number: 89 0518a</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

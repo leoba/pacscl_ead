@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Physicians of Philadelphia Library records <date type="inclusive">1882-2005</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Physicians of Philadelphia Library
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC484</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>236 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1882-2005</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Established in 1788, the Library of the College of Physicians of Philadelphia was
+                    Philadelphia’s central medical library for over 150 years, serving its medical
+                    schools, hospitals, physicians and other health professionals. Today, it is an
+                    independent research library devoted to the history of medicine and serves
+                    hundreds of scholars, health professionals, students and popular writers each
+                    year. In addition to its rare books and nineteenth- and twentieth-century
+                    collections, the College Library is notable for its manuscripts and archives.
+                    Within this collection are the College’s own archives, the archives of other
+                    Philadelphia medical institutions, and letters, case books, and student
+                    notebooks that document the personal life and professional practice of doctors
+                    in the Philadelphia region and around the world. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents both the Public Services and Historical Collections
+                    functions of the Library of the College of Physicians of Philadelphia. The
+                    collection ranges in date from the late nineteenth to the twenty-first century
+                    and includes papers of several Librarians, Curators of Historical Collections,
+                    and other Library staff members, including Thomas A. Horrocks, Marjorie Smink,
+                    Christine Ruggere, Anthony A. Aguirre, Ellen Gatrell, Charles Greifenstein,
+                    Andrea Kenyon, and Sofie Sereda. Programs and College Sections documented in the
+                    collection include: PhillyHealthInfo.org, Consumer Health Information Network
+                    (CHINET), Community Health Information Center (CHIC), Medical Documentation
+                    Service (MDS), Mid-Eastern Regional Medical Library Service (MERMLS), the
+                    Strategic Core Planning Group, the Samuel Lewis Circle, and the Sections on Arts
+                    and Medicine and Public Health. Outside professional organizations and consortia
+                    documented in the collection include the Philadelphia Area Consortium of Special
+                    Collections Libraries (PACSCL), the Delaware Valley Archivists Group (DVAG), the
+                    Mid-Atlantic Regional Archives Conference (MARAC), the American Osler Society,
+                    and the Health Sciences Library Consortium, This collection includes extensive
+                    documentation of the administration of the College Library, including records of
+                    librarians and curators of historical collections and records of the Mid-Eastern
+                    Regional Medical Library Service (MERMLS). Administrative files date from 1882
+                    to 2000, and include: correspondence, meeting minutes and agendas, newsletters,
+                    financial records, budgets and planning documents, personnel records,
+                    correspondence, grant proposals and reports, subject and research files, and
+                    exhibit files. Also included among the administrative files are clippings and
+                    publicity information, conservation assessments, records of loans to other
+                    institutions, personnel files of MDS staff (1959-1989), records related to the
+                    Strategic Planning Core Group, records related to the Samuel Lewis Circle, floor
+                    plans of the library’s reading room and stacks, interlibrary loan reports,
+                    letterpress volumes of correspondence (1882-1932), binder’s books (1882-1895 and
+                    1920-1935), lists of information resources on consumer health and public health,
+                    audiocassettes of lectures and programs. MERMLS records date from 1962 to 1983
+                    and include: director’s files, publications, workshop materials, grant
+                    applications, annual reports, correspondence, and questionnaires. The collection
+                    also includes detailed documentation of library usage and holdings. These
+                    materials include circulation and call slips, circulation statistics, OCLC
+                    statistics, correspondence about reference requests, photo requests, document
+                    delivery statistics, online searches, patron surveys, acquisitions, records of
+                    gifts, information on duplicate books, a 1930 inventory of archives in the
+                    vault, lists of materials in offsite storage, inventories of the Radbill book
+                    collection, an inventory of incunabula, library policies and procedures, MDS
+                    data input forms, and appointment books from Public Services, 2003-2005.
+                    Documentation of specific programs involving the Library’s Public Services
+                    division include records of CHINET: budgets, minutes, information packets,
+                    correspondence, and reports, 1983-1985; records of Philly Health Info such as
+                    correspondence, reports, statistics, surveys, evaluations, printed materials,
+                    training manuals, and banners, 2002-2005; and records of CHIC: catalogs of
+                    journal held by CPP, reference correspondence, usage statistics, and reports.
+                    Documentation of publication projects involving the Library include: catalog
+                    entries for the manuscript guide, 1953-1982; proofs of the Portrait Catalog;
+                    articles and notes related to Fugitive Leaves; and printed brochures and
+                    catalogues.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1989-21; 1989-22; 1989-23; 1989-33; 1989-55; 1989-68; 1989-121;
+                    1989-114; 1990-013; 1990-069; 1992-085; 1992-095; 1992-107; 1996-035; 1997-005;
+                    1997-023; 1997-025; 1997-026; 1997-027-01; 1997-027-02; 1997-032; 1998-012;
+                    1999-002; 2002-010; 2003-006; 1989-56; 1989-77; 1989-117</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

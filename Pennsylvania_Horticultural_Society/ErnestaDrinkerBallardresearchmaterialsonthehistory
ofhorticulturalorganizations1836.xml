@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Ernesta Drinker Ballard research materials on the history of
+                        horticultural organizations <date type="inclusive">1975-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Pennsylvania Horticultural Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Ernesta Drinker Ballard research materials on the history
+                    of horticultural organizations</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1836</unitid>
+                <repository label="Repository">Pennsylvania Horticultural Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1975-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Ernesta Drinker Ballard (1920-2005) was a founding member of the National
+                    Organization for Women and a horticulturist. Ballard closed a successful
+                    horticultural business in 1964 to head up the Pennsylvania Horticultural Society
+                    and supervise its annual extravaganza, the Philadelphia Flower Show. She
+                    expanded the flower show from a staff of four to more than 100 employees. She
+                    retired in 1981. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of research materials compiled by Ernesta Drinker Ballard
+                    while writing a paper titled "The Organizations of Horticulture" for a 1976
+                    symposium. Materials include printed materials from horticultural organizations,
+                    photocopies from books and printed materials on horticultural organizations and
+                    other horticultural topics, responses to questionnaires and surveys sent by
+                    Ballard and Carol Lynch to various organizations, and drafts of the paper.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Horticulture--Societies, etc.</subject>
+                <genreform encodinganalog="655">Research notes.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

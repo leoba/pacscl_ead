@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Union League of Philadelphia Committee on Youth Work and Abraham
+                        Lincoln Foundation records <date type="inclusive">1946-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Union League of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Union League of Philadelphia Committee on Youth Work and
+                    Abraham Lincoln Foundation records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TULSp.ACC2321</unitid>
+                <repository label="Repository">The Union League of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>20.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1946-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Union League of Philadelphia was founded in 1862 as a patriotic society to
+                    support the policies of President Abraham Lincoln. It evolved to its current
+                    identity as a non-sectarian and non-partisan private club. The Committee on Boys
+                    Work was established in 1946, holding its first dinner in 1947 to award Good
+                    Citizenship medals and certificates to boys, base don recommendations by various
+                    charitable agencies. Annual dinners were attended by sports figures,
+                    entertainers, and public figures. Winners of the Good Citizenship awards were
+                    eligible for scholarships awarded by the Scholarship Committee. established in
+                    1955. In 1971 a non-profit foundation, Boys Work Foundation, was created to
+                    raise money for the Scholarship Fund and to make grants to agencies engaged in
+                    youth programs. The trustees were appointed by the Union League President and
+                    were responsible for accepting contributions and investing funds temporarily,
+                    without the intention to establish endowments. In 1986 the names were changed to
+                    Committee on Youth Work and Youth Work Foundation in order to include girls as
+                    candidates. The Abraham Lincoln Foundation was established in 1995 as a
+                    non-profit organization "to maintain and exhibit the Corporation's collections
+                    of artwork, Civil War and other books, and other articles of historical
+                    importance, to maintain parts of the Union League Building...and to educate
+                    students and others in the subjects of art, history and music and other
+                    topics."</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Committee on Youth Work files, 1946-1992, include solicitations, invitations,
+                    programs, and other printed material, with some minutes, correspondence,
+                    financial and other working files reflecting the different subcommittees:
+                    activities, dinner arrangements, door prizes, photographs, membership support,
+                    letters and notices, agency coordination, special guests, public relations,
+                    speaker, and executive committee. There are also award recipient information
+                    cards, 1948-1961, 1973, and 1980-1981, including (variously) name, address,
+                    birth date, school, and sponsoring agency. Foundation files, 1971-1989, include
+                    agency applications, acknowledgments, and other correspondence, member
+                    appointments, minutes, and financial reports. There are three scrapbooks
+                    (1978-1980) documenting the Committee on Boys' Work Annual Good Citizenship
+                    Awards. The scrap books include printed materials including form letters.
+                    invitations and programs etc. Scholarship Fund Committee/Foundation files,
+                    1956-1965, include applications of unsuccessful candidates and correspondence
+                    with applicants and others regarding awarding of scholarships. Applications
+                    include photograph, name and occupation of parent, family income, home value and
+                    mortgage, certificate of agency head, remarks of parent or guardian, certificate
+                    of principal or head master, school record and SAT scores. There are also some
+                    miscellaneous minutes and other materials. Abraham Lincoln Foundation records
+                    include: Trustee, Executive Committee, and Collections Committee minutes,
+                    1997-present; proposal for stewardship of Civil War Museum and Library,
+                    1999-2000; material relating to performance of "While Lincoln Lay Dying,"
+                    2000, based on James Tanner manuscript.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

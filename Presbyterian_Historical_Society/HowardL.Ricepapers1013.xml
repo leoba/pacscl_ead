@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Howard L. Rice papers <date type="inclusive">1979-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Howard L. Rice papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1013</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.0 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1979-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Howard L. Rice (b. 1931) was a professor at San Francisco Theological Seminary.
+                    In 1979 he was elected Moderator of the 191st General Assembly of the United
+                    Presbyterian Church in the U.S.A.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Howard L. Rice from his term as Moderator of
+                    the General Assembly, 1979-1980. Materials include: incoming and outgoing
+                    correspondence; travel and meeting agendas; Rice's sermons; General Assembly
+                    position papers; expense accounts; a small number of personnel records, such as
+                    correspondence and timecards; newspaper clippings; press releases; and
+                    newsletters. Topics of correspondence include: visits and meetings; seminaries;
+                    SALT II; prayer retreats; as well as issues of the disabled in the Church,
+                    abortion, refugees, boycotts, and the death penalty. The collection also
+                    includes several published books and pamphlets on the history of various
+                    Presbyterian churches and a guest book from a reception for Rice in Peoria,
+                    Illinois.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 91 0402a|92 0812|08 0403</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

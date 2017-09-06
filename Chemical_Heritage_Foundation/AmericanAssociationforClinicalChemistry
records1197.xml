@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Association for Clinical Chemistry records <date type="inclusive">1948-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Association for Clinical Chemistry
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1197</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>7.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Association for Clinical Chemistry (AACC) is an international
+                    scientific/medical society of clinical laboratory professionals, physicians,
+                    research scientists and other individuals involved with clinical chemistry and
+                    clinical laboratory science disciplines. Founded in 1948, the society has 9,500
+                    members and is headquartered in Washington, DC. AACC is subdivided
+                    geographically into 22 local sections. Samuel Meites (b. 1921) was Professor of
+                    Pediatrics at the Ohio State University College of Medicine and head of Clinical
+                    Chemistry at Children's Hospital of Columbus, Ohio. He was the chair of the
+                    History Division of the American Association for Clinical Chemistry (AACC). In
+                    1989, his biography of Otto Folin was published by the AACC. Walter J. Frajola
+                    was Professor Emeritus in the Department of Physiological Chemistry at Ohio
+                    State University. Frajola was a member of the Ohio Valley Section of the AACC
+                    and was chairman of the AACC Endowment Fund for Research in Clinical Chemistry.
+                    Wendell T. Caraway (1920-2001) was a Clinical Biochemist at McLaren General and
+                    St. Joseph Hospitals in Flint, Michigan. He served as AACC president in 1965-66
+                    and supported the Caraway Endowment Fund which is used by the History Division
+                    to support its activities related to the history of the field.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes AACC materials compiled by several individuals. The
+                    Walter Frajola materials consist of records of the AACC Endowment Fund for
+                    Research in Clinical Chemistry (1977-1995), including: incoming and outgoing
+                    correspondence (1979-1989); minutes and records of fundraising committee
+                    activities; some records from the Van Slyke Society, AACC's philanthropic
+                    branch; records of contributions; and other administrative documents. The
+                    Wendell Caraway materials consist of photocopies of Executive Committee minutes
+                    (1948-1958) and copies and a few originals of AACC's newsletter, the Clinical
+                    Chemist (1949-1954). The Samuel Meites materials include: correspondence,
+                    minutes, newsletters, financial reports, and by-laws from the AACC Division of
+                    the History of Clinical Chemistry (1990-1998); AACC meeting programs
+                    (1980-2001); records from the Folin/Van Slyke postage stamp campaign;
+                    photographs, negatives, and proofsheets for Meites's biography of Otto Folin;
+                    correspondence and minutes from the Committee on Pediatric Clinical Chemistry;
+                    and other miscellaneous AACC records.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Dr. Wendell T. Caraway (accession 1); Dr. Sam Meites (accessions 2);
+                    Dr. Walter J. Frajola (accession 3)</p>
+                <p>Accession number: 98:15;01:07;02:02</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Chemical Heritage
+                    Foundation: American Association for Clinical Chemistry Standards Committee
+                    records (01:40); Samuel Meites papers (01:02); Raymond E. Vanderlinde papers
+                    (00:31).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

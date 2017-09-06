@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Witmer Stone papers <date type="inclusive">1869-1939</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Witmer Stone papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1907</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1869-1939</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Naturalist, botanist, zoologist, editor and historian, Witmer Stone came to the
+                    Academy of Natural Sciences in 1888 just after graduating from the University of
+                    Pennsylvania. His first connection with the Academy was as a Jessup Student, but
+                    his long association lasted more than fifty years and while at the Academy he
+                    was concerned with scientific observations and administrative work. As an
+                    executive he was Assistant Curator, 1891-1908, Curator, 1908-1924, Director,
+                    1924-1928, and Director, 1929 on. However, from 1927 to the date of his death he
+                    was also a vice president of the Academy. His writings concern birds, mammals,
+                    reptiles, plants, butterflies and land mollusks in the scientific field, and
+                    historical notes and biographies of scientists in the field of humanities. He
+                    was acutely interested in people and the organization of groups for study and
+                    discussion. As a boy he and his brother Frederick with their neighbors Amos and
+                    Stewardson and other Brown brothers organized a group called the Wilson Natural
+                    Science Association. This met weekly in the Stone home and was concerned with an
+                    attempt to study all the plants, animals and minerals in the vicinity of their
+                    Germantown residences. Later, he helped to organize the Delaware Valley
+                    Ornithological Club, the Philadelphia Botanical Society and the Pennsylvania
+                    Audubon Club. He was also very active in the American Ornithologists' Union and
+                    the American Society of Mammalogists.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Witmer Stone. Materials include: notes,
+                    bibliographic references, and handwritten and typed manuscript pages for Stone's
+                    history of ornithology and for his biographical articles for the Dictionary of
+                    American Biography; photographs of the Stone family and copies of photographs
+                    from the Academy's 1890 expedition to Mexico and the Yucatan; Stone's diary from
+                    the 1890 expedition, which include pen and ink drawings, maps, photographs, and
+                    clippings; a handwritten account of an 1889 expedition to York Furnace, PA,
+                    compiled by Stone and other expedition members, which includes photographs and
+                    drawings; several books of Stone's drawings in pen, pencil, and watercolor, on
+                    various animals and plants; proceedings of the Wilson Natural Science
+                    Association of Germantown, which include essays written by members; a volume of
+                    testimonial letters to Stone; and awards and certificates.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Witmer Stone correspondence (collections 450 and 752),
+                    Witmer Stone writings (collection 72), and Witmer Stone biographical papers
+                    (collection 263).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

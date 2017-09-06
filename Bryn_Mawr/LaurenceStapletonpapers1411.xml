@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Laurence Stapleton papers <date type="inclusive">1933-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Laurence Stapleton papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1411</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>K. Laurence Stapleton (1911-1998) was the chair of the English department at Bryn
+                    Mawr College from 1954 to 1965. She received her bachelor's degree from Smith
+                    College in 1932. She studied at the University of London and came to Bryn Mawr
+                    as an Instructor of English in 1934. In addition to her service in the English
+                    department, she was the acting chair of the Political Science department from
+                    1949 to 1951. She retired in 1980. She was the author of Design of Democracy,
+                    and Marianne Moore, the Poet's Advance.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of K. Laurence Stapleton. Included are Stapleton's
+                    files from Bryn Mawr's English department, such as sample exams for English
+                    courses (1950s-1960s); correspondence with applicants for positions at the
+                    college; class lists and grades; and student poems. The collection also includes
+                    manuscripts of Stapleton's writings, including The Citizen and the Community;
+                    correspondence with publishers; and research notes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

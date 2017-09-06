@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>George J. Hermann daybooks and diaries <date type="inclusive">1892-1898</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">George J. Hermann daybooks and diaries</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC611</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1892-1898</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Dr. George Joseph Hermann Sr. (1873-1933) was born in Newport, Kentucky. He
+                    graduated from the Medical College of Ohio in 1891 and began his practice in
+                    Newport in 1895. He purchased the first fluoroscopic x-ray machine in Northern
+                    Kentucky in 1914. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The first volume includes lecture notes from courses at Medical College of Ohio,
+                    beginning in 1892, and several pages of prescriptions for ointments, medicines,
+                    and other concoctions. The remainder of the volume contains diary entries about
+                    Hermann's professional and personal activities. The second volume is a diary and
+                    register, 1897-1898. Diary entries discuss patients and their treatments. The
+                    register portion of this volume lists patients, the date of their visit, their
+                    diagnoses, and information about payments for services.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of George A. Hermann (grandson of subject)</p>
+                <p>Accession number: 2001-004</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

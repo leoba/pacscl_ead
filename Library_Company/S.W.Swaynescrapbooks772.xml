@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>S.W. Swayne scrapbooks <date type="inclusive">1875-1892</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">S.W. Swayne scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC772</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1875-1892</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Swaynes were a Quaker family who lived in London Grove and Kennett,
+                    Pennsylvania. Evan Thomas Swayne (1824-1929) was the son of Benjamin and Sarah
+                    Swayne. He was married to Sarah Wayne Pusey, daughter of Jacob and Hannah
+                    (Mendenhall) Pusey of Wilmington, Delaware. The couple had four children:
+                    Edward, Laura Pusey, Anna Belle, and Charles Sumner. Evan T. Swayne was a school
+                    teacher in Octoraro, Birmingham, and London Grove. The family moved to Kennett
+                    in 1865, where Swayne took charge of a girl's boarding school, the Eaton
+                    Institute. After the school had been discontinued, the family continued to live
+                    in Kennett, and he was Clerk of Western Quarterly Meeting, Assistant Clerk of
+                    Philadelphia Yearly Meeting, and President of the Board of Managers of Martin
+                    Academy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of scrapbooks of newspaper clippings kept by S. W. Swayne
+                    [possibly Sarah W. Swayne]. Many of the clippings are obituaries of prominent
+                    Americans, poets, and family members. Subjects include John Greenleaf Whittier,
+                    Alfred Lord Tennyson, and Bayard Taylor. Other topics include travel and
+                    Lincoln's assassination. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 3318.F, 3319.F</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Swarthmore, Friends
+                    Historical Library: Norman Walton Swayne Family Papers, 1733-1987</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

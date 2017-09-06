@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Hope Emily Allen collection <date type="inclusive">1928-1954</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Hope Emily Allen collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC402</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1928-1954</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Hope Emily Allen (1883-1960), noteworthy medieval scholar, is best known for her
+                    research on the 14th century English mystic Richard Rolle and for her discovery
+                    of the Book of Margery Kempe. Allen received her bachelor's and master's degrees
+                    from Bryn Mawr College. She later did graduate work at Radcliffe and Cambridge.
+                    Allen described herself as an "independent scholar," and she never accepted an
+                    academic teaching appointment. Her writing falls into three overlapping groups:
+                    her early work on the Ancrene Riwle, her insight into the study of Richard
+                    Rolle, and her research on the cultural background of the Book of Margery
+                    Kempe.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of microfilm, photostats, and other materials related to
+                    Allen's research. There are microfilm copies of Medieval manuscripts in British
+                    and European libraries and of modern serials, as well as photostats of Medieval
+                    manuscripts. Works and authors represented in the collection include the Ancrene
+                    Riwle, Orcherd of Syon, St. Bridget, Richard Rolle, and Blessed Mechtild. The
+                    collection also includes a small amount of Allen's correspondence related to the
+                    progress of her research in Europe and acquisition of materials, and receipts
+                    for transcription and copying services.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 171</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Bryn Mawr College:
+                    Hope Emily Allen papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Loganian Collection <date type="inclusive">1640-1770</date>
+                        <date type="bulk"> 1767-1769</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Library Company of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Loganian Collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">LCoSp.ACC1631</unitid>
+                <repository label="Repository">Library Company of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>8 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1640-1770</unitdate>
+                <unitdate type="bulk"> 1767-1769</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Most of the volumes in this collection are the notes of William Logan Jr. from
+                    lectures on medicine and philosophy during his study in Edinburgh in 1769.
+                    Medical journals include notes of Barton's "Materia medica," Black's
+                    "Chemistry," William Cullen's lectures on physiology, Alexander Monro's
+                    lectures on anatomy and Thomas Young's lectures on midwifery. Other medical
+                    journals include a "History of Fevers," and Logan's notes on infirmary
+                    clinical cases in which he details the symptoms and treatments of specific
+                    individuals. Philosophical journals include "A Course of Lectures on Rhetoric
+                    and Belles Lettres," two manuscript volumes of a five-volume series, written by
+                    Hugh Blair, first regius professor of rhetoric and belles lettres at Edinburgh.
+                    Transcribed in Latin are Logan's philosophical journals of "Commentarius in
+                    Aristotelis Philosophiam" and "Commentarius in Aristotelis Physicam." Also
+                    included is one volume belonging to the elder William Logan, M.D. of Bristol,
+                    England (d. 1757). Although the spine title reads "de Fermentation," the
+                    volume contains notes in Latin on animal locomotion, fevers and their effects as
+                    well as extensive student notes on the foundation of logic and natural
+                    philosophy. Begun in 1707, the journal is continued by Logan in English with
+                    patient case histories, 1713-14. Other volumes include "An Ironical Panegyrick
+                    on Drunkenness," n.d., Speeches in the House of Commons, 1640, and a
+                    Biographical Memoir of Arnold of Brescia, Rienzi, Savonaroloa, Ximenes, and Fra
+                    Paolo, n.d.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Loganian Library</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

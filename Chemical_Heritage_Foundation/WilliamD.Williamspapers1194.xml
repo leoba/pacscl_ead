@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William D. Williams papers <date type="inclusive">1880-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William D. Williams papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC1194</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1880-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Donald Williams was a professor of Chemistry at Harding University from
+                    1954 to 1993. He is the author of many articles on chemical history and
+                    biography, and wrote the "Old Chemistries" articles in the Bulletin for the
+                    History of Chemistry. He and Wyndam Davies Miles together assembled a collection
+                    of books, which they gave to Harding University in Searcy, Arkansas.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of additional materials ("duplicates and discards")
+                    from the Miles-Williams collection at Harding University; they were donated to
+                    the Chemical Heritage Foundation in 1998. The collection consists mainly of
+                    reprints of articles on a wide range of topics related to the history of
+                    science, primarily chemistry, and individual scientists. A number of the
+                    articles were written by Miles. There are a number of reprints pertaining to
+                    Western and East Asian alchemy. There are also a number of chemical society
+                    membership lists, programs, and histories and chemistry magazines. The
+                    collection also contains non-published items, including: a World War I-era
+                    notebook from the Chemical Corps; a binder of typed and manuscript letters;
+                    loose letters and receipts from chemical, pharmaceutical, and apparatus
+                    manufacturing companies and university professors; correspondence related to
+                    public lectures given by Miles; and some correspondence between Miles and
+                    WIlliams about items in the collection; and correspondence between Wyndham Miles
+                    and Denis Duveen, a chemist, chemical historian, and noted collector of books on
+                    alchemy and early chemistry.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of W.D.W.</p>
+                <p>Accession number: 98:09</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

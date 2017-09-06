@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John Orner papers <date type="inclusive">1896-1978</date>
+                        <date type="bulk"> 1920-1965</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John Orner papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC535</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.45 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1896-1978</unitdate>
+                <unitdate type="bulk"> 1920-1965</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Sun Shipbuilding and Dry Dock Company was incorporated in May 23, 1916, as a
+                    tanker-building subsidiary of the Sun Oil Company. Soon after its founding it
+                    began building ships for other companies. During World War II, the National
+                    Defense Program helped make the Sun shipyard one of the world's biggest
+                    producers of oil tankers. The company launched its final ship in 1980. John
+                    Orner, Sr. (1905-1983), was a Sun Ship machinist. Orner worked for Sun from
+                    circa 1931-1970.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Sun Shipbuilding Company. Materials
+                    include: files on hulls 451-628 (not complete), with records related to trial
+                    trips, trial materials, and work lists; records of repairs made to SS
+                    Antonietta, SS E.J Henry, MS Bidwell and others, 1941-1965; technical drawings
+                    and Sunship technical information; instruction and service manuals for engine,
+                    hydraulic, propulsion, and refrigeration equipment; and books related to marine
+                    engineering and equipment. John Orner's personal employment files include: work
+                    schedules; weekly and monthly time books (1937-1947); premium cards (1931-1941);
+                    yearly wage cards (1931-1941); union dues receipts and records (1933-1935);
+                    union booklets and pamphlets (1941-1953); other work forms and records; memos
+                    from Sun and from union to employees (1936-1958); employee handbooks; and
+                    clippings about Sun Shipbuilding and Glomar Exporer. The collection also
+                    includes drawings from Chester Shipbuilding Co. Ltd. (later named Merchant
+                    Shipbuilding Corp.), Chester, Pennsylvania, including ship fittings and engine
+                    and fire room details; and an Engineer's Outfit and Spare Part List for contract
+                    387 (Philadelphia Fire Boat J. Hampton Moore). In oversize files: Separation
+                    notices, shop newsletters, notice on working hours, and flyers</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Sun Shipbuilding &amp; Dry Dock Company.</corpname>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <subject encodinganalog="650">Shipbuilding--Pennsylvania--Chester.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1994.33</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

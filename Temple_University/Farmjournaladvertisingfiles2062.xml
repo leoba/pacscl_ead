@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Farm journal advertising files <date type="inclusive">1937-1976</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Farm journal advertising files</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2062</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>128 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1937-1976</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Philadelphia-based Farm Journal was established in 1877 by Wilmer Atkinson.
+                    Throughout its history it has been known for its innovative publishing and
+                    advertising techniques. At its peak, the publication had a circulation of almost
+                    3.7 million.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of company files of the Advertising and Production
+                    Departments of Farm Journal magazine. The materials date from the 1940s to the
+                    early 1970s. Included are: internal correspondence and correspondence with
+                    advertisers; production reports and statistics; advertising surveys, reports,
+                    and statistics; "job jackets" containing order information, production
+                    specifications, and proof copies of printing jobs; purchase orders and contracts
+                    for advertisements; coupon commission reports; promotion samples for Farm
+                    Journal and some of the magazine's advertisers, including posters, cards,
+                    pamphlets; subscription and renewal data; annual reports; audits; scrapbooks of
+                    Farm Journal publicity materials, press clippings, and "house ads" from trade
+                    magazines; a copies of the journal and special editions.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

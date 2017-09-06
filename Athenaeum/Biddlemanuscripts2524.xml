@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Biddle manuscripts <date type="inclusive">1770-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Athenaeum of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Biddle manuscripts</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoPSp.ACC2524</unitid>
+                <repository label="Repository">Athenaeum of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1770-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>John Boit was born in Jamaica Plain, Massachusetts in 1858. He was a graduate of
+                    Harvard Law School. He studied architecture in New York for several years and
+                    built the New York Yacht Clubhouse in Newport. Thereafter he studied painting
+                    under John LaFarge, and again in Julien's Studio in Paris. In 1904 he married
+                    Louise Horstmann (b. 1869) of Washington, D.C.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscript letters and other documents given to the
+                    Athenaeum by Mr. and Mrs. Peyton Biddle. A number of the manuscripts relate to
+                    John Boit and his wife Louise Horstmann Boit. Materials include letters to
+                    Louise Boit, including a series of letters from Edith Hamilton, 1945-1957, and
+                    correspondence between Aubrey Stanhope and Louise Horstmann. One letter from
+                    Stanhope, dated 1896, describes the "social side of the Coronation" of the
+                    Empress of Russia, with discussion of Europeans and Americans present for the
+                    occasion). John Boit's correspondence includes a letter to Stephen Leacock from
+                    John Boit, undated, and a letter to John Boit from Chief Justice Edward Douglass
+                    White, 1910. Other correspondence in the collection includes: a letter from
+                    Josiah Quincy, Jr. (1744-1775) to his father, 1773-1774; a letter from Josiah
+                    Quincy III (1772-1864) to Frederick Packard, 1859-1860; a letter from James
+                    Madison to James Ogilvie, 1809; a 1770 summons signed by Edward Shippen; an 1863
+                    letter to Secretary of War Stanton from Thaddeus Stevens; a letter from Horace
+                    Greeley to William D. Kelley related to the movement of troops into Richmond in
+                    1862; and several Civil War era passes for W. D. Kelley. The collection also
+                    includes one folder of typed transcripts of letters of the King family,
+                    1812-1826. The letters between family members in Jamaica and in the United
+                    States discuss health and activities of family and friends, and several letters
+                    make reference to the family's slaves. The original King family letters are held
+                    by the York County Historical Society.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Mr. and Mrs. Peyton Biddle, 1973</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

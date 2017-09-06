@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Robert Ernest Spiller papers <date type="inclusive">1914-1993</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Robert Ernest Spiller papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC367</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>39.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1993</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Robert E. Spiller (1896-1988) was a scholar of American literary history. He was
+                    educated at the University of Pennsylvania, receiving a bachelor's degree in
+                    1917, a master's in 1921 and a Ph.D. in 1924. The majority of Robert Spiller’s
+                    teaching career was spent at Penn, where he taught from 1920 to 1967. He was
+                    also on the faculty of Swarthmore College from 1921 to 1945. Spiller wrote and
+                    edited many books and articles, including Fenimore Cooper: Critic of His Times
+                    (1931), The Collected Works of Ralph Waldo Emerson, and Milestones in American
+                    Literary History (1977). He was one of the editors of the Literary History of
+                    the United States series.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection includes materials related to Spiller's teaching, scholarship and
+                    other professional and personal activities. Materials about research projects
+                    include files on James Fenimore Cooper, including photostat copies of letters
+                    from and about Cooper, photographs of people and places, a reel of film and
+                    engravings; reprints by Spiller and others; and files on Ralph Waldo Emerson,
+                    including minutes, correspondence, work schedules and timetables, drafts of
+                    notes on Emerson's essays, and other research materials. Materials related to
+                    the Literary History of the United States include minutes, correspondence,
+                    outlines and instructions to authors, chapter drafts and proofs, bibliography,
+                    financial records, publicity information and reviews. Materials related to
+                    Spiller's teaching and scholarship include correspondence; manuscripts and
+                    proofs of books, chapters, essays and addresses, including Late Harvest and
+                    Milestones in American Literary History; reviews of his writings; and University
+                    of Pennsylvania English Department records, including minutes, reports,
+                    newsletters, bulletins, and some correspondence. There are also early writings
+                    (plays, poetry, prose); letters to parents from school and from abroad,
+                    1914-1929; postcards; family photographs; address books and appointment books;
+                    an undated manuscript (appears to be 18th century) in a mixture of Latin and
+                    Greek; a typescript of an interview with Spiller in 1983; and records of various
+                    professional activities, including seminars and lectures abroad, MLA committees,
+                    Guggenheim Fellowship, seminars at Swarthmore, American Council of Learned
+                    Societies projects, and a Nobel symposium.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 142, 142A, 142B, 142C, 142D, 142E</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Robert E. Spiller Collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

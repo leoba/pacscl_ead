@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>H. A. Pilsbry papers <date type="inclusive">1890-1970</date>
+                        <date type="bulk"> 1900-1957</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">H. A. Pilsbry papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1163</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>14 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1890-1970</unitdate>
+                <unitdate type="bulk"> 1900-1957</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henry A. Pilsbry, the Dean of American Malacologists, was associated with the
+                    Academy of Natural Sciences for 70 years. Conservator, curator and head of the
+                    Department of Shells, he was also the internationally recognized authority in
+                    the field of land Mollusca. He wrote and edited many volumes of the Manual of
+                    Conchology and from 1889 until his death was an editor of the journal Nautilus,
+                    which he founded. A member of many scientific expeditions all over the United
+                    States, to the Caribbean, South America, Mexico, Hawaii, and other Pacific
+                    Islands, and to Australia. Few scientists have so voluminous a list of
+                    publications.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional papers of H.A. Pilsbry. Materials include:
+                    correspondence, 1890-1957, largely related to specimen identification and
+                    exchange and taxonomy; manuscripts and galley proofs of articles and books, with
+                    illustrations and photographs; subject files on various species, with extracts
+                    from printed sources, illustrations, and photographs; and Pilsbry's index card
+                    file of species. The collection also includes audio recordings of Pilsbry and
+                    H.G. Richards talks; a film of Strombus goliath crawling, Brazil, 1965; and a
+                    small number of photographs of Pilsbry.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 97:10; 01:03</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Pilsbry correspondence (collection 98) and Pilsbry
+                    biographical papers (collection 200).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

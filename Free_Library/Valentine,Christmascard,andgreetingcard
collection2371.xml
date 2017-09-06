@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Valentine, Christmas card, and greeting card collection <date type="inclusive">1830-2006</date>
+                        <date type="bulk"> 1880s-1960s</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Valentine, Christmas card, and greeting card
+                    collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2371</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>10.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1830-2006</unitdate>
+                <unitdate type="bulk"> 1880s-1960s</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Among the exemplary collections of the Free Library of Philadelphia is the Print
+                    and Picture Collection. Spanning the graphic arts from 1493 to the present time,
+                    the Free Library's Fine Art Prints and Photographs collection includes thousands
+                    of images. Initially representing only Philadelphia artists, the collection has
+                    been extended to include early masters as well as renowned modern printmakers
+                    and photographers. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Christmas cards, Valentines, and greeting cards. The bulk
+                    of the items in the collection are Christmas and Valentine cards. Other holidays
+                    are only sparsely covered, though there are cards for Thanksgiving, Easter,
+                    birthdays, New Years, and Washington's birthday and Sunday school rallies).
+                    Valentines include "Comic Valentines" dating from the 1920s to the 1940s.
+                    These are single sheet images accompanied by an insulting verse. There are also
+                    pop-up and mechanical Valentines, some decorated with ribbons, lace, or fringe.
+                    Among the Christmas cards are commercial cards, personal cards with photographs
+                    of families and houses, and artist cards featuring woodblock and linoleum prints
+                    and other media. The collection also includes a batch of cards printed by Louis
+                    Prang &amp; Co. of Boston, a noted printing firm. There is also a 1924 sample
+                    album of Christmas cards, seals, tags, and other printed items.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

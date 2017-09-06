@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Marguerite De Angeli papers <date type="inclusive">1932-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Children's Literature Research
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Marguerite De Angeli papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2397</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Children's Literature
+                    Research Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1932-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Marguerite de Angeli (1889-1987) was a bestselling author and illustrator of
+                    children's books including the 1950 Newbery Award winning book The Door in the
+                    Wall. She wrote and illustrated twenty-eight of her own books, and illustrated
+                    more than three dozen books and numerous magazine stories and articles for other
+                    authors. She was twice named a Caldecott Honor Book illustrator, first in 1945
+                    for Yonie Wondernose and again in 1955 for Book of Nursery and Mother Goose
+                    Rhymes and she received a 1957 Newbery Honor mention for Black Fox of Lorne. In
+                    her illustrations de Angeli employed a number of different media, including
+                    charcoal, pen and ink, lithograph (only in earliest work), oils, and
+                    watercolors. Her works explored and depicted the rich cultural diversity of
+                    common people in America. Many of her books were set in Philadelphia,
+                    Pennsylvania.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of drafts, galley proofs, and mockups, for several of De
+                    Angeli's published works. Other materials in the collection include:
+                    correspondence with family, friends, readers, and others interested in her work;
+                    a scrapbook and magazine clippings with illustrations by De Angeli; and
+                    illustrations from The Old Testament. Additional materials include a collection
+                    of clippings, photographs and other items related to De Angeli collected by the
+                    Free Library.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Minnesota, Children's Literature Research Collections: Marguerite Loft De Angeli
+                    papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

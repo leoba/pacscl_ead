@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>The Lighthouse records <date type="inclusive">1908-1947</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">The Lighthouse records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC665</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1908-1947</unitdate>
+            </did>
+
+            <bioghist>
+                <p>During its century-long history, the Lighthouse, located in the Kensington
+                    section of Philadelphia, has served as a settlement house, benevolent
+                    organization, library, nursery, restaurant, and recreation center. The origins
+                    of the Lighthouse began in 1893 with Esther Kelly using two rooms at Episcopal
+                    Hospital in Kensington twice a week to conduct Bible classes. Kelly had more in
+                    mind than teaching the Bible, for her primary concern was to provide an
+                    alternative to the saloons. The Lighthouse soon focused much of its attention
+                    toward social clubs and recreation. By the opening decades of the twentieth
+                    century, the Lighthouse was operating successful clubs for boys, girls, men, and
+                    women. The boys and girls clubs in particular flourished until the 1990s when
+                    enrollment declined. Since its inception, the Lighthouse has adapted to the
+                    changing needs of the community it serves and continues to provide recreational
+                    and social services for the neighborhood.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection contains three boxes of membership cards for men, women and
+                    couples. Information provided on the cards includes name, date of birth, spouse,
+                    children, address, church affiliations, nationality/ethnicity, and trade. Most
+                    include case histories that detail a person's interactions with the
+                    organization, which provide insight into social and working conditions of the
+                    time.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2005.105</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

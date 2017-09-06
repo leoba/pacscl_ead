@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Olivia Stokes Hatch papers <date type="inclusive">1874-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Olivia Stokes Hatch papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1437</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>12.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1874-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Olivia Stokes Hatch (1908-1983) attended Bryn Mawr College from 1925 to 1930.
+                    Before her marriage in 1939 she was active in the American Red Cross and the
+                    American Conferences of Social Work. After her marriage, she worked with the
+                    League of Women Voters, the Race Relations Group, and the Red Cross Speaker's
+                    Bureau. She traveled extensively in the United States, Africa, and Central and
+                    South America.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the personal papers of Olivia Stokes Hatch. The bulk of
+                    the collection consists of personal correspondence, much of it between Hatch and
+                    her mother, Caroline Mitchell Phelps Stokes. Other correspondents include her
+                    husband, John Davis Hatch, Jr., and his mother, Gethel Gregg Hatch. Another
+                    portion of the collection consists of the papers of Anna V.S. Mitchell, Hatch's
+                    aunt. These include letters to and from Mitchell, diaries, and miscellaneous
+                    printed materials. The collection also includes photographs, invitations, and
+                    calling cards.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

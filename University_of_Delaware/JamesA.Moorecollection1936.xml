@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James A. Moore collection <date type="inclusive">1940-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James A. Moore collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC1936</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1940-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James A. Moore (d. 1999) was professor emeritus of chemistry and biochemistry at
+                    the University of Delaware. During World War II, Moore served as an army private
+                    at White Sands, New Mexico, with a group of expatriate German rocketeers, led by
+                    Werner von Braun. After the war, Moore earned his doctoral degree at
+                    Pennsylvania State University and worked for six years as a chemist for Parke
+                    Davis in Detroit before joining the University’s Department of Chemistry in
+                    1955. Moore earned international recognition for his work as an organic chemist
+                    specializing in novel heterocyclic systems, and was editor of the Journal of
+                    Organic Chemistry for 25 years. He was a Gordon Conference section chairman for
+                    many years and coauthor of a popular textbook in organic chemistry. He was
+                    admired as a teacher and as a mentor and adviser to Ph.D. candidates and
+                    postdoctoral associates. He retired from the University in 1988.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of notebooks, printed volumes, notes and other records
+                    of James A. Moore. There are eight notebooks, the topics of which include
+                    heterocyclic studies, 1958-1961; bromoketones, 1947-1948; cheiranthus cheiri
+                    seeds, 1952-1958; the chemistry of steroidal sapogenins, 1950; excerpts from
+                    research literature on psychotropic mushrooms and LSD, 1950s; and notes kept by
+                    Rita Hetzell on chemistry experiments, 1983. There are two published volumes in
+                    the collection: John R. Dyer's Applications of Absorption Spectroscopy of
+                    Organic Compounds, 1965; and Ralph Shriner and Reynold Fuson's The Systematic
+                    Identification of Organic Compounds, 1940. The collection also includes
+                    correspondence with Frederick Uhle, 1950-1964; correspondence related to the
+                    pennogenin problem, 1956-1963; annual evaluations and peer reviews from the
+                    University of Delaware, 1976-1986; a syllabus and notes for a 1989 course on
+                    biological evolution; lantern slides for presentations; and measuring tools.
+                </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

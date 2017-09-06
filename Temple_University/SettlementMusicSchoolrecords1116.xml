@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Settlement Music School records <date type="inclusive">1911-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Urban Archives</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Settlement Music School records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC1116</unitid>
+                <repository label="Repository">Temple University - Urban Archives<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>34.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Settlement Music School is a private organization whose purpose is to provide
+                    music instruction for children and adults regardless of ability to pay. In its
+                    early years a major function was to assist immigrants in finding employment. The
+                    school was incorporated in 1913, and moved into its present building on Queen
+                    Street in 1917. Branches in Germantown and Frankford were established in 1951.
+                    Although founded primarily for the benefit of school-aged children, Settlement
+                    developed a conservatory division offering pre-professional training that was of
+                    sufficient stature to serve as the nucleus of the Curtis Institute of Music,
+                    established in 1924.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of records, sound, and visual recordings related to
+                    Settlement Music School and various performances. Administrative records include
+                    Board and Executive Committee minutes (primarily from 1975-1986, but with
+                    miscellaneous older minutes), reports, copies of the school's by-laws, and
+                    memoranda. There is correspondence and memoranda from the school's directors and
+                    other school staff. Teaching materials include: course lists and syllabi;
+                    teachers' timesheets; and student records, such as registration forms,
+                    schedules, grade sheets, scholarship application letters, attendance and absence
+                    records. Performance- and event-related materials include: correspondence and
+                    memoranda, schedules, programs, guest lists, and other planning records, as well
+                    as 19 boxes of audio reels of performances, and some radio spots, 1955-1987.
+                    Many of the reels are accompanied by printed concert programs. The collection
+                    also includes several films and video recordings. There are a number of printed
+                    and publicity materials, such as brochures, clippings and press releases from
+                    Settlement Music School and miscellaneous printed materials from conferences and
+                    other community organizations. The collection also includes a letterfile box of
+                    correspondence of James P. Carson, Secretary of the Carson College for Orphan
+                    Girls.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 957</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Herbert Pullinger collection <date type="inclusive">1915-1954</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Free Library of Philadelphia, Print and Picture
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Herbert Pullinger collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">FLoSp.ACC2372</unitid>
+                <repository label="Repository">Free Library of Philadelphia, Print and Picture Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1915-1954</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Herbert Pullinger (1878-1961) was a life long resident of Philadelphia. He was a
+                    painter, printmaker, and commercial illustrator, as well as being a teacher at
+                    the Philadelphia Museum School of Industrial Arts (now the University of the
+                    Arts) from 1923 to 1958. He first studied art at the School of Industrial Arts,
+                    followed by the Drexel Institute, and finally enrolled at the Pennsylvania
+                    Academy of the Fine Arts for studies with Henry McCarter and Thomas Anshutz.
+                    During the 1920s, he emerged as one of America's foremost wood engravers.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of etchings, aquatints, lithographs and lithographic pencil
+                    drawings, pen and ink drawings, woodcuts, pencil sketches and drawings, and
+                    watercolors by Herbert Pullinger. Most of the lithographs, woodcuts, and
+                    drawings in the collection are city views of Philadelphia, landscapes and
+                    riverscapes along the Wissahickon Creek, and bridges and historical houses in
+                    the Philadelphia area. A number of the watercolors are seaside images. There is
+                    a small batch of photomechanical reproductions of Pullinger's prints, including
+                    an unbound series of views of Philadelphia which were published in Philadelphia
+                    Past and Present in 1915 as well as a copy of the volume. The collection also
+                    includes watercolors by his wife, Frances Pullinger.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

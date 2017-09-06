@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>John N. Park Jr. papers <date type="inclusive">1929-1975</date>
+                        <date type="bulk"> 1965-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">John N. Park Jr. papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC441</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1975</unitdate>
+                <unitdate type="bulk"> 1965-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of cruise ship memorabilia collected by John N. Park, Jr.,
+                    mostly dating from 1965 to 1975. Material related to the United States Line
+                    includes: photos and negatives; brochures; newsletters; deck plans; a brief
+                    history of the line; an inspection guide describing the amenities; and press
+                    releases. Photos show ships during construction, on trial runs, launchings, and
+                    interior views. Ships documented include the United States, the America, the
+                    Manhattan, and the Washington. Other lines represented in the collection
+                    include: Italia Line, Norweigian American Line, Greek Line, P &amp; O Line,
+                    Chandris Line, Holland-America Line, French Line, and many others. Materials
+                    include brochures, postcards, deck plans, souvenir booklets, menus, baggage
+                    tags, photographs and snapshots, and sailing schedules. The collection also
+                    includes correspondence related to Park's collecting of cruise-ship materials; a
+                    diary of 4 days of a voyage in 1929, possibly kept by Laird Park (as a child);
+                    and a printed volume, "A Prayer Book for Soldiers and Sailors," 1942. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Menus.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1972.002</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Malacology Department
+                        records <date type="inclusive">1849-1983</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Malacology
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC019</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.4 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1849-1983</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The collection of recent mollusks at The Academy of Natural Sciences of
+                    Philadelphia is the oldest in the country, and the second largest catalogued one
+                    in the world. It currently has more than 430,000 catalogued lots containing
+                    about 12 million specimens, including 30,000-35,000 lots preserved in ethanol.
+                    Type specimens of more than 400 authors are represented in more than 12,000 type
+                    lots. The Academy has specimens from all over the world. Greatest strengths are
+                    in shallow-water marine mollusks from the tropical Indo-Pacific and the Western
+                    Atlantic and worldwide freshwater and land mollusks. The staff of the department
+                    maintain this collection and conduct research.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials related to the Malacology Department of the
+                    Academy of Natural Sciences of Philadelphia. Materials include Robert
+                    Robertson's correspondence 1953-1983, arranged by correspondent; correspondence,
+                    reprints, and bulletins kept by various other members of the Department of
+                    Malacology, including George Davis, Horace Richards, Earl A. Shapiro, Robert
+                    Robertson, and Gary Rosenberg; miscellaneous correspondence and records related
+                    to specimens (1939-1976). The collection also includes catalogs and records of
+                    the specimen collections, including materials related to the collections of Olaf
+                    Oswald, John H. Redfield, H.A. Pilsbry, E.D. Cope, and R.E. Griffith; a volume
+                    listing donations to the Academy's conchological section (1867-1874); Department
+                    of Geology and Paleontology reports (1957-1972), a list of the publications of
+                    Earl Spamer; and glass plate negatives for the Manual of Conchology, Volumes 1,
+                    2, and 7, published between 1879 and 1885. The collection also includes 18
+                    rolled wall charts of mollusks, circa 1930s.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 00:23</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Geology
+                    and Paleontology Department records, George Davis papers, Robert Robertson
+                    papers, Horace G. Richards papers, and Edward G. Vanatta papers (subscription
+                    ledger for Conchology publications).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

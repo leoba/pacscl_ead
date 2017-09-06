@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Eastern States Archeological Federation <date type="inclusive">1936-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Eastern States Archeological Federation</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC291</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1936-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Eastern States Archeological Federation (ESAF) is an organization of state
+                    archeological societies that are found in the eastern United States. ESAF was
+                    organized in 1933/34 to provide an exchange of archeological information among
+                    archeologists and state archeological societies. With a membership of 15 state
+                    societies and over 500 individual memberships, ESAF continues to be a national
+                    organization that fosters cooperation and information exchange among all people
+                    working in archeology as well as supporting public participation in all
+                    archeological activities.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Eastern States Archeological Federation.
+                    Materials include: correspondence, schedules, meeting announcements, programs
+                    and abstracts kept by the Recording Secretary 1980-2000; directories, 1936-1980;
+                    constitution, 1938; Bulletins, 1941-2006; financial records and accounts,
+                    1987-1996; and cassette tapes of meetings. The collection also includes records
+                    related to the Middle Atlantic Archeological Conference (1978-1999), including
+                    planning correspondence, lists of attendees, and audiocassettes of meetings.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Eastern States Archeological Federation</p>
+                <p>Year acquired: 3/15/2007</p>
+                <p>Accession number: 07-36; 03-62; 01-76</p>
+            </acqinfo>
+            <otherfindaid>
+                <head>Other Finding Aids</head>
+                <extref ns2:actuate="onRequest" xpointer="https://library.udel.edu/special/findaids/view?docId=ead/mss0579.xml">https://library.udel.edu/special/findaids/view?docId=ead/mss0579.xml</extref>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: University of
+                    Delaware: Archaeological Society of Delaware records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

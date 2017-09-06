@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>E.F.R. Wood papers <date type="inclusive">1856-1959</date>
+                        <date type="bulk"> 1934-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">E.F.R. Wood papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC2507</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1856-1959</unitdate>
+                <unitdate type="bulk"> 1934-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Edward F.R. Wood, Jr. (1921-2000) was a vice president in the trust department of
+                    PNC Bank and an author of histories of sailing and shipbuilding in Mattapoisett,
+                    Massachusetts. He spent summers in Mattapoisett from the time he was a child,
+                    and was an avid sailor. His books include Sailing Days at Mattapoisett and Old
+                    Mattapoisett. In 2004 he co-authored The Ports of Old Rochester: Shipbuilding at
+                    Mattapoisett and Marion with Judith Lund. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection of Edward F. R. Wood, Jr. papers includes scrapbooks,
+                    photographs, research materials, and ephemera. The scrapbooks, consisting
+                    primarily of clippings of newspaper stories and illustrations, are on a variety
+                    of nautical topics, such as the Merchant Marines, yachting, maritime disasters,
+                    and steamers. Photographs, negatives, postcards, and ephemera document several
+                    New England coastal steamer lines, with a small amount of material related to
+                    steamer lines operating out of other East Coast ports. There is an index file of
+                    steamships, with some notes about owners, gross tonnage, and references to
+                    articles on the ships. The collection also includes microfilm of holdings in the
+                    National Archives related to small craft in use during the Civil War; a 1856
+                    bill of lading from the Swiftsure Line; and a reproduction of a photograph of
+                    Smith and Windmill Islands in the Delaware River. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Marine accidents.</subject>
+                <subject encodinganalog="650">Merchant marine--United States.</subject>
+                <subject encodinganalog="650">Steamboat lines.</subject>
+                <subject encodinganalog="650">Yachting.</subject>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Microforms.</genreform>
+                <genreform encodinganalog="655">Negatives (Photographic)</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>World War II collection <date type="inclusive">1938-1949</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">World War II collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2412</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>65 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1938-1949</unitdate>
+            </did>
+
+            <bioghist>
+                <p/>
+            </bioghist>
+
+            <scopecontent>
+                <p>Organized in three series. The first section consists of correspondence,
+                    pamphlets, press releases, photographs, and posters presented by volunteer and
+                    community organizations. Included are: America First Committee, Philadelphia
+                    chapter, releases, pamphlets, correspondence, and ephemera, 1939-1941; Committee
+                    to Defend America by Aiding the Allies, Conyers Read, Philadelphia chairman,
+                    correspondence, 1939-1941; Fight for Freedom Committee, Philadelphia chapter,
+                    correspondence, 1939-1941; and a number of smaller groups of materials
+                    representing, for example, the Anti-defamation League, the American Palestine
+                    Committee, Fellowship House of Philadelphia, the American Friends Service
+                    Committee, the Friends of the Spanish Republic, and several Afro-American,
+                    German-American, and Italian-American organizations. The second section consists
+                    of press releases and speeches prepared or distributed by the Office of War
+                    Information, 1942-1944. Much concerns agreements achieved by the Office of Price
+                    Administration and is arranged by product groups. The third section contains the
+                    records of the United Service Organization of Philadelphia, an organization
+                    offering recreation and assistance to members of the armed forces and their
+                    families. The Philadelphia United Service Organization was the result of a 1941
+                    cooperative agreement among the Jewish Welfare Board, the Y.M.C.A., the
+                    Y.W.C.A., the Salvation Army, Travelers' Aid, and the National Catholic
+                    Commission Services. The section includes: administrative and financial records
+                    of the United Service Organization Council, 1941-1947; Stagedoor Canteen,
+                    administrative and operational records, statistical records, programs, and
+                    photographs, 1942-1947; Jewish Welfare Board, minutes, correspondence, and
+                    financial records, 1941-1948; Labor Plaza, minutes and committee reports for
+                    this facility providing outdoor entertainment for servicemen and women,
+                    1943-1946; subsidiary organizations operated by the United Service Organization,
+                    reports and receipts, 1942-1947; and letters written in answer to those sent by
+                    a letter-writing group at St. Mark's Church in Philadelphia, 1943-1945. In late
+                    1942 the Historical Society of Pennsylvania solicited materials to form an
+                    artificial collection which would document the war effort of a number of
+                    community and social service agencies. The result is a miscellaneous and uneven
+                    group of papers presented over a number of years by the organizations and their
+                    officers.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

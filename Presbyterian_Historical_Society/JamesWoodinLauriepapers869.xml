@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Woodin Laurie papers <date type="inclusive">1889-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Woodin Laurie papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC869</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35.0 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1889-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James W. Laurie (1903-1970) was born in Bellingham, Washington. His father and
+                    grandfather were Presbyterian ministers, as was his son, James Robertson Laurie.
+                    Laurie attended Coe College (1920-1924) and Princeton Theological
+                    Seminary(1924-1927), receiving a bachelor of divinity degree. He was ordained by
+                    the Presbytery of Elizabeth in 1926. Laurie was a pastor at the Second
+                    Presbyterian Church in Rahway, New Jersey from 1927-1936, at the Second
+                    Presbyterian Church in Wilkinsburg, Pennsylvania from 1936-1941, and Buffalo
+                    Central New York Church from 1941-1951. He was named President of Trinity
+                    University in 1951. Thomas J. Wilbanks (b. 1890) was the Stated Clerk of Paris
+                    Presbytery, Synod of Texas. He was Pastor of Pine Street Presbyterian Church,
+                    Texarkana, Texas, from 1925-1958 and chairman of Synod of Texas Historical
+                    Society at Trinity University, 1958-1965.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the personal and working papers of James W. Laurie (prior
+                    to 1951), those of his father, James A. Laurie, Jr., and of his grandfather,
+                    James A. Laurie. The collection also includes the correspondence of Mrs. James
+                    W. Laurie (Sarah B.). Included are addresses, sermons and sermon notes
+                    (1915-1960s); papers related to his ministries at Rahway and Buffalo, including
+                    minutes, programs, bulletins, correspondence, newsletters, and clippings; pocket
+                    diaries (1889-1928); photos and cyanotpyes; postcards; clippings; correspondence
+                    (1890s-1950s); Council on Theological Education minutes, financial records, and
+                    correspondence (1940s-1950s); and papers related to the General Assembly and
+                    General Council (1950s). Items from Laurie's time at Coe College include class
+                    notes, yearbooks, student papers, a debating handbook, and copies of the school
+                    newspaper, the Coe College Cosmos (1920s). There are also class notes from
+                    Princeton Theological Seminary (1926-1927) and typed drafts of a biography of
+                    Laurie by R. D. Brackenridge. The papers of James Anderson Laurie Jr. include
+                    correspondence and sermons; pocket diaries, and an 1896 commonplace book. The
+                    collection also includes: photocopies of 1864-1881 diaries of James A. Laurie; a
+                    typescript of boyhood memories, probably written by Laurie Sr.'s brother-in-law;
+                    a small collection of correspondence of Sarah B. Fiske Laurie; and some papers
+                    of Thomas Wilbanks. Most of the Wilbanks papers (1929-1960) relate to a dispute
+                    between the Cumberland Presbyterian Church and the Presbyterian Church U.S.A.
+                    over title to a 5 acre tract of land in Texas (1936-1939). Other materials
+                    include the T. J. Wilbanks collection of church bulletins and special programs
+                    and papers related to the Paris Presbytery.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Trinity University Library, Coiner Archives</p>
+                <p>Accession number: 76 1227</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

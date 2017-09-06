@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>American Entomological Society records <date type="inclusive">1859-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">American Entomological Society records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1084</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>13 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1859-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The American Entomological Society is the oldest continuously operating
+                    entomological society in the Western Hemisphere, founded on March 1, 1859. The
+                    American Entomological Society (AES) supports entomological research, education
+                    and outreach through publications, meetings, Annual Insect Field Day, the AES
+                    Library, and awards for young entomologists.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of publications of the American Entomological Society.
+                    Issues include: Transactions, Vols. 1-111 (1867-1985); Entomological News, Vols
+                    1-83 (1890-1972); Memoirs of the American Entomological Society, Nos. 1-35
+                    (1916-1986); and Proceedings of the Entomological Society of Philadelphia, Vols.
+                    1-5 (1861-1865). The collection also includes three library accession books
+                    (1859-1967), arranged by accession number, which include author, title,
+                    publication year, and source. The level of detail of the accession entries
+                    varies.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 93:04; 02:17</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Ezra Townsend Cresson papers (AES membership cards)
+                    and Rudolf G. Schmieder papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

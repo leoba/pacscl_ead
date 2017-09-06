@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>David Weiss-Stymean Karlen papers <date type="inclusive">1949-1987</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">David Weiss-Stymean Karlen papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2093</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>92.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1949-1987</unitdate>
+            </did>
+
+            <bioghist>
+                <p>David Weiss was born in Philadelphia and graduated from Temple University before
+                    embarking on a literary career which has produced a number of successful
+                    historical novels. Weiss' novel, Naked Came I, has been published in 13 editions
+                    and 25 languages. Weiss also wrote fictional biographies of Mozart, Isadora
+                    Duncan, and Christopher Wren. For a dozen years Weiss collaborated with David O.
+                    Selznick on screen treatments. A Philadelphia native, Stymean Karlen moved to
+                    New York in the 1930s where her plays For This Relief Much Thanks and The
+                    Eleventh Commandment brought her to the attention of Cheryl Crawford (The Group
+                    Theater), Clifford Odets, and John Gassner. With their encouragement and support
+                    she enrolled in The Group Theater, shared an American Theater Play Contest
+                    selection with Langston Hughes, and was awarded a Rockefeller Grant for writing.
+                    Her interest eventually turned more to painting and poetry, interests she
+                    combined in creating over 2000 "portrait poems." She successfully held
+                    exhibitions in New York, Los Angeles, La Jolla among other centers. Her poetry
+                    was published in Voices, The Yale Poetry Review, Beloit Journal, The Westminster
+                    Review, and Poetry among others, as was also an essential part of many of the
+                    historical novels of her husband, David Weiss. Karlen and Weiss were married for
+                    53 years.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>David Weiss materials include extensive typescripts of manuscripts by Weiss, some
+                    heavily annotated. Manuscripts include Tender Loving Care, I, Rembrandt, Guilt
+                    Maker, Sacred and Profane, Forever &amp; After, Juliet's War, Picasso, Letters
+                    to the World, Isadora Duncan, the Loves of Alma Maria. The collection also
+                    includes: notes for his Mozart novels; galley proofs, typed lists of
+                    corrections, and author's comments; correspondence with publishers and agents,
+                    often with reader's comments on the works; personal correspondence, including
+                    several letters from Anthony Quinn; financial and legal records, including
+                    royalty statements, contracts, and story options; clippings of reviews and
+                    advertisements for Weiss's books; and reader's reports by Weiss and others for
+                    the Selznick Co. Stymean Karlen materials include: numerous illustrated
+                    "portrait poems" on paper and Bainbridge board; paintings on board in wood
+                    frames; typescripts of plays, poems, and novels; and a small number of letters
+                    from staff at Temple University Special Collections about the receipt of donated
+                    papers and the online exhibit of Karlen's artwork. The collection also includes
+                    a plaster bust, possibly of David Weiss or his father.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

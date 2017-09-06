@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Thomas H., Jr., and Alice Sherborne collection <date type="inclusive">1929-1956</date>
+                        <date type="bulk"> 1945-1950</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Thomas H., Jr., and Alice Sherborne collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC2203</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1956</unitdate>
+                <unitdate type="bulk"> 1945-1950</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Thomas Henry Sherborne, Jr. was born in Philadelphia in 1898, and later lived in
+                    Elmhurst, New York. He married Alice Hamer, who was born in Omaha in 1909. They
+                    were married in 1943.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of of genealogical research materials, which
+                    include: printed materials; notes; certificates of membership from various
+                    genealogical societies; vital records such as birth and marriage certificates
+                    (originals and some copies); and surname lists. There are also some (blank)
+                    postcards of historic sites, several World War II ration books, and notes,
+                    clippings, and printed materials on non-genealogical topics, including English
+                    rulers, history, and literature, science, and art.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: New England Historic
+                    Genealogical Society: Thomas Henry Sherborne papers (Mss 252).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

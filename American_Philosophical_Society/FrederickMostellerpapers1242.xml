@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Frederick Mosteller papers <date type="inclusive">1943-2001</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Frederick Mosteller papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1242</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>28 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1943-2001</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Frederick Mosteller (1916-2006) was one of the premier statisticians of his
+                    generation. He received his master's degree from the Carnegie Institute of
+                    Technology (now Carnegie Mellon University) in 1939. In 1946, he received his
+                    Ph.D. from Princeton University, where he worked with statisticians Samuel Wilks
+                    and John Tukey. The same year, he joined the faculty of Harvard University in
+                    the social relations department. He was the first chairman of Harvard's
+                    statistics department, remaining in that role until 1971. He retired in 1987 as
+                    the chairman of the department of health policy and management. Mosteller
+                    applied mathematical theories to the analysis of educational development and
+                    assessment, medical practices, sports, and other fields. One notable study was a
+                    statistical analysis of the Federalist papers to settle a question of
+                    authorship.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the professional papers of Frederick Mosteller. The
+                    papers in this collection document Mosteller's statistical inquiry in the areas
+                    of educational assessment, bias in social research, authorship analysis,
+                    quantitative expressions of probability, sports, coincidence, and variance
+                    analysis. Materials include: reprints of Mosteller's articles; memoranda on
+                    National Science Foundation-funded projects; notes, correspondence, photocopied
+                    reference articles, and drafts for various studies; awards, certificates, and
+                    honorary degrees; and a copy of Mosteller's master's thesis on rank correlation.
+                    The collection also includes Mosteller's academic gown and regalia.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Education--Evaluation--Methodology.</subject>
+                <subject encodinganalog="650">Mathematical linguistics.</subject>
+                <subject encodinganalog="650">Social sciences--Statistical methods.</subject>
+                <subject encodinganalog="650">Statistics</subject>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Reprints</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: M2006-15</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

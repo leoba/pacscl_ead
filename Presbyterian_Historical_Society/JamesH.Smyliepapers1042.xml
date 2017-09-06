@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James H. Smylie papers <date type="inclusive">1964-2004</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James H. Smylie papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC1042</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1964-2004</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James H. Smylie (b. 1925) was ordained in 1949 and taught at Princeton from 1950
+                    to 1962. He is Ernest T. Thompson Professor of Church History, Emeritus, at
+                    Union Theological Seminary and Presbyterian School of Christian Education in
+                    Richmond, Virginia. Smylie was the editor of the Journal of Presbyterian History
+                    from 1968-1996. He is the author of numerous articles and books on various
+                    topics related to religious history, including the history of the Presbyterian
+                    Church, Christian experience in American, religion and politics, and the Roman
+                    Catholic Church in America. His books include Into All the World and A Cloud of
+                    Witnesses.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of James Smylie. Materials include: typescript
+                    manuscripts of articles; reprints and clippings of articles; pencil sketches of
+                    individuals associated with the Presbyterian Historical Society, 1979-1986;
+                    correspondence and manuscripts from Smylie's time as editor of the American
+                    Presbyterians Journal; newspaper and magazine clippings; photographs and
+                    negatives; and photostats of correspondence of Dr. Brown, from the archives at
+                    the Presbyterian Historical Society. Smylie manuscripts include: "Hanover
+                    Presbytery: Between Revolution and Civil War," "Lynching, 'The Black Christ,'
+                    and the Atonement," "William McGuffey, Eclectic Readers, and Virtuous
+                    Citizens," and "Thanks for the Memories," an address given at the General
+                    Assembly of the Presbyterian Church (U.S.A.), Richmond, Virginia, 2004.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accessions 92 0617, 96 0806c, 00 0504e, 04 0925: Smylie, James;
+                    accessions 96 0419b, 96 1002a, 98 0123c, 98 0220: Transferred from the
+                    library</p>
+                <p>Accession number: 92 0617|96 0419b|96 0806c|96 1002a|98 0123c|98 0220|00 0504e|04
+                    0925</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

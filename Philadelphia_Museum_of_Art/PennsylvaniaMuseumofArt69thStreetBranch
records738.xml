@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Pennsylvania Museum of Art 69th Street Branch records <date type="inclusive">1928-1933</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Pennsylvania Museum of Art 69th Street Branch
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC738</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1928-1933</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1931 the 69th Street Branch Museum of the Philadelphia Museum of Art was
+                    established, and Philip N. Youtz was hired as Curator. Funded in part by a
+                    Carnegie Corporation grant to support modern art, the Branch displayed temporary
+                    exhibitions of contemporary and recent artists from the permanent collection.
+                    The Branch was an experiment in branch museums, and financial belt-tightening of
+                    the Depression forced its closing in 1933.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection documents the establishment, operation, and the closure of the
+                    69th Street Branch Museum of the Philadelphia Museum of Art. The records date
+                    from 1928 to 1933 and include correspondence, minutes, exhibit files, publicity
+                    materials, and photographs. The correspondence includes letters between Youtz
+                    and PMA curators and staff, curators at other institutions, and professional
+                    associations. There are also copies of Fiske Kimball letters that relate to the
+                    operation of the Branch. Minutes of the Committee on Museum, 1931-1932, document
+                    the process of establishing the Branch. Exhibit files offer a more detailed look
+                    at the selection of works displayed at the Branch. These files include budgets,
+                    lists of artworks displayed, loan and insurance records, sketches of exhibit
+                    layouts, correspondence with curators and lenders, exhibition schedules,
+                    attendance statistics, posters for exhibitions and lectures, and abstracts of
+                    lectures and panels. Publicity materials include press releases on the Branch
+                    and its programs and exhibits, brochures and announcements, newspaper clippings.
+                    There are several black and white photographs of the Branch's galleries and of
+                    artworks being considered for exhibit. The collection also includes manuscripts
+                    of articles by Youtz , including an article on the 69th Street Branch, given at
+                    a meeting of the American Association of Museums in 1932.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Pennsylvania Museum of Art. 69th Street Branch. </corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <subject encodinganalog="650">Art museums and community.</subject>
+                <subject encodinganalog="650">Art museums--Educational aspects. </subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Manuscripts.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Posters.</genreform>
+                <genreform encodinganalog="655">Press releases.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 26</p>
+            </acqinfo>
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=SIX">http://www.philamuseum.org/pma_archives/search.php?c=SIX</extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Fiske Kimball records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

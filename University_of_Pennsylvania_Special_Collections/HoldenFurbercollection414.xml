@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Holden Furber collection <date type="inclusive">1759-1946</date>
+                        <date type="bulk"> 1759-1829</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Holden Furber collection</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC414</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1759-1946</unitdate>
+                <unitdate type="bulk"> 1759-1829</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Holden Furber (1903-1993) was the 21st president of the Association for Asian
+                    Studies and a scholar who specialized in the history of India during the time of
+                    the British Raj. He received his doctorate from Harvard in 1929 and at the same
+                    time attended Oxford University, where he was completed a bachelor's degree in
+                    1925 and a master's degree in 1930. Furber lectured at the University of Madras
+                    in 1948, before moving to the University of Pennsylvania, where he served as
+                    Professor of History until 1973.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of material relating to 18th century British India.
+                    Materials include: contemporary handwritten documents and letters concerning,
+                    among others, Sir John MacPherson, Governor General, 1784-1786; Governor of
+                    Bombay Jonathan Duncan, 1795-1802; Major F. R. MacDonald, 1791-1799; and General
+                    Stuart, Commander-in-Chief, 1796-1800. There is correspondence to Henry Dundas
+                    relating to British parliamentary matters; correspondence to and from Robert
+                    Dundas relating to India and British parliamentary matters; a Catalogue of Lord
+                    Melville's Miscellaneous East India Papers consisting largely of correspondence;
+                    a Record of Testimony Related to Lord Melville's Impeachment (1805); and Sir R.
+                    Woodford Phillipine Company correspondence. The collection also includes several
+                    pages from the Bombay Courier and India Gazette; lists of claimants for
+                    pensions; printed accounts, bills and correspondence of the East India Company;
+                    framed item with two letters from Simeon Cary; and a bound typed manuscript of
+                    Furber's John Company at Work (1946).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 184</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

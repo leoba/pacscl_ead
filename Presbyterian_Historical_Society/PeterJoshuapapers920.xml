@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Peter Joshua papers <date type="inclusive">1900-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Peter Joshua papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC920</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1900-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Peter Rees Joshua (b. 1893) was a Presbyterian minister. He attended seminary at
+                    Cardiff (Wales) Theological Seminary. From 1927 to 1940 he was pastor of Central
+                    Presbyterian Church in Huntington, Long Island, New York. He also served
+                    pastorates in Minnesota and California.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Peter Joshua. Materials include: Joshua's
+                    notebooks for sermons and Bible study; publications of Joshua's radio
+                    broadcasts, as well as three shellac audio discs; correspondence to Joshua (many
+                    letters from Carl F. H. Henry), form letters, and mass distributed photographs
+                    from the Republican Party; personal financial information, such as Social
+                    Security benefits; one page of a manuscript by Joshua titled "Confessions of an
+                    Aged Man's Thoughts" and some supporting materials; some printed materials
+                    containing articles by Joshua; books and printed materials, some with personal
+                    inscriptions; family photographs, many with identifications; and personal
+                    memorabilia, including pins and various Bibles. The collection also includes
+                    letters sent to Joshua's wife upon his death, a memorial book from his funeral,
+                    and a eulogy and clippings about Joshua.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Wheaton College, Billy Graham Archives</p>
+                <p>Accession number: 85 0913</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

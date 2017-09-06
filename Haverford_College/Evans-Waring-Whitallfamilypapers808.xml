@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Evans-Waring-Whitall family papers <date type="inclusive">1781-1988</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Haverford College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Evans-Waring-Whitall family papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">HCSp.ACC808</unitid>
+                <repository label="Repository">Haverford College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1781-1988</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Waring, Whitall, Carter, and Evans families were prominent Quakers from
+                    Maryland, Pennsylvania, and New Jersey. The Waring family arrived in the United
+                    States in 1775. The first generation of Warings to settle in Cecil County,
+                    Maryland, included Thomas (1755-1842) and William (d. 1793). Thomas Waring's
+                    children included William Waring (1808-1884). William Waring had four sons:
+                    Thomas, Wilson (d. 1917), David, and William (1849-1934). Bernard Gilpin Waring
+                    (b. 1876) was one of Thomas' children. John Mickle Whitall (1800-1877) of
+                    Woodbury, New Jersey and his wife Mary Tatum (1803-1880) were the parents of
+                    James Whitall (1834-1896), who married Mary Wistar Cope (ca. 1836-1897), and
+                    Hannah Whitall (1832-1911), who married Robert Pearsall Smith. Charles Evans was
+                    a 1902 graduate of Haverford and professor of German at Bucknell and Temple
+                    University.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of the Waring, Whitall, Carter, and Evans
+                    families. Materials related to the Waring family include correspondence,
+                    notebooks, and a school remembrance book of Bernard G. Waring; an 1842 Testimony
+                    of Thomas Waring; letters and a copy of the will of William Waring (d. 1793); a
+                    1795 commonplace book of Hannah Waring; letters to various members of the Waring
+                    family around the 1840s; and family photos. Materials related to the Whitall
+                    family include letters to Mary Whitall and John M. Whitall between 1816 and
+                    1873; and family photos. Carter family materials include genealogical materials
+                    and family histories, including "Some Notes Regarding the Carter Family";
+                    transcriptions of Henry Carter's autobiography; stories related by Hannah Carter
+                    to Elizabeth Rhoads; and other writings. Evans family materials include
+                    calendars of Charles Evans from 1892 and 1895; and genealogical materials.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <famname encodinganalog="600">Carter family.</famname>
+                <famname encodinganalog="600">Evans family.</famname>
+                <famname encodinganalog="600">Waring family.</famname>
+                <famname encodinganalog="600">Whitall family.</famname>
+                <subject encodinganalog="650">Quakers--Correspondence.</subject>
+                <subject encodinganalog="650">Quakers--Genealogy.</subject>
+                <genreform encodinganalog="655">Commonplace books</genreform>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 5717, 5730, 5986 </p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

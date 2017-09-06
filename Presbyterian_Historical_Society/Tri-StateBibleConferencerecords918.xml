@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Tri-State Bible Conference records <date type="inclusive">1929-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Tri-State Bible Conference records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC918</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1929-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Tri-State Bible Conference was founded in 1929 by Dr. Abraham L. Latham, a
+                    pastor of the Third Presbyterian Church of Chester (Pennsylvania) and other
+                    members of the Chester Presbytery and lay community as a reaction to what they
+                    saw as the increasing liberalization of values and standards within the
+                    Presbyterian Church. The Conference was concerned with the training and
+                    education of young adults and was conceived as an alternative to the existing
+                    summer youth programs that the area Presbyteries offered -- one which emphasized
+                    fundamentalist teachings and missionary and evangelical work within the context
+                    of Presbyterianism. Despite its Presbyterian origins, the corporation was never
+                    official connected to or recognized by the Philadelphia Presbytery or the
+                    Committee on Christian Education. During the late 1950s and early 1960s, some
+                    attempts were made to unite the Tri-State Bible Conference with the Philadelphia
+                    Presbytery. These attempts, failed, however, in part due to friction caused by
+                    what was seen by some as the Conference's basically fundamentalist/evangelical
+                    stance on religion. Since 1970 the Conference has met each summer at Hilltop
+                    Ranch in Colora, Maryland.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Tri-State Bible Conference. Materials
+                    include: minutes; brochures, conference programs and flyers; slides and
+                    photographs; lists of delegates, 1944-1974: correspondence and lists of
+                    delegates, 1975-1979; correspondence, by-laws, and certificate of incorporation,
+                    1945; correspondence related to the relationship of Tri-State to the camping
+                    programs of the Philadelphia Presbytery, 1955-1962; a two volume history of the
+                    Tri-State Bible Conference, 1929-1958; a 1969 Tri-State publicity reel to reel
+                    audio tape; several reels of 8mm movie film; printing blocks for the Tri-State
+                    Bible Conference; and an index card file of addresses of Board of Directors and
+                    members. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Sheldon, Ben</p>
+                <p>Accession number: 85 0412</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

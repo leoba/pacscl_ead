@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alma C. Clarke papers <date type="inclusive">1914-1946</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alma C. Clarke papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1430</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.66 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1914-1946</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alma C. Clarke (b. 1890) was a kindergarten teacher who volunteered in 1917 to
+                    work in France. Under the auspices of the Committee France America for the
+                    Protection of the Children of the Frontier, she cared for war orphans in a
+                    number of locales, notably the Colonie Franco-Americaine du Chateau de la Cour
+                    Cheille, Indre-et-Loire. In 1918 she was recruited by the Red Cross to work as
+                    an auxiliary nurse in the American Red Cross Hospital at Neuilly-sur-Seine. She
+                    remained at that post until June 1919.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes correspondence, scrapbooks, photographs, postcards,
+                    clippings, memorabilia, and printed material collected by Clarke during her
+                    service in France. Of particular note are Clarke's annotated scrapbooks of
+                    wounded soldiers and war orphans. Both scrapbooks include notes and drawings by
+                    Clarke's patients, photographs of patients and staff, and various
+                    memorabilia.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">World War, 1914-1918--France.</subject>
+                <subject encodinganalog="650">World War, 1914-1918--War work--Red Cross.</subject>
+                <genreform encodinganalog="655">Passports.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Postcards.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

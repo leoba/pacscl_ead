@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Kariamu Welsh papers <date type="inclusive">1965-1997</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Special Collections</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Kariamu Welsh papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2235</unitid>
+                <repository label="Repository">Temple University - Special Collections<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1965-1997</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Kariamu Welsh is a Professor in the Boyer School of Music and Department of Dance
+                    at Temple University and Director of the Institute for African Dance Research
+                    and Performance (IADRP). She received her MA. H. in choreography from SUNY
+                    Buffalo in 1975 and her D. Arts in Dance History and Choreography from New York
+                    University in 1993. Dr. Welsh has been a member on the faculties of SUNY
+                    Buffalo, The University of the Arts and Swarthmore College. Welsh was the
+                    founding artistic director of the National Dance Company of Zimbabwe from
+                    1981-1983. She has been the recipient of three Senior Fulbright Scholar Awards
+                    and has received many choreography awards and fellowships including the National
+                    Endowment of Arts Choreography Fellowship, the New York State Council on the
+                    Minority Choreography Fellowship, the Creative Artist Public Service Award (NY),
+                    and the Pennsylvania Council on the Arts dance historian fellowship.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of professional and personal papers of Kariamu Welsh.
+                    Teaching and academic administrative materials include: student papers and
+                    exams; letters of recommendation for students; correspondence from students;
+                    faculty records, such as memoranda, meeting minutes, and tenure reviews;
+                    stationery from the Institute for African Dance Research and Performance; and
+                    copies of the International Journal of African Dance. Materials related to
+                    Welsh's scholarship and writing include: newspaper clippings on dance companies,
+                    her writings, and on subjects she was interested in; articles and dissertations
+                    by other authors; publicity materials for her published works and performances,
+                    including book jackets, flyers, posters, and programs; programs, flyers, and
+                    playbills for a variety of dance performances by other companies; copies of Sage
+                    (a Scholarly Journal on Black Women), in which Welsh had a piece published; and
+                    sound recordings of music to accompany dances. Personal materials include a
+                    small amount of personal correspondence, papers and notes from her high school
+                    and college years and poetry by Welsh (primarily from the 1970s).</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

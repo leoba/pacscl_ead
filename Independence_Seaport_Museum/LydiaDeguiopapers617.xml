@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Lydia Deguio papers <date type="inclusive">1953-2001</date>
+                        <date type="bulk"> 1953-1966</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Lydia Deguio papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC617</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.21 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-2001</unitdate>
+                <unitdate type="bulk"> 1953-1966</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The SS United States (also known as "The Big U") is an ocean liner built in
+                    1952 for the United States Lines. At 53,329 gross tons, she is the largest ocean
+                    liner to date built entirely in the United States and still holds the record for
+                    the fastest westbound transatlantic crossing. The third North German Lloyd liner
+                    to be given the name, the SS Bremen was originally the French luxury liner cum
+                    troopship Pasteur. In 1953, Lydia Deguio was taken by her uncle to France on the
+                    SS United States. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>A collection of memorabilia from the SS United States and the SS Bremen. SS
+                    United States memorabilia include: photographs, passenger lists, souvenir logs,
+                    deck plans; a liner newspaper, a postcard, a menu, and other ephemera. SS Bremen
+                    materials include: brochures for a Thanksgiving cruise to Bermuda, menus, a
+                    history of the Bremen, and a Trimingham's clothing brochure. The collection also
+                    includes a narrative by Lydia Deguio about her voyage on the SS United States in
+                    1953.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Menus.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2001.21</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

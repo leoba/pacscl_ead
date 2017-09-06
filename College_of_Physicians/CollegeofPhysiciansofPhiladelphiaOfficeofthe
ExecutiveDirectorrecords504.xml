@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>College of Physicians of Philadelphia Office of the Executive
+                        Director records <date type="inclusive">1953-2003</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">College of Physicians of Philadelphia Office of the
+                    Executive Director records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC504</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>64 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-2003</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The College of Physicians of Philadelphia, founded in 1787, is the oldest
+                    professional medical organization in the country. The College is home to the
+                    Mütter Museum and the Historical Medical Library. Through its program of
+                    lectures, workshops, and conferences, as well as through the C. Everett Koop
+                    Community Education Center and PhillyHealthInfo.org, an online health
+                    information resource, the College provides a place for both medical
+                    professionals and the general public to learn about medicine as both a science
+                    and as an art. Past Executive Directors of the College include Marc Micozzi and
+                    John O'Donnell.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records from the Office of the Executive Director. The
+                    materials in the collection date from 1953 to 2003 and include records of John
+                    M. O'Donnell, William F. Chaveas, and Marc Micozzi. Materials include
+                    correspondence and memoranda; minutes and agendas for meetings of the Council
+                    and of various College committees; subject files; appointment books; financial
+                    records; development and strategic planning files; information on Fellows,
+                    including statistical reports; fellowship ballots and proxies; files on College
+                    programs, lectures, and events, including programs, announcements, and
+                    photographs of speakers; records related to facilities and maintenance matters
+                    and building renovations; files on and external projects and medical
+                    organizations, such as the History of Nursing in Philadelphia project,
+                    Philadelphia Health Management Corporation, the Health Sciences Library
+                    Consortium, the Association of American Medical Colleges, the National Library
+                    of Medicine, and the Royal Society of Medicine.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Correspondence</genreform>
+                <genreform encodinganalog="655">Financial records</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Reports</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1991-048; 1991-091; 1992-109; 1993-019; 1993-040; 1993-043;
+                    1993-048; 1993-057; 1994-030; 1995-056; 1996-002; 1996-016; 1997-007; 1989-27;
+                    1989-46; 1989-82; 1990-002; 1991-121; 1992-045; 1990-103; </p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

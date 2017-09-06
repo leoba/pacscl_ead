@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>A. L. Wolf papers <date type="inclusive">1935-1994</date>
+                        <date type="bulk"> 1970s-1994</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">A. L. Wolf papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1096</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1935-1994</unitdate>
+                <unitdate type="bulk"> 1970s-1994</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alfred (Abby) Loeb Wolf was a lawyer and pilot. He was a partner in the law firm
+                    of Wolf, Block, Schorr, and Solis-Cohen, specializing in both aviation law and
+                    patent, trademark, and copyright law. He was a member of the Academy of Natural
+                    Sciences of Philadelphia, and sponsored and participated in a number of the
+                    Academy's collecting expeditions, including those to the Great Barrier Reef in
+                    1969 and to the Cocos (Keeling) Islands in 1974.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of Wolf's voyages and his involvement in
+                    expeditions of the Academy of Natural Sciences of Philadelphia. Destinations of
+                    the expeditions and voyages include Ceylon, Australia, and Fiji (1971-1972), the
+                    Maldives (1974), Cocos (Keeling) Islands (1974), the Virgin Islands (1979), the
+                    Bahamas (1981), and Bermuda (1983). Materials include: incoming and outgoing
+                    correspondence; bills and receipts; brochures and travel guides; maps and
+                    charts; photographs and slides; newspaper clippings, articles, and reprints;
+                    sales brochures for diving and photography equipment; and packing lists for the
+                    trips. Among the topics covered in the correspondence are trip planning, books
+                    and articles on explorations and sea voyages, and Wolf's financial and practical
+                    support of several Academy expeditions. The collection also includes personal
+                    items, such as a copy of Wolf's will, a copy of remarks made at his memorial
+                    service in 1985, and books from his collection, several of which relate to
+                    Cook's Pacific voyage.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Connie Wolf (Mrs. Alfred L. Wolf)</p>
+                <p>Accession number: 94:02</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

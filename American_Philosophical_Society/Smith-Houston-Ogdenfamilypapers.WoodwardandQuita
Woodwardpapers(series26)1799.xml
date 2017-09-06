@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Smith-Houston-Ogden family papers. Woodward and Quita Woodward
+                        papers (series 26) <date type="inclusive">1920-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>American Philosophical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Smith-Houston-Ogden family papers. Woodward and Quita
+                    Woodward papers (series 26)</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">APSSp.ACC1799</unitid>
+                <repository label="Repository">American Philosophical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1920-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Gertrude Houston, daughter of Henry Howard Houston and Sallie Sherrerd Bonnell,
+                    married George Woodward, M.D., son of Stanley and Sarah Butler Woodward, in
+                    1894. In 1911, Gertrude and George Woodward moved to Krisheim, the family estate
+                    in Chestnut Hill. The couple had five children: Henry Howard Houston, George
+                    Jr., Stanley, Charles, and Gertrude (Quita). Quita Woodward (1909-1934) died of
+                    Hodgkin's Disease. As a child, she was close friends with her cousin, Eleanor
+                    Houston Smith.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of Woodward family papers. Materials include: correspondence
+                    and invitations; election campaign materials for Dr. George Woodward; memorials
+                    of Quita Woodward's death, including a copy of a book entitled Quita, which was
+                    written by her mother; and photographs. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

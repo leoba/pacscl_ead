@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Faith and Fine Arts scrapbooks <date type="inclusive">1967-2000</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Faith and Fine Arts scrapbooks</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC757</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.875 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1967-2000</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Founded in 1961, Faith and Fine Arts was the inspiration of Sally Lorimer Morris
+                    who, along with her mother Mrs. Graeme Lorimer and nine other women, organized a
+                    program "to know our Art Museum." Each month, the group selected a section of
+                    the museum to explore, accompanied by a member of the Volunteer Guides. The
+                    group also attended a regular series of lectures and made visits to other
+                    cultural institutions in the area. Faith and Fine Arts has also regularly
+                    donated funds to the Museum's Library for the purchase of books.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>These six scrapbooks documenting the activities of Faith and Fine Arts consist
+                    primarily of ephemera and clippings, along with general and annual mailings to
+                    the members of Faith and Fine Arts. Brochures, invitations, and programs
+                    document the various events hosted by the group, including lectures, tours, and
+                    field trips. The scrapbooks include some letters to museum staff, volunteer
+                    guides, and staff of other arts organizations; membership lists; photographs of
+                    events; and lists of book purchases made possible by the group's gifts to the
+                    library.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Faith and Fine Arts. </corpname>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <subject encodinganalog="650">Art appreciation.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Scrapbooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 29</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/search.php?c=FFA">http://www.philamuseum.org/pma_archives/search.php?c=FFA</extref>.</p>
+            </otherfindaid>
+
+
+
+
+        </archdesc>
+    </ead>

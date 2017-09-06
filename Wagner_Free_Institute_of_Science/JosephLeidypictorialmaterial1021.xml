@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph Leidy pictorial material <date type="inclusive">1870-1890</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Wagner Free Institute of Science</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph Leidy pictorial material</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">WFISp.ACC1021</unitid>
+                <repository label="Repository">Wagner Free Institute of Science<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1870-1890</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Leidy (1823-1891) was one of the preeminent figures in the development of
+                    American science in the nineteenth century. He was a physician, naturalist,
+                    anatomist, and scientific illustrator. Following William Wagner's death in 1885,
+                    Leidy assumed the role of President of the Faculty of the Wagner Free Institute
+                    of Science, with special direction of the Biology Department. Leidy was Chairman
+                    of the Board of Curators at the Academy of Natural Sciences in Philadelphia, and
+                    is a central figure in that institution's history. He also taught courses at the
+                    University of Pennsylvania and at Swarthmore College.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of Joseph Leidy's original drawings created to
+                    illustrate his scientific writings. The originals are done in graphite pencil,
+                    ink, and watercolor on a variety of supports including small cards, onion skin,
+                    and the backs of social invitations and announcements. Most drawings are
+                    annotated and some carry a date. Included are many drawings from Leidy's
+                    Fresh-water rhizopods of North America (United States Geological Survey, v. 12,
+                    1879). Also included in the collection is a brief personal note from Leidy to
+                    Joseph Willcox, dated 1890.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 91-001</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Wagner Free Institute
+                    of Science: Joseph Leidy letters and drawings (89-050) is Joseph Willcox's
+                    compilation of Leidy's drawings into a volume. Academy of Natural Sciences:
+                    Multiple collections of Joseph Leidy records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

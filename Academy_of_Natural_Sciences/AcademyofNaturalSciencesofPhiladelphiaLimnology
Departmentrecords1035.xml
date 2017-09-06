@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Limnology Department
+                        records <date type="inclusive">1948-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Limnology
+                    Department records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1035</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>36.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1948-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>In 1947, Dr. Ruth Patrick founded the Limnology Department at the Academy of
+                    Natural Sciences in order to implement this approach to studying water
+                    pollution. One of the department's first projects was a 1948 biological survey
+                    of the Conestoga River basin (near Lancaster, Pennsylvania). Within the next few
+                    years, additional stream surveys and other studies were conducted in South
+                    Carolina, Louisiana, Tennessee and Texas. Dr. Patrick led the Limnology
+                    Department from its founding until 1973. A decade later, it was renamed the
+                    Patrick Center of Environmental Research in her honor.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records of the Limnology Department of the Academy of
+                    Natural Sciences, 1948 to 1985. Materials include records of contracts and
+                    grants, including proposals, budget summaries, official correspondence, and
+                    accounting information; summary reports of work performed (1950-1977 and
+                    1954-1982); personnel records; biographical information on department staff;
+                    meeting minutes from department meetings, 1974-1976; annual reports of the
+                    department; photos of various staff members in the field and in the laboratory;
+                    reports from the Task Force on the Limnology Department (1964-1969);
+                    correspondence of Ruth Patrick, Bill Hart, and John Bodine; microfilm reels of
+                    Limnology survey reports (1960-1970); and audio tapes and transcripts,
+                    schedules, programs, and an executive summary of a 1986 workshop on incinerator
+                    emissions.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 91:10</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: Academy of Natural Sciences of Philadelphia Division
+                    of Environmental Research records, Patrick Center for Environmental Research
+                    records, and Ruth Patrick papers.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

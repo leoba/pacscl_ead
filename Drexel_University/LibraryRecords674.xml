@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Library Records <date type="inclusive">1891-2002</date>
+                        <date type="bulk"> 1929-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Drexel University</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Library Records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">DUSp.ACC674</unitid>
+                <repository label="Repository">Drexel University<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>44 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1891-2002</unitdate>
+                <unitdate type="bulk"> 1929-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The library and reading room of the Drexel Institute of Art, Science, and
+                    Industry opened in 1892 under the direction of librarian Alice B. Kroeger. The
+                    first library was housed in the Main Building and was also responsible for
+                    running the library school until 1962. Within its first year of operation, it
+                    had built a collection of nearly eight thousand volumes, chiefly through gifts
+                    and donations from Anthony J. Drexel and his business partner, George W. Childs.
+                    The Drexel Institute library was also responsible for running the library
+                    school, which by 1900 was enrolling twenty students per year. A new library,
+                    later called the Korman Center, opened in 1959, but planning for another new
+                    library began shortly thereafter. The W. W. Hagerty Library opened in 1983.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection is actually made up of two collections, the Early library records
+                    collection, and the Library records (1929-2002) collection. The early library
+                    records collection consists of the minutes of the Trustees' Committee on the
+                    Library from 1892 to 1917; accession and inventory books listing items received
+                    and withdrawn from the collection, 1891-1947; library circulation statistics,
+                    1891-1923, and card catalogs. It also includes a brief series of correspondence
+                    by library director Anne Wallace Howland, 1923-1930.The later collection
+                    contains drafts of the library building program for the construction of Hagerty
+                    Library, 1970-1978, and annual reports from the library and its departments,
+                    1964-1997. Other records include subject files compiled chiefly by library
+                    director Richard Snyder, staff meeting minutes, some correspondence, and
+                    pamphlets pertaining to library events and exhibits.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2006.001 &amp; 2008.006</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

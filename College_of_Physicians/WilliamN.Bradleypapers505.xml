@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>William N. Bradley papers <date type="inclusive">1894-1962</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">William N. Bradley papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC505</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1894-1962</unitdate>
+            </did>
+
+            <bioghist>
+                <p>William Nathaniel Bradley (1871-1962) was a Philadelphia pediatrician. He
+                    graduated from the Philadelphia College of Pharmacy in 1892, and received an
+                    M.D. from the University of Pennsylvania in 1894. Bradley taught Histology (from
+                    1894-1896) and pediatrics (from 1910-1912) at Jefferson Medical College. In
+                    1896, he became the chief of the Children's Clinic at the South Eastern
+                    Dispensary. In 1909, Bradley was appointed Medical Director of the Starr Center
+                    Association. He also worked as assistant physician in the outpatient departments
+                    at Pennsylvania Hospital and Philadelphia Orthopaedic Hospital (1909-1911). He
+                    served as Pediatrist at Children's Hospital of Philadelphia from 1912 to 1915.
+                    From 1915 to 1929, Bradley had charge of the pediatric department at Howard
+                    Hospital. He also was instrumental in the establishment of Babies' Hospital of
+                    Philadelphia in 1911. From 1912-1926 he taught pediatrics at the School of
+                    Medicine of the University of Pennsylvania, and from 1917 to 1946, he worked on
+                    the pediatric staff at Philadelphia General Hospital. Bradley also taught at the
+                    Graduate School of Medicine of the University of Pennsylvania (1921 to 1946). He
+                    served as consulting pediatrist to the Municipal Hospital for Contagious
+                    Diseases (1936-1946) and Wills Eye Hospital (1932-1945). Bradley retired from
+                    active practice in 1955.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of 17 scrapbooks (some disbound) containing
+                    correspondence and reports, 1907-1962. Materials include: correspondence with
+                    colleagues about referrals and consultations; letters related to meetings of the
+                    Philadelphia Pediatric Society and other professional societies; invitations and
+                    programs from meetings; letters regarding papers submitted to [MSSP] section of
+                    Pediatrics; acknowledgments of reprints; letters of appointment; and letters of
+                    recommendation. Also included are one folder of reprints; correspondence and
+                    research material (clippings, notes, reprints) for "Philadelphia physicians in
+                    art," 1945-1961, and a scrapbook of portraits of notable physicians
+                    (photographs, engravings, clippings); and loose photographs and cabinet cards
+                    with portraits of physicians, along with invitations and programs.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of William N. Bradley, Mrs. Burlingame Harvey, and Mrs. Carl
+                    Anderson. 1991-064 was transferred by the Mutter Museum in 1991.</p>
+                <p>Year acquired: 1961, 1984</p>
+                <p>Accession number: 1991-064 and 1993-045</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: William N. Bradley radio broadcasts, addresses, and other
+                    writings (MSS 2/0008-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

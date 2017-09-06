@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Horace Holden Thayer papers <date type="inclusive">1893-1943</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Horace Holden Thayer papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC455</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6.41 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1893-1943</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Horace Holden Thayer was a naval architect and marine engineer. His office was
+                    located in the Witherspoon Building, Philadelphia. Thayer was a graduate of
+                    Cornell University with a degree in Mechanical Engineering, specializing in
+                    naval architecture. He was Assistant Naval Architect and later Naval Architect
+                    of the U.S. Shipping Board Emergency Fleet Corporation during the First World
+                    War. He was a member of the Society of Naval Architects and Marine Engineers,
+                    the Society of Naval Engineers, the Society of American Military Engineers, and
+                    the American Society for Testing Materials.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of records related to Thayer's work for the U.S. Shipping
+                    Board Emergency Fleet Corporation during World War I. These records include
+                    correspondence and memoranda; general, special, and technical orders to
+                    personnel; plans, specifications, and technical data on ships and equipment; a
+                    list of ships (wood and steel) built by the U.S. Shipping Board; progress charts
+                    for Emergency Fleet ships; and contracts for ships built by the Emergency Fleet
+                    Corp. Other records include: correspondence related to a floating drydock built
+                    for the Venezuelan government around 1911; survey and damage reports; and plans
+                    and specifications for various ships. Other papers include: investment records;
+                    a small amount of personal correspondence; data used by Thayer to prepare a
+                    series of articles on shipbuilding materials published in Marine Engineering and
+                    Shipping Age, 1922; and work journals with notes, technical data, calculations,
+                    and several sketches.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">United States Shipping Board Emergency Fleet
+                    Corporation.</corpname>
+                <subject encodinganalog="650">Marine engineering--United States.</subject>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Notebooks.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+                <genreform encodinganalog="655">Sketches.</genreform>
+                <genreform encodinganalog="655">Technical reports.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1982.156</p>
+            </acqinfo>
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: National Archives:
+                    Records of the United States Shipping Board, Record Group 32, 1914-38 </p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

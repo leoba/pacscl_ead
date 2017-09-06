@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>O. P. Merrill papers <date type="inclusive">1926-1981</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">O. P. Merrill papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC492</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>20.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1981</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Owen P. Merrill (1909-1989) was a noted yacht designer, yachtsman, and sailmaker.
+                    As a young man, Merrill worked for Olin Stephens at Sparkman &amp; Stephens in
+                    Scarsdale New York. In 1931, he was a member of the crew aboard Dorade which won
+                    the Transltlantic Race and the Fastnet race. He also worked for the H. B. Nevins
+                    yard in City Island, New York. Initially a chief bosun in the U.S. Coast Guard
+                    Temporary Reserve, he skippered Edlu in the "off-shore yacht patrol" in the
+                    early part of World War II. Later, he joined the Naval Reserve and commanded a
+                    110' wooden subchaser. Following that assignment, he served as navigator aboard
+                    an LSD and Fleet Tanker, seeing action at Luzon's Leyte Gulf and Lingayen Gulf,
+                    as well as Okinawa. After the war, he worked in Philadelphia for Thomas Bowes,
+                    designing small steel commercial vessels. In 1952, he went into the sailmaking
+                    business in Delanco, New Jersey , which he continued into his late 60s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the personal and professional papers of O.P. Merrill.
+                    Materials include: photographs and slides of sailboats (many of Comet class
+                    boats) with Merrill sails and photos of sailing races (specific vessels include
+                    Brilliant, Dorade, Tradescantia, Edlu, and Barfly); photo albums of 1936 Bermuda
+                    Race and the crew of Edlu; photo album of 1926-1932 New York Yacht Club cruises;
+                    photo album of model yacht and toy boat races in Bristol Harbor (and letter from
+                    N.G. Herreshoff to Merrill dated 1931); photo album of a San Francisco Chamber
+                    of Commerce cruise, 1929; a photo album from a trip to Portugal and Spain, 1954;
+                    log book of the yacht Dorade kept during the 1932 Bermuda Race; and a travel
+                    journal from Merrill's trip to Italy in 1978. Plans in the collection include:
+                    folded plans for subchasers (designed by Luder's Marine Construction Co. and
+                    Sparkman &amp; Stephens), 1941-1942; rolled boat plans by Merrill and others;
+                    these include sloops, dinghies, Penguins, Dusters, Comets; plans by Merrill for
+                    various types of sails for small craft. Records related to Merril’s business
+                    include: business correspondence, including letters from vendors and customers;
+                    outgoing correspondence (1961-1965); bills and receipts; product flyers and
+                    brochures; files on materials and equipment; financial records, including tax
+                    forms, check stubs; Merrill Sails agreement of partnership (between Merrill and
+                    Charles W. Lyon, Jr.); dissolution agreement between Merrill and Lyon; a
+                    looseleaf binder of sail specifications for Merrill Sails; and several sailcloth
+                    sample books and some loose sail cloth samples. Additional materials in the
+                    collection include: personal correspondence, 1941-1943, primarily from Merrill's
+                    parents (Mr. and Mrs. Edward K. Merrill); personal financial papers, including
+                    health records, financial investments, tax returns; Merrill's high school
+                    diploma and grammar certificate, mid 1920s; diaries 1927-1930; address books;
+                    and ephemera. Printed materials include yearbooks for various classes of
+                    sailboats and several bound volumes of Transactions of the Society of Naval
+                    Architects and Marine Engineers.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Dorade (Yawl)</corpname>
+                <subject encodinganalog="650">Naval architecture--Designs and plans.</subject>
+                <subject encodinganalog="650">Sails.</subject>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Financial records.</genreform>
+                <genreform encodinganalog="655">Photograph albums.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+                <genreform encodinganalog="655">Ships plans.</genreform>
+                <genreform encodinganalog="655">Ships' logs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1989.27</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles Kurz II papers <date type="inclusive">1926-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles Kurz II papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC589</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Kurz II was born in 1945. He received his BA in 1967 from Trinity
+                    College, Hartford, CT and his MBA from UPenn, Wharton Graduate Division. He was
+                    president of Kurz-Allen Inc. and Vice President of Keystone Shipping Co. He was
+                    also Director of the International Tanker Indemnity Association and Director of
+                    the American Steamship Owners Mutual Protectuion and Indemnity Association.
+                    Established in 1965, the non-profit, quasi-public Philadelphia Port Corporation
+                    had the power to issue municipal bonds to raise funds for port improvements.
+                    Revenue to pay the bonds' debt service was realized primarily through leasing
+                    the agency's port facilities to private operating companies. These private
+                    companies operated their respective port facilities on a day-to-day basis, with
+                    marketing assistance from the Philadelphia Port Corporation. Major port
+                    improvements were made in the 1960s and 70s under the auspices of the
+                    Philadelphia Port Corporation. These included the construction of the 106-acre
+                    Packer Avenue Marine Terminal (still the Port of Philadelphia's largest
+                    facility) and the Tioga Marine Terminal in the 1970s. </p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Charles Kurz II. Materials include:
+                    correspondence, memoranda, minutes, newspaper and magazine clippings, and
+                    background materials related to the Philadelphia Port Corporation (1984-1990);
+                    memoranda, proposals, agendas, and correspondence of the Corporation's Real
+                    Estate Committee (1987-1988); and memoranda, minutes, and status reports of the
+                    Strategic Capacity Committee (1988). Additional reports include Strategic
+                    Business Plan for the Philadelphia Port Corporation. (1988) and a report of the
+                    Economic Development Partnership Committee on the Ports of Pennsylvania. (1988).
+                    Charles Kurz II materials include a 1969 MBA thesis entitled Oil Tanker
+                    Chartering: An Economic and Historical Analysis and materials used by Kurz in
+                    preparation for his thesis including brochures, reports and data tables
+                    (1926-1968). Other materials in the collection include: a bound volume of
+                    correspondence of the Keystone Shipping Company and the Chestnut Shipping
+                    Company with the U.S. Department of Commerce on maritime subsidy matters (1973);
+                    conference papers from the Safe Navigation Symposium (1978) and from meetings of
+                    the International Tanker Safety Conference (1975 and 1979); a Handbook on
+                    International Trade Procedures sponsored by Kurz &amp; Allen (1989); printed
+                    materials on oil spills and collision protection for tankers; video on the
+                    environmental impact of the wreck of the tanker Braer; and several other printed
+                    volumes. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Port Corporation.</corpname>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Reports.</genreform>
+                <genreform encodinganalog="655">Video recordings.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1998</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Susan Braudy papers <date type="inclusive">1941-2002</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Bryn Mawr College</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Susan Braudy papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">BMCSp.ACC1336</unitid>
+                <repository label="Repository">Bryn Mawr College<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1941-2002</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Susan Orr Braudy graduated from Bryn Mawr College in 1963. She is the author of
+                    Family Circle: the Boudins and the Aristocracy of the Left. Kathy Boudin (b.
+                    1943) graduated from Bryn Mawr College in 1962 and is the daughter of attorney
+                    Leonard Boudin who represented such controversial clients as Judith Coplon,
+                    Fidel Castro, and Paul Robeson. Kathy Boudin was convicted in 1984 of felony
+                    murder for her involvement in a Brinks armored car robbery, and the associated
+                    killings of three people.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of materials gathered by Braudy for her book on the Boudin
+                    family. Materials include FBI files, clippings, court transcripts, police radio
+                    transcripts, and photocopies of articles. FBI files include those of Leonard
+                    Boudin, Tyrone Rison, the Weathermen, Ted Gold, and Victor Rabinowitz.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

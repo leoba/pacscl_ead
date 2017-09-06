@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>U.S. Arsenal records <date type="inclusive">1804-1817</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">U.S. Arsenal records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC431</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.16 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1804-1817</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The US Arsenal (known after 1860 as the Schuylkill Arsenal) was constructed in
+                    Philadelphia 1800. It began as a warehouse for ammunition and other military
+                    supplies used by the United States armed services. It was the third such federal
+                    facility in the young nation. It outfitted the Lewis and Clark Expedition in
+                    1803 and supplied arms for the War of 1812. After that war, the US Arsenal
+                    ceased to be the main storehouse for ammunition and arms, that branch of
+                    supplies being transferred to the Frankford Arsenal. In 1818, the US Arsenal
+                    gave up its distribution of arms altogether to dedicate itself to manufacturing,
+                    storing and distributing clothing and textile materials. The original site of
+                    the arsenal at Grays Ferry Avenue and Washington Avenue was closed and razed in
+                    1963. Other names by which the arsenal was known during its history are the
+                    Philadelphia Depot of the Quartermaster's Department and the Philadelphia
+                    Quartermaster's Intermediate Depot.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is an account book of the US Arsenal containing a detailed listing of
+                    receipts and disbursements for armed services including the US Navy and US
+                    Marine Corps for the period 1804-1817. Notable entries include supplies for the
+                    frigate Guerriere, numerous mentions of the gun ship Franklin, cannisters for
+                    the Prometheus, and a mention of Commodore Rodgers. A number of entries are for
+                    supplies received from George Harrison, Navy agent.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Arsenals--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Military supplies.</subject>
+                <genreform encodinganalog="655">Account books.</genreform>
+                <genreform encodinganalog="655">Military records.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1965.18</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

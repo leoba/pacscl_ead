@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Joseph L. Zazyczny papers <date type="inclusive">1930-1990</date>
+                        <date type="bulk"> 1959-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>The Historical Society of Pennsylvania</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Joseph L. Zazyczny papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">THSSp.ACC675</unitid>
+                <repository label="Repository">The Historical Society of Pennsylvania<address>
+                        <addressline>1300 Locust Street</addressline>
+                        <addressline>Philadelphia, PA 19107</addressline>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1930-1990</unitdate>
+                <unitdate type="bulk"> 1959-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Joseph Zazyczny was born in Philadelphia and educated in Philadelphia and
+                    Colorado. He has held several positions in state and local government. He has
+                    been active in many Philadelphia-area Polish-American political and social
+                    groups, and was a founder and president of the Polish Heritage Society of
+                    Philadelphia.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection includes publications, correspondence, and other papers
+                    concerning the Polish-American community in Philadelphia, particularly in the
+                    1970s and 1980s. Some files contain older documents (1930s). Included are files
+                    pertaining to the Bicentennial celebrations of 1976, the American Council of
+                    Polish Cultural Clubs, the folk dance festival, the Pulaski highway, and the
+                    Tadusz Kosciuzko statue.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">American Council of Polish Cultural Clubs.</corpname>
+                <corpname encodinganalog="610">Polish Heritage Society of Philadelphia.</corpname>
+                <persname encodinganalog="600">Zazyczny, Joseph L., 1935-</persname>
+                <subject encodinganalog="650">Polish Americans--Anniversaries, etc.</subject>
+                <subject encodinganalog="650">Polish
+                    Americans--Monuments--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Polish Americans--Pennsylvania--Philadelphia--Politics
+                    and government.</subject>
+                <subject encodinganalog="650">Polish Americans--Societies, etc.</subject>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2006.013</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

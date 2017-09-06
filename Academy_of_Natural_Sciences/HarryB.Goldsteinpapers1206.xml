@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Harry B. Goldstein papers <date type="inclusive">1933-1990</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Harry B. Goldstein papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1206</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>4.08 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1990</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Harry B. Goldstein (1908-1991) was an avid birder and a member of the Delaware
+                    Valley Ornithological Club and the Cooper Ornithological Club.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of notebooks, journals, checklists, and other
+                    documentation related to Goldstein's birding activities. There are 23 notebooks
+                    containing lists of birds sited, and narrative descriptions of birding trips in
+                    Pennsylvania and New Jersey, as well as many other parts of the world, including
+                    India, Israel, Central America, and Jamaica, dating from 1936 to 1986. One
+                    journal includes Goldstein's reflections on his "hoboing" adventures from the
+                    1920s to 1950s. There are also 45 notebooks listing plants, animals, and birds
+                    seen from the 1930s to 1983. Some volumes include location and weather
+                    information. The collection also includes several printed daily checklists for
+                    birds seen; a scrapbook entitled "Little Nature Studies" with photographs,
+                    drawings, charts, and newspaper clippings; manuscripts for "Birds of Israel,"
+                    "Random Thoughts of a Naturalist" and "Our Allies-the Snakes"; and
+                    additional birding notes.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 99:04</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

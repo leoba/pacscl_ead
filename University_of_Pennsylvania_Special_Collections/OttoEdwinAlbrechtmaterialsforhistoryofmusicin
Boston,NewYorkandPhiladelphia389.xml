@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Otto Edwin Albrecht materials for history of music in Boston, New
+                        York and Philadelphia <date type="inclusive">1926-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Pennsylvania, Rare Book and Manuscript
+                        Library</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Otto Edwin Albrecht materials for history of music in
+                    Boston, New York and Philadelphia</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoPSp.ACC389</unitid>
+                <repository label="Repository">University of Pennsylvania, Rare Book and Manuscript Library<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1926-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Otto Edwin Albrecht (1988-1984) was a professor and curator of the music library
+                    at the University of Pennsylvania. He earned his bachelor's degree from Penn in
+                    1921, and after studying at the University of Copenhagen, he returned to teach
+                    French at the University and at the same time completed his master's degree
+                    (1925). He earned his doctorate in French from Penn in 1931. He taught French at
+                    the University and lectured in the music department. In 1937, Albrecht became
+                    curator of the music library. He is the author of A Census of Autograph Music
+                    Manuscripts of European Composers in American Libraries (1953). He retired in
+                    1970. The University renamed the music library in his honor, and he continued as
+                    the curator there until his death.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists primarily of typed and manuscript notes compiled from New
+                    York, Boston, and Philadelphia newspapers from 1800-1840. The notes include
+                    listings of musical events, musical societies, publications, teachers, and
+                    instrument makers and dealers. Newspapers surveyed include the New York Herald,
+                    the Aurora General Advertiser, Poulson's Daily American Advertiser, the Boston
+                    Gazette, and the Independent Chronicle. The collection also includes a small
+                    amount of correspondence related to Albrecht's work on a census of European
+                    music held in collections in the United States, and the building of a music
+                    microfilm archive (a project funded by the Oberlaender Trust). There are also
+                    music catalogs, publishing announcements, programs, and bulletins.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 158</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Undine Barge Club records <date type="inclusive">1856-1986</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Undine Barge Club records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC500</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>35 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1856-1986</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Undine Barge Club started operations in 1856, occupying a small frame house
+                    along the Schuylkill River which the City condemned in 1859. Quartered in 14
+                    Boat House Row from 1860 to 1882, the club Commissioned Furness and Evans to
+                    design Boat House #13, to which they moved in 1883 and still occupy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of the Undine Barge Club. Materials include:
+                    logbooks, 1876-1986 (missing years 1911-1913, 1943-1946, and 1980-1985); log
+                    summaries, 1894-1935; miscellaneous temporary and substitute logs; minutes of
+                    the Undine Barge Club, 1856-1866, 1881-1927, and 1948-1975 (there are other
+                    minutes to be found in books labeled Membership and also some sets of loose
+                    minutes among paper records); membership ledgers; and a chart of Undine racing
+                    entries and victories to 1958. Files relating to Undine and Castle Ringstetten
+                    include flag patterns, committee reports, newspaper clippings, minutes,
+                    membership, budget material, Ringstetten/Undine visitor's register, 1876-1917,
+                    and a small amount of correspondence, some related to uniforms worn by the
+                    crews. Materials related to Castle Ringstetten include logbooks, 1876-1969,
+                    recording dinners at the clubs clubhouse. A typical entry includes a list of
+                    guests, a menu, and a description of the evening's events, sometimes accompanied
+                    by drawings or cartoons. Financial records include ledgers, cash books,
+                    accounts, receipt books, member accounts, and treasurer's books. Additional
+                    materials include: scrapbooks of the Schuylkill Navy, 1873, and Undine,
+                    1922-1950; black and white photos of club members; trophies; a Ringstetten
+                    Undine music book; and plaques, ribbons, and lapel pins. Printed materials in
+                    the collection include: National Association of Amateur Oarsmen yearbooks,
+                    rowing guides, and rule books (1895-1970) (some missing or duplicated); Canadian
+                    Association of Amateur Oarsmen regatta rules and record books, 1956-1957; Undine
+                    Barge Club charter, by-laws, and memberships 1884-1939 (not complete); The
+                    Undine Barge Club of Philadelphia, Supplement 1925-1955; Undine and Sintram;
+                    Undine and Other Tales; Rowing by R.A. and R.J. Glendon; Henley Records,
+                    1919-1938; and an 1895 copy of a souvenir book for Roach and Sons shipyard. The
+                    collection also includes a small quantity of personal papers of J. F. Carroll,
+                    including his passport, honorable discharge, sales contracts, and
+                    photographs.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">National Association of Amateur Oarsmen
+                    (U.S.)</corpname>
+                <corpname encodinganalog="610">Schuylkill Navy.</corpname>
+                <subject encodinganalog="650">Regattas--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Rowing clubs--Pennsylvania--Philadelphia.</subject>
+                <subject encodinganalog="650">Rowing--Pennsylvania--Philadelphia.</subject>
+                <genreform encodinganalog="655">Clippings.</genreform>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Ledgers (account books).</genreform>
+                <genreform encodinganalog="655">Menus.</genreform>
+                <genreform encodinganalog="655">Minutes.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1990.33; 82.45; 84.30; 89.4; 86.48; non-acc.</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

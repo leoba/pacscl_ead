@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Rudolf G. Schmieder papers <date type="inclusive">1887-1968</date>
+                        <date type="bulk"> 1929-1968</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Rudolf G. Schmieder papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1904</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.88 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1887-1968</unitdate>
+                <unitdate type="bulk"> 1929-1968</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Rudolf Gustav Schmieder (1898-1967) was an entomologist, associate professor of
+                    biology at the University of Pennsylvania, and a research associate at the
+                    Academy of Natural Sciences of Philadelphia. He received his Ph.D. from the
+                    University of Pennsylvania in 1927 and taught there until 1967, retiring shortly
+                    before his death. He was active in the American Entomological Society, serving
+                    as its recording secretary from 1931 to 1935 and its president from 1936 to
+                    1938, and was editor of the Society's journal, Entomological News, from 1945 to
+                    1967.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Rudolf Schmieder. Materials include: incoming
+                    and outgoing correspondence on general entomology with various colleagues;
+                    correspondence as editor of Entomological News; and correspondence related to
+                    his role as a member of the Thomas Say Foundation. Papers related to Scmeider's
+                    connections with the American Entomological Society, especially regarding those
+                    years when he was secretary or president of the Society include correspondence
+                    regarding corresponding members, recommendations for honors for life members,
+                    and other records of the society, including printed by-laws. Other materials in
+                    the collection include: a 1910 travel journal of Schmeider's trip to Europe;
+                    school papers; a 1916 yearbook from Central High School, Philadelphia; diplomas,
+                    certificates, and honorary memberships; and a family genealogy.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Academy of Natural
+                    Sciences of Philadelphia: American Entomological Society records and Academy of
+                    Natural Sciences of Philadelphia Entomology Department records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

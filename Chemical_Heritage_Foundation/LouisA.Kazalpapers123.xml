@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Louis A. Kazal papers <date type="inclusive">1950-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Chemical Heritage Foundation</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Louis A. Kazal papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CHFSp.ACC123</unitid>
+                <repository label="Repository">Chemical Heritage Foundation<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>3.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1950-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Louis A. Kazal (Ph.D. in Biochemistry, Rutgers University) joined the Department
+                    of Physiology at Jefferson Medical College in 1957. He headed the Plasma
+                    Fractionation Unit of Jefferson's Cardeza Foundation for Hematological Research.
+                    Prior to that he was a research biochemist at the Merck Sharp &amp; Dohme
+                    Pharmaceutical Corporation. His research involved the chemistry and biophysics
+                    of blood coagulation and erythropoiesis. At Jefferson he presented lectures on
+                    the physiology of coagulation, developed laboratory exercises in coagulation,
+                    and engaged in and supervised graduate student research in coagulation and
+                    erythropoiesis. He retired from Jefferson in 1978.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection consists of records of Kazal's work at Jefferson Medical College
+                    (1956-1978). Materials include: reports and correspondence relating to research
+                    on plasma fractionation, coagulation inhibitor studies, anticoagulent activity
+                    of gastric juices, and fibrinogen precipitation. The collection also includes
+                    binders of experiment data sheets and charts, reprints of Kazal's articles,
+                    copies of student papers, and administrative documents and correspondence.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: L.K.</p>
+                <p>Accession number: 04:033</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Charles B. Edwards diary <date type="inclusive">1901-1933</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Charles B. Edwards diary</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC656</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1901-1933</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles B. Edwards was born 1869. In 1913 Edwards was hired by Westinghouse
+                    Machine Company and in 1914, the Edwards family moved to England, where he was
+                    probably still employed by Westinghouse. Edwards returned to the United States
+                    in 1916 and by 1918, Edwards was working mainly in New York, and the family
+                    moved to Forest Hills, Long Island and soon thereafter moved again to
+                    Haddonfield, NJ. Probably around the same time, he began working for New York
+                    Shipbuilding Co. in Camden. By 1932, Edwards was retired.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of diaries kept by Charles B. Edwards. The nine diaries,
+                    dating from 1913-20 and 1932, note the weather and daily activities of Edwards.
+                    Entries are typically brief. One notebook, kept from 1901 to 1906, lists
+                    specifications for a number of ships, including the torpedo boat Lawrence, the
+                    cruiser Des Moines, the battleships Pennsylvania, Vermont, Rhode Island, New
+                    Jersey, and a number of other ships. This notebook also includes a table of
+                    insurance for buildings owned by the Fore River Ship Building Co. The other
+                    notebook dating roughly from 1914-1915, contains rough notes and calculations,
+                    and is not clearly connected to particular ships. </p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Diaries.</genreform>
+                <genreform encodinganalog="655">Notebooks.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 2004.19</p>
+            </acqinfo>
+
+
+
+            <otherfindaid>
+                <p>A paper finding aid is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+        </archdesc>
+    </ead>

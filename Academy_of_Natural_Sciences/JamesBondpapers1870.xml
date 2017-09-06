@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>James Bond papers <date type="inclusive">1939-1991</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">James Bond papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC1870</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>6 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1939-1991</unitdate>
+            </did>
+
+            <bioghist>
+                <p>James Bond (1900-1989) was a leading American ornithologist. Bond was born in
+                    Philadelphia and worked at the Academy of Natural Sciences, rising to become
+                    curator of birds. He was an expert in Caribbean birds and wrote the definitive
+                    book on the subject: Birds of the West Indies, first published in 1936. Bond won
+                    the Institute of Jamaica's Musgrave Medal in 1952; the Brewster Medal of the
+                    American Ornithologists Union in 1954; and the Leidy Medal of the Academy of
+                    Natural Sciences in 1975. Author Ian Fleming appropriated his name for his
+                    fictional spy.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of manuscripts, correspondence, and professional papers of
+                    James Bond and volumes of works by James and Mary Wickham Bond. Manuscripts in
+                    the collection include: autographed copies of chapters of Birds of the West
+                    Indies; typescript corrections for new editions of the book; a typescript draft
+                    of The World of James Bond, a biography by David R. Contosta; and a typescript
+                    for "A New Race of Chat Tanager from the Dominican Republic," by Bond and
+                    Annabelle Dod, with some related correspondence and notes. Other professional
+                    correspondence in the collection (incoming and outgoing), dating from 1939 to
+                    1973, relates to the editing and publication of other books and articles,
+                    sightings of birds, identification of species, and requests for reprints.
+                    Correspondence dating from 1975 to 1979 is largely made up of letters between
+                    Bond and the secretary of the Academy of Natural Sciences of Philadelphia. The
+                    collection includes copies of books by James and Mary Wickham Bond, reprints,
+                    and supplements to the Checklist of Birds of the West Indies. Other materials in
+                    the collection include photographic portraits of Bond; a set of printing plates
+                    for illustrations in Bond's book on Mt. Desert birds; medals awarded to Bond for
+                    his work; and a scrapbook of photographs and articles about Ian Fleming's use of
+                    James Bond's name.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Free Library of
+                    Pennsylvania: James Bond collection.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

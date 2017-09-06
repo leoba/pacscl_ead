@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Alexander E. Sharp papers <date type="inclusive">1953-1971</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Alexander E. Sharp papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC841</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1953-1971</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Alexander E. Sharp (1903-1989) was Chairman, Policy and Strategy Committee, and
+                    Vice Chairman, Division of Home Missions, National Council of the Church of
+                    Christ in the U.S.A.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Alexander E. Sharp. Materials include: minutes
+                    of the Board of Managers, Central Department of Field Administration, 1954;
+                    minutes of the Executive Board of Home Missions, 1953-1957; budgets and
+                    treasurer's reports, Division of Home Missions, 1957-1961; a small amount of
+                    Central Department of Research and Survey correspondence; and reports and
+                    studies. The collection also contains files of John Courtney Smith from
+                    1966-1971. Materials include: minutes of various committees, including the
+                    Working Group of the Bishop's Committee for Ecumenical and Interreligious
+                    Affairs and the NCC; reports of the Study Group of the NCC and the Roman
+                    Catholic Church; copies of the constitution and by-laws of the NCC, 1966; policy
+                    statements; and memoranda. Additionally there is some correspondence, reports
+                    and and other papers of Theophilus M. Taylor, 1968-1970. </p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Unknown</p>
+                <p>Accession number: 68 0286</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

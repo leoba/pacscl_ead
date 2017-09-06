@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Academy of Natural Sciences of Philadelphia Managing Director
+                        records <date type="inclusive">1933-1939</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Academy of Natural Sciences</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Academy of Natural Sciences of Philadelphia Managing
+                    Director records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">AoNSp.ACC095</unitid>
+                <repository label="Repository">Academy of Natural Sciences<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>21.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1933-1939</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Charles Meigs Biddle Cadwalader (1885-1959) was an important figure at the
+                    Academy of Natural Sciences. He was elected a life member of the Academy in
+                    1908. He became a trustee in 1927 and remained on the board until his death. In
+                    1928 he was named Managing Director, and in 1937 was appointed President,
+                    retiring from that position in 1951. During his tenure, the Academy conducted
+                    more than 100 scientific expeditions, and visitor attendance at the Academy
+                    increased by more than 450 percent. In 1935 he was awarded the Philadelphia
+                    (Bok) award.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of incoming and outgoing correspondence of Charles M.B.
+                    Cadwalader, dating from 1933 to 1939. Much of the correspondence relates to the
+                    acquisition of specimens, donations, estates and annuities, publications, and
+                    other Academy business. There is also a significant amount of correspondence
+                    with scientists on Academy expeditions, including Brook Dolan, M.A. Carriker,
+                    J.A.G. Rehn, Rodolphe Meyer de Schauensee, Harold T. Green, R.R.M. Carpenter,
+                    and others. Notable are two letters from Ernest Hemingway, discussing his
+                    fishing exploits for Academy ichthyologist Henry Fowler, and other matters. The
+                    collection also includes copies of outgoing correspondence from the heads of
+                    various Academy departments.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 02:22</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

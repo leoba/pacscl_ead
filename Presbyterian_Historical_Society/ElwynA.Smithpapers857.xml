@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Elwyn A. Smith papers <date type="inclusive">1919-1975</date>
+                        <date type="bulk"> 1960s-1975</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Presbyterian Historical Society</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Elwyn A. Smith papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PHSSp.ACC857</unitid>
+                <repository label="Repository">Presbyterian Historical Society<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>11.00 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1919-1975</unitdate>
+                <unitdate type="bulk"> 1960s-1975</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Elwyn Allen Smith (b. 1916) received his B.D. from Yale Divinity School and his
+                    Th.M from Princeton Seminary. Smith served as a missionary in Philippines from
+                    1945 to 1946. From 1945 to 1949 Smith was the Associate Youth Editor, Board of
+                    Christian Education. From 1950-1956, Smith was Dean and Professor of Church
+                    History, Dubuque Theological Seminary. He was Professor of Ecclesiastical
+                    History and History of Doctrine at Western Theological Seminary in Pittsburgh
+                    beginning in 1956. Smith is a former Professor of Theology and Vice-President at
+                    Temple University and was the coeditor of the Journal of Ecumenical Studies at
+                    Temple. Smith served as chair on the Task Force on the Middle East in the early
+                    1970s.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of papers of Elwyn A. Smith. Materials include: manuscripts
+                    and published versions of articles by Smith, as well as background and research
+                    materials (including an Air Force training manual circa 1960); printed materials
+                    and newsletters from organizations with which Smith was affiliated or related to
+                    the topics of his historical research; reprints of articles by others and
+                    several dissertations; correspondence related to writing and professional
+                    activities; correspondence, minutes, reports, student papers, teaching notes,
+                    and a grade book related to Smith's work at Temple as a faculty member and
+                    administrator in the Religion Department, and as Vice President for Student
+                    Affairs; meeting minutes, correspondence, and papers related to the American
+                    Society of Church History; and family correspondence and photographs, as well as
+                    information about his children. The collection also includes correspondence,
+                    reports, drafts, policy statements, and printed materials related to the work of
+                    the Task Force on the Middle East, 1972-1974. Many newsletters and printed
+                    materials are from non-Presbyterian organizations, particularly Jewish
+                    organizations.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>Access to this collection is restricted; please contact the holding institution
+                    for details.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: accessions 72 0326, 99 0210: Unknown; accession 82 1018: Smith, Elwyn
+                    A.</p>
+                <p>Accession number: 72 0326|82 1018|99 0210</p>
+            </acqinfo>
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

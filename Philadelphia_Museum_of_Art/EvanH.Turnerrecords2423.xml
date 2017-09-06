@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Evan H. Turner records <date type="inclusive">1952-1978</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Evan H. Turner records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC2423</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>151.75 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1952-1978</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Evan Turner, an art historian and scholar, was the Director of the Museum from
+                    1964 to 1978; from here he went to North Carolina's Ackland Art Museum and
+                    beginning in 1982, was the Director of the Cleveland Museum of Art. A dynamic
+                    personality, he reorganized the staff along individual departmental lines. The
+                    Kienbusch Arms and Armor Collection came to the Museum during his tenure and the
+                    closing and reopening of the Museum after the completed air-conditioning also
+                    took place then.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Turner's records are voluminous and wide-spread in subject matter. He was among
+                    the “inner circle” of the Association of Art Museum Directors (AAMD) and
+                    Chairman of their Professional Practices Committee. In addition, he was on the
+                    Advisory Panel of the National Council of the Arts, and the National Endowment
+                    for the Arts. There are lengthy records of his activities in these fields.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+                <genreform encodinganalog="655">Ephemera.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href=" http://www.philamuseum.org/pma_archives/ead.php?c=TUR&amp;p=tp">
+                        http://www.philamuseum.org/pma_archives/ead.php?c=TUR&amp;p=tp
+                    </extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art: Arnold Jolles Records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

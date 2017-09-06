@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Babies’ Hospital of Philadelphia records <date type="inclusive">1911-1960</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>College of Physicians of Philadelphia</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Babies’ Hospital of Philadelphia records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">CoPSp.ACC502</unitid>
+                <repository label="Repository">College of Physicians of Philadelphia<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1911-1960</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The Babies' Hospital of Philadelphia was opened at the Country Branch of
+                    Children's Hospital in Wynnefield, Pennsylvania on July 11, 1911, and was
+                    incorporated in November 1911 with Charles A. Fife serving as its first
+                    president. The following year, the hospital secured the use of the Presbyterian
+                    Hospital's convalescent home in Devon for recovered babies who required
+                    additional care. In 1913, the Babies' Hospital opened a clinic, dispensary, and
+                    milk station on 729 Lombard Street in the city of Philadelphia. The clinic
+                    provided numerous services, including instruction courses for expectant mothers.
+                    The following year, another dispensary was opened at 609 Addison Street. By
+                    1918, this dispensary had moved to larger quarters on Ninth and Pine Streets. In
+                    1915, a permanent home for the country hospital was established in Llanerch,
+                    Pennsylvania. 1920 marked the opening of the Ethel Burnham Worcester Memorial
+                    Cottage, a "seashore branch" of the hospital located in Beach Haven, New
+                    Jersey. The main concern of the Babies' Hospital was its social services, which
+                    emphasized preventive medicine, good nutrition and hygiene, and the proper care
+                    of babies in the home. To house its growing facilities, the hospital built a six
+                    story Health Center Building at 7th and Delancey Streets, which was dedicated in
+                    May 1921. In 1948, the funds and resources of Babies' Hospital of Philadelphia
+                    and the Philadelphia Child Health Society were merged into the Fife Hamill
+                    Memorial Health Center for Southeast Philadelphia. The new organization was
+                    housed in the Health Center Building formerly occupied by the Babies' Hospital.
+                    When the Fife Hamill Memorial Health Center closed in 1960, the Corporation of
+                    Babies' Hospital was merged with St. Christopher's Hospital for Children.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This collection contains miscellaneous records of the Babies' Hospital of
+                    Philadelphia. Printed materials include annual reports (1911-1930); Babies'
+                    Hospital and Babies' News (1915-1921); benefit matinee programs (1915-1921); and
+                    miscellaneous printed material. Corporate records include a ledger for the
+                    Charles A. Fife Memorial Fund kept by the Women's Committee (1929-1937); and
+                    minutes of the Medical Administration Committee (1940-1948). There are also
+                    papers of H. Lea Hudson, 1932-1960; by-laws, histories, and list of officers of
+                    Babies' Hospital of Philadelphia; and correspondence and historical material
+                    related to the Fife-Hamill Memorial Health Center for Southeast Philadelphia.
+                    There are also photographs and film of the Babies' Hospital dated 1941-1942.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1991-024-02</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: College of Physicians
+                    of Philadelphia: Babies Hospital of Philadelphia (MSS 6/0006-01).</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

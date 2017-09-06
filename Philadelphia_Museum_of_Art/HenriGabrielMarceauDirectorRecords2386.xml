@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Henri Gabriel Marceau Director Records <date type="inclusive">1955-1964</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Philadelphia Museum of Art</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Henri Gabriel Marceau Director Records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">PMoSp.ACC2386</unitid>
+                <repository label="Repository">Philadelphia Museum of Art<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>56.5 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1955-1964</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Henri Gabriel Marceau, an internationally known scholar, art historian and
+                    architect, was the Director of the Museum from 1955 to 1964. In 1926, Henri
+                    Marceau was appointed assistant curator of the Johnson Collection. Two years
+                    later he was promoted to curator. He also maintained a position as an assistant
+                    professor at University of Pennsylvania’s School of Fine Arts from 1925 until
+                    1929, when he took on the additional role of Curator of Fine Arts at the
+                    Philadelphia Museum of Art. In 1933 his position at the Museum was revised to
+                    Curator of Paintings, and then to Chief, Department of Paintings and Sculpture
+                    in 1937. At this time Marceau also became Associate Director, handling much of
+                    the Director's work when Fiske Kimball was away on acquisition missions or on
+                    vacations in Europe during the summers. Marceau worked closely with Kimball at
+                    other times, and took on full directorship after Kimball's retirement. Marceau
+                    maintained his role as Curator of the Johnson Collection throughout these
+                    various appointments, and beyond them, until his death.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>Marceau's Records consist mainly of correspondence with individuals,
+                    corporations, museums and universities, as well as subjects, and they are
+                    arranged chronologically by calendar years. Museums are filed under M (for
+                    Museum) and then by name for the larger Museums and, alphabetically by
+                    individual name for the smaller ones. There are several folders on the
+                    installation of the Japanese Tea House and the Kramrisch Collection of Sculpture
+                    (1955), as well as a file of condolences for Fiske Kimball in 1955 and 1956.
+                    There is a small Object File.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <corpname encodinganalog="610">Philadelphia Museum of Art.</corpname>
+                <genreform encodinganalog="655">Correspondence.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+            <otherfindaid>
+                <p>An online finding aid is available at <extref href="http://www.philamuseum.org/pma_archives/ead.php?c=MAR&amp;p=tp">http://www.philamuseum.org/pma_archives/ead.php?c=MAR&amp;p=tp
+                    </extref>.</p>
+            </otherfindaid>
+
+            <relatedmaterial>
+                <p>Related material may be found in the following collections: Philadelphia Museum
+                    of Art Fiske Kimball Records, Henri Marceau Curatorial Records, and Johnson
+                    Collection Curatorial Records.</p>
+            </relatedmaterial>
+
+
+        </archdesc>
+    </ead>

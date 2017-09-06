@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Downingtown Industrial and Agricultural School records <date type="inclusive">1907-1985</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Temple University - Charles L. Blockson Afro-American
+                        Collection</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date></creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Downingtown Industrial and Agricultural School
+                    records</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">TU-Sp.ACC2259</unitid>
+                <repository label="Repository">Temple University - Charles L. Blockson Afro-American Collection<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>1.33 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1907-1985</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Downingtown Industrial and Agricultural School was located in East Brandywine
+                    Township, Chester County, Pennsylvania and operated from 1904 until 1993. In
+                    2002 Delaware County Community College opened its Chester County Campus on the
+                    school's former site.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>The collection consists of records of the Downington Industrial and Agricultural
+                    School. Materials include: minutes of the Corporation, 1907-1929; minutes of the
+                    Executive Committee, 1911-1921, including some financial material; a 1950
+                    insurance survey; a 1972 yearbook; scrapbooks of clippings, programs, and
+                    ephemera, 1912-1943; photos of sports teams (1931 and 1932); a 1925 photo album
+                    of student life, belonging to George B. Lomax; certificates, photos, and year
+                    book of Vivian Evans, class of 1933; school catalogs and information circulars;
+                    commencement programs (1951-1984, not complete); several issues of the
+                    Downingtown News Letter (1960s); copies of the Downingtown Bulletin from 1933
+                    and 1944; a president's report from 1907; and a grade book from 1918-1919.</p>
+            </scopecontent>
+
+            <controlaccess>
+                <subject encodinganalog="650">Vocational education--Pennsylvania.</subject>
+                <genreform encodinganalog="655">Clippings</genreform>
+                <genreform encodinganalog="655">Minutes</genreform>
+                <genreform encodinganalog="655">Photograph albums</genreform>
+                <genreform encodinganalog="655">Photographs</genreform>
+                <genreform encodinganalog="655">Scrapbooks</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            
+
+
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

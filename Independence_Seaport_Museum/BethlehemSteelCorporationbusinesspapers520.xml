@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Bethlehem Steel Corporation business papers <date type="inclusive">1910-1959</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>Independence Seaport Museum</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Bethlehem Steel Corporation business papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">ISMSp.ACC520</unitid>
+                <repository label="Repository">Independence Seaport Museum<address>
+                        <addressline/>
+                        <addressline/>
+                        <addressline/>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>2.25 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1910-1959</unitdate>
+            </did>
+
+            <bioghist>
+                <p>Bethlehem Steel Corporation was once America’s second largest steel company.
+                    Founded as a quasi-subsidiary of the Lehigh Valley Railroad, under the direction
+                    of Robert H. Sayre and John Fritz the company pioneered production of steel
+                    products and gave birth to the modern American defense industry. Reorganized in
+                    1904 by Charles M. Schwab, a protégé of Andrew Carnegie, Bethlehem Steel became
+                    a manufacturing giant possessing steel mills, coal mines, and shipyards
+                    throughout the country and even the world. From the Spanish-American War through
+                    World War II, Bethlehem Steel was the single most important source of military
+                    products for our armed forces. During the final decades of the 20th century,
+                    Bethlehem Steel became notable as one of the most dramatic casualties of free
+                    trade policies. [possibly a bit too dramatic for a bio note -- this is from a PA
+                    Legacies articles]</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of approximately 600 black and white photographs from the
+                    early 20th century. Images are of ships under construction, ships underway,
+                    parts, and launchings. Some of the photos are from Harlan and Hollingsworth and
+                    Federal Shipbuilding. Also included in the collection are printed materials from
+                    Bethlehem Steel Corporation and its shipbuilding division. These materials
+                    include: brochures, newsletters, and periodicals (1914-1976); biographical
+                    information on Charles Schwab and memorials to Schwab; Newsletters include
+                    copies of the Fore River Log (1915-1920) and the Bethlehem Booster
+                    (1918-1919).</p>
+            </scopecontent>
+
+            <controlaccess>
+                <genreform encodinganalog="655">Newsletters.</genreform>
+                <genreform encodinganalog="655">Photographs.</genreform>
+
+            </controlaccess>
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Accession number: 1993.35.22-66; 1986.10 (photos)</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>

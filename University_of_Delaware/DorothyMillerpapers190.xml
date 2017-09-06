@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><ead xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+        <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+            <eadid/>
+            <filedesc>
+
+                <titlestmt>
+                    <titleproper>Dorothy Miller papers <date type="inclusive">1963-2007</date></titleproper>
+                    <sponsor>This collection-level EAD record is a product of the Philadelphia Area
+                        Consortium of Special Collections Libraries (PACSCL) Consortial Survey
+                        Initiative, which was funded by the Andrew W. Mellon Foundation.</sponsor>
+                </titlestmt>
+
+                <publicationstmt>
+                    <publisher>University of Delaware</publisher>
+                    <date>2012</date>
+                </publicationstmt>
+            </filedesc>
+
+            <profiledesc>
+                <creation>Machine-readable finding aid generated in EAD from data in the PACSCL
+                    Consortial Survey Database on <date>12/21/2012</date>. Modified by Dot Porter in <date>2017</date>.</creation>
+                <langusage>Finding aid written in English</langusage>
+            </profiledesc>
+        </eadheader>
+
+
+        <archdesc level="collection">
+            <did>
+
+                <unittitle label="Title">Dorothy Miller papers</unittitle>
+                <unitid xmlns:ead="urn:isbn:1-931666-22-9">UoDSp.ACC190</unitid>
+                <repository label="Repository">University of Delaware<address>
+                        <addressline>Special Collections Department</addressline>
+                        <addressline>Morris Library, 181 South College Avenue</addressline>
+                        <addressline>Newark, DE 19717-5267</addressline>
+                    </address>
+                </repository>
+                <langmaterial>
+                    <language langcode="eng"/>
+                </langmaterial>
+                <physdesc>
+                    <extent>5.58 linear feet</extent>
+                </physdesc>
+                <unitdate type="inclusive">1963-2007</unitdate>
+            </did>
+
+            <bioghist>
+                <p>The contributions of Dorothy P. Miller (1931-) as an open space and conservation
+                    activist began over forty years ago with her interest in birds and a desire to
+                    preserve their natural habitats. Dorothy Miller acted as a leader in the fight
+                    to preserve the White Clay Creek from damming in the 1960s, which led to the
+                    creation of the bi-state preserve that is now White Clay Creek State Park in
+                    both Delaware and Pennsylvania. She has helped many public and private agencies
+                    see the value of land preservation in the State of Delaware, as well as in
+                    Pennsylvania and Maryland. After the initial acquisition of 500 acres of
+                    parkland in Delaware, then known as Carpenter State Park, she remained active in
+                    lobbying for the purchase of additional lands along and in the area of the White
+                    Clay Creek, which now covers over 3,800 acres. In addition to her work at White
+                    Clay Creek, Dorothy Miller, with the support of the many groups to which she
+                    belongs, has also assisted and lobbied for the creation and preservation of many
+                    other areas and parks, including Middle Run, Coverdale, and the seven acre tract
+                    of land that was designated as Dorothy P. Miller Park by the City of Newark in
+                    2006.</p>
+            </bioghist>
+
+            <scopecontent>
+                <p>This is a collection of the papers of Dorothy P. Miller documenting Miller's
+                    activities related to environmental and local development issues. Materials
+                    include: correspondence; published reports; drafts of legislation; maps and
+                    plans; newspaper clippings; and programs. Organizations and issues represented
+                    in the collection include the Coalition for Natural Stream Valleys, Inc.; the
+                    Sierra Club; White Clay Creek State Park and the proposed White Clay Creek Dam;
+                    Fox Den Road Bridge; Cool Run Drainage; I-95 bridges; and the Deerfield Country
+                    Club.</p>
+            </scopecontent>
+
+
+            <accessrestrict>
+                <p>The collection is open for research.</p>
+            </accessrestrict>
+
+            <acqinfo>
+                <p>Provenance: Gift of Dorothy Miller</p>
+                <p>Accession number: 06-57; 06-58; 06-77; 06-116; 07-74</p>
+            </acqinfo>
+
+            <otherfindaid>
+                <p>An inventory is available in the repository.</p>
+            </otherfindaid>
+
+
+
+
+
+
+
+
+        </archdesc>
+    </ead>
